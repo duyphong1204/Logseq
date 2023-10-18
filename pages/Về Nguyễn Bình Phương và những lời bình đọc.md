@@ -1,0 +1,44 @@
+- Đỉ mẹ cái bọn (đỉ là do typo, đấy sáng tạo nghệ thuật đôi khi là lời người lỡ) nói đọc văn thơ ông khó hiểu. Khó cái mả cha bọn mày, ngồi đấy mà cứ phán khó hiểu. Nghe như chẳng cố diễn giải gì. Diễn giải được đến tầm cơ bản cái người viết muốn trình bày hoặc đưa đến chưa mà đã lui bằng hai từ đó thế?
+- Rồi ai cũng nói khó đọc, song chẳng ai nói gì thêm cụ thể về cách đọc, cách người ta đọc, có sáng kiến suy nghĩ gì hay đã đọc như nào
+	- nói như thể, mỗi người làm một việc, đéo biết đúng hay sai, thấy người khác bắt đầu ngồi mò mẫm thì bảo: khó đấy, làm đi
+- Làm cái mả mẹ, biết đéo gì mà làm
+-
+- Đối lại thơ ông? cái loại thơ khó hiểu, nhưng không quá mơ hồ trong hình ảnh, từ cấp độ từ ngữ. nó chỉ khó hiểu về cấp độ cấu trúc, sắp xếp các câu các đoạn vào với nhau
+- Sống
+  collapsed:: true
+	- Ta phải sống
+	- Với những lần mẹ lỡ quên đồ giặt
+	- Nhà giặt chối
+	- Chẳng nhớ tiền đưa trước chưa
+	- Ta chỉ biết của cải lòng ta vơi một ít
+	- Của hận lòng ta sinh thêm nhiều
+	- (lúc đầu nó không nghe túc tắc thế đâu mà định để cay đắng hơn, giờ quên câu chữ cũ rồi nó thành thế. Mình có thể bổ sung thêm câu: đó là oán giận cay đắng)
+	- ... Địt mẹ đời, ta phải sống. (Vừa cay hoặc nghe hiểu như ý chí hất vùng lên, cố gắng sống một cách mới)
+	-
+- Ngoạch
+  collapsed:: true
+	- Ngoằng ngoặng ngang ngoành ngoạnh
+	- Ngoảng nghê ngang người nhười
+	- (...)
+		- viết bất cứ thứ gì mày nảy ra trong đầu, cốt chỉ để tạo người ta một cái cảm giác trong lúc đọc
+-
+- Một nghìn cách để đọc
+	- Ta có nên khác người, tự ám thị rằng mình hiểu, tin theo những điều mình hiểu thấy, xét về lí luận nó cũng không sai
+	  collapsed:: true
+		- cái khác là ta tin, ta cứ suy diễn chém và tìm cách liên kết mọi thứ, ta không chần chừ, lo ngại
+		-
+	- Xác định giai đoạn thời và phong cách người ta giống đâu, cụ thể thì cái gì ảnh hưởng người ta, đào sâu thì tốt. chứ không như hai người nói hai thứ ngôn ngữ khác nhau. Học hết về mọi loại phong trào phong cách nghệ thuật, trường phái, kiểu gì cũng trúng một, tìm hiểu cả mấy cái giao thoa, chưa hợp trường hợp nào
+	- Đọc là hướng đến người viết, ta muốn xem họ nói gì
+	- Hay là hướng đến ta, ta để nó trôi qua tai nhưng kéo theo gì đó, để lại gì đó và lấy đi gì đó
+	- Ta căn theo mục đích viết
+		- Người ta viết để kể cái gì đó
+		- Viết để nói cái gì đó như tư tưởng
+		- Viết về cái gì đó (đối tượng, khái niệm, vật thể,...)
+		- Viết để giải tỏa
+		- Viết để kí họa (nhật ký)
+		- Viết để lạ hóa cảm xúc bản thân, ta tìm cách hóa điên, tách biệt cảm xúc và cảm giác bình thường, rồi chép lại
+	- Không nó như hề vậy, ta cứ áp đời ta vào mà nghĩ suy như nhìn một tấm gương lăng kính lạ, bao khả thể sinh ra. Nhưng như vậy cảm giác thứ nghệ thuật khó hiểu đầu tiên lại là của mấy thằng ngu vẽ bậy, mấy người khôn suy diễn quá
+	- Trải nghiệm thật nhiều, nhìn một tác phẩm tự dưng não ta hình dung cách nó được hình thành, và người đó phải thật làm sao, khi đó như nào mới ra được thế này. Nghe ngầu, kiểu ồ, chắc phải đau khổ lắm mới thấy ... cách nói vậy vu vơ không bắt vào đâu từ đầu, khi nói mắt ta sáng lên như nhìn thấu qua bức tranh, nhìn thấy quá khứ, và nó làm ta trông như mang đôi mắt thần, bên trong, đằng sau đôi mắt không biết ẩn chứa cái thứ gì
+		- ta không suy từ kiến thức chung mà suy từ trải nghiệm riêng, cực riêng và hóa thành cực chung của nhân loại: những hướng nhân loại hóa điên
+	- Ta hình dung thành tranh, liên kết chúng theo một mạch - vừa sinh động vừa kèm nhiều cảm xúc
+	- Ta kiếm tìm cái gì đó ở tác phẩm hoặc ta kiếm gì đó như nghĩ suy nảy sinh, hoặc ta cảm gì đó ở bản thân ta

@@ -1,0 +1,118 @@
+file-path:: ../assets/Giáo-trình-Cơ-sở-ngôn-ngữ-học-và-tiếng-Việt_-Phần-1_1015229_(1)_1675200313116_0.pdf
+file:: [Giáo-trình-Cơ-sở-ngôn-ngữ-học-và-tiếng-Việt_-Phần-1_1015229_(1)_1675200313116_0.pdf](../assets/Giáo-trình-Cơ-sở-ngôn-ngữ-học-và-tiếng-Việt_-Phần-1_1015229_(1)_1675200313116_0.pdf)
+title:: hls__Giáo-trình-Cơ-sở-ngôn-ngữ-học-và-tiếng-Việt_-Phần-1_1015229_(1)_1675200313116_0
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 69
+  id:: 63d9a09c-6189-4655-8e15-aa935a7cdd2a
+  hl-type:: area
+  hl-stamp:: 1675206810842
+- [:span]
+  ls-type:: annotation
+  hl-page:: 74
+  id:: 63dacbd3-149e-4ca0-96ae-b493b7b79070
+  hl-type:: area
+  hl-stamp:: 1675283410757
+- [:span]
+  ls-type:: annotation
+  hl-page:: 75
+  id:: 63dacd3a-8e56-4347-964b-0508d483311f
+  hl-type:: area
+  hl-stamp:: 1675283769006
+- [:span]
+  ls-type:: annotation
+  hl-page:: 76
+  id:: 63dadd91-1e4e-4a48-9466-893aa82c0e1c
+  hl-type:: area
+  hl-stamp:: 1675287952722
+- [:span]
+  ls-type:: annotation
+  hl-page:: 76
+  id:: 63dade11-268a-4435-910c-9a9501d64845
+  hl-type:: area
+  hl-stamp:: 1675288079824
+- [:span]
+  ls-type:: annotation
+  hl-page:: 77
+  id:: 63dadf6e-ea15-497a-b625-fc6f8c3056ab
+  hl-type:: area
+  hl-stamp:: 1675288429689
+- [:span]
+  ls-type:: annotation
+  hl-page:: 80
+  id:: 63db31e6-45d4-4c6d-aa9c-61f4fca5a05d
+  hl-type:: area
+  hl-stamp:: 1675309540968
+- [:span]
+  ls-type:: annotation
+  hl-page:: 82
+  id:: 63dc6dfb-5a98-465a-a7d5-780d64a3620f
+  hl-type:: area
+  hl-stamp:: 1675390457447
+- [:span]
+  ls-type:: annotation
+  hl-page:: 90
+  id:: 63dc8211-7ce2-43e9-b8ca-b9ae5a834417
+  hl-type:: area
+  hl-stamp:: 1675395600688
+- [:span]
+  ls-type:: annotation
+  hl-page:: 90
+  id:: 63dc8225-ad75-4b99-97d7-062e87daa8d0
+  hl-type:: area
+  hl-stamp:: 1675395620874
+- [:span]
+  ls-type:: annotation
+  hl-page:: 90
+  id:: 63dc8236-b9d3-4d94-ae96-4a7cfc1f5113
+  hl-type:: area
+  hl-stamp:: 1675395637170
+- [:span]
+  ls-type:: annotation
+  hl-page:: 93
+  id:: 63e28337-4cb7-4052-af66-91c35fea915d
+  hl-type:: area
+  hl-stamp:: 1675789110651
+- [:span]
+  ls-type:: annotation
+  hl-page:: 93
+  id:: 63e285d3-f2da-4f79-8c4c-6fde18f50076
+  hl-type:: area
+  hl-stamp:: 1675789777520
+- [:span]
+  ls-type:: annotation
+  hl-page:: 94
+  id:: 63e285e0-5edd-4b74-871d-8767efcde88d
+  hl-type:: area
+  hl-stamp:: 1675789791944
+- [:span]
+  ls-type:: annotation
+  hl-page:: 96
+  id:: 63e29293-7218-44bc-a776-e296bb253cf0
+  hl-type:: area
+  hl-stamp:: 1675793042169
+- [:span]
+  ls-type:: annotation
+  hl-page:: 97
+  id:: 63e2b935-a75a-4918-80a1-353f71c1ce91
+  hl-type:: area
+  hl-stamp:: 1675802931875
+- [:span]
+  ls-type:: annotation
+  hl-page:: 98
+  id:: 63e2bb85-a98b-44e3-a156-ac6894a4b981
+  hl-type:: area
+  hl-stamp:: 1675803524228
+- [:span]
+  ls-type:: annotation
+  hl-page:: 101
+  id:: 63e41744-05c7-4612-8372-364ccc3302d5
+  hl-type:: area
+  hl-stamp:: 1675892547623
+- [:span]
+  ls-type:: annotation
+  hl-page:: 102
+  id:: 63e41763-f4c4-476e-8ebe-37398b20bf54
+  hl-type:: area
+  hl-stamp:: 1675892578623

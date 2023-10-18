@@ -1,0 +1,4 @@
+- ![TUẦN 13.3.pdf](../assets/TUẦN_13.3_1670675870400_0.pdf)
+- Lập luận
+	- Lập luận đời thường
+		- Topos

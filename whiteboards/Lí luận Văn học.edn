@@ -1,0 +1,707 @@
+{:blocks (
+{:block/created-at 1696852415334
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "box"
+:size [1272 1776]
+:strokeType "line"
+:strokeWidth 6
+:opacity 1
+:label ""
+:id "958dca50-5d92-11ee-8f9c-1d866687d2cc"
+:fontWeight 400
+:noFill true
+:point [16 256]
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859465861
+:italic false}}
+:block/updated-at 1696852415334} 
+{:block/created-at 1696852415335
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 2
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "text"
+:size [418 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ae5c5880-5d92-11ee-8f9c-1d866687d2cc"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [2608 352]
+:lineHeight 1.2
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859507779
+:italic false
+:text "Người nghệ sĩ"}}
+:block/updated-at 1696852415335} 
+{:block/created-at 1696852415334
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 3
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "box"
+:size [1272 1776]
+:strokeType "line"
+:strokeWidth 6
+:opacity 1
+:label ""
+:id "e0c1a6e0-5d92-11ee-8f9c-1d866687d2cc"
+:fontWeight 400
+:noFill true
+:point [1288 -2256]
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859592834
+:italic false}}
+:block/updated-at 1696852415334} 
+{:block/created-at 1696852415334
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 4
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "text"
+:size [296 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "430bda50-5d93-11ee-8f9c-1d866687d2cc"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [1336 -2208]
+:lineHeight 1.2
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859756585
+:italic false
+:text "Tác phẩm"}}
+:block/updated-at 1696852415334} 
+{:block/created-at 1696852415334
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0.001074118861588147
+:borderRadius 2
+:index 5
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "box"
+:size [1263.4942325564075 1757.5620820662834]
+:strokeType "line"
+:strokeWidth 6
+:opacity 1
+:label ""
+:id "5822dec0-5d93-11ee-8f9c-1d866687d2cc"
+:fontWeight 400
+:noFill true
+:point [2552 296]
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859793401
+:italic false}}
+:block/updated-at 1696852415334} 
+{:block/created-at 1696852415330
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0.001074118861588147
+:borderRadius 0
+:index 6
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "text"
+:size [230 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6d274590-5d93-11ee-8f9c-1d866687d2cc"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [72.88539912396232 311.3946724158151]
+:lineHeight 1.2
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859828229
+:italic false
+:text "Độc giả"}}
+:block/updated-at 1696852415330} 
+{:block/created-at 1696852415335
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:index 7
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "ellipse"
+:size [7168 6504]
+:strokeType "line"
+:strokeWidth 6
+:opacity 1
+:label ""
+:id "c437f000-5d93-11ee-8f9c-1d866687d2cc"
+:fontWeight 400
+:noFill true
+:point [-1752 -3128]
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859974472
+:italic false}}
+:block/updated-at 1696852415335} 
+{:block/created-at 1696852415334
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked false
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 8
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "text"
+:size [1728 656]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f4e52e20-5d93-11ee-8f9c-1d866687d2cc"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1072 3680]
+:lineHeight 1.2
+:fontSize 48
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695860056089
+:italic false
+:text "Cả một quá trình những thao tác văn học (sáng tác, lí luận,...) có lẽ không phải một quá trình linear đi từ nhà văn nữa dù nó là quá trình cơ bản, ta có lẽ nếu xét cả những thao tác xã hội như xuất bản, thâyd được rằng người đọc có tác động lại tác phẩm như phản ứng giữa các chất - các chất tác động lẫn nhau, tác giả cũng tác động thẳng độc giả và độc giả cũng có thể ngược lại (xét thể mới chuẩn với sự đồng sáng tạo, nó có khi quan trọng ngang việc được truyền tải gì đó từ tác phẩm"}}
+:block/updated-at 1696852415334} 
+{:block/created-at 1696852415334
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "453f4d72-6699-11ee-9a51-4b64c2d60f29"
+:fontWeight 400
+:noFill true
+:point [537.84 -1383.06]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [746.16 0]
+:bindingId "70e24311-6699-11ee-9a51-4b64c2d60f29"}
+:end 
+{:id "end"
+:canBind true
+:point [0 1635.06]
+:bindingId "453f4d71-6699-11ee-9a51-4b64c2d60f29"}}
+:decorations 
+{:start "arrow"
+:end "arrow"}
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696851899980
+:italic false}}
+:block/updated-at 1696852415334} 
+{:block/created-at 1696852415334
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "55577b10-6699-11ee-9a51-4b64c2d60f29"
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [1292 1070.15]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 2.49]
+:bindingId "5d0f0941-6699-11ee-9a51-4b64c2d60f29"}
+:end 
+{:id "end"
+:canBind true
+:point [1256.11 0]
+:bindingId "641807f1-6699-11ee-9a51-4b64c2d60f29"}}
+:decorations 
+{:start "arrow"
+:end "arrow"}
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696851901268
+:italic false}}
+:block/updated-at 1696852415334} 
+{:block/created-at 1696852415335
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "74f8dcc0-6699-11ee-9a51-4b64c2d60f29"
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [2564 -1421.52]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "766b5881-6699-11ee-9a51-4b64c2d60f29"}
+:end 
+{:id "end"
+:canBind true
+:point [674.98 1713.58]
+:bindingId "776ee5d1-6699-11ee-9a51-4b64c2d60f29"}}
+:decorations 
+{:start "arrow"
+:end "arrow"}
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696851899743
+:italic false}}
+:block/updated-at 1696852415335} 
+{:block/created-at 1696854309198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 12
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "text"
+:size [1111 442]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a690f010-6699-11ee-9a51-4b64c2d60f29"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1304 4304]
+:lineHeight 1.2
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696852061162
+:italic true
+:text "Tác giả      -> Tác phẩm: sáng tạo\nTác phẩm  -> Người đọc: tiếp nhận\nNgười đọc -> Tác giả: phản hồi\nTác giả      -> Người đọc: nhồi sọ\nNgười đọc -> Tác phẩm: đồng sáng tạo\nTác phẩm  -> Tác giả: văn, thơ \"làm\""}}
+:block/updated-at 1696854309198} 
+{:block/created-at 1696852415335
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 13
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "box"
+:size [1032 1424]
+:strokeType "line"
+:strokeWidth 6
+:opacity 1
+:label ""
+:id "1e5ecc70-669a-11ee-9a51-4b64c2d60f29"
+:fontWeight 400
+:noFill true
+:point [1416 -2024]
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696852261937
+:italic false}}
+:block/updated-at 1696852415335} 
+{:block/created-at 1696852743584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 14
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "text"
+:size [300 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "26df01d0-669a-11ee-9a51-4b64c2d60f29"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [1784 -2288]
+:lineHeight 1.2
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696852276648
+:italic false
+:text "Hình thức"}}
+:block/updated-at 1696852743584} 
+{:block/created-at 1696852730499
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 16
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "text"
+:size [273 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3bdfe630-669a-11ee-9a51-4b64c2d60f29"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [1808 -1824]
+:lineHeight 1.2
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696852311628
+:italic false
+:text "Nội dung"}}
+:block/updated-at 1696852730499} 
+{:block/created-at 1696852415335
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 15
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "box"
+:size [792 1136]
+:strokeType "line"
+:strokeWidth 6
+:opacity 1
+:label ""
+:id "46d8e3c0-669a-11ee-9a51-4b64c2d60f29"
+:fontWeight 400
+:noFill true
+:point [1536 -1904]
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696852329525
+:italic false}}
+:block/updated-at 1696852415335} 
+{:block/created-at 1696852738111
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 17
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "text"
+:size [240 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "67b22930-669a-11ee-9a51-4b64c2d60f29"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1816 -2104]
+:lineHeight 1.2
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696852384842
+:italic false
+:text "Ngôn từ"}}
+:block/updated-at 1696852738111} 
+{:block/created-at 1696852415334
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "box"
+:size [552 880]
+:strokeType "line"
+:strokeWidth 6
+:opacity 1
+:label ""
+:id "7032d3c0-669a-11ee-9a51-4b64c2d60f29"
+:fontWeight 400
+:noFill true
+:point [1656 -1784]
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696852398946
+:italic false}}
+:block/updated-at 1696852415334} 
+{:block/created-at 1696852434508
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 18
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "box"
+:size [384 712]
+:strokeType "line"
+:strokeWidth 6
+:opacity 1
+:label ""
+:id "7eb76910-669a-11ee-9a51-4b64c2d60f29"
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [1744 -1688]
+:fontSize 60
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696852399254
+:italic false}}
+:block/updated-at 1696852434508} 
+{:block/created-at 1696852450862
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 19
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [130 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "86602a30-669a-11ee-9a51-4b64c2d60f29"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1872 -1728]
+:lineHeight 1.2
+:fontSize 32
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696852436135
+:italic false
+:text "Ý tưởng"}}
+:block/updated-at 1696852450862} 
+{:block/created-at 1696852762540
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 20
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [330 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9046cd60-669a-11ee-9a51-4b64c2d60f29"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [1776 -1384]
+:lineHeight 1.2
+:fontSize 32
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696852452756
+:italic true
+:text "Tư tưởng - Tình cảm"}}
+:block/updated-at 1696852762540} 
+{:block/created-at 1696852735116
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 21
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "text"
+:size [205 68]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9b738520-669a-11ee-9a51-4b64c2d60f29"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1840 -1968]
+:lineHeight 1.2
+:fontSize 48
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1696852471577
+:italic false
+:text "Cấu trúc"}}
+:block/updated-at 1696852735116})
+:pages (
+{:block/uuid #uuid "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:name "lí luận văn học"
+:bindings 
+{:453f4d71-6699-11ee-9a51-4b64c2d60f29 
+{:id "453f4d71-6699-11ee-9a51-4b64c2d60f29"
+:type "line"
+:fromId "453f4d72-6699-11ee-9a51-4b64c2d60f29"
+:toId "958dca50-5d92-11ee-8f9c-1d866687d2cc"
+:handleId "end"
+:point [0.22 0.3]
+:distance 4}
+:5d0f0941-6699-11ee-9a51-4b64c2d60f29 
+{:id "5d0f0941-6699-11ee-9a51-4b64c2d60f29"
+:type "line"
+:fromId "55577b10-6699-11ee-9a51-4b64c2d60f29"
+:toId "958dca50-5d92-11ee-8f9c-1d866687d2cc"
+:handleId "start"
+:point [1 0.46]
+:distance 4}
+:641807f1-6699-11ee-9a51-4b64c2d60f29 
+{:id "641807f1-6699-11ee-9a51-4b64c2d60f29"
+:type "line"
+:fromId "55577b10-6699-11ee-9a51-4b64c2d60f29"
+:toId "5822dec0-5d93-11ee-8f9c-1d866687d2cc"
+:handleId "end"
+:point [0.51 0.44]
+:distance 4}
+:70e24311-6699-11ee-9a51-4b64c2d60f29 
+{:id "70e24311-6699-11ee-9a51-4b64c2d60f29"
+:type "line"
+:fromId "453f4d72-6699-11ee-9a51-4b64c2d60f29"
+:toId "e0c1a6e0-5d92-11ee-8f9c-1d866687d2cc"
+:handleId "start"
+:point [0.16 0.24]
+:distance 4}
+:766b5881-6699-11ee-9a51-4b64c2d60f29 
+{:id "766b5881-6699-11ee-9a51-4b64c2d60f29"
+:type "line"
+:fromId "74f8dcc0-6699-11ee-9a51-4b64c2d60f29"
+:toId "e0c1a6e0-5d92-11ee-8f9c-1d866687d2cc"
+:handleId "start"
+:point [1 0.47]
+:distance 4}
+:776ee5d1-6699-11ee-9a51-4b64c2d60f29 
+{:id "776ee5d1-6699-11ee-9a51-4b64c2d60f29"
+:type "line"
+:fromId "74f8dcc0-6699-11ee-9a51-4b64c2d60f29"
+:toId "5822dec0-5d93-11ee-8f9c-1d866687d2cc"
+:handleId "end"
+:point [0.68 0.25]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("7032d3c0-669a-11ee-9a51-4b64c2d60f29" "958dca50-5d92-11ee-8f9c-1d866687d2cc" "ae5c5880-5d92-11ee-8f9c-1d866687d2cc" "e0c1a6e0-5d92-11ee-8f9c-1d866687d2cc" "430bda50-5d93-11ee-8f9c-1d866687d2cc" "5822dec0-5d93-11ee-8f9c-1d866687d2cc" "6d274590-5d93-11ee-8f9c-1d866687d2cc" "c437f000-5d93-11ee-8f9c-1d866687d2cc" "f4e52e20-5d93-11ee-8f9c-1d866687d2cc" "453f4d72-6699-11ee-9a51-4b64c2d60f29" "55577b10-6699-11ee-9a51-4b64c2d60f29" "74f8dcc0-6699-11ee-9a51-4b64c2d60f29" "a690f010-6699-11ee-9a51-4b64c2d60f29" "1e5ecc70-669a-11ee-9a51-4b64c2d60f29" "26df01d0-669a-11ee-9a51-4b64c2d60f29" "46d8e3c0-669a-11ee-9a51-4b64c2d60f29" "3bdfe630-669a-11ee-9a51-4b64c2d60f29" "67b22930-669a-11ee-9a51-4b64c2d60f29" "7eb76910-669a-11ee-9a51-4b64c2d60f29" "86602a30-669a-11ee-9a51-4b64c2d60f29" "9046cd60-669a-11ee-9a51-4b64c2d60f29" "9b738520-669a-11ee-9a51-4b64c2d60f29")}}
+:block/updated-at 1696854309197
+:block/created-at 1695859345537
+:block/type "whiteboard"
+:block/name "lí luận văn học"
+:block/original-name "Lí luận Văn học"})}

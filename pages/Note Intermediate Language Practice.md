@@ -1,0 +1,41 @@
+- Cũng nên tìm hết các version của sách để xem người ta sửa gì
+	- Và sao giáo viên không cần đưa học sinh bản mới nhất?
+- Bài 1 Phần 1
+	- Đọc câu hỏi trước hay đáp án để chọn trước
+		- Rồi ghi nhớ đáp án trong đầu vì nó dễ nhớ, nó ngắn hơn (nếu cần thì gạch key word rồi lùng một thể)
+		- Rồi tiếp đến lùng như nào tiếp?
+		- Cứ lặp đi lặp lại thế, nhưng ưu tiên mấy từ đầu của cái tiếp hoặc mấy từ thấy dễ
+	- Hay đọc từng câu hỏi rồi tìm dưới phần đáp án để lắp vào (hoặc từng đáp án)
+		- Thế mấy câu đầu nếu mắc thì sẽ hơi tốn thời gian
+			- Đặc biệt là khi không nảy ra sẵn đáp án trong đầu
+			- Dẫn đến phải xuống tìm
+			- Không chắc chắn lại chuyển
+			-
+- Note 2: cái nào abstract quá mà lười thống nhất với toàn bộ từ còn lại (nên làm từ điển định nghĩa riêng nhỉ dù nó vary từng context) thì làm video giải thích (giá trị của video màu hay quay nè nhưng mày cần formal hơn) và mấy video cũ thì cứ link nó vào coi như "một thứ hơi nguồn gốc" - vì nó không phải origin tạo nên ý tưởng hay cảm xúc đó, được chiết xuất thành kiến thức
+	- vậy cần xem định nghĩa rồi tùy trường hợp (và khả năng biến hoá của người cũng giới hạn thôi không quá đâu - nếu thống kê, lý thuyết, quy luật được thì tốt.
+- Định nghĩa (vội thì dịch tạm nghĩa Tiếng Việt - theo từ điển hoặc tự dịch. Bản châtd ngôn ngữ cũng mang định nghĩa vì nó để giao tiếp mà)
+	- Verb tense
+		- Động từ chỉ thời
+	- Auxiliary verb
+		- Trợ động từ
+	- Modal auxiliary
+		- Động từ khuyết thiếu
+		- Động từ khiếm khuyết (Modal Auxiliaries) **là động từ nhưng lại không chỉ về hành động, mà dùng để bổ trợ cho các động từ chính trong câu**
+	- Conditional sentence
+	- Passive voice
+	- Pronouns
+		- Đại từ
+	- Determiners
+		- Từ hạn định
+	- Articles
+		- Mạo từ đứng trước danh từ để xác định danh từ
+	- Relative clause
+	- Adverbs
+	- Adjective
+	- Question
+	- Prepositions
+		- Giới từ (Prepositions) là những từ chỉ thời gian, vị trí… chỉ sự liên quan giữa các từ khác trong cụm, trong câu văn
+- Làm vội nên tiện tay cắn bút lên giữ cho nhanh
+	- Chở nhận ra lâu rồi tôi không làm thế
+	- Bọn nó từng bảo bỏ, tôi đã bỏ được, và không nhớ tôi phải cố ghê lắm
+	- Hoặc chắc dùng máy tính nhiều nó tự hết.

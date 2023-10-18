@@ -1,0 +1,19 @@
+- Ổ cứng {{cloze vì đằng nào cũng tìm hiểu để mua luôn}}
+	- [[HDD]]
+		- [[Hãng ổ cứng]]
+			- [[10TB]]
+				- [[Toshiba]]
+				- [[Seagate]]
+				- [[Western]]
+					- [[Western_WD101EFBX]]
+					- [[Western_WD100PURZ]]
+					- [[Western_WD60EFRX]]
+					- [[Western_WD100EFAX]]
+	- [[SSD]]
+		- [[Hãng ổ cứng]]
+			- [[Toshiba]]
+			- [[Seagate]]
+			- [[Western]]
+		-
+	- So sánh
+-

@@ -1,0 +1,9 @@
+- Lắp cái xe đẩy cho mẹ
+	- trước giờ mẹ hay mua rồi đổi, chế rồi đổi,... mỗi lần mua về đều vui nhưng không trung thành với một thứ thì sao giàu được
+		- dù nâng cấp cũng có cái hay, vì đâu phải lúc nào cũng được mua thứ mình muôn
+		- tuy nhiên điều đó không áp dụng cái xe đẩy hàng
+	- ốc có hai đầu khác nhau và có rãnh để ăn vào lỗ đẹp hơn, một đầu dễ vào hơn, có con lỗi nên tôi tưởng hai đầu như nhau
+		- bài học kinh nghiệm là trước khi lắp cần nhìn tổng quát và hình dung cái nào vào cái nào như nào và nếu có sự khác biệt như cái tay xoay thì dùng ra sao
+			- chẳng hạn như khi nào dùng đầu ngắn, đầu dài
+			- có khi xem hướng dẫn sẽ dễ hơn chứ ngồi tưởng tượng lại như mấy ông kĩ thuật cố tìm cách ứng dụng :))) xong ra mấy cái cách sử dụng đến kì.
+			- hôm qua lắp diskstation cũng suýt quên một mảnh gá dù nó không quá quan trọng

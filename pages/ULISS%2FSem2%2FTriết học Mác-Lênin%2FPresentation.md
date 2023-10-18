@@ -1,0 +1,86 @@
+title:: ULISS/Sem2/Triết học Mác-Lênin/Presentation
+
+- ***Học thuyết hình thái kinh tế - xã hội là một nội dung cơ bản của chủ nghĩa duy vật lịch sử***
+- ---
+- Hình thái kinh tế xã hội là gì?
+	- # [Luật Minh Khuê](https://luatminhkhue.vn/hinh-thai-kinh-te-xa-hoi-la-gi-quy-dinh-ve-htktxh.aspx#1-hinh-thai-kinh-te-xa-hoi-la-gi-)
+	  collapsed:: true
+		- ![image.png](../assets/image_1684934756193_0.png)
+		- ## 1. Hình thái kinh tế xã hội là gì ?
+			- Hình thái kinh tế - xã hội là một phạm trù của chủ nghĩa duy vật lịch sử (hay còn gọi là chủ nghĩa duy vật biện chứng về xã hội) dùng để chỉ xã hội
+				- ở từng giai đoạn lịch sử nhất định
+				- với một kiểu quan hệ sản xuất đặc trưng cho xã hội đó
+				- phù hợp với một trình độ nhất định của lực lượng sản xuất
+				- và với một kiến trúc thượng tầng tương ứng được xây dựng trên những quan hệ sản xuất đó
+				- #+BEGIN_NOTE
+				  mấy cái ý trên hỏi các bạn xác định thời này thời kia là kiểu nào cũng hay (trước và sau khi học)
+				  #+END_NOTE
+			- Nó chính là các xã hội cụ thể được tạo thành từ sự thống nhất biện chứng giữa các mặt trong đời sống xã hội và tồn tại trong từng giai đoạn lịch sử nhất định.
+		- Cấu trúc cơ bản của hình thái kinh tế xã hội bao gồm:
+			- ***Lực lượng sản xuất:*** là nền tảng vật chất-kỹ thuật của mỗi hình thái kinh tế - xã hội. Hình thái kinh tế - xã hội khác nhau có lực lượng sản xuất khác nhau. Sự phát triển của lực lượng sản xuất quyết định sự hình thành, phát triển và thay thế lẫn nhau của các hình thái kinh tế-xã hội.
+			- ***Quan hệ sản xuất: ***Tạo thành cơ sở hạ tầng của xã hội và quyết định tất cả mọi quan hệ xã hội khác. Mỗi hình thái kinh tế - xã hội có một kiểu quan hệ sản xuất đặc trưng cho nó. Quan hệ sản xuất là tiêu chuẩn khách quan để phân biệt các chế độ xã hội.
+		- Phân biệt hình thái kinh tế xã hội với mô hình nhà nước
+			- công xã nguyên thủy là mô hình nhà nước
+		-
+	- Giáo trình Triết học Mác - Lênin (dùng cho hệ đào tạo cao cấp lý luận chính trị)
+	- Giáo trình Mác - Lênin không chuyên
+	  collapsed:: true
+		- Trên lập trường duy vật lịch sử, các nhà kinh điển mácxít khẳngđịnh, nhữ ng quan hệ vật chất của xã hội là quan hệ cơ bản quyết định các quan hệ xã hội khác và chỉ ra cấu trúc hiện thực của một xã hội cụ thể thông qua phạm trù hình thái kinh tế - xã hội. Hình thái kinh tế - xã hội là một phạm trù cơ bản của chủ nghĩa duy vật lịch sử dùng để chỉ xã hội ở từ ng nấc thang lịch sử nhất định với một kiểu quan hệ sản xuất đặc trưng cho xã hội đó, phù hợp với một trình độ nhất định của lực lượng sản xuất và một kiến trúc thượng tầng tương ứngđược xây dựng trên nhữ ng quan hệ sản xuất ấy. Phạm trù hình thái kinh tế - xã hội chỉ ra kết cấu xã hội trong mỗi giai đoạn lịch sử nhất định bao gồm ba yếu tố cơ bản, phổ biến: Lực lượng sản xuất: quan hệ sản xuất (cơ sở hạ tầng); kiến trúc thượng tầng. Lự c lượ ng sả n xuất là nền tảng vật chất của xã hội, tiêu chuẩn khách quanđể phân biệt các thời đại kinh tế khác nhau, yếu tố xét đến cùng quyếtđịnh sự vận động, phát triển của hình thái kinh tế - xã hội. Quan hệ sả n xuất là quan hệ khách quan, cơ bản, chi phối và quyết định mọi quan hệ xã hội, đồng thời là tiêu chuẩn quan trọng nhất để phân biệt bản chất các chế độ xã hội khác nhau. Kiến trúc thượ ng tầng là sự thể hiện các mối quan hệ giữ a ngườ i với người trong lĩnh vực tinh thần, tiêu biểu cho bộ mặt tinh thần của đời sống xã hội.
+- Phân tích quá trình lịch sử - tự nhiên của sự phát triển các hình thái kinh tế - xã hội?
+- Tìm hiểu thảo luận về VN bỏ qua HTKT-XH TBCN có phù hợp không, vì sao?
+	- HTKT-XH TBCN là gì
+	- Vì sao Việt Nam bỏ, Bỏ thì làm gì? Bỏ có sao không
+		- Phù hợp với ai? Việt Nam?
+-
+- Bố cục:
+	- Dẫn dắt
+		- Ở những tuần trước, các bạn đã được tìm hiểu về lực lượng sản xuất,
+		- Bài hôm nay chúng ta sẽ được thấy tất cả những khái niệm đó liên kết lại với nhau
+		- Nhân bài lần trước các bạn đã học về kiến trúc thượng tầng (dẫn dắt theo cái web luật)
+			- Dựa trên cách thức **tổ chức và thực hiện quyền lực nhà nước** có thể phân chia thành các kiểu nhà nước: **nhà nước độc tài, chuyên chế, nhà nước dân chủ.** Các nhà nước độc tài, chuyên chế có đặc trưng là nhà nước được điều khiển bởi một nhóm thiểu số trong xã hội, thậm chí là một cá nhân, quyền lực nhà nước không bị hạn chế hay ràng buộc bởi bất cứ thể chế, thiết chế nào; quan hệ giữa nhà nước với người dân là quan hệ mệnh lệnh, phục tùng một chiều một cách tuyệt đối, nhà nước sử dụng biện pháp bạo lực để thực hiện quyền lực nhà nước. Ngược lại, trong nhà nước dân chủ, quyền lực tối cao trong xã hội thuộc về nhân dân, nhân dân tổ chức nên nhà nước và kiểm soát hoạt động của nhà nước.
+			- Chủ nghĩa Mác - Lênin tiếp cận kiểu nhà nước theo tiến trình lịch sử của **sự phát triển xã hội.** Khi nghiên cứu quy luật vận động phát triển của đời sống xã hội, c. Mác đã bắt đầu từ quan hệ sản xuất, *‘‘coi đó là những quan hệ cơ bản, ban đầu và quyết định tẩt cả mọi quan hệ khác”. *
+		- Một quan niệm khác tương đối phổ biến trong sử học, luật học, chính trị học đó là p**hân chia nhà nước thành kiểu nhà nước phương Đông và kiểu nhà nước phương Tây**. Đây là **quan niệm của người Hy Lạp và Roma cổ đại**, về sau được dùng phổ biến trên thế giới, quan niệm này đơn giản chỉ **dựa vào yếu tố địa lí**. Ngày nay, phân biệt nhà nước phương Đông và nhà nước phương Tây **không chỉ đơn thuần dựa trên yếu tố địa lí** mà còn dựa vào nhiều tiêu chí khác **(nhân chủng, ngữ hệ, văn hoá, kinh tế, chính trị...)**.
+	- Vị trí, ý nghĩa (đảo xuống sau định nghĩa vậy vì mình thêm câu này vào, cảm giác nó sẽ bị lặp nếu ta nhắc câu ăngghen trước: " ((64779a7e-ac3c-4aa0-9377-c6d93dbb9306)) ") hoặc thôi cứ để trước rồi dẫn dắt kiểu diễn dịch phân tích cũng được - nói chúng ta sẽ cùng tìm hiểu. Nhưng đã đi theo mạch cái web luật thì nó sẽ dẫn vào định nghĩa luôn, lúc đầu mình không định theo người ta hoàn toàn vì khó dẫn dắt như thế - nó dẫn từ xa quá lạc đề bài, giờ may là có cụm từ kiến trúc thượng tầng và cụm đó được diễn giải ở bài thuyết trình trước
+		- Ý nghĩa cái hình thái xã hội này là gì, học nó để làm gì
+			- là cơ sở lý luận, cơ sở khoa học
+			- như một tấm bản đồ
+			- Kế thừa thành tựu của những nhà tư tưởng trước đó khi nghiên cứu về lịch sử xã hội loài người, Các Mác đã xây dựng nên học thuyết hình thái kinh tế xã hội
+			- theo Ph.Ăngghen thì việc này giống như Darwin đã tìm ra quy luật phát triển của thế giới hữu cơ, Mác đã tìm ra quy luật phát triển của lịch sử loài người
+	- Định nghĩa
+		- Lênin đã đưa ra
+			- "Hình thái kinh tế - xã hội là một phạm trù của **chủ nghĩa duy vật lịch sử**, dùng để chỉ một xã hội tồn tại trong một giai đoạn lịch sử nhất định, với một kiểu quan hệ sản xuất đặc trưng của xã hội đó, phù hợp với một trình độ phát triển nhất định của lực lượng sản xuất, và một kiến trúc thượng tầng được xây dựng trên những quan hệ sản xuất đó"
+				- có nhiều chủ nghĩa khác
+					- theo các Mác, sản xuất vật chất là cơ sở của sự tồn tại phát triển của xã hội loài người; có người thì không đồng tình về 5 hình thái và có người cũng đề cập đến sự phát triển của xã hội loài người nhưng có cách tiếp cận, phân chia khác
+					  id:: 64779a7e-ac3c-4aa0-9377-c6d93dbb9306
+				- ông cho rằng có 5 hình thái kinh tế - xã hội (mà các bạn sẽ được tìm hiểu sau) là:
+					- Hình thái kinh tế-xã hội cộng sản nguyên thủy (công xã nguyên thủy)
+					- Hình thái kinh tế-xã hội chiếm hữu nô lệ (giai cấp chủ nô mang sứ mệnh lịch sử chuyển từ hình thái kinh tế - xã hội cộng sản nguyên thuỷ lên hình thái kinh tế - xã hội chiếm hữu nô lệ) gồm chủ nô và nông nô
+					- Hình thái kinh tế-xã hội phong kiến (giai cấp phong kiến) gồm địa chủ và nông dân
+					- Hình thái kinh tế-xã hội tư bản chủ nghĩa (giai cấp tư sản) gồm tri thức, tiểu tư sản
+					- Hình thái kinh tế cộng sản chủ nghĩa (giai cấp công nhân)
+						- - "Giai đoạn thấp của xã hội cộng sản" hay "giai đoạn đầu của xã hội cộng sản".  Sau này gọi là "chủ nghĩa xã hội"
+	- Giải thích và liên hệ
+		- ***Nguyên nhân sâu xa** của sự thay thế kiểu nhà nước là **mâu thuẫn giữa quan hệ sản xuất và lực lượng sản xuất trong một phương thức sản xuất xã hội**. Khi mâu thuẫn này được giải quyết thì phương thức sản xuất mới được thiết lập, cùng với nó có một kiểu kiến trúc thượng tầng mới và tương ứng là một kiểu nhà nước mới. Kiểu nhà nước sau luôn tiến bộ hơn kiểu nhà nước trước vì nó được xây dựng trên cơ sở quan hệ sản xuất phù hợp hơn với trình độ của lực lượng sản xuất đã phát triển ở trình độ cao hơn, cơ sở xã hội của nhà nước rộng rãi hơn; xung đột giai cấp trong xã hội đó thường đỡ gay gắt hơn. Lịch sử cho thấy, có nhiều con đường đưa đến sự thay thế các kiểu nhà nước, có thể thông qua cách mạng xã hội dưới hình thức khởi nghĩa vũ trang, cũng có thể thông qua các cuộc cải cách xã hội một cách toàn diện và triệt để, trong đó kiểu quan hệ sản xuất cũ dần dần bị thay thể bởi kiểu quan hệ sản xuất mới tiến bộ hơn. ở đây quy luật về sự phù hợp giữa quan hệ sản xuất với lực lượng sản xuất giữ vai trò quyết định.*
+		- Lý do điều kiện phát triển của hình thái kinh tế? (hình như phần này của các bạn)
+			- Động lực thúc đẩy là sự xuất hiện của phương thức sản xuất mới
+		- Quan hệ sản xuất
+		- Lực lượng sản xuất
+		- Kiến trúc thượng tầng
+		- Các yếu tố này liên quan gì tới nhau?
+			- {{cloze cảm giác đọc và biết rồi nhưng đầu óc tự dưng trống rỗng như bởi bây giờ 4 giờ rồi, mình ngồi ì trước máy tính quá lâu. nhưng thế mới biết rút kinh nghiệm, dù cấu trúc mình có phức tạp và lắt léo ra sao, vẫn sẽ có những câu hỏi chính cần trả lời, bất kể dẫn dắt có vòng hay nhảy xoắn như nào. mình chỉ cần tìm ra nó}}
+	- Chuyển tiếp tới phần sau là quá trình lịch sử
+- #+BEGIN_NOTE
+  Thấy sự tìm hiểu của mình thật phung phí vì thật sự phần mình chỉ là introduction ý... mình cố nhét thêm những khái niệm thuộc về hình thái kinh tế - xã hội vào để nói cho sâu, cho nó thành một bức tranh toàn diện, dù không đi quá sâu vào từng phần quan hệ, lực lượng,... của sản xuất (tức không đi sâu vào quy luật tính chất riêng của nó mà mình mới chỉ nói được sự ra đời và liên kết của nó về mặt ảnh hưởng, còn về mặt các quy luật ngầm tác động nhau ra sao, sắp xếp nhau ăn khớp theo trình tự nào thì trừu tượng quá :))) mình chỉ định kể chuyện như sách cao cấp lí luận giải thích nhưng tóm gọn và đổi bố cục tí thôi
+  Và đồng thời tìm đọc những học thuyết song song để liên hệ lí giải cho nó rộng (map trong và map ngoài để người ta xác định mình đang ở đâu làm gì
+  Nhưng check ra thì không biết cô sẽ giảng gì, bọn kia sẽ nói thế nào, và với cái sự thuyết trình bất thình lình của cô, mình rất dễ lạc đề tốn thời gian, mà cũng đồng thời sẽ phải chuẩn bị thừa rất nhiều sẵn trong não để cắt như MC, diễn giả trò chuyện với nhau, người ta nói phần gì, diễn phần gì rồi thì mình đáp phần còn lại...
+  Cuối cùng mình đã về cơ bản học hết cái map hình thái kinh tế (tức một phần cơ chế của nó được thể hiện bằng sự tương tác các thành tố chứ không chỉ lịch sử hay giới thuyết chung, nói chung chung về tính chất quy luật của nó ở dạng chỉnh thể (không phân tích từng mắt xích hoạt động ra sao mà cả cỗ máy chuyển động như nào) để mà trả lời câu hỏi thảo luận, vì nếu muốn trả lời thật sâu thì phải đào cơ chế đằng sau những cái nhận định của Mác, cái lí của ông mà ông thấy là ở đâu)
+  Mạch, cấu trúc của mình đã bị đổi, cố định bởi cô, mà có lẽ đó là cách Mác nghĩ ra học thuyết mình đang nói, dù mình thấy thế vẫn không rõ cơ chế lắm, kiểu phải biết rồi mới nói được ý chứ làm sao từ các phần suy ra được học thuyết này thì nói không ra được logic hay chỉ ra dòng, hướng suy nghĩ
+  #+END_NOTE
+- Tựu chung lại có 2 điều mình chưa hiểu, có vẻ cái hình thái này chỉ là 1 sự lựa chọn, xác định dựa trên các yếu tố liên kết nhau nào đó, nhưng tại sao chọn 5, là con số 5, là những cái này và là những cái khía cạnh sản xuất kia, nó là phân chia dựa cái gì, mục đích gì hay tất yếu gì không?
+- Và mình chưa hiểu được liệu Mác có chưa đúng chỗ nào, ai đang dùng lối lập luận ngụy biện gì, hoặc không ngụy biện thì mất dạy ra sao, không theo mác có sao, các tư tưởng khác đã tranh luận với mác như nào, tôi cần tổng hợp + thực chứng theo quá khứ hoặc dần theo thời gian, không thì cái nào tranh cãi dang dở thì cứ để đó
+- ---
+- Tài liệu
+	- https://hcma1.hcma.vn/daotao/caocaplyluanchinhtri/Pages/chuong-trinh-dao-tao.aspx?ItemID=23908&CateID=0
+-
+- Outline
+	- Vị trí, ý nghĩa / Học về hình thái kinh tế - xã hội để làm gì

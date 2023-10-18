@@ -1,0 +1,34 @@
+- Sẽ có tùy trình độ nhưng về cơ bản giáo trình cơ sở sẽ như nhau, kể cả học lên cao, hổng gì thì cứ về lại kiến thức tầng dưới mà xem. Tầng dưới chỉ là cơ bản hơn chứ không có nghĩa sơ sài hơn, lên cao học lại. IELTS là dành cho bọn lớn rồi
+- Tham khảo thầy Trung giáo trình, phương pháp giảng dạy, dự thính để học hỏi và phủ định phát triển
+	- Học SAT của thầy để hiểu tâm lý học sinh và thiết kế cho phù hợp mình, hỗ trợ mình dưới tư cách người học và thu thập feedback nữa, cơ bản mình sẽ cố để hình dung mọi trường hợp và liên hệ tới cái của mình chẳng hạn. Mình là ngu, là cơ bản. Đây là một phương pháp nghiên cứu khoa học, mình cần học kĩ môn này, nghiên cứu phản tư bản thân thật tốt để hơn mọi đứa dạy khác (chia loại bọn nó, kể cả lũ học bài bản đến lũ giỏi, có suy nghĩ khác biệt và kĩ năng tốt chẳng hạn, vẫn còn gà lắm so với người viết giáo trình)
+	- Sang ngồi nhà thầy để quan sát nghiên cứu người giáo luôn, cái kia
+- Mình không dạy hướng đến tiền, mà là giúp người ta. Giúp ở nhiều khía cạnh và lý do: họ cần, họ khổ, họ bế tắc lạc lối, họ tò mò,... Giáo dục mình xuất phát từ nhân đạo, hiện sinh thì sao, có xuất phát từ các trường phái khác được không?
+- Cần:
+	- Xây giáo trình IELTS (theo thứ tự ưu tiên và chất lượng ở dưới) bằng cách tổng hợp mọi tài liệu xem cần dạy gì
+		- Tham khảo các sách
+		- Tham khảo các cá nhân xuất sắc dạy 1-1
+		- Tham khảo các trung tâm
+			- call tư vấn hỏi thông tin để họ cung cấp còn mình đối chiếu, cứ như môn sư phạm mà ở đó giáo viên tự thiết kế khóa như cái trò của môn Tiếng Anh Du lịch
+			- xem thông tin
+	- Học là hành, mình cần nâng cao hiểu biết
+		- Biết 10 mới dạy được 1 vì mới sàng được 1 và đúc kết được một mà dạy
+		- Có nhiều loại giáo trình và phương pháp để thay đổi nếu cần (10 phương pháp, tùy người mà dạy 1)
+		- Có mẫu tốt để nghiên cứu mà nâng kĩ năng tư duy, giới hạn hình dung về thế nào là tốt để mà dạy
+			- Hoặc một cái gì đó như trang chấm IELTS mà có khả năng đánh giá tốt để học hỏi
+	- Tìm hiểu về cơ bản tâm lý và vướng mắc người học nói chung, phương pháp dạy,... tất cả các thứ trên mạng tổng hợp lại (giáo trình, vấn đề và tâm lý học, cách dạy, bản chất của việc dạy và bản chất của hành động học - học cách học... chia các mảng ra và sắp xếp vị trí như tree diagram hoặc tốt nhất như real map)
+	- Cách viết giáo trình (giáo trình học?)
+	- Biết các nguồn tốt, người giỏi để hướng dẫn người học sang, mời thỉnh giảng
+	- Học IELTS qua AI và các App kiểu gì
+	- Phỏng vấn các tấm gương tự học để tìm kiếm phương pháp học mà hướng dẫn
+- Giáo dục là gì và người giáo làm gì, có những mô hình nào
+	- Học IELTS là tự học có hướng dẫn thì tốt hơn vì đặc thù?
+	- Giáo viên giúp sàng lọc kiến thức và lên giáo trình
+	- Giáo viên quan sát đánh giá và hỗ trợ vướng mắc trong kiến thức lẫn kĩ năng
+	- Học không chỉ để thi, học để biết một cách nền tảng, biết cách học một cách có lộ trình, cơ sở, phương pháp, hệ thống -> khoa học (để tự học lại hoặc học môn khác tùy)
+- Khóa IELTS đầu tiên này là tác chiến, vừa tổng hợp vừa dạy không theo một giáo trình cứng nhắc mà là sát với người học 1-1 nên phương pháp và lộ trình có thể chưa cố định, được củng cố dần dần.
+	- Mình cần biết cần dạy những gì, cần mẫu, nền tảng, cột sống để dạy, cần có một đống các ví dụ chia các level và theo tính chất để đưa người học, hướng dẫn họ, cho họ thấy họ hiểu nếu cần
+	- Dạy những cái đó để họ thạo ra sao - kĩ năng và tư tưởng, mình sẽ dạy như nào trước trong lúc học trực tiếp, rồi hướng dẫn tự học, rồi đánh giá?
+	- Feedback liên tục để củng cố khóa và giúp hiệu quả cao nhất có thể (đặt chỉ tiêu học xong làm được luôn hoặc có khả năng làm được - mình sẽ gây áp lực lên bản thân liên tục và không bao giờ thỏa mãn với thứ mình dạy, cách mình dạy đấy haha...., mà chắc học kiểu gì cũng làm được thôi chỉ là mất gốc, sai nền tảng hay không, chậm hay nhanh?) rồi từ feedback, làm sao để tìm được feedback khoa học và đưa nó vào chương trình một cách khoa học?
+	- Dạy IELTS không chỉ là IELTS? gắn nó với đời vì học thi thì khổ, học từ cái mình đang biết, muốn chia sẻ với cái người ta quen, có khi dễ hơn. Tiện cho mình không phải học một thứ song song hoàn toàn và cả người ta không phải gồng theo một nhánh song song
+	- khóa này 1-1 nên sẽ cần thiết kế phù hợp 1-1 và tự học có hướng dẫn vì mình chưa đủ chuyên môn và thời gian để đứng lớp
+- Tin là mình làm được nha, sau khi tổng hợp được thế này rồi

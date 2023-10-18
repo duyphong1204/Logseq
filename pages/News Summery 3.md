@@ -1,0 +1,15 @@
+- ### Young kids who breathe polluted air can fall behind in school, study finds
+	- Research found that exposing to polluted air accounted for a third of the impact on young children's readiness for school
+		- It has been proven that more imporverished communities are disproportionately exposed to air pollution than more prosperous one
+		- A recent study in Science Advances analyzed the mechanism behind the neigbourhood status and child outcomes from air quality aspect
+		- According to the study, cognitive gaps develop between 6 months and 2 years old.
+		- Lead researcher Geoffrey Wodtke said that children who in state of destitution are prone to be exposed to neurotoxic air pollutants, which will affect their development in reading and math abilities.
+	- This findings were not unanticipated by some health scientists, for there has been previous literature and research on relationship between early exposure to air pollutants and poorer cognitive test results. But the study provides a starting point for discovering how air pollution impacts children's healthy neurodevelopment.
+	- A specialist named Karr added that this findings are crucial because health disparities for children is correlated with poverty, and children should have clean air for their health to be fully-developed.
+- Exposures is differentiated into several types: poorer communities with particulate matter and traffic pollution and wealthier communities with ozone air pollutants
+- While the study can only identify that many air toxins have a weak association with lower test scores and high-poverty neighbourhoods, experts pointed out from other article that after birth exposure air pollution is the main factor.
+- It can also be indicated from other evidence that exposure to fine particulate matter may influence poorer child behavioral functioning and cognitive abilities
+-
+- Another new research from Columbia University has shown that exposing to elevated levels of air pollution may resulted in subpar academic performance in early adolescence
+- Anjum Hajat, an epidemiology professor at University of Washington said that the  the detrimental effect on health of living in poverty has long been known, so capable of comprehending the mechanism behind allows people to devise strategies for intervening. And the first study has entrenched links between air pollution, poverty and health to provide people with one feasible solution to enhancing child development
+-

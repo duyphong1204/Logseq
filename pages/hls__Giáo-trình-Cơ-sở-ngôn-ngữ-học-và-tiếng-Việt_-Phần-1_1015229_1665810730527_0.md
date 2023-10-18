@@ -1,0 +1,22 @@
+file-path:: ../assets/Giáo-trình-Cơ-sở-ngôn-ngữ-học-và-tiếng-Việt_-Phần-1_1015229_1665810730527_0.pdf
+file:: [Giáo-trình-Cơ-sở-ngôn-ngữ-học-và-tiếng-Việt_-Phần-1_1015229_1665810730527_0.pdf](../assets/Giáo-trình-Cơ-sở-ngôn-ngữ-học-và-tiếng-Việt_-Phần-1_1015229_1665810730527_0.pdf)
+title:: hls__Giáo-trình-Cơ-sở-ngôn-ngữ-học-và-tiếng-Việt_-Phần-1_1015229_1665810730527_0
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 111
+  id:: 634a4160-2085-4e39-8329-7cee7b52be48
+  hl-type:: area
+  hl-stamp:: 1665810783417
+- [:span]
+  ls-type:: annotation
+  hl-page:: 110
+  id:: 634a41ab-afc4-4830-a45e-588c454085fa
+  hl-type:: area
+  hl-stamp:: 1665810858609
+- [:span]
+  ls-type:: annotation
+  hl-page:: 111
+  id:: 634a4293-9348-4cb8-ba59-e704ad0d5c59
+  hl-type:: area
+  hl-stamp:: 1665811089704

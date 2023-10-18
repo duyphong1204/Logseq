@@ -1,0 +1,5 @@
+- Bắt đầu lười làm cho lớp cũng như nghiên cứu
+	- Ngủ đến 12 giờ
+	- Xem BayWatch
+- Làm Agenda
+- Làm PowerPoint

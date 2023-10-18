@@ -1,0 +1,164 @@
+- J'en aurai un de plus
+-
+- s’intéresser à: to be interested in
+- intéresser: to interest
+- Cela m’a beaucoup intéressé: It interested me very much
+- intéresser qn à qch: to get sb interested in sth
+- intérêt (m): interest
+- intéressant(e): interesting
+-
+- payer = financer qn, qch
+- la finance: ngành tài chính
+- financier (financière): financial
+- faire de la publicité
+- publicité (f): advertising
+- publicitaire: advertising
+- publiciste: advertising excutive, adman
+- à condition de
+- planter (v): to plant
+- arroser (v): to water
+- dès: as soon as
+	- dès que + phrase
+		- example
+			- dès que je serai arrivé à Hanoi, je te verrai
+	- dès + noun
+		- example
+			- je te verrai dès mon retour à Hanoi
+- le souhait, le desir
+- ---
+- [[350 Exercices Niveau Moyen/Chapitre 17]]
+	- le temps - le mode
+		- le temps
+			- le présent
+			- le passé composé
+			- le futur simple
+			- l'imparfait
+			- le plus-que-parfait
+				- quá khứ của quá khứ
+				- être/avoir (imparfait) + participe passé
+				- example
+					- hier, quand je suis venu chez elle, elle dèja partie
+			- le passé simple
+				- utiliser dans le roman
+				- sự việc bất thình lình: soudain = brusquement = soudainement
+					- tout d'un coup: all of the sudden
+				- conjugaison
+					- lấy verb ở ngôi nous rồi thay đuôi ai/as/a/âmes/âtes/èrent
+			- le passé antérieur
+				- cũng là quá khứ của quá khứ
+				- être/avoir (passé simple) + participe passé
+			- le futur antérieur
+				- avoir/être (futur) + parcicipe passé
+				- example
+					- quand je serai arrivé à Paris
+			- #+BEGIN_IMPORTANT
+			  le futur proche, le passé recent est cách nói
+			  present continuous, 
+			  #+END_IMPORTANT
+			- #+BEGIN_NOTE
+			  mình nên list tất cả các từ tiếng anh -> tiếng pháp (theo từ điển Anh Pháp) để học được nhanh từ mới, có nhiều từ tiếng anh đơn giản nhưng ở tiếng Pháp mình có biết đâu
+			  #+END_NOTE
+		- le mode
+			- mode subjonctif (+ que + Vsubjonctif)
+				- utiliser
+					- souhaiter/aimer/désirer/vouloir/préférer
+					  logseq.order-list-type:: number
+					- le sentiment 
+					  logseq.order-list-type:: number
+						- (être content, deçu, triste, heureux, déçu, gai)
+					- l'ordre
+					  logseq.order-list-type:: number
+						- Vimpératif (demander, exiger)
+					- la nécessité
+					  logseq.order-list-type:: number
+						- il faut que
+				- conjugaison
+					- lấy ngôi nous + e/es/e/ions/iez/ent
+					- example
+						- Il faut que nous parlions en française en class
+						- mes parents sont très heureux que je réussisse à l'examen de fin d'étude
+					- verbe irrégulier
+						- **Aller**
+							- J'aille
+							- Tu ailles
+							- Il/Elle aille
+							- Nous allions
+							- Vous alliez
+							- Ils/Elles aillent
+						- **Faire**
+							- Je fasse
+							- Tu fasses
+							- Il/Elle fasse
+							- Nous fassions
+							- Vous fassiez
+							- Ils/Elles fassent
+						- **Pouvoir**
+							- Je puisse
+							- Tu puisses
+							- Il/Elle puisse
+							- Nous puissions
+							- Vous puissiez
+							- Ils/Elles puissent
+						- **Savoir**
+							- Je sache
+							- Tu saches
+							- Il/Elle sache
+							- Nous sachions
+							- Vous sachiez
+							- Ils/Elles sachent
+						- **Vouloir**
+							- Je veuille
+							- Tu veuilles
+							- Il/Elle veuille
+							- Nous voulions
+							- Vous vouliez
+							- Ils/Elles veuillent
+						- **Avoir**
+							- J'aie
+							- Tu aies
+							- Il/Elle ait
+							- Nous ayons
+							- Vous ayez
+							- Ils/Elles aient
+						- **Être**
+							- Je sois
+							- Tu sois
+							- Il/Elle soit
+							- Nous soyons
+							- Vous soyez
+							- Ils/Elles soient
+						- **Prendre**
+							- Je prenne
+							- Tu prennes
+							- Il/elle prenne
+							- Nous prenions
+							- Vous preniez
+							- Ils/elles prennent
+						- **Servir**
+							- Je serve
+							- Tu serves
+							- Il/elle serve
+							- Nous servions
+							- Vous serviez
+							- Ils/elles servent
+						- **Venir**
+							- Je vienne
+							- Tu viennes
+							- Il/elle vienne
+							- Nous venions
+							- Vous veniez
+							- Ils/elles viennent
+						- **Partir**
+							- Je parte
+							- Tu partes
+							- Il/elle parte
+							- Nous partions
+							- Vous partiez
+							- Il/elle partent
+						- **Connaître**
+							- Je connaisse
+							- Tu connaisses
+							- Il/elle connaisse
+							- Nous connaissions
+							- Vous connaissiez
+							- Ils/elles connaissent

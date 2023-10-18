@@ -1,0 +1,129 @@
+meta:: ((647fbd88-5a79-41c1-9860-08fe34cb9fb4)) (tr 258 - 266)
+
+- # I. Đặc điểm tự nhiên và xã hội
+	- Nếu nhìn từ góc độ hành chính, lâu nay, người ta hay xếp Thanh - Nghệ - Tĩnh cũng thuộc Trung Bộ, và coi là Bắc Trung Bộ.
+		- có nhà địa lí học nói rằng, trên một ý nghĩa nào đó, châu thổ sông Mã, sông Cả chi là sự "nối dài" của châu thổ Bắc Bộ.
+	- Chúng tôi không hoàn toàn nghĩ như vậy, song về mật văn hóa, từ trước, sau công nguyên, Thanh- Nghệ-Tĩnh đã thuộc không gian văn hóa Đông Sơn, trước đó nữa, có những di tích có tính chất của văn hóa Phùng Nguyên, nếu phải nhìn xa hơn thì cồn sò hến Đa Bứt, cồn Cổ Ngựa và các di chỉ hang động xứ Thanh là thuộc về không gian văn hóa Hòa Bình, Bắc Sơn. Cả giới địa học và dân tộc học, văn hóa học đều coi miền núi Thanh - Nghệ là sự nối dài cung một dải của sơn hệ Tây Bắc Bắc Bộ. Cố nhiên, Thanh - Nghệ - Tĩnh đã là không gian văn hóa Việt cổ (Lạc Việt) cũng với cách nghi như vậy, nên chúng tôi cho rằng vùng Thanh-Nghệ-Tĩnh thuộc vùng văn hóa Bắc Bộ.
+	- ## Địa bàn
+		- Do vậy, vùng văn hóa Trung Bộ là vùng đất thuộc lãnh thổ các tỉnh Quảng Bình, Quảng Trị, Thừa Thiên - Huế, Quảng Nam, Quảng Ngãi, Bình Định, Phú Yên, Khánh Hòa, Ninh Thuận, Bình Thuận và thành phố Đã Nẵng hiện nay.
+	- ## Đặc điểm địa lý
+		- Nói đến miền Trung, như một tổng thể hệ thống nằm trong tổng thể hệ thống Việt Nam, người ta thường chú ý đến các đặc điểm sau đây:
+		- Thứ nhất, **địa hình** miền Trung hẹp theo chiều ngang Đông Tây
+		  collapsed:: true
+			- nếu quay mặt về Đông thì trước mặt mỗi người dân Trung Bộ sẽ là Biển Đông, sau lưng là dãy Trường Sơn.
+		- Thứ hai, **địa hình** miền Trung Bộ chia cắt theo chiều dọc Bắc Nam
+		  collapsed:: true
+			- bởi các đèo là những dãy núi đồi tách từ Trường Sơn đâm ngang ra biển.
+				- nếu tính từ Tam Điệp, đèo Ba Dội thuộc xứ Thanh thì cứ một đèo, một đèo lại một đèo, lặp đi lặp lại qua đèo Hoàng Mai, đèo Ngang, đèo Hải Vân, đèo Cù Mông v. v...
+				- đây là chỉ kể các đèo con, chứ thật, ra còn nhiều đèo khác, chẳng hạn đèo Lý Hòa, núi Lễ Dễ (hay núi Ma Cô) ở giữa Quảng Bình, đèo Bình Đê ở khoảng giữa Quảng Ngãi và Binh Định.
+				- dưới chân đèo là các sông lớn nhỏ, đều chảy ngang theo chiều Tây - Đông ra biển
+					- sông ngắn, nước biếc xanh, ít phù sa, châu thổ hẹp, nhiều cửa sông sâu tạo thành các vịnh, cảng.
+				- vận động tạo sơn còn "ném" ra biển xa các đảo và quân đảo
+					- chưa kể các quần đảo san hô xa khơi như Hoàng Sa, Trường Sa
+					- chỉ nói các hòn đảo gần bò như Hòn Gió (Quàng Bình) ; Cồn Cỏ (Quảng Trị), Cù Lao Chàm (Quảng Nam), Lý Sơn (Quảng Ngãi), Phú Quý (Phú Yên), Hòn Tre (Khánh Hòa) v.v..., tạo ra những "bình phong" ngăn chặn bớt sóng gió Biển Đông.
+				- suốt dài đất miền Trung, đường bò biển Việt Nam "ưỡn" cong, "lồi" ra phía sau Biển Đông
+					- đành rằng hướng gió bão, sóng thần, nhưng luồng cá biển cũng chạy gắn bờ hơn, so với miền Bắc.
+				- sát bờ biển, từ Quảng Bình trở vô Nam, Ngãi, Bình, Phú có các dải cồn cát chạy dọc dài Bắc Nam ghi dấu những đường biển cũ
+					- ở giữa các dải cồn cát là một vùng trũng nổi phân bố xóm làng và ruộng lúa ngày nay
+					- chân cồn là những bàu nước ngọt.
+		- Thứ ba là **khí hậu**
+		  collapsed:: true
+			- miền Trung lại có mùa mưa lệch pha với hai đầu Bắc Nam đất nước
+			- ở miền Trung, lại gặp gió Tây rất khô nóng, thổi từ Lào qua (xưa người dân gọi là gió Lào), tạo ra sự khô rang cho miền Trung
+				- Chế Lan Viên từng thốt lên chua xót:
+					- *Ôi gió Lào ơi. Ngươi đừng thổi nữa*
+					  *Những ruộng đói mùa, những đồng đói cỏ*
+					  *Những đồi sim không đủ quả nuôi người.*
+	- ## Lịch sử
+		- Mặt khác, với Đại Việt, từ năm 1059, vùng Quảng Bình thuộc về nhà Lý
+		- Năm 1336, Châu Ô, Châu Lý (tức vùng Quảng Trị, Thừa Thiên - Huế ngày nay) thuộc về nhà Trần
+		- Năm 1470, vùng đất từ núi Thạch Bi (nay thuộc Phú Yên) trở ra thuộc nhà Lê
+		- Năm 1558, Nguyễn Hoàng vào trấn phủ xứ Thuận Hóa, từ đó, Nguyễn Hoàng bắt đầu "kinh doanh dải đất" (chữ dùng của GS. Đinh Gia Khánh) miền Trung.
+			- nói khác đi là sự nghiệp khai phá miền Trung được đấy lên một bước mới.
+		- Rồi hai trăm năm chiến tranh giữa Đàng Trong và Đàng Ngoài, miền Trung trở thành lãnh địa được các chúa Nguyễn tạo ra với ý thức đổi kháng với Đàng Ngoài Kinh đô của vương triều này là vùng Phú Xuân.
+	- Phong trào nông dân khởi nghĩa thế kỉ XVIII làm lung lay chế độ phong kiến
+	- Năm 1788, Nguyễn Huệ lên ngôi vua ở Phú Xuân, đất nước được thống nhất trên cứ bản.
+	- Năm 1802, dựa vào thế lực của phương Tây, Nguyễn Ánh chiến thắng vương triều Tây Sơn, cai quản một đất nước thống nhất.
+	- Từ 1802 đến 1945, nhà Nguyễn đặt kinh đô ở Huế.
+	- => Như vậy là miền Trung, đã có một thời ít nhất vài ba vương triều
+		- các chúa Nguyễn nhà Tây Sơn
+		- nhà Nguyễn
+		- có xứ Huế
+		- là thủ phủ của xứ Đàng Trong
+		- kinh đô của cả nước
+	- Trải qua tiến trình lịch sử, vùng Trung Bộ là trạm trung chuyển, đất đứng chân để người Việt tiến về phía Nam mở cõi, lại là vùng biên viễn của Đại Việt, nơi diền ra sự giao lưu trực tiếp giữa người Việt và người Chăm.
+	- Chính những đặc điếm tự nhiên, xã hội, lịch sử này của Trung Bộ sẽ tạo cho vùng văn hóa Trung Bộ những đặc điểm riêng, so với các vùng văn hóa Việt Nam.
+- # II. Đặc điểm của vùng văn hóa Trung Bộ
+	- Do vị thế địa chính trị, địa văn hóa đặc biệt của xứ Huế, nên xứ Huế đã như một tiểu vùng có gương mặt văn hóa khá độc đáo, vì thế, chúng tôi trình bày những đặc điểm chung cúa vùng Trung Bộ, và nhìn nhận riêng vùng văn hóa Huế
+	- ## Đặc điểm chung của vùng văn hóa Trung Bộ
+		- Khác với Nam Bộ được khai phá muộn hơn, khác với Bắc Bộ là địa bàn tụ cư và khai thác lâu đời của người Việt, vùng Trung Bộ một thời kì dài thuộc các tiểu quốc của vương quốc Chămpa, trước khi người Việt vào nơi này.
+		- Nền văn hóa Chămpa một thời rạng rỡ, như một ánh hào quang hắt lên mặt nước trong buổi chiều tà. Vì vậy, đặc điểm thứ nhất của vùng văn hóa Trung Bộ phải là một vùng đất chứa nhiêu dấu tích văn hóa Chămpa.
+		  collapsed:: true
+			- dọc miền Trung, nhiều di sản văn hóa hữu thể còn tồn tại trên mặt đất
+				- đó là các tháp Chàm phơi sương gió cùng năm tháng
+					- lịch sử đi qua bao nỗi thăng trầm, cuộc đùi phải trải qua bao cơn dâu bể, tháp Chăm vẫn sừng sững như một dấu ân không thể phai mờ.
+					- ở Huế, theo tác giả Trần Đại Vinh, còn tháp đôi Liễu, Cốc Thượng, tháp Núi Rùa
+					- ở Quảng Nam, Đà Nẵng
+						- tại Mỹ Sơn đã có 7 tháp, "đại diện tiêu biểu cho tất cả các giai đoạn và phong cách nghệ thuật kiến trúc Champa
+						- tại Bằng An có 1 tháp
+						- tại Đống Dương có 1 tháp
+						- tại Chiên Đàn có 3 tháp
+						- tại Khương Mỹ có 3 ngôi tháp
+						- ở Bình Dương có tháp Phước Lộc, tháp Cánh Tiên, tháp Bánh ít, tháp Bình Lâm, tháp Thủ Thiện, ba ngôi tháp Dương Long; hai ngôi tháp ở Hưng Thạnh
+					- ở Phú yên có tháp Nhạn
+					- ở Khánh Hòa có tháp Pô Nagar
+					- ở Ninh Thuận có cụm tháp Hòa Lai, cụm tháp Núi Trầm
+					- ở Bình Thuận có tháp Pôdam (hay Pô Tầm), tháp Phú Hải
+					- Có thể nói, khó có vùng văn hóa nào ở nước ta lại có nhiều tháp Chăm như vùng văn hóa Trung Bộ.
+				- ngoài các tháp, di vật văn hóa Chămpa còn trên mặt đất, trong lòng đất khá nhiều
+					- là các tượng bà Pô Nagar
+					- tượng chó
+					- đặc biệt là các tượng linga, yoni
+					- đó là các phù điêu, các trụ đá, các bia đá v.v. .
+			- cùng các di sản văn hòa hữu thể, vùng Trung Bộ còn khá nhiều các di sản văn hóa vô thể cúa văn hóa Chămpa
+				- đó là các địa danh Việt mà chúng ta có quyền ngờ rằng, gốc tích của nó phải là các địa danh Chăm
+					- kiểu như Cồn Ràng, Cồn Lồi, Cồn Mọi
+					- đó là các tín ngưỡng dân gian của người Chăm như thờ bà mẹ xứ sở, thờ cá voi, thờ thần biển v.v...
+		- Mặt khác, Trung bộ là vùng đất được người Việt khai phá theo kiểu tiệm tiến. Sự cộng cư với người Chăm, thái độ ứng xử với những vốn văn hóa hiện diện trên mặt đất, tàng ẩn dưới lòng đất theo bản chất hiền hòa của người Việt, tạo cho sự giao lưu văn hóa ở đây có những điểm khác biệt.
+		  collapsed:: true
+			- trước hết người Việt tiếp nhận những di sản văn hóa của người Chăm, Việt hóa biến thành di tích văn hóa của mình.
+				- tháp Chăm, đền Chăm khi người Chăm ra đi thì người Việt thờ cúng; sử dụng
+					- chẳng hạn như Tháp Bà ở Nha Trang tỉnh Khánh Hòa, vốn là một ngôi tháp của người Chăm, được người Việt sử dụng, coi như nơi thờ tự, linh thiêng của tín ngưỡng thờ Mẫu, một tín ngưỡng của người Việt.
+				- tiêu biểu cho quá trình tiếp biến văn hóa ở Trung Bộ của người Việt
+					- là tiếp thu tín ngưỡng thờ bà mẹ xứ sở (Po Yan Ina Nagar) của người Chăm với tín ngưỡng thờ Mẫu ẩn trong tâm thức, khi vào Trung Bộ người Việt gặp tin ngưỡng nãy của người Chăm, họ đã tiếp thu các nữ thần Chăm và chuyển hóa thành các nữ thần Việt
+						- nữ thần Mưjưk của người Chăm được biến thành bà Chúa Ngọc.
+					- câu chuyện mà Phan Thanh Giản ghi trên bia kí ở sau Tháp Bà, là câu chuyện đã Việt hóa sự tích một nữ thần Chăm, tại điện hòn Chén, thánh mẫu Vân Hương (tức thánh Mẫu Liều Hạnh) được đưa vào điện thần cùng với bà chúa Ngọc.
+			- Nói cách khác đi là, sự tiếp biến văn hóa đã khiến diện mạo tín ngưỡng của người Việt ở Trung Bộ thay đổi, so với người Việt Bắc Bộ.
+		- So với thiên nhiên Bắc Bộ và Nam Bộ, Trung Bộ là vùng đệm, mang tính chất trung gian. Vì thế, sự phản ánh thiên nhiên đa dạng của một vùng đất là đặc điểm thứ ba của vùng văn hóa này. Yếu tố biển, sông, đầm, đồng bằng, núi non đều ánh xạ vào trong các thành tố văn hóa, từ diện mạo đến các phương diện khác. Có thể thấy ngay điều này từ diện mạo các loại hình văn hóa:
+		  collapsed:: true
+			- với Trung Bộ, làng làm nông nghiệp tồn tại đan xen với làng của ngư dân
+			- bên cạnh lễ cúng đình của làng nông nghiệp là lễ cúng cá ông của làng làm nghề đánh cá
+				- điều này là đương nhiên, bởi lẽ, đồng bằng Trung Bộ thường là đồng bằng nhỏ hẹp, sát biển.
+			- trong văn hóa đời thường, bữa ăn của cư dân Việt Trung Bộ đã bắt đầu có sự thay đổi, nghiêng về các hải sản, đồ biển
+				- nói cách khác, yếu tố biển đã đậm đà hơn trong cơ cấu hủa ăn của cư dân ở đây.
+			- mặt khác, người dân Việt Trung Bộ, do tính chất khí hậu, nói rộng hơn là điều kiện tự n hiên chi phối, nên sử dụng nhiều chất cay trong bữa ăn
+			- Tóm lại, vùng văn hóa Trung Bộ có những đặc điểm riêng của mình, khi đặt trong tương quan với các vùng văn hóa khác.
+	- ## Tiểu vùng văn hóa xứ Huế
+		- Thiên nhiên đã tạo cho xứ Huế có một diện mạo riêng.
+			- đó là một vùng Huế núi đồi mà nhà Nguyễn cùng sức muôn dân đã tạo ra một khu lăng tẩm đế vương
+			- đó là một vùng Huế cồn bãi đôi bờ Hương Giang cùng các nhánh sông Bạch Yến, An Cựu, Kim Long (nay đã bị lấp nhiều)
+			- đi lại cũng là một vùng Huế đầm phá với phá Tam Giang, Hà Trung, Cầu Hai
+			- Nói khác đi, xử Huế là vùng thiên nhiên đa dạng: có rừng, có biến, có núi, lại có cả đồng bằng.
+			- Mặt khác, lịch sử lại đem đến cho vùng đất có một số phận đặc biệt. Từ chỗ là phên giậu của Đại Việt, nơi địa đầu giao lưu với Chămpa đến chỗ thành dinh của chúa Nguyễn, rồi kinh đô của vương triều Tây Sơn, kinh sư, thượng kinh của nhà Nguyền Chính những điều kiện tự nhiên và biến đổi lịch sử ấy in dấu vào đời sống vân hóa vật chất lẫn tinh thần của xứ Huế, tạo cho nó một gương mặt riêng
+		- Cùng với các di sản văn hóa hữu thể, văn hóa vô thể xứ Huế là một kho tàng phong phú và quý giá.
+			- trước hết là nghệ thuật biểu diễn:
+				- những điệu hò, điệu hát lí, hát trò, hát sác bùa, những bài ca trên sông nước Hương Giang
+				- nét độc đáo của dân ca xứ Huế là âm sắc, ngữ âm địa phương, không lẫn với vùng nào trên đất nước ta
+				- đồng thời ảnh hưởng của dân ca, âm nhạc Chămpa đối với dân ca xứ Huế là điều không thể phủ nhận.
+		- Sau nữa, lễ hội dân gian xứ Huế
+			- vừa giống vừa khác với lễ hội dân gian ở đồng bằng Bắc Bộ
+			- ở lễ hội dân gian gắn với tục thờ cúng cá voi, sự tiếp thu tin ngưỡng thờ cá voi của người Chăm rất rõ nét
+			- lễ hội điện Hòn Chén, mang tính chất chung của lễ hội gắn với tục thờ Mẫu, nhưng lại có nét riêng do việc người Việt tiếp nhận tục thờ nữ thần bà mẹ xứ sở của người Chăm.
+		- Trong văn hóa đời thường, không thể không nhắc đến cách ăn, cách mặc của người Huế.
+			- PGS. Nguvền Từ Chi rất chú ý đến tính chất vùng ngoại vi, trên biên của xứ Huế, nên đã tìm ra được sự gắn bó giữa món ăn Mường với món ăn Việt trên đất Huế.
+			- bếp ăn truyền thống của xứ Huế khá phong phú, vì đã sử dụng một cách tổng hợp các sản vật của vùng đất có cả núi rừng lẫn đồng bằng và sông biển
+			- trang phục xứ Huế cũng có một phong cách riêng, chiếc áo dài, cái nón bài Thơ, màu tím Huế đã thành một biểu tượng rất Huế, mà ít vùng văn hóa có được.
+		- Đặc biệt, cần thấy rằng, nếu không tính từ thời chúa Nguyễn, chỉ tính riêng thời nhà Nguyễn 1802- 1945, Huế còn là trung tâm thu hút nhân tài của mọi miền đất nước, cũng như là trung tâm giáo dục của nhà Nguyễn, trung tâm sinh hoạt văn hóa, văn học.
+			- những văn đàn, những th xã như thi xã Mạc Vân, th xã Hương Bình, Xóm Vĩ Dạ,... là kết quả, cũng là biểu hiện của trung tâm văn hóa này
+			- cũng do là một trung tâm văn hóa, nhiều trí thức, văn sĩ, nhà thơ đã gắn bó với xứ Huế, trưởng thành từ xứ Huế, trong thời nhà Nguyễn,
+		- Tựu trung, xứ Huế là một tiểu vùng văn hóa nằm trong vùng văn hóa Trung Bộ, nhưng có một sắc thái riêng, tiêu biểu cho văn hóa Việt Nam thế kỉ XIX.

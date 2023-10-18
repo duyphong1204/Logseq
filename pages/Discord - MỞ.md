@@ -1,0 +1,9 @@
+- Cộng đồng Discord mà mình muốn?
+	- Các tiêu chí phải có
+		- Bố cục dễ access
+		- Thêm tính năng thú vị
+		- {{embed ((63225da9-528a-4e73-90df-902cf1d1d23c))}}
+	- Xưa chơi Discord mình muốn gì?
+		- Ra server cũ tìm xem
+	- Nay mình muốn ít nhất nó được như một ngôi trường (không gian, tiện nghi, khả năng kết nối)
+	- Còn mong muốn với lớp là một tổ chức thì Discord không quá quan trọng, cái quan trọng là mối quan hệ giữa người với người

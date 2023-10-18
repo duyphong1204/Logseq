@@ -1,0 +1,54 @@
+title:: Le Français/madame Thu/Leçon 6
+
+- Comment est ta maman
+	- Elle est
+- grand(e) : cao
+- petit(e) : thấp
+- gros(ses) : béo
+- mince : mảnh
+- maigre : gầy
+-
+- De quelle couleur?
+- couleur : màu
+- blond(e) : hung vàng
+- brun : nâu
+- noir(e) : đen
+- blanc(he) : trắng
+- vert(e) : xanh
+- jeune : vàng
+- rose : hồng
+- rouge : đỏ
+- violet(te) : tím
+- orange : cam
+- bleu-marine : xanh nước biển
+- marine: thuộc về biển
+-
+- l'autre : khác
+- d'accord : nhất trí
+- alors (pré)
+- pronomes toniques
+- moi
+- toi
+- lui / elle
+- nous
+- vous
+- eux / elles
+-
+- porter : mặc
+- vêtements : quần áo
+- pantalon : quần âu
+- chemise : sơ mi
+- chaussure (n.f) : giày âu
+- baskets (m ): giày thể thao
+- Ôn lại câu hỏi:
+	- Comment : how
+	- Où : where
+	- Quand : when
+	- Pourquoi : why
+		- Note: to answer, use: parce que (parce qu’il-s, parce qu’elle-s)
+	- Combien : how many (de + noun)
+	- Qui : who, whom
+	- À quelle heure : at what time
+	- Quelque chose
+	- Chose : cái gì
+-

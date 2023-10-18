@@ -1,0 +1,106 @@
+- Nghĩ về việc chia lớp ở trường
+  collapsed:: true
+	- Sáng, tôi có hỏi thầy xem nếu thi xét tuyển không vào được lớp đầu thì có sao không.
+	- Thầy Trung đáp không sao cả, chỉ là không phải lớp đầu thì bạn bè không chăm với giỏi bằng
+	- Nếu xét theo cái trường này thì nó bảo thế là ổn, cho những người cùng trình học với nhau
+		- Tôi cũng không biết thế tốt hay không nữa?
+	- Dù sao thì tôi cũng chưa là cái gì ở ULIS #motivation
+		- How: có thứ để cay cú, để đơn độc phát triển: cạnh tranh với lớp khác và vượt hơn rồi tránh xa lớp mình
+-
+- Nghĩ về cách triển khai dự án cá nhân thành cộng đồng với lớp
+  collapsed:: true
+	- Nền tảng
+		- Loom
+		  collapsed:: true
+			- để chào hỏi vì cam tròn khá xinh
+		- PowerPoint
+		  collapsed:: true
+			- làm như một số landing page và tham khảo của MỞ
+			- còn thời gian thì tham khảo thêm mấy trang education
+				- facebook, coursera
+			- rồi mới đến các lĩnh vực khác để học hỏi nếu có phần nào hay
+	- SCripT
+		- Phần 1: Mở
+			- Chào hỏi
+				- Hello mọi người, là Phong, lớp trưởng của K112 Văn đây. Dạo này mọi người thế nào. Hôm nay là một ngày rất quan trọng nên tao cũng muốn nhân ngày này lên đây nói với mọi người vài lời
+			-
+		- Phần 2: Thân
+			- Kể tình hình bản thân
+				- Đi làm, đi học, đi dạy như thế nào (chung chung)
+				- Và tao thấy gì từ bọn mày, đứa thì...
+					- Không vui vì không vào được ngành mình thích
+					- Môi trường làm việc và công việc không như ý muốn
+					- Chưa biết làm gì, chuẩn bị gì và muốn làm gì trong suốt 4 năm đại học
+					- Muốn chơi lại với lớp, tạo nơi nương tựa cho bốn 4 đại học nhàm chán và có thể không áp dụng được gì
+				- Nói lại chuyện hôm trước rằng lớp đã vui như nào và mình muốn mọi thứ cứ như vậy đến mức nào
+					- Nói lại những câu chúc mình đã nói và ngầm ý của nó
+				- --> Đó cũng là lí do tao muốn phục dựng và phát triển lớp
+				- Lời bình: _Tao biết nó nghe lố bịch và viển vông. Không phải vì bây giờ tao nói khi tao chưa có gì trong tay, kể cả lúc đã già và giàu đi nữa, nó vẫn sẽ luôn là vậy_
+				- _Nhưng tình cảm này là thật, cũng như một điều tao vân hay tin, rằng còn trẻ thì hãy mơ tưởng nhiều nhất có thể, để già rồi trả nợ, chịu "hậu quả" cho ảo tưởng hồi nhỏ sau_
+			- Hôm nay tao vừa kết thúc khóa học HỌC CÁCH HỌC của MỞ. Cũng đã nghỉ làm nghỉ dạy để vào đây chia sẻ với bọn mày tất cả những gì thời gian qua tao đã học được và thực hiện hóa những ấp ủ của ba năm cuộc đời khi còn ở Chu.
+				- Bọn mày còn nhớ những gì tao đã nhắn cách đây ba tháng chứ
+			- Nếu bọn mày hứng thú thì có thể vào ngồi nghe tao kể về hành trình thời gian qua và những dự tính của tao để chúng mình làm cùng nhau. Tối Chủ Nhật mỗi tuần từ 7h30 đến 9h30.
+			- Tham gia
+				- Lợi ích
+					- Là những mục tiêu tao hướng đến
+					- Cuộc đời thú vị hơn, không chỉ làm - học
+				- Lợi hại
+					- Mất thời gian
+					- Có thể mọi thứ đổ bể và ảnh hưởng cảm xúc
+		- Phần 3: Kết
+			- Vậy nhé, chào mọi người. Dù không còn được ngồi trên ghế nhà trường và thường xuyên gặp nhau, tao vẫn rất quý mọi người và nhớ những tháng ngày ở bên nhau nhiều lắm. Chúc mọi người một ngày tốt lành, gặp nhiều thành công trên chặng đường phía trước nhé!
+-
+- Nghĩ về nội dung để có thể trao đổi  hôm CN và sau này phát triển
+  collapsed:: true
+	- Mục tiêu: Hợp tác với nhau trong nhiều lĩnh vực nhất có thể
+		- Nhưng mà có cần nhau đến thế không?
+			- ##### Đôi khi có những nỗi sợ, phản tư thừa vì nó khiến mình bị lan man, hoặc đi lệch ý vì phản tư là phản đề nhưng chỉ một khía cạnh. Cũng tại câu hỏi kia lớn quá Nhưng đồng thời cũng không thừa lắm vì đó là vấn đề cốt lõi của lớp mà. Cố mấy mà không giải quyết được cái này cũng thế.
+			  id:: 630f9a0c-1d16-4360-9b7b-7f3adac42009
+			- Trả lời dưới phương diện lịch sử:
+				- Có kẻ thù chung
+				- Nhưng nghĩ lại chúng tôi giờ không có, có thể cố thao túng sắp đặt để có, mà có nên có không?
+			- Nhưng hợp tác tốt mà
+				- Xét khách quan, chủ quan là ý phản tư ở trên.
+		- Bằng việc tìm điểm mạnh bản thân
+		- Làm những việc khó quá sức và tận hưởng niềm vui khi làm và thành quả tối tân
+		- Qua đó sẽ bắt bản thân áp dụng được mọi kiến thức
+	- Bài ra mắt: lấy dẫn chứng thực tế cho đỡ phải làm nhiều như thiết kế hình thức riêng để truyền tải hoặc tổng hợp kiến thức, sáng tạo phục vụ mục đích truyền tải
+		- còn gì hợp lí hơn lấy dẫn chứng thực tế.
+	- Muốn hợp tác với nhau thì cần mô hình và định hướng rõ ràng.
+		- Mô hình ban đầu?
+		- Mô hình cao cấp, tối tân?
+			- Trước đó bắt trước LHQ rồi tìm cách hơn LHQ.
+			  collapsed:: true
+				- Mà người ta có hướng tới phát triển mô hình không hay chỉ coi nó là một công cụ phục vụ mục đích. Như tiếng Anh là để giao tiếp, sẽ thật kì nếu bạn muốn thành người dùng tiếng Anh giỏi nhất. Dù cũng đáng nể nếu làm việc một cách khoa học chứ không phải cố và cố và cố. Khoa học tuy được coi là công cụ thì cũng có thể là chủ thể được hướng tới. Như cách nghệ thuật vị nghệ thuật.
+			- Mô hình trong kinh doanh
+				- #citemissing
+				- vừa tự làm nhân viên, làm chủ, làm nhà đầu tư
+		- Định hướng là làm gì?
+			- trước tiên có thể học cùng nhau để xây dựng hệ thống lưu trữ chung
+			  collapsed:: true
+				- Mà cứ hay bị lan man nghĩ sang rằng nếu
+				  collapsed:: true
+					- rồi cái ý này tổng hợp lại kiểu gì để sau này đọc lại mà lập nên một phương pháp chuẩn chỉnh? thêm tag #questionstorage ở cuối câu chẳng hạn
+					- để ở đầu sợ không đẹp, bị đập vào chướng mắt?
+					-
+		- Tiền là vấn đề cần tìm hướng giải quyết
+			- vì note trên giấy không có nên tôi sẽ bổ sung ý tưởng từ những buổi khác:
+				- Mình gánh hết bằng tiền mình kiếm
+				- Mọi người cùng góp
+				- Mọi người cùng làm việc với những thứ này và kiếm tiền
+				- Xin tài trợ như tài trợ nghiên cứu
+					- Cái nào cũng có cái khó, cái này tôi thích nhất nhưng sẽ khổ vì phải làm theo khuôn khổ nha. Còn một nguồn tài trợ nữa là gia đình nhưng tôi không nghĩ nên dùng nó, nó thiếu sự khắt khe chết người vì tâm lý của phụ huynh sẽ là cho.
+	- Kế hoạch ngắn hạn - cục bộ
+		- ##### không phải toàn cục
+		- kế hoạch này sẽ tùy phản ứng của lớp
+			- nếu đông người thì chọn lãnh đạo
+				- rồi chọn hướng phát triển
+					- rèn khả năng thuyết trình, dạy nhau
+				- cần quy định khi nào viết hoa đầu câu và khi nào không (Luận điểm, luận cứ thì viết hoa, lập luận thì viết thường) #questionrule
+			- không thì mình làm rồi ai rảnh cứ ghé
+				- chuẩn bị trước giáo trình cho bọn nó ở lại và thấy thú, không phí thời gian - học như giải trí
+-
+- Bài học từ làm phục vụ
+	- Khoai lang nhật không bỏ tủ mát, không bọc màng bọc thực phẩm
+		- nếu không sẽ bị ỉu
+-

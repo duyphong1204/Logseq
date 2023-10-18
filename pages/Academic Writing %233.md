@@ -1,0 +1,25 @@
+title:: Academic Writing #3
+
+- 20:30 tôi cũng chưa đúng lắm vì tôi nói là focus on USA nhưng để thế kia cũng được, chính xác là nó bị focus on number of endangered species
+- 20:42 no listing and structure of listing
+- 20:50 i wonder how much time people should spend, and how mr Trung used to spend
+- How much did i spent?
+- Oh i can check this in Docx record
+- 20:53 a way of torturing teacher
+- need to list and rate the mistake
+- 21:04 nếu thầy muốn chữa bài thì đừng chữa từng bài 1 và show problem quá mà nói sâu thêm về những phương diện của lỗi và cách sửa cách cải thiện,... chẳng hạn. tôi cũng chưa nghĩ ra
+- 21:11 có một tiếng để ngồi chạy bù bài mà lúc nào cũng thích chill, 15p trước giờ G lại còn bảo thôi quá tải rồi chịu.
+- 21:36 tôi quên là mỗi paragraph có một câu off topic. Chưa quen tiếng Anh và không để ý thì dễ bị bỏ qua quá
+- {{embed ((632a84cb-9e97-4688-a38e-91b25a326d0d))}}
+- {{embed ((632ad8f0-b416-47a1-90fd-8bee4d936f76))}}
+- 21:49 tôi bắt đầu quen hơn và chểnh mảng hơn hoặc ai cũng thế.
+- Paragraph 2 ngoài show off thì chỉ trần thuật họ quên gì
+- Paragraph 1 thì nhấn mạnh dramatic effect.
+- Nếu tôi là người giảng, tôi sẽ bảo camon you know the answer
+- I'm giving you chance to call someone who is off the trail
+- 21:57 may quá tôi không chat mà bị mắng
+- ừ quả thật phải xác định nó sẽ dễ nhầm sang cái gì - tư duy người viết, đặt mình vào họ lúc chọn từ
+- 22:26 tôi tập trung học một cách bình thường dù bài hôm nay dễ và chậm quá
+	- có thể hỏi thầy tại sao dù thanks to that
+- chưa phản thầy nhỉ, có lẽ chưa đủ tri thức và mệt hoặc chưa muốn vì làm thế mệt và dễ thất học
+- 22:34 viết lại hoặc biến ý, hướng triển khai, lựa chọn ví dụ, từ, cái trình bày hay hơn hoặc xem lại cả bài nay để tránh lỗi chung

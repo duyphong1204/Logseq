@@ -1,0 +1,48 @@
+title:: Le Français/madame Thu/Leçon 4
+
+- Date: Vendredi, 21 Octobre 2022
+- Từ vựng
+  collapsed:: true
+	- Le père
+	- Le papa
+	- La mère
+	- La maman
+	-
+	- Être en retraite = Être retraité
+	- As - tu des frères et soeurs
+	- petit(e)
+	- grand(e)
+	-
+	- un peu
+		- français un peu
+	- beaucoup
+	-
+	- La première
+	- La deuxième
+	- Le Brésil /lơ bré dì l/ _ brésilien(ne)
+	- correspondant(e) /co gkhes pon dongt/
+	-
+	- Le Sénégal /lơ cê nê ga l/ _ sénégalais(e)
+	-
+	- souvent
+	-
+	- chercher /séc s/ : search
+	-
+	- la lecture
+	- la nature
+	- la danse
+	- qué bécoise
+	- le sport
+	- le volleyball
+	- le golf
+	-
+	- L'Asie
+	- L'Europe
+	- L'Afrique
+	- L'Amérique
+	- L'Océanie
+	-
+	- guyanaise
+- Ngữ pháp
+	- aimer /e mê/ : yêu, thích
+-

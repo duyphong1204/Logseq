@@ -1,0 +1,38 @@
+- ![Adv_Lang_Prac_Base.pdf](../assets/Adv_Lang_Prac_Base_1662486202610_0.pdf)
+- [[incorporate]]
+- [[subtle]]
+- khi nào thì nên tra từ mới, ngay lập tức, khi đọc hết trang, sau khi học xong? vì cảm giác tra nó nhân đôi sức mệt công việc nhưng chắc cứ tra và hình thành từ điển luôn đi vì rồi dần dần nó sẽ nhẹ nợ hơn
+- ê 02:12 AM nghĩ lại, đọc lướt hơi nhanh chứ đừng nghiền ngẫm kĩ từng từ vì thế chậm và oải vãi mà thầy Trung sắp đi rồi, cái gì lớn thì hỏi, cái gì nhỏ nghiên cứu tự tìm hiểu sau chứ có hỏi thầy đâu
+-
+- sáng tìm hiểu ổ cứng
+- chiều tìm hiểu thêm rồi chọn và cân nhắc giá
+- tối link dropbox làm nơi chứa file logseq
+	- kiểm tra file ở điện thoại
+	- tải dropbox
+	- dropbox chọn ổ riêng
+	- lười mày mò tìm ổ
+	- copy logseq file từ ổ C vào dropbox
+		- tưởng mất file là do khi copy nó báo 4 tên trùng lặp là những folder mẹ
+		- tưởng nó ngu và mình phải copy thủ công
+		- nó cut thông minh phết, mới đầu bật all pages tưởng mất file nhưng rồi reset 1,2 lần nó tự up đủ
+			- hay là do phải link cả hai cái cùng lúc thì nó tự merge? vì lúc đầu mới tắt link D:/ , chuyển qua Dropbox thì chưa thấy gì còn link cả hai rồi chuyển qua ổ này, ổ kia thì lúc chuyển lại Dropbox đã thấy
+		- cũng thót tim
+	- quan trọng là directory của logseq và NAS sau này link được nhiều ổ
+		- logseq nhiều ổ
+		- NAS nhiều drive nên hoán đổi tiện hơn giao diện drive google
+		- tạo ra 2 gợi mở là bọn nó có thể dùng thư viện thông tin chung của tôi và giữ riêng nếu muốn, góp chung cũng được, chỉ cần copy về thôi nhỉ?
+	- yên tâm dropbox chắc không hết được 2GB mà hết thì tự không syn thôi.
+	- mà nghĩ lại nó khác gì lưu cloud đâu, vì không điều khiển từ xa ngoài LAN được để cóp xuống hoặc chuyển lên drive. Cùng lắm lưu file gốc nhưng phải sang nhà mình thì cũng tệ...?
+	- Tôi cũng chưa rõ hết về NAS
+	- Thế mà tôi cứ ảo tưởng mình điều khiển được sao lưu cái gì qua mạng và coi nó như máy chủ? hay bộ nhớ thì đúng
+		- 04:23 kiểu sang Pháp vẫn để NAS ở Việt Nam
+		- 04:36 ồ nó là synology, giờ đã hiểu cái hiểu nhầm và hiểu hơn về phân loại
+		- Ồ nas 1 khay còn rẻ hơn cả, nhưng chỉ có 1 khay, 2 khay thì 5 triệu
+		- còn mua 10 tb pro thì 9 triệu 5, tùy xem mày có cần pro ở cái nas cùi đó không, hay tính cho dùng hdd này cả đời, hay 5 năm rồi tìm cách bán xem được bao tiền, hi vọng được hơn 1 triệu? hay giữ làm kỉ niệm, hay ngồi nghịch phụ tùng
+		- không dùng thì 8 triệu 2 cho 10tb thường, tổng lên vẫn là 13 triệu. Độn lên 3 triệu so với dự tính mua mỗi ổ 10tb không, 7 triệu bản rẻ, hoặc mày thử xem hàng của anh Xuân mà anh Hùng add friend, có thể hỏi anh ấy dùng có chất lượng không nếu lo, ngại gì, vì tính mạng quá khứ mình
+		- Hoặc đổi sang WD của anh Lâm gửi, rẻ hơn thêm triệu. Nó phụ thuộc rất nhiều lớp mình cần không, khiếp yêu lớp quá, không thì mua bộ NAS rẻ, hoặc thích hơi phung thì mua bộ có tính năng LAN rồi dùng trong nhà cho thoải mái hoặc đi làm chung cơ quan, tổ chức như mang ra trường nhỉ. Mày tính thế mà. Chỉ sợ set up LAN có hơi mệt không? Không thì cầm SDD 1 TB đi cho lành.
+		- Tự dưng lại phải nghĩ ngợi, may tối qua chưa đặt luôn. Cứ tưởng 13 triệu chẳng mua được gì nhiều hóa ra cũng nhiều lựa chọn ghê
+		- Ok nhưng đó còn là file nhỏ kiểu tài liệu, nhưng còn kiểu nhìn tổng quan kiểu Logseq, thậm chí Map,...? Ồ khó ghê, chưa làm xong thì phải hình dung dự đoán rồi. Mua hơi sớm nhỉ
+		- Nhưng vẫn hơi lẫn nó là cùng dòng nas, hóa ra là khác hãng, chỉ là tên khác thôi, có cái syn vẫn mạng lan không?
+		-
+-

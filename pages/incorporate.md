@@ -1,0 +1,23 @@
+- #### meta
+  collapsed:: true
+	- ^^#B2^^
+	- **UK** /ɪnˈkɔː.pər.eɪt/
+	- **US** /ɪnˈkɔːr.pɚ.eɪt/
+- #### verb
+	- ##### synonym [[include]]
+	- ##### regular
+	- to include something as apart of something larger #Transitive
+		- incorporate something
+			- This aircraft incorporates several new safety features
+	- to make a [business](https://dictionary.cambridge.org/vi/dictionary/english/business), [company](https://dictionary.cambridge.org/vi/dictionary/english/company), [organization](https://dictionary.cambridge.org/vi/dictionary/english/organization) into a [corporation](https://dictionary.cambridge.org/vi/dictionary/english/corporation) (= [business](https://dictionary.cambridge.org/vi/dictionary/english/business) [protected](https://dictionary.cambridge.org/vi/dictionary/english/protected) by [specific](https://dictionary.cambridge.org/vi/dictionary/english/specific) [laws](https://dictionary.cambridge.org/vi/dictionary/english/law)) #Intransitive/Transitive
+		- incorporate an association/a business/a company
+			- The [association](https://dictionary.cambridge.org/vi/dictionary/english/association) was incorporated in 1970.*
+	- to create a legally recognized company
+		- be incorporated #OP
+			- The company was incorporated in 2008
+	-
+	-
+	-
+- #### origin
+	- late Middle English: from late Latin [[incorporat-]], from the verb incorporate, from [[in-]] + Latiin [[corporare]]
+-

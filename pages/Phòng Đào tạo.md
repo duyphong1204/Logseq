@@ -1,0 +1,13 @@
+- Đại học Ngoại ngữ
+	- Phòng Đào tạo
+		- Địa chỉ
+			- Phòng 105, 107, 108, 109 tầng 1 nhà A1
+		- Điện thoại
+			- 024 6680 8741
+			- 024 3754 8137
+		- Email
+			- daotao_dhnn@vnu.edu.vn
+			- phongdaotaoulis@gmail.com
+		- Nhân sự
+			- Trưởng phòng
+				- Nguyễn Thị Lan

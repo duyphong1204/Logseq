@@ -1,0 +1,51 @@
+title:: Deadlines _ Tuần 1-5->7-5
+
+- ~~Cái này là đã hoàn thành~~
+- ~~**Cái này tức bị hủy, mình sẽ in đậm để chú ý mà làm bù trong tương lai vì nó vẫn quan trọng**~~
+- ---
+- ## Random
+	- Mua điện thoại
+	- ~~Sửa điện thoại~~
+	- ~~**Ăn với tổ**~~
+	- ~~Cắt tóc~~
+	- ~~Đi ăn mừng em Mai đạt aim~~
+	- Xem phim với Sunny
+	- Nghiên cứu của Diệp
+	- Tool của Thanh
+	- Quan sát nghiên cứu tư liệu về Chu
+	- Mua quần áo
+	- ~~Uống cồn~~
+- ## Learning
+	- Tiếng Pháp
+		- ~~Đọc lại hết sách~~ (75%)
+		- Đọc lại hết vở
+		- Viết
+	- Public Speaking
+	- Business and Communication
+	- Language and Media
+	- Skills for University Success
+	- Triết
+		- ôn, đọc trước bài
+		- làm sách bài tập
+	- Cơ sở văn hóa
+		- ôn, đọc trước bài
+- ## Studies
+	- Lẽ thường
+	- Điện ảnh
+	- Nhiếp ảnh
+	- Mỹ thuật
+	- Sư phạm
+		- Tiếng Anh (nghiên cứu cách dạy và đọc nhiều học liệu tiếng Anh)
+		- Văn với cô Loan
+	- Thử tìm hiểu lại về ngành và trường đi du học
+	- Mượn Thanh đọc bài nghiên cứu
+- ## Data
+	- ~~Dọn data ở HoLa~~ (50%)
+	- Dọn và sắp xếp data trong quá khứ
+		- Tổng hợp thành chuyên đề
+	- Biên tập
+		- Nhật ký ở Chu
+- ## Income
+	- Giúp bố
+- Mình nghĩ có thể tìm mua cho Lã cái chân cắm và tai nghe mới? hỏi nó muốn, cần không, dùng nhiều không. Không nhất thiết phải tai chụp. Không dây bây giờ cũng không quá đắt, nhưng sẽ đắt hơn chụp chất lượng mà
+- Và mình cũng nên tổng hợp lại đích phấn đấu chứ mấy cái deadlines này chỉ là nhất thời thôi, nên biết ta sẽ làm gì đi đâu cần dành thời gian cho các gì, (bắt đầu tổng hợp từ thứ xa xôi nhất là Nhật ký ở Chu. Make sense? nó là một dạng note nữa mà, note tư tưởng, quá khứ và ước mơ) phản tư, phân phối và thậm chí áp dụng như những bài luận chỉ làm riêng về việc áp dụng cái này vào cái này. Còn phân tích lẽ thường, áp cái gì chưa biết, học hỏi từ bài kia sau. Nên có phương pháp phân tích đánh giá, dù chỉ cơ bản theo mô hình nào đó.

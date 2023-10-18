@@ -1,0 +1,23 @@
+- Đại học Ngoại Ngữ
+	- Phòng Chính trị & Công tác HSSV
+		- Địa chỉ
+			- Phòng 106, 110, 304 tầng 1 nhà A1
+		- Điện thoại
+			- 024 6686 3316
+		- Email
+			- hssb.dhnn@vnu.edu.vn
+		- Nhân sự
+			- cô Như Anh
+				- làm MC [[Chuyên đề "Tự hào là Uliser"]]
+		- Nhiệm vụ
+			- Thiết kế [[Sổ tay sinh viên]]
+				- như một cuốn cẩm nang
+	- Trung tâm Hỗ trợ sinh viên
+		- {{embed ((ffb5e8a6-98ef-4e90-b146-066fb6175124))}}
+		- Địa chỉ
+			- Phòng 304 nhà A1
+		- Điện thoại
+			- 091 148 9911
+		- Email
+			- ulis.hotrosinhvien@vnu.edu.vn
+		-

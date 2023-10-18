@@ -1,0 +1,4 @@
+- những bài hát như nhìn những mùa thu đi khá khó hiểu, không biết ngôn từ này dạng gì, dạng thích tạo bí hiểm, hay dạng gợi triết lí nên phải trừu tượng, hay dạng như tôi hồi xưa là viết để riêng mình nhớ
+- nhưng nó thiếu tính tự sự, mà lại đầy cái vẻ trông như một ngày nào đó ta vô tình bắt được một cảm xúc nào, ta in nó vào trong thi ca.
+	- không hiểu cơ sự gì khiến ta ra nông nỗi đó
+	- tự hỏi luôn, dựa vào lời không truy xuất được nguồn gốc, bí ẩn lắm

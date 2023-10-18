@@ -1,0 +1,3 @@
+- Cái hay là ở lời, khi ta không ngờ đến có những thứ không nói lại nói được nhiều hơn là nói, không chỉ là lúc giận (nghe nhan đề như thể giận dỗi, tôi luôn hình dung lúc Mthao giận tôi, hoặc mấy đứa con gái. Giận không nói khiến người ta rơi vào nhà tù lương tâm và phản tư)
+- nhưng tình yêu bình dị cũng có những cử chỉ hơn lời mà
+- tại sao không nhớ? ít đến mqh yêu, có yêu cũng ít trải?

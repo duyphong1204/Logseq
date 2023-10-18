@@ -1,0 +1,67 @@
+speaker:: Lê Vân Thy
+
+- Context: nó khác với tư tưởng yêu đương của tao (mà giới trẻ ngày nay hay có)
+- Chuyện hôm nay
+- Tư tưởng về tình yêu của Phong:
+	- 1 thời t từng đi tán gái dạo coi như một trap boy
+	- t mong một tình cảm thủy chung
+	- nên đó cũng là cách tao chọn người yêu
+- mập mờ nó trở nên được chấp nhận
+	- biểu hiện: người ta cởi mở không phán xét nhau hơn
+	- maybe người ta cần mập mơ như mấy bi kịch trong văn học
+- nhiều người thực hành mập mờ hơn
+- quan niệm về tình yêu của giới trẻ ngày nay khác xưa
+-
+- Mập mờ là gì
+	- Định nghĩa:
+	- Cơ sở: Người ta cần tình cảm nhưng không có đủ/không muốn trách nhiệm, thời gian
+		- thời gian tiền bạc quan trọng hơn quan hệ
+	- Nó vui
+	- Một số người sống ích kỉ sẽ chọn mập mờ để không thay đổi
+		- bỏ ra ít mà nhận lại đủ, đôi khi nhiều
+	- Phong add on: nó giống friends with benefits or a beneficial friend (người bạn trân quý mình, trên tình bạn dưới tình yêu nhưng không phải mập mờ)
+		- có khi có thêm lợi ích là không mất quan hệ như chia tay sẽ mất quan hệ
+	- Có lẽ vấn đề mãi mãi k ở mập mờ, mập mờ là hình thức còn thực sự là vấn đề về cảm xúc con người (tsao người ta thích)
+	- **Vấn đề về mập mờ là có khả năng nó sẽ hết vui**
+		- Thy từng bị nghiệp quật
+	- Làm sao biết là mình đang mập mờ
+	- Làm sao để biến mập mờ thành yêu (vì thực tế yêu đương là quá trình đằng sau mập mờ)
+	- Ý nghĩa gì, Ích gì, vị trí gì cho một tình yêu chân chính?
+		- *Vì nó thực sự hạnh phúc chứ không chỉ vui*
+			- maybe, một vẻ đẹp không thể cưỡng lại, hi vọng nó không phải chiếc thuyền ngoài xa
+		- có lẽ vấn đề này liên quan đến xã hội ngày nay bận (hoặc tùy thời điểm mỗi con người)
+		- hoặc ai đó làm tình yêu chân chính xấu đi
+	- Không đạt được có thể đơn giản bởi không thích chứ chưa chắc đã là do coi mình là mập mờ
+- **Giá trị của văn chương**
+	- Nó không có giá trị hằng mà là giá trị tại 1 thời điểm
+	- Văn chương không phán xét
+	- Văn chương giúp đồng cảm
+	- Văn chương chữa lành
+- => Giá trị tinh thần, động lực, vỗ về
+- Văn chương có giá trị riêng ở chính nó và khi so với các loại nghệ thuật, hình thức nói chuyện con người
+	-
+- **Giá trị của cảm xúc con người (không thủy chung và sòng phẳng)**
+	- ai cũng xứng đáng được yêu
+- bản chất con người không thủy chung, bản chất cảm xúc là thế...
+- tôi giống thy nma tôi k thích nó
+- tôi là trai, tôi cần tình, k chỉ mỗi tình cảm, bọn con gái như lã có lúc cần chỗ dựa nma chúng tôi k mập mờ nhau
+- yeah maybe ng mình yêu tha thiết k phải cách hướng tới tình yêu. nma rồi mình yêu tình yêu hay yêu ngta
+- tại kiểu nhiều lúc tôi nghĩ là nếu k phải mthao thì k ai yêu tôi và tôi cũng k yêu đc ai. mthao khó nma còn là only chance
+-
+- hồi xưa đc như này khó, vì tôi k có vốn để nói với bọn nó sâu, nhưng tôi lại muốn sâu như thế.
+- lớp mình thú vị thật. k phải mới mà trc h vẫn thế
+- tôi nghĩ cách là nếu mthao và tôi cùng lsi tưởng thì có thể cưới nhau, chỉ là dạo này nó chưa thích nghĩ đến yêu dài lâu, còn kiểu girl bth vì nó muốn sự bth và nó act like bth nên tôi sẽ đợi và vin vào hướng đó
+- nma thực tế vde từ việc nó cảm thấy gì
+	- thế thì thao túng tâm lý à, thế maybe hơi chán, coi là hạn hẹp nội tâm
+- như lớp tôi bảo bọn nó kbh thấy tôi đẹp trai (most time, và k thích được như cách thích ng khác)
+- well thực tế có 8 tỷ ng nhưng m có bao nhiêu người là người yêu. người yêu mày, người mày yêu, và cả hai là người yêu.
+- tôi quên cả giá trị của việc hỏi lsao để có đc những người như này, để tìm đc đúng người (ít nhiều tôi đã hỏi trên discord)
+- k phải vì mệt mà vì cảm xúc lúc này
+- và tôi cũng hạn chế hứng thú với bọn nó dù bọn nó rất thú vị, tôi mất trái tim hứng thú với thy rồi. y cách nãy thy nói
+- tôi bị cuốn và xử lí mỗi vde xưa: lsao để tán mthao hơn là hỏi ý kia: giải đc và tìm được giá trị cho chân chính thì tìm được cách có nhiều lựa chọn hơn trên thế giới, đấy là suy nghĩ tìm cách chọn ai khác để yêu ngoài mthao.
+- đm sao nó trl nhanh và tốt thế
+-
+- bổ sung: cái ý đừng vì một sự kiện mà giữ hi vọng, kì thực Linh Chi cũng đã nhắc tôi nhiều
+	- và khoa học đã chứng minh, một hành động không nói lên cho tất cả mọi thứ
+	- nhưng lòng lạ kì vẫn không buông và để yêu quả thực người ta cần nhiều hơn một sự rung động
+	- dù thế nào cũng vậy thôi, không quan trọng mày kể, mày tả mày chứng minh được bằng văn như nào

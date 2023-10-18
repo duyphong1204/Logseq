@@ -1,0 +1,181 @@
+meta:: ((647fbd88-5a79-41c1-9860-08fe34cb9fb4)) (tr 54 - 65)
+
+- ---
+- # Giao lưu và tiếp biến trong văn hóa Việt Nam
+	- ## Từ cơ tầng văn hóa Đông Nam Á
+	  collapsed:: true
+		- Muốn nghiên cứu sự giao lưu và tiếp biến trong văn hóa Việt Nam cần hiểu nền tảng tạo ra những yếu tố nội sinh của văn hóa Việt Nam.
+		- Nền tảng ấy chính là cơ tầng văn hóa Đông Nam Á
+			- khái niệm vùng Đông Nam Á trong thuật ngữ này rộng hơn nhiều so với vùng Đông Nam Á theo quan niệm của các nhà địa lí hiện đại
+			- bởi lẽ, hiện tại vùng Đông Nam Á có 10 nước: Việt Nam, Lào, Campuchia, Thái Lan, Myanma, Malaixia, Inđônêxia, Philippin, Brunây, Xingapo
+			- nhưng ở vào thời tiền sử, vùng Đông Nam Á
+				- là vùng đất có ranh giới phía bắc tới bờ sông Dương Tử (Trung Quốc),
+				- phía nam đến tận quần đảo Nam Dương (Inđônêxia)
+				- phía tây kéo đến tận biên giới bang Át Xâm của Ấn Độ
+				- phía đông là cả một thế giới bán đảo và đảo nằm cạnh châu Đại Dương.
+			- dựa vào cứ liệu của các ngành nhân loại học, dân tộc học, ngôn ngữ học, ngành khoa học nhân văn đã xác định được vùng Đông Nam Á có một cơ tầng văn hóa riêng biệt, phi Hoa, phi Ấn
+				- không phải như học giả Anh Anthony Christie trong Dawn of Civilisation : Đông Nam Á chẳng có gì sáng tạo đáng kể.... ngoài trống đồng và có thể kể thêm cái nơm úp cá!
+		- Trên vùng Đông Nam Á thời tiền sử, người Hômôsapiêns, hậu duệ của cư dân Pithropoid, không rõ khi nào, đã phân hóa thành các đại chủng Môngôlôit và Ôxtralôit.
+			- các đại chủng này sống trên đại lục châu Á.
+			- vùng Đông Nam Á là nơi đại chủng Ôxtralôit cư trú
+			- những cư dân này đã sáng tạo nên nền văn hóa của mình, nền văn hóa đó có cội nguồn và bản sắc riêng, đã phát triển liên tục trong lịch sử
+				- đó là phức thể văn hóa lúa nước với ba yếu tố
+					- văn hóa núi
+					- văn hóa đồng bằng
+					- văn hóa biển
+					- trong đó yếu tố đồng bằng tuy có sau nhưng đóng vai trò chủ đạo
+		- Cơ tầng văn hóa chung ấy được tạo ra từ nhiều yếu tố
+			- trước hết, cư dân cổ vùng Đông Nam Á đã chuyển từ trồng củ sang trồng lúa từ khoảng thế kỉ VI, V, IV trước công nguyên
+				- tùy theo địa bàn định cư mà người ta trồng lúa nước hay lúa cạn
+			- trâu bò, nhất là trâu đã được thuần hóa và được dùng để làm sức kéo
+			- kim khí, chủ yếu là đồng và sắt đã được dùng để chế tạo công cụ, vũ khí, dụng cụ nghi lễ.
+			- cư dân thành thạo trong nghề đi biển
+			- người phụ nữ có vai trò quvết định trong mọi hoạt động của gia đình, một cộng đồng xã hội nhỏ
+			- đời sống tinh thần của cư dân vẫn ở dạng bái vật giáo với việc thờ các thần
+				- thần đất
+				- thần nước
+				- thần lúa
+				- ngoài ra là tục thờ mặt trời, thờ cây, thờ đá, thờ hổ, thờ cá sáu v.v...
+			- tổ tiên được thờ phụng
+			- đáng lưu ý là quan niệm về tính chất lưỡng phân, lưỡng hợp của thế giới của cư dân thời kỉ này
+			- đồng thời là việc sử dụng các ngôn ngữ đơn tố có khả năng phát sinh phong phú bằng tiến tố, hậu tố và trung tố...
+		- Những yếu tố nội sinh của văn hóa Việt Nam mang những đặc điểm chung của cơ tầng văn hóa Đông Nam Á như vậy, trong chừng mực nào đó, ý kiến của GS Phạm Đức Dương là chính xác với khía cạnh này
+			- Việt Nam là một Đông Nam Á thu nhỏ có đủ ba yếu tố văn hóa núi, đồng bằng và biển, có đủ các sắc tộc thuộc các ngữ hệ Autroasiatique, Tibeto-birman
+			- Cùng như các nước Đông Nam Á, Việt Nam là một quốc gia đa dân tộc, nhưng ở đây, người Việt đóng vai trò chủ thể
+			- Đó là một cộng đồng tộc người làm ruộng nước được hình thành trong quá trình khai phá vùng châu thổ sông Hồng
+	- ## Giao lưu và tiếp biến với văn hóa Trung Hoa
+	  collapsed:: true
+		- Khi nhìn văn hóa Trung Hoa, trong sự đồng đẳng với văn hóa Việt lại phải chú ý, ranh giới của văn hóa Trung Hoa không trùng với địa giới Trung Hoa hiện tại
+			- khoảng 500 năm trước công nguyên trở vế trước, Hoa Nam chưa thuộc về lãnh thổ của đế chế Trung Hoa - Chu - Tần - Hán
+			- giáo sư Mỹ W. Eberhand khi viết về các nền văn hóa địa phương ở Nam và Đông Trung Hoa đề cập đến Hoa Nam thời cổ, ông đã gọi là Prechinese China (Trung Hoa trước người Hoa)
+				- đây là địa bàn của các tộc người phi Hoa, quê hương của các tộc người nói tiêng Tày - Thái, Mèo - Dao, Tạng - Miến, Môn - Khơme, nói khác đi là địa bàn của cư dân Bách Việt.
+		- Sự giao lưu tiếp biến giữa văn hóa Việt Nam và văn hóa Trung Hoa là sự giao lưu, tiếp biến rất dài trong nhiêu thời kì của lịch sử Việt Nam
+			- cho đến hiện nay, không một nhà văn hóa học nào lại phủ nhận ảnh hưởng lớn của văn hóa Trung Hoa đối với văn hóa Việt Nam
+		- Quá trình giao lưu tiếp biến ấy diễn ra cả hai trạng thái
+			- giao lưu cưỡng bức
+			- giao lưu không cưỡng bức.
+		- Trước hết là giao lưu văn hóa một cách cưỡng bức
+			- việc này xảy ra vào những giai đoạn lịch sử mà người Việt bị đô hộ, bị xâm lược
+				- từ thế kỉ I đến thế kỉ X và từ 1407 đến 1427
+					- suốt trong thiên niên kỉ thứ nhất sau công nguyên
+						- hay thời kì mà các nhà viết sử gọi là thời kì Bắc thuộc
+						- người Hán tổ chức được nền đô hộ
+							- ngoài việc bóc lột ở Giao Châu về mọi phương diện
+							- bộ máy cai trị của người Hán thực hiện chính sách đồng hóa tiêu diệt văn hóa của cư dân bản địa
+							- câu hỏi lớn nhất của lịch sử đặt ra cho người Việt là giữ gìn bản sắc văn hóa dân tộc
+							- trong một thiên niên kỉ Hán hóa, đây quả là một việc không dễ dàng bỏ
+								- kẻ xâm lược thì muốn đồng hóa
+								- người bị xâm lược thì chống đồng hóa
+								- văn hóa Việt luôn đứng trước một thử thách lớn lao và gay gắt với câu hỏi tồn tại hay không tồn tại
+							- chắc là người Việt đã chống lại một cách quyết liệt chính sách đồng hóa cứa quan lại người Hán
+				- giao lưu văn hóa cưỡng bức còn xảy ra lần thứ hai từ 1407 đến 1427
+					- đây là giai đoạn nhà Minh xâm lược và cai trị Đại Việt
+					- trong số các kẻ thù xâm lược từ phương Bắc, giặc Minh là kẻ thù xâm lược tàn bạo nhất đối với văn hóa Đại Việt
+					- lệnh của Minh Thành tổ với Trương Phụ khi viên tướng này vào xâm lược Đại Việt là bằng chứng tiêu biểu cho điều này
+					- chống lại chủ trương đống hóa người Việt của nhà mình lại là công việc không đơn giàn của cả dân tộc Việt giai đoạn này.
+		- Mặt khác, giao lưu, tiếp biến văn hóa một cách tự nguyện lại là dạng thức thứ hai của quan hệ giữa văn hóa Việt Nam và văn hóa Trung Hoa.
+			- trong nền văn hóa Đông Sơn, người ta đã nhận thấy khá nhiều di vật của văn hóa phương Bắc nằm cạnh những hiện vật của văn hóa Đông Sơn
+				- chẳng hạn những đồng tiền thời Tần Hán, tiền Ngũ thù đời Hán, các dụng cụ sinh hoạt của quý tộc Hán như gương đống, ấm đồng,...
+				- có thể những sản phẩm ấy là kết quả của sự trao đổi, thông thương giữa các nước láng giềng.
+			- sau một ngàn năm Bắc thuộc, đất nước đã độc lập, người phương Bắc không cai trị Đại Việt nữa, nhưng giao lưu, tiếp biến văn hóa vẫn xuất hiện và đó là giao lưu văn hóa tự nguyện
+				- sự mô phỏng mô hình Trung Hoa được các triều đại của nhà nước quân chủ Đại Việt đẩy mạnh
+					- nhà Lý, về tổ chức xã hội, chính trị lấy cơ chế của Nho giáo làm gốc, và vẫn chịu ánh hưởng rất đậm của Phật giáo
+					- nhưng từ nhà Trần, nhà Lê, đã hoàn toàn tự nguyện và chịu ảnh hưởng của Nho giáo rất đậm, cụ thế là Tống Nho, quả là:
+						- "trong một thời gian dài, Nho giáo được coi là ý thức hệ chính thống"
+			- Cả hai dạng thức của giao lưu, tiếp biến văn hóa cưỡng bức và tự nguyện của mối quan hệ giữa văn hóa Việt Nam và văn hóa Trung Hoa đếu là nhân tố cho sự vặn động của văn hóa Việt Nam qua diễn trình lịch sử ! Người Việt đã tạo ra khá nhiều thành tựu trong quá trình giao lưu văn hóa này.
+		- Thời Bắc thuộc, với sự giao lưu với phương Bắc
+			- người Việt đã tiếp nhận kĩ thuật rèn đúc sắt và gang, kinh nghiệm chất đá làm để ngăn sóng biển, kĩ thuật dùng phân mà dân gian vùng châu thổ Bắc Bộ gọi là "phân bắc",...
+			- đáng lưu ý là việc tiếp nhận chữ Hán, mặc dù tiếng Việt và tiếng Hán là hai thứ tiếng thuộc hai ngữ hệ khác nhau
+				- một nghìn năm Bắc thuộc cũng là một nghìn năm tiếng Việt biến đổi theo xu hướng âm tiết hóa và thanh điệu hóa
+				- nhưng, tiếng Việt vẫn là tiếng Việt
+				- mà người Việt không bị người Hán đồng hóa về mặt tiếng nói.
+		- Thời quân chủ, nhất là từ thế kỉ XV đến thế kỉ XIX
+			- các triều đại đã mô phỏng mô hình Trung Hoa, trên cơ tầng văn hóa Đông Nam Á, lại thường xuyên phải giữ độc lập dân tộc, chống xâm lược từ phương Bắc
+			- ngoài mô hình chính trị, người Việt còn tiếp nhận nhiều thành tố văn hóa khác
+			- Kết quả của sự giao lưu ấy, tạo ra ở Việt Nam một mô hình tổ chức xã hội vừa giống vừa khác mô hình tổ chức xã hội của giai cấp phong kiến Trung Quốc về sở hữu ruộng đất, chế độ bóc lột địa tô và về hệ tư tưởng
+				- bản thân hệ tư tưởng Nho giáo của giai cấp phong kiến Trung Quốc cũng khác hệ tư tưởng Nho giáo ở Việt Nam
+					- bởi Nho giáo ở Việt Nam đã có một độ khúc xạ rất lớn
+						- do những đặc điểm lịch sử - xã hội ở Việt Nam
+	- ## Giao lưu và tiếp biến với văn hóa Ấn Độ
+	  Khác với Trung Hoa có biên giới đường bộ với Việt Nam, Ấn Độ không có sự tiếp giáp trực tiếp với Việt Nam, nhưng nền văn hóa Ấn Độ lại có ảnh hưởng sâu đậm đến văn hóa Việt Nam
+		- trên nhiều bình diện, văn hóa Ấn Độ "thẩm thấu"
+			- chữ dùng của GS, TS. Phạm Đức Dương - bằng nhiều hình thức và liên tục.
+	- Khi xem xét mối quan hệ, giao lưu và tiếp biến giữa văn hóa Việt Nam và văn hóa Ấn Độ, cần thấy, quá trình mức độ của quan hệ giao lưu này có khác nhau qua các thời kì lịch sử và các không gian văn hóa.
+	- Trong giai đoạn đầu tiên của thiên niên kỉ đầu sau công nguyên, trên dải đất Việt Nam hiện nay có ba nền văn hóa:
+		- văn hóa Việt ở Bắc Bộ
+		- Chămpa ở Trung Bộ
+		- Óc Eo ở Nam Bộ
+	- Sự giao lưu, tiếp biến văn hóa của văn hóa Ấn Độ với ba nến văn hóa này khác nhau.
+		- trước công nguyên, nguyên nhân thúc đẩy người Ấn Độ thông thương buôn bán với cư dân Đông Nam Á, trong đó có cư dân của ba nền văn hóa trên là việc buôn bán vàng, sau khi việc buôn bán với thế giới La Mã bị cấm.
+		- thứ nhất là văn hóa Óc Eo
+			- sự biến mất của nền văn hóa này vào thế kỉ VIII làm cho chúng ta hôm nay khó dựng lại được diện mạo của nó, vì thế tìm hiểu ảnh hưởng của văn hóa Ấn Độ không phải là việc dễ dàng
+			- tuy nhiên, các nhà nghiên cứu đã khẳng định
+				- nền văn hóa Óc Eo là nền văn hóa của "một quốc gia ngay từ buổi đầu đã được xây dựng trên cơ sở một nền nông nghiệp trổng lúa nước khá phát triển bắt nguồn từ vùng ruộng nương trung nguyên sông Cửu Long của cư dân Môn - Khơme kết hợp với nghề biển cổ truyền của cư dân Nam Đảo. Trên cơ tầng đó, các đạo sĩ Bàlamôn từ Ấn Độ đã tổ chức một quốc gia mô phỏng theo mô hình Ấn Độ trên tất cả các mặt: tổ chức chính trị, thiết chế xã hội, đô thị hóa, giao thông, kĩ thuật công nghiệp cùng một hệ thống tôn giáo và các nền văn hóa kèm theo, trong đó đạo Bàlamôn đóng vai trò chi phối; đạo pháp Bàlamôn là tối thượng, chữ Brahmi của Sanscrit là chữ thánh hiền".
+		- thứ hai là nền văn hóa Chămpa
+			- nhận xét về quan hệ giữa văn hóa Chămpa và văn hóa Ấn Độ, TS. Ngô Văn Doanh khẳng định:
+				- "một điều không thể phủ nhận được là những ảnh hưởng Ấn Độ đã góp một phần cực kì quan trọng vào quá trình hình thành ra vương quốc Chămpa cũng như một nền văn hóa phát triển rực rỡ và đẩy bản sắc - văn hóa Chămpa. Có điều ấy là kết quả của một quá trình giao lưu, tiếp xúc văn hóa giữa văn hóa Ấn Độ và văn hóa Chămpa. Người Chăm tiếp nhận mô hình văn hóa Ấn Độ từ việc xây dựng một chế độ vương quyền đến việc tạo dựng mọi thành tố của nền văn hóa Chămpa. Nhưng ở đây cũng lại có một độ khúc xạ khá lớn giữa văn hóa Ấn Độ và văn hóa Chămpa, chẳng hạn như ở khía cạnh tôn giáo, chữ viết, đẳng cấp xã hội,..."
+		- thứ ba là nền văn hóa Việt ở châu thổ Bắc Bộ
+			- trước khi văn hóa Ấn Độ tràn vào, văn hóa Việt đã định hình và phát triển
+				- người Việt ở đây tiếp nhận văn hóa Ấn Độ vừa trực tiếp, vừa gián tiếp.
+				- những thế kỉ đầu công nguyên, châu thổ Bắc Bộ là địa bàn trung chuyển văn hóa Ấn Độ, nhất là tôn giáo
+					- các nhà sư từ Ấn Độ đi qua Luy Lâu (nay thuộc Thuận Thành, Bắc Ninh) để rồi tìm đường lên phương Bắc
+					- các nhà sư Trung Quốc sang Ấn Độ tìm kinh cũng qua Luy Lâu, coi đây là trạm dừng chân
+				- người Việt tiếp nhận văn hóa Ấn Độ trong hoàn cảnh rất đặc biệt
+					- họ đối mặt với văn hóa Hán, vừa tiếp nhận văn hóa Hán, vừa lo đối phó với chính trị
+						- bởi vậy, ảnh hưởng của văn hóa Ấn Độ chỉ diễn ra trong tầng lớp dân chúng, nhưng lại có sức phát triển rất lớn
+							- Giao Châu trở thành trung tâm Phật giáo lớn ở Đông Nam Á...
+							- người Việt thích ứng và tiếp biến đạo Phật một cách dung dị vào cơ tầng văn hóa bản địa
+								- bởi đạo Phật vốn có tinh thần bình đẳng và bác ái, chủ trương dân chủ, không đẳng cấp
+							- với tín ngưỡng đa thần, người Việt dễ dàng tiếp nhận Phật giáo Đại thừa
+								- mặc dù có thời gian, Phật giáo Tiểu thừa đã ngự trị khá vững chắc ở châu thổ Bắc Bộ
+								- vì thế, có thể nói, ngay từ buổi đầu, ở Bắc Bộ, Phật giáo đã có tính chất dân tộc
+		- Tựu trung, việc giao lưu, tiếp biến giữa văn hóa Việt Nam và văn hóa Ấn Độ, qua từng thời kỉ lịch sử và ở từng vùng đất diễn ra khác nhau, nhưng cơ bản là giao lưu, tiếp biến một cách tự nhiên, tự nguyện.
+- ## Giao lưu và tiếp biến với văn hóa phương Tây
+	- Không phải đến khi người Pháp vào xâm lược, giao lưu giữa văn hóa Việt Nam và văn hóa phương Tây mới diễn ra
+		- bởi trong văn hóa của cư dân Óc Eo, người ta đã nhận thấy nhiều di vật của các cư dân La Mã cổ đại:
+			- 2 huy chương hay tiền La Mã, một vật thời Antonies (152 năm sau công nguyên)
+			- 1 vật thời Marcus Anrelius (161-180 sau công nguyên...)
+		- những di vật đó nói lên rằng Óc Eo đã có những quan hệ thương mại quốc tế rộng rãi
+			- bởi thế kỉ XVI, các linh mục phương Tây đã vào truyền giáo ở vùng Hải Hậu (nay thuộc tỉnh Nam Định)
+			- và chúa Trịnh vua Lê ở Đàng Ngoài cũng như các chúa Nguyễn ở Đàng Trong
+			- rồi nhà Tây Sơn đều có quan hệ với phương Tây
+		- tuy nhiên, quan hệ thực sự diễn ra vào nửa sau thế kỉ XIX, khi thực dân Pháp đánh chiếm cửa Cần Giờ và đặt cách cai trị lên dân tộc Việt Nam.
+			- đây là thời kì biến động lớn về tư tưởng và chính trị, đồng thời văn hóa Việt Nam cũng có sự thay đổi căn bản
+		- nhìn ở phương diện tính chất giao lưu văn hóa ở thời kì này có hai dạng:
+			- thứ nhất là giao lưu một cách cưỡng bức, áp đặt
+			- thứ hai là tiếp nhận một cách tự nguyện.
+	- Về phía người Pháp, đội quân đi xâm lược và đô hộ rất có ý thức dùng văn hóa như một công cụ cai trị nên bị người dân Việt, phản ứng một cách quyết liệt
+		- có thể thấy thái độ ấy của các nhà nho yêu nước ở Nam Bộ hồi cuối thế kỉ XIX
+			- như Nguyễn Đình Chiểu
+			- Trương Công Định
+			- Nguyễn Trung Trực
+		- vì vậy, người Việt chống lại cả văn hóa mà đội quân đi xâm lược định áp đặt cho họ
+		- số phận của chữ Quốc ngữ trong giai đoạn này chính là nằm trong thái độ ấy
+		- tuy nhiên với người Việt, vận mệnh dân tộc là thiêng liêng nhất, bằng thái độ cởi mở, họ đã tiếp nhận những giá trị, những thành tố văn hóa mới
+			- miễn sao chúng có tác dụng hữu ích trong công cuộc chống ngoại xâm, giành lại độc lập dân tộc
+			- vì thái độ đối với chữ Quốc ngữ trong giai đoạn này của các nho sĩ chính là biểu hiện cho điều ấy.
+	- Quá trình giao lưu và tiếp xúc của văn hóa Việt Nam và văn hóa phương Tây giai đoạn này đã khiến người Việt Nam thay đổi cấu trúc lại nền văn hóa của mình, đi vào vòng quay của văn minh phương Tây giai đoạn công nghiệp
+	- Diện mạo văn hóa Việt Nam thay đổi trên các phương diện:
+		- thứ nhất là chủ Quốc ngữ, từ chỗ là loại chữ viết dùng trong nội bộ một tôn giáo được dùng như chữ viết của một nền văn hóa
+		- thứ hai là sự xuất hiện của các phương tiện văn hóa như nhà in, máy in ở Việt Nam,...
+		- thứ ba là sự xuất hiện của báo chí, nhà xuất bản.
+		- thứ tư là sự xuất hiện của một loạt các thể loại, loại hình văn nghệ mới như tiểu thuyết, thơ mới, điện ảnh, kịch nói, hội họa,...
+	- Điều đáng quan tâm là sự cấu trúc lại nền văn hóa có những đột biến như mô hình:
+		- ((64be60b2-533c-412a-883f-39080cf8cb3c))
+			- và bản sắc văn hóa dân tộc chính là việc Việt hóa các yếu tố ngoại sinh, khiến cho nó có độ khúc xạ
+	- Như vậy cuộc giao lưu, tiếp biến giữa văn hóa của Việt Nam và văn hóa phương Tây diễn ra trong hoàn cảnh nhân dân ta một mặt phải tiến hành cuộc đấu tranh chống chủ nghĩa thực dân giành độc lập dân tộc, mặt khác phải tiếp nhận nén văn hóa phương Tây để hiện đại hóa đất nước
+		- nơi đây tiếp biến văn hóa được diễn ra trên bình diện tiếp xúc Đông-Tây với hai hệ quy chiếu dường như đối lập
+		- cuộc gặp gỡ ấy tỏ ra rất "trái khoáy” không có gì là thú vị, ấy thế mà chỉ trong thời gian tương đối ngắn (so với sự tiếp xúc văn hóa giữa các nước Đông Nam Á với Trung Hoa và Ấn Độ) nền văn hóa của các quốc gia tại đây đã được cấu trúc hóa lại dẫn tới việc các nước này từng bước "rời bỏ phương thức sản xuất châu Á" tức là nền văn minh nông nghiệp truyền thống để đi vào quỹ đạo của nền văn minh công nghiệp phương Tây.
+		- Kết quả là văn hóa Việt Nam giai đoạn này thay đổi diện mạo nhưng văn hóa Việt Nam không hể đánh mất bản sắc dân tộc.
+- ## Giao lưu và tiếp biến trong giai đoạn hiện nay
+	- Từ sau Cách mạng tháng Tám năm 1945 thành công, việc giao lưu và tiếp biến văn hóa có sự thay đổi rất rõ nét so với các giai đoạn trước
+	- Với quan điểm mà đồng chí Đỗ Mười đã tuyên bố tại Đại hội đại biểu toàn quốc lần thứ VII của Đảng cộng sản Việt Nam: Việt Nam muốn làm bạn với tất cả các nước, hoàn cảnh lịch sử của giao lưu và tiếp biến văn hóa đã thay đổi vẽ nhiều phương diện:
+		- thứ nhất sự tiến bộ của các ngành khoa học kĩ thuật, đặc biệt là sự bùng nổ của công nghệ thông tin khiến cho văn hóa, các sản phẩm văn hóa càng đa dạng và phong phú
+			- nói khác đi, giao lưu và tiếp biến văn hóa là giao lưu tiếp biến văn hóa ở thời đại tin học
+			- lịch sử hôm nay có những hình thức sản phẩm giao lưu mà trước kia chưa có, phương tiện giao lưu văn hóa lại đa dạng, phong phú
+		- thứ hai, công cuộc đổi mới và mở cửa hôm nay hoàn toàn do dân tộc Việt Nam chủ động dưới sự lành đạo của Đảng Cộng sản Việt Nam khiến cho việc giao lưu văn hóa là hoàn toàn tự nguyện, chủ động, không hề bị áp đặt hay cưỡng bức
+	- Tựu trung, việc giao lưu, tiếp biến văn hóa ở giai đoạn hiện nay vừa có tính cấp thiết, lại nhanh chóng và đa dạng, đồng thời cũng phức tạp hơn xưa
+	- Kết quả của công cuộc giao lưu này đã khiến cho chúng ta thu được những kết quả khả quan trên nhiều lĩnh vực từ kinh tế đến xã hội, từ khoa học công nghệ đến văn hóa thông tin.
+	- Tuy nhiên, công cuộc giao lưu ấy cũng đặt văn hóa Việt Nam trước những thách thức mới, đòi hỏi việc giữ gìn bản sắc văn hóa dân tộc cảng phải tiến hành khấn trương, khoa học và kiên quyết hơn.
+- ---
+- Wait what about các làn sóng Nhật Hàn rồi còn gì nữa... mấy cái nhỏ bé hiện đại đấy cũng vui mà, còn mấy cái cổ thì không kể vui như văn minh Lưỡng Hà được

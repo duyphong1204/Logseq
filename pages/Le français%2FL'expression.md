@@ -1,0 +1,59 @@
+- L'expression de la cause
+  id:: 650389ce-723c-4931-bbc6-2a56513bd7b5
+-
+- L'expression de la conséquence (indicatif)
+- L'expression du but (subjonctif)
+	- afin que + V(subjonctif)
+	- de crainte que
+	- ne: hư từ
+	- pour/afin de + N
+	- pour que + V(subjonctif)
+	- être au courant de + N
+- L'expression du temps
+	- depuis:
+	- il y a
+	- dès
+	- dans
+	- en/pendant
+	- pour
+	- déjà
+	- tout le temps
+	- quelque fois
+	- tout à l'heure
+	- tout à coup/brusquement
+	- tout de suite
+	- la veille
+	- avant-hier
+	- d'abord
+	- enfin
+	- puis
+	- ensuite
+	- en plus
+	- de plus
+	- toutes les mois
+	- tous les jours
+	- tous les
+	- un jour sur deux: 2 times a day
+- L'expression de l'opposition (subjonctif)
+	- bien que + V(subjonctif): mặc dù
+	- quoique: dù
+	- quoi que: mặc dù
+	- où que: dù
+	- mais
+	- sans que: không
+	- au lieu de
+	- en dépit de + N
+	- malgré + N
+	- même si + V(indicatif)
+	- alors que + V(indicatif): vậy mà
+	- tandis que + V(indicatif)
+- L'expression de la condition
+	- Si + V(présent), V(futur simple)/Impératif
+	- Si + V(imparfait), V(conditionnel présent)
+	- Si + V(plus-que-parfait), V(conditionnel passé)
+	- à condition que + V(subjontif)
+	- au cas où + V(conditionnel présent)
+	- en cas de + N
+	- pour vu que + V(subjonctif)
+	- sans + N
+- L'expression de la comparison

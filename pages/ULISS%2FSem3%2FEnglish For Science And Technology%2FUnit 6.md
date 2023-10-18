@@ -1,0 +1,29 @@
+- WARM UP
+- 1. A. In pairs, look at the photos and discuss the following questions
+	- Do you know them? Say a few words to present them to your friends
+	- Can you guess the relation between these photos?
+- B. Watch a clip and then discuss the question ✓Could advances in genetics and cloning technology allow scientists to resurrect
+- woolly mammoths?
+- Match the term with the correct definition
+- 1. inbreeding
+- 2. transformation
+- 3. Restriction enzyme
+- 4. hybridization
+- 5. selective breeding
+- 6. genetic engineering
+- 7. transgenic
+- 8. Polymerase chain reaction
+- 9. Recombinant DNA
+- 10. polyploidy
+- A. A chemical which cuts DNA at a site with a specific
+- sequence of nucleotides
+- B. The human practice of intentionally mating organisms
+  with desirable traits- C. A state in which an organism has double or triple the
+- normal chromosome number. D. Organisms that contain genes from other organisms E. The process of continually mating animals with
+- similar traits F. Crossing two different organisms to get a combination
+- of desirable traits
+- G. DNA which is a combination of the DNA of two
+- different species.
+- H. Changing the DNA of an organism I. Process by which a cell takes in DNA from its
+- environment J. A process that allows scientists to make thousands of
+- copies of a gene

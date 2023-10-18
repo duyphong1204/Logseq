@@ -1,0 +1,24 @@
+- ### 1. Ngữ âm là gì
+	- Ngôn ngữ là phương tiện giao tiếp quan trọng nhất của con người
+		- ngay từ khi xuất hiện ngôn ngữ đã tồn tại ở dạng âm thanh
+		- con người giao tiếp với nhau nhờ hình thức vật chất này
+	- Nói đến ngôn ngữ là nói đến ngôn ngữ bằng âm thanh
+		- hiện nay chưa có dân tộc nào dùng ngôn ngữ phi âm thanh để trao đổi tư tưởng
+	-
+	- Trong **ngôn ngữ học**, người ta gọi hình thức âm thanh của ngôn ngữ là ***ngữ âm***
+		- ngữ âm là âm thanh nhưng không phải âm thanh nào phát ra cũng là ngữ âm
+			- không phải phương tiện biểuđạt ngôn ngữ, không có chức năng giao tiếp
+				- tiếng nấc
+				- tiếng ho
+				- tiếng ợ
+	- => Ngữ âm là cái ***vỏ vật chất của ngôn ngữ***, là ***hình thức tồn tại của ngôn ngữ***
+	-
+- ### 2. Ngữ âm học
+	- Ngữ âm học (phonetics) là khoa học nghiên cứu mặt ngữ âm của ngôn ngữ
+		- Đối tượng nghiên cứu
+			- những âm thanh cụ thể của tiếng nói
+			- những đơn vị ngữ âm
+			- những quy luật tổ chức
+			- kết hợp âm tiết
+			- chữ viết
+				- một phương tiện ghi lại ngôn ngữ bằng văn tự

@@ -1,0 +1,2 @@
+- # Cap màn hình
+	- ![image.png](../assets/image_1682917782886_0.png){:height 445, :width 776}

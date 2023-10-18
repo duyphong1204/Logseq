@@ -1,0 +1,75 @@
+title:: ULISS/Sem2/Public Speaking/Week 4/Course Book
+
+- # 1. Developing a set of potential topics
+	- Possible **speech topics** are as varied as **human experience**
+		- Examples
+		  collapsed:: true
+			- lighthearted
+			- serious
+			- ancient history
+			- current events
+			- professional interests
+			- recreational activity
+			- current events
+			- science
+			- geography
+			- cultrue
+			- famous people
+			- the arts
+		- {{cloze Có bao nhiêu experience, gần như có ngần đó topic? dù trải nghiệm thì nó sẽ cá nhân, nhỏ bé hơn một topic to nhưng ai bảo nó không thể thành một topic được}}
+		- {{cloze có 2 cách note: 1 là đưa tất cả dữ liệu lên để sử dụng và có phân chia phân tích, liên kết (cách này thậm chí phân tích được cả quyển sách như cách trình bày của nó nữa); 2 là lấy những gì mày thấy có giá trị lưu trữ - những thứ mình không nghĩ ra, hoặc gợi suy nghĩ nhất }}
+	- ___
+	- ## Research
+		- Sources:
+			- news magazines
+			- newspapers
+			- web sites
+			- periodicals (a magazine or newspaper on a serious subject)
+	- ## Brainstorming
+		- Notice:
+			- List every idea that comes to mind without evaluating its merits to develop a sizable list of topics quickly
+			- Consider it later
+		- To brainstorm:
+			- Consider
+				- interests
+				- experiences
+				- issues
+				- organizations
+				- admiring people
+				- significant events
+				- have-been places
+				- important life lessons
+		- Choose the most favourites in each of the above catagories
+		  collapsed:: true
+			- Example
+				- what iss your favourite use of spare time?
+				- the most interesing course you have ever taken?
+				- the best organization you've ever belong to?
+	- ## Word Association
+		- Listing one potential topic then write what ever comes to mind
+		- The second idea may suggest yet a third one
+		- Write each new thoughts next to the previous idea
+		- Example
+			- When you write down a word or phrase, your mind "searches" for other terms that you associate with the original idea.
+				- A story about widfires could result in the following topic sequence:
+					- a fighfighters
+					- fire prevention
+					- smoke detectors
+					- lie detectors (from the previous detectors?)
+					- {{cloze hmm nối chữ, ghép từ cũng sẽ cho mình được cả một đống nội dung để vẽ lên map topic đấy}}
+					-
+	- ## Mindmapping
+		- Tips:
+			- use images (sketches, doodles, symbols) in addition to words
+			- start with a word or sketch at the center of tthe page, then work outward
+			- print rather than write in script
+			- use colors to indicate associations and make ideas stand out
+			- use arrows or other visual devices to illustatre links between different ideas
+			- do not get stuck on one concept
+				- move to different places on your mind map as new ideads or associations come to mind
+			- jot down ideas as they occur, wherever they fit the paper
+			- be creative, and have fun with the experience
+		- the use of multiple colors, pictures, and symbols to create a mind map stimulates your thinking process
+			- you use both sides of our brain and generate more-and more creative-topic ideas.
+- # 2. Select the best topic
+	- Consider the assignment, audience, knowledge and interests adn the context of speech

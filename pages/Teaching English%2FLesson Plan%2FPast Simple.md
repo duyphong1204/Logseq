@@ -1,0 +1,14 @@
+## Quá khứ đơn
+	- ### Định nghĩa
+		- Diễn tả hành động xảy ra ở quá khứ và kết thúc ở quá khứ
+	- ### Dấu hiệu
+		- yesterday, last month, year, etc,...
+		- ago
+		- in + năm trong quá khứ
+	- ### Cách chia
+		- Khẳng định
+			- S + V(2)
+		- Phủ định
+			- S + did + not + V
+		- Nghi vấn
+			- Did + S + V?

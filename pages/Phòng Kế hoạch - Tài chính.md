@@ -1,0 +1,7 @@
+- Đại học Ngoại ngữ
+	- Phòng kế hoạch - Tài chính
+		- Địa chỉ
+			- Phòng 202, 203, 204, 205 nhà A1
+		- Điện thoại
+			- 024 6297 7098
+-

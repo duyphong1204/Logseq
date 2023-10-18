@@ -1,0 +1,92 @@
+related:: [[Recap]]
+
+- Oct 4
+- Sau từng buổi
+	- Recap giống anh Long làm
+		- https://www.notion.so/fuongdo/237e080a79c64b919af9f10a34f046b4?v=27bca59cd94e4ac7927783a82f69184f&p=450eebb0fbb14de0b1e6d6c42a3bcab6&pm=s
+		- Tally xin review
+			- Xem lại form tally
+		- Slide/Recording
+			- Video + Transcript
+		- Chia sẻ trong buổi học
+		- Tài liệu đọc thêm
+		- Study Guide
+		- Prepwork
+	- Để faci làm với mỗi nhóm - trong tuần
+		- Cho họ template giống faci VPT
+	- Còn mình gửi recap sau buổi học
+- 1 tuần
+	- Tuần này học gì
+		- Chắc là lấy group link học liệu 1 tuần/ cách recap như chính FunnelBoss đã cho học viên cmt
+		- Live Class
+		- Learning Lab
+		- Peer learning
+	- Tuần sau học gì
+		- để tuần sau học thật tốt
+	- Map
+		- để xem chị Fuong có hepta không, không thì làm
+	- BTVN
+		- Prepwork
+	- Sự kiện tuần sau
+		- hoặc kèm ảnh tuần vừa rồi
+		- *học hỏi cách report và viết báo*
+	- Bia đá
+		- chữ và hình vẽ
+		- lấy từ cái ví dụ anh Long dùng
+	- Chiếu chỉ
+		- ![image.png](../assets/image_1664633761956_0.png) 
+		  hình và chữ
+	- Báo
+	- Post ?
+	- Truyền hình
+-
+- Nhắc mọi người dùng notion nhớ tag hoặc mình thấy chưa trả lời thì tag hộ
+- Có một nơi để kiểm soát ai vắng/ kèm danh sách học viên để check nhanh
+	- cái này rồi sẽ làm bảng track đc từng người
+-
+-
+- Oct 8
+- Thực hành
+	- Nên chia recap như nào?
+	- Hoạt động
+		- Học liệu
+			- Discord
+				- tập thể
+			- Notion
+				- cá nhân
+		- Giao lưu
+			- Discord
+	- nhưng thế sẽ bị lặp và phân chia sự chú ý, có lẽ sẽ gây sự khó nắm bắt
+	- What about
+		- Discord
+			- tương tác
+			- học tập
+		- Notion
+			- học tập
+		- sự kiện tuần này, tuần sau...
+	- Still the same
+	- Nhưng cái chia theo Discord và Notion thế này hợp làm Miro
+		- thế thì cứ tách riêng ra phân tích theo từng tuần
+			- tạm gác lại giai đoạn phát triển và tổng hợp phân tích sự phát triển
+		- phân tích cả faci rồi link lại vào miro
+			- cái này để sau cùng vì cả hai việc này tốn time
+	- Nhưng nhìn lại form ban đầu
+		- Tuần 1
+			- nãy chỉ chú tâm vào một tuần và cho ra một kết quả tạm chấp nhận được
+		- Tuần sau
+	- Nhưng cái *tuần sau* này cũng không hẳn là viết dài và theo mục như live class, peer learning
+	- Phong cứ tổng hợp theo buổi là tốt nhất
+		- Kick off
+			- Community rules
+				- nhưng cái này hình như cả chia về họp riêng ở discord mà bàn
+			- Phong tò mò không biết có nên ghi mỗi tiêu đề community rules, đẩy mục kick off thành 1 tag thì cái ý community rules này sẽ có hai tag là asyn và syn
+			- quan trọng hơn là như này nó sẽ focus on content hơn chứ không focus vào buổi nào học gì
+				- lúc đầu Phong định để buổi nào học gì vì sau này Phong quên buổi nào học gì và tra lại giữa chục buổi rất khó. Vì kiến thức của anh chị nó là chia sẻ ở nhiều khía cạnh chứ không đi theo các buổi trong một chuyên đề chẳng hạn, và Phong cũng không có timeline, không có map để nhìn.
+				- Nhưng nghĩ lại cũng chẳng ai làm thế đâu mà nhỉ, Phong tìm kiến thức nên mới cần tìm từng buổi. Nhưng nếu coi các buổi này là thứ dẫn lối đến kiến thức, thứ ta cần là kiến thức chứ không phải vỏ bọc của nó là buổi học, thì chỉ cần tìm lại kiến thức dễ và nhớ được kiến thức là quá tốt rồi
+				- Chốt thế
+				- Còn một vấn đề là cái chủ đề được chọn như community rules cũng phải đáp ứng được tiêu chí:
+					- quan trọng đối với khóa này và sau này
+					- bản chất recap như một tờ báo, đọc xong vứt, nó là thứ tồn tại trong thời gian
+					- nhưng nó cũng để tương lai nhìn lại mà nhớ về kỉ niệm (thế sẽ hơi hạn chế vì mỗi buổi sẽ bị mờ đi dưới dạng hashtag ở cuối câu)
+				- Còn đối với những ý tưởng phát biểu mình thấy hay mà ít được ai quan tâm thì để nó xuất hiện ít, vị trí bé nhỏ
+		-

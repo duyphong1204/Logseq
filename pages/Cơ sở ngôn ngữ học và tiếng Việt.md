@@ -1,0 +1,27 @@
+- Meta
+	- ![Giáo-trình-Cơ-sở-ngôn-ngữ-học-và-tiếng-Việt_-Phần-1_1015229.pdf](../assets/Giáo-trình-Cơ-sở-ngôn-ngữ-học-và-tiếng-Việt_-Phần-1_1015229_1665810730527_0.pdf)
+- Thanh điệu
+  collapsed:: true
+	- ((634a41ab-afc4-4830-a45e-588c454085fa))
+	- ((634a4293-9348-4cb8-ba59-e704ad0d5c59))
+	- ((634a4160-2085-4e39-8329-7cee7b52be48))
+	- Từ **mùa** với **vừa** đều âm vực thấp mà tại sao người ta lại bảo đối lập âm vực
+- Chương VIII: Âm Vị Và Các Hệ Thống Âm Vị Của Tiếng Việt
+	- I. Định nghĩa
+		- 1. Âm vị là gì
+			- là đơn vị
+		- Note. Để hiểu được phần này
+			- vỏ âm thanh (nghe thì hiểu nhưng tại sao gọi vỏ?)
+			- các đơn vị có nghĩa?
+			- không cho ví dụ thì hơi khó hình dung một số thực ngữ hoặc cảm được, hoặc áp dụng được
+				- ví dụ ai đó phát âm hoặc tự phát âm được
+			- và cách giải thích trong sách là để làm gì, dưới góc độ nào mà khó hiểu hơn cái này, hoặc phần đó đã được giải thích dễ hiểu ở trước: như âm đệm, âm cuối
+			- https://vnlp.net/ti%E1%BA%BFng-vi%E1%BB%87t-c%C6%A1-b%E1%BA%A3n/am-ti%E1%BA%BFt-ti%E1%BA%BFng-vi%E1%BB%87t/
+			- đành phải đọc rồi tổng hợp như xưa mình hay làm thôi
+				- và chia level của kiến thức trong một bài viết ra (
+				- {{cloze sao biết hiểu hay không, sao biết lúc mình chưa hiểu gì có phải minimun không? đưa nhiều người đọc và bảo họ giải thích ít nhiều sẽ thể hiện sự hiểu - độ khó và không hiểu - khó, khó gì, hình dung hay hiểu nội dung mặt chữ}}
+				- và làm từ điển âm vị đi có sao đâu? như kiểu dù sao cũng có phiên âm ngoài việc nói quy luật và cách đọc? mà đây cũng là học ngôn ngữ mà?
+				- đọc mỗi phần này thì vẫn làm được bài nhưng cái khó là một số quy luật đặc biệt, mình không hình dung được chút nào hoặc cảm giác cover được mọi trường hợp khác nhau của nó, đặc biệt là vị trí của nó thế nào ở mô hình hình học chứ không tuyến tính như sách, nó liên hệ, là nhánh của việc viết phiên âm như nào?
+				- và hình như bởi họ không phát minh ra nên chỉ biết trần thuậ, tổng hợp lại và gây ra sự nhiều hỗn độn không quy luật này. Maybe quen rồi thì không cần đọc mà dùng vốn từ để đúc kết ra (cách người ta lùng đấy à, lùng từng từ như đếm số ở toán học, chừng nào với x=1,2,3,... vẫn đúng thì well nó vẫn đúng cho đến khi có người thử một số nào đó và nó không đúng nữa)
+					- chỉ sợ cái ví dụ vần của người ta không đủ, mà khả năng là thế thì căng vãi.
+				- tại sao o không phải o mà là ô ?

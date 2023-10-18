@@ -1,0 +1,11 @@
+title:: ULISS/Sem2/Public Speaking/Week 4/Reflections
+
+- Research:
+	- I usually use web sites only
+- Brainstorming
+	- I believe the best method is not thinking because there will be a limit to what and to how much you can think in a certain time
+	- it is storing your ideas that you have thought in advance to your own library, use it when it is need
+	- I dont have the tendency to write about topic, it's exhausting
+	- As for me i will just try to imagine how I would enjoy searching for the topic and how the audience will enthusiastically listen to it. I also have high expectation for myself because i believe i can make any topic becomes an interesting one
+- Word Association
+	- I do not think my mind works that way, i would just let my thoughts flow, it would bring more interesting topic to me than randomly write something from memory or randomly link some topic to the thing i have written. But for the similar technique, i do have a way, it is to think of all the subtopic that is comprised in the bigger one. For example, of course i wont think of something as stupid as fire and then end up having plenty of big topic links to it: science, firefighters, something not physicall, mental fire? yeah i would question myself and challenge my creativity like this. For topic like fire, search on google would be better since it would suggest you something or you can search for suggestion in wiki, or find some web that it brainstorm for you many relating topic. I, would be thinking about maybe mental illness - sometopic that is actually vast and the subtopic is large enough as well, stress for example, can give me the agency, symptoms, causes, solutions, view point, any try to force my midn to think of some aspects or link from something that nobody has ever discuss: ways to use stress to your advantage, not weird enough, more... immediatly feel ease, kill stress, hidden source of stress you need to be mindful of, ranking of stress, phases,... well not everytime i get something good from it, and this isn't my topic. I would like to talk about education, curriculums or things like that more oke?

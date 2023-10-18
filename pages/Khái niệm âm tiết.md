@@ -1,0 +1,44 @@
+- *Chuỗi lời nói mà con người phát ra gồm nhiều khúc đoạn dài ngắn khác nhau*
+- đơn vị phát âm ngắn nhất là âm tiết - về phương diện phát âm
+	- (syllable)
+	- âm tiết có tính chất
+		- toàn vẹn, không thể phân chia được
+			- dù có nói chậm đến đâu nữa thì cũng chỉ tách được đến âm tiết
+				- ví dụ
+					- Vườn hồng có lối nhưng chưa ai vào có 8 âm tiết
+			- bởi nó được phát âm bằng một đợt căng của cơ thịt của bộ máy phát âm
+				- lời nói của con người là một chuỗi đợt căng trùng
+					- ví dụ
+						- có thể biểu diễn quá trình ấy bằng một đường gợn sóng ((63dacbd3-149e-4ca0-96ae-b493b7b79070))
+				- mỗi lần cơ thịt của bộ máy phát âm căng lên rồi chùng xuống là ta lại có một âm tiết
+- về phương diện thính giác sẽ khác
+	- sự phân tích này dựa trên kinh nghiệm đối chiếu các tiếng với nhau
+		- ví dụ: khi nghe một âm tiết như ba, người Việt có thể phân nó thành các yếu tố nhỏ hơn b và a
+			- ba với na, ca, xa
+			- ba với bô, be, bi
+-
+- 3 giai đoạn của cơ thịt khi phát âm và sự phát triển của độ vang tương ứng
+	- tăng cường độ căng - tăng cường độ vang
+	- đỉnh điểm căng thẳng - độ vang cao nhất
+	- giảm độ căng - giảm dần độ vang
+	- ((63dacd3a-8e56-4347-964b-0508d483311f))
+		- phân tích sơ đồ đường cong hình sin biểu thị quá trình phát âm âm tiết
+		  collapsed:: true
+			- đỉnh đường cong (cực đại)
+				- là vị trí đỉnh âm tiết
+					- thường là các nguyên âm
+						- như i và e trong ví dụ
+					- đôi khi cũng có thể là phụ âm
+						- ví dụ
+							- trong tiếng Anh và tiếng Pháp
+								- table (cái bàn) có [l] nằm ở đỉnh âm tiết
+				- tương ứng với giai đoạn hai
+			- chỗ hõm xuống (cực tiểu)
+				- là vị trí biên giới âm tiết
+					- là các phụ âm hoặc bán nguyên âm
+						- ví dụ
+							- bàn
+							- học
+							- màu
+							- hai
+				- tương ứng với độ căng thấp nhất

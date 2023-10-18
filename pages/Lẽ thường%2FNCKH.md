@@ -1,0 +1,19 @@
+- Oswald Ducrot
+	- Dictionnaire encyclopédique des sciences de langage
+		- ![Ducrot_Oswald_Todoov_Tzvetan_Dictionnaire_encyclopédique_des_sciences_du_langage_1972.pdf](../assets/Ducrot_Oswald_Todoov_Tzvetan_Dictionnaire_encyclopédique_des_sciences_du_langage_1972_1677092926780_0.pdf)
+		- mới check index và table of contents thì không thấy có đề cập và giải thích đến
+	- Le Dire Et Le Dit
+		- ![203649662-Ducrot-Le-Dire-Et-Le-Dit1.pdf](../assets/203649662-Ducrot-Le-Dire-Et-Le-Dit1_1677029250608_0.pdf)
+	- Les mots du discours
+	- Polifonia y argumentacion
+		- ![pdfslide.net_ducrot-polifonia-y-argumentacion.pdf](../assets/pdfslide.net_ducrot-polifonia-y-argumentacion_1677092698896_0.pdf)
+- ![Tập bài giảng_ Kỹ năng nghiên cứu và lập luận - TS. Lê Thị Hồng Vân (Chủ biên)_1002852.pdf](../assets/Tập_bài_giảng_Kỹ_năng_nghiên_cứu_và_lập_luận_-_TS._Lê_Thị_Hồng_Vân_(Chủ_biên)_1002852_1678033157716_0.pdf)
+	- ((64095521-315e-49c5-93cc-33aa702d3130))
+-
+- đọc mãi không thấy ở đâu đề cập lẽ thường và rất mơ hồ không rõ cụ thể người ta đang miêu tả cơ chế cái gì, mảng nào, chia mảng ra sao ở các bài viết của O. Ducrot. Nên thôi mình sẽ tạm đọc tài liệu để bổ sung kiến thức, hiện giờ vẫn thế và xem các mẫu phân tích tổng hợp về lẽ thường (vấn đề nằm ở việc đọc tiếng anh và nên hiểu thế nào với các khái niệm tiếng Anh, cố hình dung một cách trừu tượng nhưng ngôn ngữ Anh nó cứ làm phân mảnh cái hình dung của mình. Ngôn ngữ đó không tượng hình lắm? Hoặc quá trừu tượng kèm nhiều khái niệm khó nên khó hình dung. Người ta viết để đối thoại chứ không phải giải thích)
+- still cảm giác làm một nghiên cứu rất đơn giản, chỉ việc thu thập tài liệu nhưng mình cứ muốn tìm hiểu để thành học giả và làm quá lên? mấy đứa sư phạm làm nghiên cứu oành oành, cảm giác mình mới không biết làm nghiên cứu ý dù chưa đọc thử bài bọn nó và phản biện (mình mới làm nghiên cứu trên data và vẫn thấy nó hơi assume nhiều thứ lắm, nên đọc đủ nhiều để iểm chứng xem nó có thực như mình phân tích không, tại sao mình phân tích thế nữa)
+- muốn nghiên cứu đã trước khi đi nghiên cứu...
+-
+- ![NguyenThiMinhHa.TT.pdf](../assets/NguyenThiMinhHa.TT_1691462820375_0.pdf)
+- ---
+- [[Lẽ thường/Nghiên cứu về bài luận ngôn ngữ]]

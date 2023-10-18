@@ -1,0 +1,5 @@
+- Có lúc mình muốn học một cách là tổng hợp kiến thức theo chuyên đề
+- Có lúc chỉ muốn xem lại bài cũ hôm trước ở vở ở sách
+- Có lúc là làm hết bài tập sách có (nhiều lúc cũng làm vậy để có hứng thú hơn làm hết chuyên đề, vì đụng tới cái nào thấy cần thiết thì mình mới có động lực)
+- Có lúc là thử sức qua viết (thường để nâng vốn từ và tự do reach đến kiến thức một cách chủ động, random)
+- Và kết hợp, lúc này lúc kia để đỡ chán

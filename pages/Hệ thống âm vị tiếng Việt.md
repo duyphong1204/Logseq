@@ -1,0 +1,13 @@
+- Các ngôn ngữ Âu châu có 2 hệ thống âm vị
+  collapsed:: true
+	- đối lập về đặc trưng âm học và cấu âm
+	- vì trong cùng một từ, một phụ âm /m/ có thể đứng ở cuối hoặc ở đầu
+		- hai biến thể vị trí của cùng một âm vị phụ âm /m/
+- Tiếng Việt có 5 hệ thống âm vị
+  collapsed:: true
+	- xét theo chức năng khu biệt
+		- /m/ trong mê và êm khác nhau
+			- một âm mở
+			- một âm đóng
+			- khác cả về chức năng khu biệt
+			- không có sự biến đổi vị trí như tiếng Nga

@@ -1,0 +1,72 @@
+- lycée: highschool
+- lycéen: highschool student
+-
+- être fort = bon
+- travailleur: hard-working
+- le travailleur: the worker
+-
+- VN: 1 -> 12
+- FR:
+	- classe maternelle: lớp chồi mầm / d'apprentissages premiers
+	- classe élémentaire
+		- CP: le cours préparatoire
+		- CE (1, 2): le cours élémentaire
+		- CM (1,2): le cours moyen
+	- collège
+		- cinquième
+		- quatrième
+		- troisième
+- à cause de
+- en raison de
+-
+- parler à qn de qch
+- parler en
+- parler avec
+- jouer à + le sport
+- jouer de + l'instrument de musique
+- manquer de: lack of
+- se mettre à : to start
+- commencer à: to start
+- commencer qch: start sth
+- commencer par: to start by
+- finir qch: to end sth
+- finir de: to stop doing sth
+- finir par: to stop by sb
+- continuer qch
+- continuer à + V
+- profiter de qn/qch: tận dụng ai, cái gì
+- appartenir à: belong to
+- plaire à qn: like
+	- elle lui plaît: he likes her
+- compter de à
+- compter sur: to count on
+- changer de (le français moderne): change
+- écouter de + la music (le français moderne)
+- s'entendre avec qn: to get on with sb
+- faire confiance à: to trust
+- avoir confiance en: to trust
+- se plaindre de: to complaint of
+- ça dependre de: to depend on
+- cesser de: to stop
+- arrêté de: to stop
+- arriver à: to arrive
+- arriver à + Vinf: biết làm gì
+- accepter de >< refuser de
+- tâcher de: try to do
+- arriver à faire qch: to manage to do
+- hésiter à: to hesitate to do
+- s'amuser à: to enjoy sth
+- découper: to slide
+- convenir de: to agree on
+- se retrouver: to meet up
+- réussir à: to succeed in
+- se dépêcher de faire qch: to hurry/hasten to do sth
+- apprendre qch: learn sth
+- apprendre qch à qn: to teach sth to sb
+- apprendre à Vinf: learn to do sth
+- apprendre à qn à Vinf: to teach sb to do sth
+- conduire: to drive
+- tenir à: to be attached to
+- féliciter: to praise sb
+- le repas: meal
+- le** **vainqueur****

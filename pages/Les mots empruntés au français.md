@@ -1,0 +1,450 @@
+- ✅DANH SÁCH TỪ TIẾNG VIỆT – TIẾNG PHÁP
+-
+- —A—
+- A-lẹt : alerte
+- alô: allô
+- amiđan: amygdale
+- amatơ: amateur
+- amiăng: amiante
+- ampe: ampère
+- an bom: album
+- a-pác-thai: apartheid
+- áp phích: affiche
+- Áp phê : affaire
+- a ti sô: artichaut
+- át: as (cartes)
+- a xít: acide
+-
+- —Ă—
+- ắc qui: accus, accumulateur
+- ăng kết: enquête
+- ăng lê: anglais
+- ăng ten: antenne
+-
+- —B—
+- Bắc : bac
+- bánh quy: biscuit
+- ba ga: baggage
+- ban công : balcon
+- ban xe : Panne
+- ba lê: ballet
+- bazan: basalte
+- bazơ: basse
+- Bá láp : palabre
+- Băng : banc
+- băng (đảng, chuyền, cát xét): bande
+- Ba tê : pâté
+- Ba-toong : bâton
+- bê tông: béton
+- Bẹc giê (chó) : chien de berger
+- bi: bille
+- bi đông: bidon
+- bi da: billard
+- bia: bière
+- Bíp tách : bifsteck
+- Bi-ra-ma : pyjama
+- boa: pourboire
+- bom: bombe
+- boongke: bunker
+- Bót : poste
+- bơ: beurre
+- bu gi: bougie
+- bu giông (áo) : blouson
+- bù loong: boulon
+- búp bê: poupée
+- Búp-phê : buffet
+- Buýt : bus
+- Boong : pont
+-
+- —C—
+- cabin: cabine
+- ca bô: capot (d’une voiture)
+- ca cao: cacao
+- ca rô: carreau
+- ca ta lô: catalogue
+- ca vát: cravate
+- cà phê: café
+- cà ri: cari
+- cà rem: crème
+- cà rốt: carotte
+- cao su: caoutchouc
+- cạc: carte
+- các tông (thùng ): carton
+- cạc vẹc (bằng lái xe): carte verte (permis de conduire)
+- cạc vi zít (danh thiếp): carte de visite
+- cát xét: cassette
+- cátxê: cassé
+- Cam-nhông : camion
+- căng tin: cantine
+- compa: compas
+- Com lê: complet (veston)
+- côngtenơ: conteneur
+- công tơ: compteur
+- Cóp: copier
+- cô ban: cobalte
+- cốp xe: coffre
+- chất cơ: coeur (cartes)
+- cu li: coolie
+- Ci-nê : cinéma
+- Côn : colt
+- Coóc-sê :corset
+- cua : 1- cúp cua (cours : khoá học, lớp học) ; 2- hớt đầu cua (court :ngắn ), 3-cua gái (faure la cour/ courtiser )
+- Cúp : coupe
+- cuarơ: coureur
+- cùi dìa: cuiller
+-
+- —D—
+- da ua: yaourt/ yoghurt
+-
+- —Đ—
+- Ðăng-ten : dentelle
+- Đăng-xê : dancer
+- đầm: dame
+- đề ba: départ
+- đề-can: décal (décalcomanie)
+- điêzen: diesel
+- đi văng: divan
+- Ðít-cua : discours
+- Ðít-lôm : diplôme
+- đóc tơ: docteur
+- đôminô: domino
+- Ðông-ki-sốt : Don Quichotte
+- Ðơ-dèm-cùi-bắp :deuxième classe, soldat de
+- Ðờ-măn : demande
+- đúp bờ: double
+-
+- —Ê—
+- ê ke: équerre
+- ê kíp: equipe
+-
+- —G—
+- nhà ga: gare
+- ga: gaz
+- ga lăng: Galant
+- ga tô: gateau
+- găng tay: gant
+- Gác dan : gardien
+- ghẻ lở: galeux
+- ghi ta: guitare
+- gi-lê: gilet
+- giăm bông: jambon
+- gôm: gomme
+- Ghi-đông : guidon
+- Gu : goût
+- Gôn : gaule
+-
+- —H—
+- hóc môn: hormone
+-
+- —K—
+- ka- ki: kaki
+-
+- —L—
+- La va bô: lavabo
+- La de : la bíère
+- lăng xê: lancée
+- Lê dương : légionnaire
+- Lò xo : ressort
+- Lô tô : loto
+- lô cốt: blockhaus
+- lôgarít: logarimthe
+- lôgic: logique
+- Lô-can : local
+- Lô-ca-xông : location
+- len: laine
+- lít: litre
+- cú líp: lift (tennis)
+- líp xe đạp: roue libre
+- kính lúp: loupe
+-
+- —M—
+- ma lanh: malin
+- ma nơ canh: mannequin
+- Ma-cà-bông : vagabond
+- áo măng tô: manteau
+- áo may ô: maillot
+- mét: mètre
+- mít tinh: meeting
+- Moa : moi
+- môtô: moto
+- mô típ: motif
+- mù tạc: moutarde
+- Mùi xoa (khăn) : mouchoir
+-
+- —N—
+- đèn nê ông: néon
+- chất nhép: trèfle (cartes)
+- Nhôm : aluminium
+- Nô-en: Noël
+- nơ: nœud
+- nui: nouilles
+- ny lông: nylon
+-
+- —Ô—
+- ô liu: olive
+- ôxy: oxygène
+- ôtô: automobile (voiture)
+- Ô-tô-buýt (autobus)
+-
+- —P—
+- pa tanh: patin
+- pê đan: pedale
+- pê đê: pédé
+- pianô: piano
+- pin: pile
+- Phanh : frein
+- phéc-mơ-tuya: fermeture
+- phê thuốc: fait
+- phích: fiche (prise)
+- phin: filtre
+- phóc sết: fourchette
+- phô mát: fromage
+- Phú lít : police
+-
+- —R—
+- rađiô: radio
+- ru băng: ruban
+- Rầy : rail
+- Rốc-kết : rocket
+-
+- —S—
+- sâm banh: champagne
+- séc: chèque
+- séc đấu: set (tennis)
+- sếp: chef
+- Sớp-phơ : chauffeur
+- sơ mi (áo): chemise
+- Sô-cô-la : chocolat
+- sing gum: chewing-gum
+- quần sóoc: short
+- ghế sôfa: sofa
+- sa – lông : salon
+- sút : shoot
+-
+- —V—
+- Tách : tasse
+- tắc xi: taxi
+- tăng phanh: temps
+- Tem : timbre
+- tùng bê : tombe
+- xe tăng: tank
+- xe tăng đem (xe đạp): tandem (bicyclette)
+- điệu tăng gô: tango
+- típ người: type
+- toalét: toilette
+- Toa : toi
+- Trây-di : treillis
+- tông: ton
+- tông đơ: tondeur / tondeuse
+- Tua : tour
+- tua bin: turbine
+- tuốc nơ vít: tournevis
+- tuýp kem: tube
+-
+- —V—
+- va li: valise
+- va ni: vanille
+- van: valve
+- điệu van: valse
+- rượu vang: vin
+- Vẹc-ni : vernis
+- viđêo: video
+- viôlông: violon
+- vít: vis
+- vô lăng: volant
+  
+  
+  
+  —X—
+- xa tanh: satin
+- quỷ Xa tăng: Satan
+- xà bông / xà phồng : savon
+- xà lách: salade
+- quần xà lỏn: sarong
+- Xăng : essence
+- quả xê ri: cerise
+- số xê ri: série
+- xi lanh: cylindre
+- xi líp: slip
+- xi nê: ciné
+- xi măng: ciment
+- xi nhan(đèn): signal
+- xi mi li(vải): simili
+- xích lô: cyclo
+- xi phông: siphon
+- xi rô: syrop
+- xi téc: citerne
+- xích lô: cyclo
+- xì căng đan: scandale
+- xiếc: cirque
+- xki: ski
+- vải xoa: soie
+- xơ cua: secours
+- xe xkútơ: scooter
+- xốt: sauce
+- xơ: soeur
+- xu chiêng: soutien-gorge
+- xúp lơ: chou-fleur
+- Xúp-lê : siffler
+-
+- ---
+- ✅DANH SÁCH TRA TỪ TIẾNG PHÁP – TIẾNG VIỆT
+- Affiche: áp-phích (bích chương)
+- allez hop: ! a-lê-hấp (làm ngay)
+- armé: ạc-mê (trong xi-măng ạc-mê: xi-măng cốt sắt)
+- as: át (tên con bài tây)
+- as de carreau : át rô (tên con bài)
+- as de pique: át bích (tên con bài)
+- auto: ô-tô (xe hơi)
+- autobus : ô-tô-buýt (xe buýt)
+- autoclave: ô-tô-cla-vơ (nồi áp suất)
+- balcon: ban-công (bao lơn)
+- ballot: ba-lô (túi đeo sau lưng)
+- béret: bê-rê (mũ vải không vành)
+- beurre: bơ (bơ sữa; quả avocado)
+- bidon: bi-đông (bình nước nhỏ để mang theo mình khi đi xa)
+- bille : bi (viên đạn tròn)
+- biscuit: bích-quy (bánh nướng 2 lần)
+- bombe: bom (trái nổ lớn)
+- Bordeaux: bọt-đô (rượu nho)
+- Botte: bốt (giày ống cao của lính)
+- Boucle: búc (khoen cài dây nịt)
+- Bougie: bu-gi (nến, nến điện)
+- Boulon: bù-lon, bu-lông (con ốc)
+- Bus: buýt (xe chuyên chở công cộng)
+- Câble: cáp (dây thừng bằng kim loại)
+- Cacao: ca-cao
+- Café: cà-phê (hạt của cây caféier, mùi rất thơm sau khi rang sấy)
+- Canot: ca-nô (loại thuyền nhẹ)
+- Canon: cà-nông (súng lớn)
+- Car : ca (chiếc xe, xe ca)
+- Caramel: ca-ra-men (đường nung trở màu)
+- Carbone: các-bon (chất than)
+- Cari: cà-ry (món ăn gốc ấn độ)
+- Carreau: ca-rô (hình ô vuông, tên con bài Ù)
+- Carotte: cà-rốt (củ cải đỏ)
+- carte verte: cạc-vẹc (thẻ xanh, bằng lái xe)
+- carte visite: cạc-vi-zít (danh thiếp)
+- cas: ca (trường hợp)
+- cerise: sơ-ri (trái)
+- chaîne : sên (dây xích xe đạp, xe gắn máy)
+- Champagne: săm-banh (tên rượu của Pháp)
+- Chef : sếp (người chỉ huy)
+- Chemise: sơ-mi (áo)
+- Choc: "sốc" (chấn động mạnh)
+- Chocolat: sô-cô-la (kẹo chế từ bơ ca cao)
+- chou à la crème: su kem (bánh su có nhân kem)
+- chou-fleur : súp-lơ (bông cải trắng)
+- chou-rave: su hào (loài rau củ)
+- cigare : xì-gà (thuốc cuộn bằng lá thuốc)
+- ciment: xi-măng
+- ciné: xi-nê (chiếu bóng)
+- cirque: xiếc, xiệc
+- coffre: cốp (tủ, ngăn tủ, thùng xe)
+- cognac: cô-nhắc (tên rượu của Pháp)
+- corset : coóc-sê (áo bó ngực và bụng của phụ nữ)
+- coupure: cúp (sự cắt điện, nước)
+- courreur : cua-rơ (người chạy đua)
+- courroie: cu-roa (đai chuyền)
+- crêpe: kẹp (tên một loại bánh ngọt có nhiều lớp bột được cán mỏng)
+- cravate: cà-vạt
+- crème: kem
+- cresson: xà-lách-son
+- cyclo: xích-lô (loại xe chuyên chở khách)
+- cylindre: xy-lanh (nòng máy nổ)
+- dame: đầm (đàn bà Pháp, cũng để chỉ tên con bài nhưng tiếng Pháp là reine)
+- douille: đuôi (bộ phận để gắn bóng đèn)
+- drap: drap (vải trải giường)
+- écho: ê-cô (tiếng vang)
+- écrou: ê-cu (con tán để vặn vào bù-lon)
+- essence : xăng (nhiên liệu lỏng)
+- fiche: phích (vật để cắm điện)
+- filtre :phin (vật để lọc lấy nước, bỏ bã)
+- galant: ga-lăng (nịnh đầm)
+- gant: găng (bao tay)
+- garage: ga-ra (nhà để xe)
+- garde-boue: gạc-đờ-bu (cái vè xe)
+- garde-manger: gạc-măn-giê (tủ đựng đồ ăn)
+- gare: ga (nhà ga, nơi tàu hỏa đậu)
+- gaz: ga (hơi đốt)
+- gomme: gôm (cục tẩy)
+- goût: "gu" (sở thích)
+- guidon: ghi-đông (tay lái xe hai bánh)
+- judo: juy-đô (nhu đạo)
+- laine: len (sợi làm từ lông cừu)
+- légumes: lê-ghim (rau)
+- litre: lít
+- loto : lô-tô (trò chơi)
+- loupe: kính lúp (kính phóng đại)
+- maillot: may-ô (áo thun)
+- mangoustan: măng-cụt (quả)
+- marque: mác (thương hiệu; bộ vó)
+- mètre: mét (thước)
+- mignon: mi-nhon (dễ thương)
+- molette: mỏ-lết (kìm vạn năng)
+- mousse: mút (vật mềm và đàn hồi được)
+- mouchoir: mùi-xoa (khăn tay)
+- niveau: ni-vô (ống thủy chuẩn)
+- noeud: nơ (cái gút thắt bằng vải)
+- note: nốt (chấm dùng trong âm nhạc)
+- nouille: nui (thức ăn bằng bột mì, gốc ý)
+- oeuf au plat: ốp-la (món trứng chiên)
+- pâté: pa-tê (thịt hoặc gan bằm và hấp)
+- pâté chaud: pa-tê-sô (loại bánh có nhân thịt)
+- pédale: pê-đan (bàn đạp)
+- pédé: pê-đê (người đồng tính luyến ái)
+- phare: pha (đèn rọi sáng ra xa)
+- pile: pin (nguồn điện một chiều)
+- pique: bích (tên con bài tây ở)
+- piston: pít-tông (vòng để nén hơi)
+- pompe: bơm (đồ để thổi hơi)
+- porte-bagage: bọt-ba-ga (yên phụ để chở đồ)
+- portefeuille: bóp-phơi (cái bóp, cái ví)
+- pourboire: buốc-boa (tiền bo, tiền tip)
+- queue: cơ (cây gậy để thụt billard)
+- quinine: ký-ninh (thuốc để trị bệnh sốt rét)
+- ragoût: ra-gu (món thịt nấu với rau, củ)
+- reçu: rờ-xuy (tờ biên nhận)
+- remorque: rờ-mọt (xe được kéo bằng một xe khác)
+- rhum: rum (tên loại rượu nho)
+- rideau: ri-đô (tấm màn)
+- robinet: rô-bi-nê (vòi nước, do Robin, người đã sáng chế)
+- rôtie: rô-ti (món thịt nướng hoặc quay)
+- sabot: sa-bô (guốc)
+- sacoche: xà-cột (túi vải nhỏ để đựng đồ nghề, thường máng sau yên xe)
+- salon: sa-lông (phòng để tiếp khách)
+- sandale: săng-đan (loại giày da hở chân)
+- sapotier :sa-pô-chê (cây, trái hồng xiêm)
+- sauce: xốt (nước xốt)
+- saucisse: xúc-xích (lạp xưởng của Tây)
+- savon: xà-bông, xà-phòng
+- seau: sô (vật để đựng nước)
+- seringue: sơ-ranh (ống tiêm)
+- signal(er): si-nhan (ra dấu)
+- sirop: xi-rô (nước đường dạng sệt)
+- slip: xì-líp (quần lót)
+- sofa: sô-pha (loại ghế nằm được)
+- sou: xu (đồng xu)
+- soude: xút (chất kiềm soda NaOH)
+- soupape: xú-bắp (van để chặn và cho thoát hơi trong náy nổ)
+- soupe: xúp (nước canh)
+- soutien-gorge: sú-chiêng (áo ngực)
+- tank: tăng (xe thiết giáp)
+- tasse: tách (vật để đựng nước uống)
+- taxi: tắc-xi (loại xe chuyên chở khách)
+- tension artérielle: tăng-siông (huyết áp)
+- timbre: tem (để dán nơi bì thư)
+- tôle: tôn (tấm kim loại để lợp nhà)
+- tonneau: ton-nô (thùng gỗ để đựng rượu)
+- tourne-vis: tua-vít (đồ để mở vít)
+- tout de suite: tút-suỵt (ngay lập tức)
+- vaccin: vắc-xanh (thuốc chủng ngừa)
+- vagabond: ma-cà-bông (người lang thang)
+- valise: va-li (cặp da để đựng quần áo)
+- valve: van (khóa đường ống)
+- vanille: va-ni (trái của cây vanillier, có mùi thơm dùng để làm bánh)
+- veste: vét (áo vét)
+- veston: vét-tông (loại áo vét ngắn)
+- vin: vang (rượu nho)
+- vis : con vít, con ốc
+- yaourt: da-ua (món sữa chua)

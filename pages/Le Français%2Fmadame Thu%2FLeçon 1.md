@@ -1,0 +1,38 @@
+title:: Le Français/madame Thu/Leçon 1
+record:: Chuẩn 121 - 9/10/2022
+
+- Pays
+- Le Japon _ japonais(e)
+- Le Viet Nam _ vietnamien(ne)
+- Le Laos _ laotien(ne)
+- Le Cambodge _ cambodgien(ne)
+- La Norvège _ norvegien(ne)
+- Le Maroc _ marocain(ne)
+- Le Méxique _ mexicain(ne)
+- Le Canada _ canadien(ne)
+- Le Portugal _ portugais(e)
+-
+- Les États-Unis _ américain(ne)
+-
+- La China _ chinois(e)
+- La Suède /su ét d/ _ suédois(e) : Thụy Điển
+- La France _ fraincais(e)
+- La Belgique _ belge
+- La Pologne _ polonais(e)
+- La Grèce _ grec/grecque
+-
+- L'Autriche _ autrichien(ne)
+- L'Australie _ australien(ne)
+- L'Italie _ italien(ne)
+- L'Espagne _ Espagnol(e)
+- L'Allemagne _ allemand(e)
+- L'Hollande _ hollandais(e)
+-
+- Être /ết th/ : thì là
+	- Je suis
+	- Tu es
+	- Il (Elle) est
+	- Nous sommer
+	- Vous êtes
+	- Ils (Elles) sont
+-

@@ -1,0 +1,9 @@
+- Đại học Ngoại ngữ
+	- Thực tế
+		- [[Sơ đồ cơ cấu tổ chức ULIS]]
+	- Phân tích
+		- tại sao lại có những phòng ban như này
+	- Đánh giá
+		- từng phòng ban tối ưu chưa
+		- hệ thống tối ưu chưa
+	-

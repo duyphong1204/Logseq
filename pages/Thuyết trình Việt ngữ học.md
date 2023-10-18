@@ -1,0 +1,100 @@
+- # Tài liệu
+	- ![TUẦN 13.1.pdf](../assets/TUẦN_13.1_1666762387161_0.pdf)
+	- ![TUẦN 13.2.pdf](../assets/TUẦN_13.2_1666762425337_0.pdf)
+	- ![TUẦN 13.3.pdf](../assets/TUẦN_13.3_1666762430815_0.pdf)
+	- [Q-VNH-Tuan 13.docx](../assets/Q-VNH-Tuan_13_1666762440091_0.docx)
+	- [NMVNH-PP4SV-tuần 13.pptx](../assets/NMVNH-PP4SV-tuần_13_1666762444580_0.pptx)
+	- **Tài liệu thuyết trình**
+	- **Tài liệu phản biện**
+- # Chương IV
+	- ## Lý thuyết lập luận
+		- ### Preface
+		  collapsed:: true
+			- Trước đây lập luận (argumentation) được nghiên cứu trong [[Tu từ học]] và [[Logic học]]
+			- Hai nhà ngôn ngữ học Pháp: [[Oswald Ducrot]] và [[Jean Claude Anscombre]] đặc biệt quan tâm tới bản chất [[Ngữ dụng học]] của lập luận
+			- {{cloze nói cái này để làm gì, dẫn luận vài fact cho vui hay để dẫn người ta tìm hiểu lịch sử sâu hơn}}
+		- ### I. Lập luận là gì?
+			- **1. Miêu tả (khảo nghiệm, xác tín)**
+				- /*liên kết giữa miêu tả và lập luận*/
+				- Phát ngôn miêu tả (với *nội dung phản ánh một hiện thực, sự kiện bên ngoài ngôn ngữ*) bằng lời nói
+				  id:: 6358d760-a505-4190-9fed-f95361b60051
+					- là sản phẩm của hành vi khảo nghiệm
+					- nội dung của chúng được đánh giá theo tiêu chuẩn logic đúng sai
+				-
+				- [[Hayakawa]] nhận xét trong giao tiếp thông thường - không kể trong các văn bản khoa học, các phát ngôn miêu tả kiểu này có số lượng thấp:
+					- Nhà của ông Nhuận có hai tầng
+					- Con mèo này màu đen
+					- Trời nhiều mây
+				-
+				- Trong giao tiếp thông thường, ít khi chúng ta miêu tả để miêu tả
+				- Thông thường, chúng ta miêu tả một cái gì đấy là để hướng người nghe tới một cái gì đấy nằm ngoài sự vật hiện tượng, sự kiện được miêu tả
+					- cái mà người nói hướng người ngeh tới qua thông tin miêu tả có thể là
+						- một thái độ, một tình cảm, một sự đánh giá, một nhận định hay một hành động nào đó cần phải thực hiện
+					- nói vắn tắt, cái mà thông tin miêu tả hướng tới là một kết luận nào đó rút ra từ thông tin miêu tả đó
+					-
+				- ***Lập luận là đưa ra những lí lẽ nhằm dẫn dắt người nghe đến một kết luận hay chấp nhận một kết luận nào đấy mà người nói muốn đạt tới***
+				- {{cloze vậy là miêu tả bằng cách nào đó dẫn sang lập luận, có thể hiểu miêu tả là một cách đưa luận điểm - mang tính đúng sai, như bao nhiêu cách khác: đưa số liệu, đưa châm ngôn,...}}
+					- {{cloze dùng ví dụ để so sánh nhấn mạnh đặc điểm phát ngôn miêu tả và phát ngôn lập luận thì hay hơn. Dụ như đỉnh cao là câu nói người nhật: trăng hôm nay xanh nhỉ}}
+		-
+- Đọc thêm để hiểu
+- ((6358d760-a505-4190-9fed-f95361b60051))
+	- search google: sự kiện bên ngoài ngôn ngữ
+	  collapsed:: true
+		- nếu tìm thì có thể tìm đọc đối chiếu các nguồn nữa, chẳng hiểu sao tra từ điện thoại bố ra những cái kì quặc không liên quan, đưa lên máy tính lấy link thì tìm được một bài đăng bởi nhiều nguồn.
+		- https://ngonngu.net/trongngoai_ss/266
+		- https://hoc247.net/tam-ly-hoc-dai-cuong/bai-3-ngon-ngu-va-nhan-thuc-l7847.html
+		- https://www.cet.edu.vn/giao-tiep-phi-ngon-ngu
+		- https://suretest.vn/cung-co/ngu-canh-7488.html
+		- https://vi.wikipedia.org/wiki/Ch%C3%A2n_tr%E1%BB%9Di_s%E1%BB%B1_ki%E1%BB%87n
+		- ![nndc.pdf](../assets/nndc_1666769811373_0.pdf)
+		- ![Khái niệm sự kiện trong tự sự học hiện đại.pdf](../assets/Khái_niệm_sự_kiện_trong_tự_sự_học_hiện_đại_1666769851160_0.pdf)
+			- tại sao lại có nhiều khái niệm ở nhiều phạm trù thế nhỉ, thế giới không thể đơn giản hơn à?
+		- https://text.123docz.net/document/2589327-nghien-cuu-dac-diem-ngon-ngu-van-ban-thong-cao-bao-chi.htm
+		- http://123docz.net/document/2613313-khao-sat-ngon-ngu-thong-diep-truyen-thong-to-chuc-su-kien.htm
+		- https://marketingevent.vn/tin-tuc/tin-tuc-tong-hop/thuat-ngu-tieng-anh-trong-to-chuc-su-kien.html
+		- https://cosmos-event.com/to-chuc-su-kien-va-khong-gian-thuc-hien-cac-chuong-trinh-su-kien.html
+		- https://healthvietnam.vn/thu-vien/tai-lieu-tieng-viet/bac-si-tam-ly/cac-qua-trinh-nhan-thuc
+		- https://www.novotel-danang-premier.com/vi/mice/tho-son/
+		- https://dtbd.moha.gov.vn/uploads/resources/admin/chuyenvien/ChuyenDe11.pdf
+		- https://healthvietnam.vn/thu-vien/tai-lieu-tieng-viet/benh-vien/khai-quat-chung-ve-ky-nang-giao-tiep-ung-xu
+		- https://support.microsoft.com/vi-vn/topic/kb4538595-c%E1%BA%A3i-ti%E1%BA%BFn-c%C3%A1c-t%C3%ADnh-n%C4%83ng-m%E1%BB%9Bi-bao-g%E1%BB%93m-trong-qu%E1%BA%A3n-l%C3%BD-th%C6%B0-vi%E1%BB%87n-cho-c%C3%A1c-ng%C3%B4n-ng%E1%BB%AF-b%C3%AAn-ngo%C3%A0i-trong-sql-server-2019-e61fbda6-3e0e-95a0-1390-1921a57fad5e
+		- https://learn.microsoft.com/vi-vn/dynamics365/marketing/set-up-event
+		- https://vbsp.org.vn/wp-content/uploads/2016/02/Bai-13.-K%E1%BB%B8-N%C4%82NG-GIAO-TI%E1%BA%BEP-%E1%BB%A8NG-X%E1%BB%AC.doc
+		- https://vbsp.org.vn/wp-content/uploads/2016/02/Bai-13.-K%E1%BB%B8-N%C4%82NG-GIAO-TI%E1%BA%BEP-%E1%BB%A8NG-X%E1%BB%AC.doc
+		- https://developers.google.com/search/blog/2020/02/events-on-search?hl=vi
+		- https://www.ifac.org/system/files/downloads/translation_db_file_16.pdf
+		- https://home.suremeet.vn/help/hdsd/truoc-su-kien-154.html
+		- https://stage.vn/event101-to-chuc-su-kien-tu-dien-thuat-ngu-tu-a-z
+		- https://eldata11.topica.edu.vn/HocLieu/MAN303/Giao%20trinh/08_MAN303_Bai5_v2.0013106227.pdf
+		- http://www.jaist.ac.jp/~bao/VLSP-text/Mar2009/SP85_baocaokythuat2009thang3.pdf
+		- https://ngoaingu.donga.edu.vn/chi-tiet-bai-viet/khoa-ngon-ngu-va-van-hoa-anh-giao-luu-trong-su-kien-van-hoa-viet---nhat-21645
+		- https://ngoaingu.donga.edu.vn/chi-tiet-bai-viet/khoa-ngon-ngu-va-van-hoa-anh-giao-luu-trong-su-kien-van-hoa-viet---nhat-21645
+		- https://sunandmoon.vn/products/kich-hoat-ngu
+		- https://www.tapchicongsan.org.vn/web/guest/quoc-phong-an-ninh-oi-ngoai1/-/2018/823661/giao-luu-van-hoa-the-gioi-trong-chien-luoc-phat-trien-van-hoa-cua-viet-nam.aspx
+		- https://tuyensinh.vanlanguni.edu.vn/ngon-ngu-anh/
+		- https://www.tapchicongthuong.vn/bai-viet/nghien-cuu-ve-moi-lien-he-giua-ngon-ngu-va-tu-duy-logic-75630.htm
+		- http://congan.kontum.gov.vn/tieng-noi-ban-bien-tap/ky-nang-viet-tin-bai-va-khai-thac-tu-lieu-de-viet-tin-bai.html
+		- https://glints.com/vn/blog/8-loai-ngon-ngu-co-the-trong-giao-tiep-ban-can-hoc-ngay/
+		- https://cantho.fpt.edu.vn/nganh-ngon-ngu-nhat-la-gi
+		- https://clef.vn/vi/goc-ngon-ngu/mo%CC%81i-quan-he%CC%A3-giu%CC%83a-ngon-ngu%CC%83-va%CC%80-van-ho%CC%81a.html
+		- https://www.uef.edu.vn/ttthnn/tin-tuc-su-kien/ai-co-the-hoc-tieng-tay-ban-nha-nhung-loi-ich-khi-hoc-tieng-tay-ban-nha-la-gi-17316#:~:text=Ti%E1%BA%BFng%20T%C3%A2y%20Ban%20Nha%20l%C3%A0%20n%E1%BB%81n%20t%E1%BA%A3ng%20%C4%91%E1%BB%83%20h%E1%BB%8Dc%20th%C3%AAm,t%E1%BB%AB%20v%E1%BB%B1ng%20t%C6%B0%C6%A1ng%20t%E1%BB%B1%20nhau.
+		- https://dangcongsan.vn/the-gioi/nhung-van-de-toan-cau/tam-quan-trong-cua-ngon-ngu-me-de-trong-qua-trinh-phat-trien-374035.html#:~:text=Ti%E1%BA%BFng%20m%E1%BA%B9%20%C4%91%E1%BA%BB%20c%C3%B9ng%20v%E1%BB%9Bi,l%C3%A0nh%20m%E1%BA%A1nh%20c%E1%BB%A7a%20x%C3%A3%20h%E1%BB%99i.
+		- https://ired.edu.vn/vn/tu-lieu-giao-duc/ChiTietTin/1705/su-kien-xa-hoi-hoc-so-dang-g-tarde-1894
+		- http://www.benhvien103.vn/phan-loai-cac-hien-tuong-tam-li/
+		- https://help.socio.events/vi/articles/4701463-ch%E1%BB%89-s%E1%BB%91-s%E1%BB%B1-ki%E1%BB%87n-amp-c%E1%BB%99ng-d%E1%BB%93ng
+		- https://www.britishcouncil.vn/hoc-tieng-anh/tieng-anh-nguoi-lon/kinh-nghiem/chin-tro-ngai-thuong-gap-khi-hoc-ngoai-ngu-va-cach-khac-phuc
+	- search google: việt ngữ học
+	  collapsed:: true
+		- http://www.vns.edu.vn/index.php/vi/nghien-cuu/viet-ngu-hoc
+		- https://123docz.net/document/6099040-de-cuong-mon-viet-ngu-hoc-dai-cuong.htm
+		- http://vsl.edu.vn/about/bo-mon-viet-ngu-hoc
+		- https://tieuluan.info/chng-trnh-o-to-trnh--i-hc-ngnh-vn-hc-m-s-5220330--cng-hc-phn.html?page=27
+		- https://pdtsaudaihoc.qnu.edu.vn/Resources/Docs/SubDomain/pdtsaudaihoc/Vi%E1%BB%87t%20ng%E1%BB%AF%20h%E1%BB%8Dc.doc
+		- https://ngonnguhoc.org/files/2013/dtdh/decuongmonhoc/Viet-ngu-hoc-voi-viec-giang-day-va-nghien-cuu-van-hoc.doc
+		- https://ssh.tdtu.edu.vn/giao-duc/dao-tao-dai-hoc-chuyen-nganh-viet-ngu-hoc-va-van-hoa-xa-hoi-viet-nam
+		- https://prezi.com/ic2l0hz7g086/nhap-mon-viet-ngu-hoc-gr2/
+	- Không biết kí hiệu này nghĩa là gì nên lên mạng tìm thêm bài giảng
+		- ((6358f5b1-d62d-45af-b485-45f451d17484))
+	- xong thấy cái này
+		- {{video https://www.youtube.com/watch?v=OXG-h_KMiKk}}
+		- họ giải thích và sắp xếp kèm đưa ví dụ giúp mình chắc chắn hơn về cái mình hiểu

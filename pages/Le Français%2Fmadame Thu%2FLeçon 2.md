@@ -1,0 +1,125 @@
+title:: Le Français/madame Thu/Leçon 2
+
+- Compter de zéro à cent
+- zéro 0
+- un 1
+- deux 2
+- trois 3
+- quatre 4
+- cinq 5
+- six 6
+- sept 7
+- huit 8
+- neuf 9
+- dix 10
+- onze 11
+- douze 12
+- treize 13
+- quatorze 14
+- quinze 15
+- seize 16
+- dix-set 17
+- dix-huit 18
+- dix-neuf 19
+- vingt /vang/ 20
+- vingt un /vang tê ăng/ 21
+- vingt deux 22
+- vingt trois 23
+- vingt quatre 24
+- vingt cinq 25
+- vingt six 26
+- vingt sept 27
+- vingt huit 28
+- vingt neuf 29
+- trente /thongt/ 30
+- trente et un 31
+- trente deux 32
+- trente trois 33
+- trente quatre 34
+- trente cinq 35
+- trente six 36
+- trente sept 37
+- trente huit 38
+- trente neuf 39
+- quarante /ca hongt/ 40
+- quarante et un
+- cinquante /xanh congt/ 50
+- cinquante et un
+- soixante /xoa xongt/ 60
+- soixante et un
+- soixante-dix 70
+- soixante et onze
+- soixante douze
+- soixante treize
+- soixante quatorze
+- soixante quinze
+- soixante seize
+- soixante dix sept
+- soixante dix huit
+- soixante dix neuf
+- quatre vingt /các th văng/ 80
+- quatre vingt un
+- quatre vingt deux
+- quatre vingt trois
+- quatre vingt quatre
+- quatre vingt cinq
+- quatre vingt six
+- quatre vingt sept
+- quatre vingt huit
+- quatre vingt neuf
+- quatre vingt dix
+- quatre vingt onze
+- quatre vingt douze
+- quatre vingt treize
+- quatre vingt quatorze
+- quatre vingt quinze
+- quatre vingt seize
+- quatre vingt dix sept
+- quatre vingt dix huit
+- quatre vingt dix neuf
+- cent
+-
+- Lundi
+- Mardi
+- Mercredi
+- Jeudi
+- Vendredi
+- Samedi
+- Dimach
+-
+- Janvier
+- Février
+- Mar]s
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
+-
+- habiter
+	- Je : e
+	- Tu : es
+	- Il Elle : e
+	- Nous : ont
+	- Vous : ez
+	- Ils (Elles) : ent
+- aller /a lê/ : đi, tình trạng sức khỏe
+	- Je vais
+	- Tu vas
+	- Il (Elle) va
+	- Nous allons
+	- Vous allez
+	- Ils (Elles) vont
+- avoir /a voa/ : có, sở hữu, tuổi
+	- J'ai
+	- Tu as
+	- Il (Elle) a
+	- Nous avons
+	- Vous avez
+	- Ils (Elles) ont
+-
+-

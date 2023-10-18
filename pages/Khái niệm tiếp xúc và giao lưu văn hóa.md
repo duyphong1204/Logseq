@@ -1,0 +1,77 @@
+meta:: ((647fbd88-5a79-41c1-9860-08fe34cb9fb4)) (tr 50 - 54)
+---
+
+- # Khái niệm
+	- ## Thuật ngữ
+		- Thuật ngữ tiếp xúc và giao lưu văn hóa được sử dụng khá rộng rãi trong nhiều ngành khoa học xã hội
+		  collapsed:: true
+			- khảo cổ học
+			- dân tộc học
+			- xã hội học
+			- văn hóa học
+		- Tức là những ngành khoa học có đối tượng nghiên cứu là con người và xã hội, nhân văn
+		- Khái niệm tiếp xúc và giao lưu văn hóa được dịch từ những thuật ngữ của các nước phương Tây.
+		  collapsed:: true
+			- cultural contacts
+			- cultural exchanges
+			- acculturation
+		- Nhưng ngay bản thân ở các nước phương Tây, các khái niệm này cũng được dùng bởi những từ khác nhau.
+		  collapsed:: true
+			- Người Anh thích dùng chữ Cultural Change (có thể dịch là trao đổi văn hóa)
+			- người Tây Ban Nha dùng chữ Transculturation (có nghĩa là di chuyển văn hóa)
+			- người Pháp có thuật ngữ Interpenetration des civilisations (có nghĩa là sự hòa nhập giữa các nền văn minh)
+			- người Hoa Kỳ dùng thuật ngữ acculturation.
+			- Đương nhiên, nội hàm của các thuật ngữ trên ở các nước có giớii hạn chung, nhưng các thuật ngữ đều có những nét khác nhau nhất định về sắc thái.
+		- Khái niệm acculturation được các nhà nghiên cứu ở Việt Nam dịch không thống nhất
+		  collapsed:: true
+			- có người dịch là văn hóa hóa
+			- có người dịch là đan xen văn hóa, có người dịch là hỗn dung văn hóa
+			- có người dịch là giao thoa văn hóa
+			- Cách dịch được nhiều người chấp nhận là giao lưu văn hóa, tiếp (xúc) và biến (đổi) văn hóa
+				- Theo GS. Hà Văn Tấn, các nhà khoa học Mỹ vào năm 1936 đã định nghĩa khái niệm này như sau:
+					- R. Ritdiphin (R.Redifield)
+					- R.Linton (R Linton)
+					- M.Heckôvich (M.Herkovits)
+				- "Dưới từ acculturation, ta hiểu là hiện tượng xảy ra khi những nhóm người có văn hóa khác nhau, tiếp xúc lâu dài và trực tiếp, gây ra sự biến đổi mô thức (pattern) văn hóa ban đầu của một hay cả hai nhóm"
+		- Như vậy, giao lưu và tiếp xúc văn hóa là sự vận động thường xuyên của xã hội, gắn bó với tiến hóa xã hội nhưng cũng gắn bó với sự phát triển của văn hóa, là sự vận động thường xuyên của văn hóa.
+	- Con người sống thành cộng đồng và đã là con người thì ai cũng có những nhu cầu trong cuộc sống gần như nhau.
+	- Để đáp ứng và thỏa mãn nhu cầu đó, họ đã chế tạo những công cụ sản xuất cần thiết vào buổi ban đầu
+	- Trải qua năm tháng, sống trong những hoàn cảnh địa lí và lịch sử khác nhau, từng nhóm dân cư khác nhau đã tạo nên những nền văn hóa riêng biệt, in đậm dấu ấn của họ.
+	- "Một hoạt động có ý nghĩa đặc biệt đối với giao lưu văn hóa là trao đổi kinh tế"
+		- "giữa các cộng đồng sống trên các địa bàn khác nhau thường có sự trao đổi nguyên liệu hoặc sản phẩm với nhau mà sau này là sự trao đổi hàng hóa"
+			- sự trao đổi kinh tế thường được tiến hành bàng những cuộc tiếp xúc tập thể hay cá nhân tại các địa điểm quy định trên đường biên giới giừa lãnh thổ của các cộng đống (bộ lạc hay một nhóm bộ lạc...)
+	- Trên bước đường phát triển của xã hội loài người, cơ sở kinh tế là nhân tố quyết định
+		- sự biến đổi này được đẩy nhanh thêm do giao lưu văn hóa, ban đầu giữa các tộc người gần gũi nhau, cùng trình độ và về sau, là giữa các tộc người hay dân tộc có trình độ phát triển xã hội khác nhau
+		- sự biến đổi của bản sắc văn hóa dân tộc chịu sự chi phối của nhiểu nhân tố
+		- những nét lạc hậu, lỗi thời sẽ dán mất đi để thay thế bằng những gì được khẳng định là văn minh, hiện đại
+	- Ngoài hoạt động trao đổi kinh tế còn có những hoạt động trao đổi "phi kinh tế" mà ảnh hưởng của chúng đến giao lưu văn hóa không nhỏ
+		- sự trao đổi tặng phẩm, vật phẩm tôn giáo,...
+	- Sự tiếp xúc văn hóa còn có thể có được nhờ những sự tiếp xúc khác như quan hệ hôn nhân, quan hệ ngoại giao...
+		- các cuộc thiên di lớn nhỏ, luôn luôn xảy ra trong thời nguyên thủy và cổ trung đại làm cho các tập đoàn người có văn hóa khác nhau đã tiến đến bên nhau hoặc sống xen kẽ vào nhau. Đó cũng là một yếu tố quan trọng tạo ra sự tiếp xúc và giao lưu văn hóa.
+	- Giao lưu văn hóa vừa là kết quả của trao đổi, vừa là chính bản thân sự trao đổi.
+		- có hiểu như vậy mới thấy hết tấm quan trọng của giao lưu văn hóa trong lịch sử nhân loại
+		- vì sản xuất, trao đổi là một động lực thúc đẩy sự phát triển của lịch sử, như nhận định của Mác và Ăngghen:
+			- "Người ta luôn luôn phải nghiên cứu và viết lịch sử loài người gắn liển với lịch sử của công nghiệp và của trao đổi"
+			- "Những lực lượng sản xuất, nhất là những phát minh, để đạt được ở một địa phương có mất đi hay không mất đi đối với sự phát triển sau này, điều đó chỉ phụ thuộc vào sự mở rộng của trao đổi thôi."
+	- Nói cách khác, giao lưu và tiếp biến văn hóa là sự tiếp nhận văn hóa nước ngoài bởi dân tộc chủ thể
+		- quá trình này luôn luôn đặt mỗi tộc người phải xử lí tốt mối quan hệ biện chứng giữa yếu tố nội sinh và yếu tố ngoại sinh
+			- hai yếu tố này luôn có khả năng chuyển hóa cho nhau và rất khó tách biệt trong một thực thể văn hóa
+			- có yếu tố ở giai đoạn này là yếu tố ngoại sinh nhưng đến giai đoạn sau, những tính chất của yếu tổ ngoại sinh ấy không còn hoặc nhạt dần đến nỗi người ta tưởng rằng đó là yếu tố nội sinh
+			- Hơn nữa, kết quả của sự tương tác giữa hai yếu tố này thường diễn ra theo hai trạng thái:
+				- một là yếu tố ngoại sinh lấn át, triệt tiêu yếu tố nội sinh
+				- hai là có sự cộng hưởng lẫn nhau, yếu tố ngoại sinh dần dần trở thành yếu tố nội sinh hoặc bị phai nhạt căn tính của yếu tố ngoại sinh
+			- Nhìn ở phương diện thái độ của tộc người chủ thể, sự tiếp nhận các yếu tố ngoại sinh cũng có hai dạng thể hiện:
+				- một là tự nguyện tiếp nhận
+				- hai là bị cưõng bức tiếp nhận
+			- Mức độ của sự tiếp nhận trong giao lưu cũng khác nhau: có sự tiếp nhận đơn thuấn và sự tiếp nhận sáng tạo.
+				- sự tiếp nhận đơn thuần khi nhìn ở ý nghĩa tương đối là phổ biến trong mọi người ở tộc người chủ thể
+				- trong khi đó, sự tiếp nhận có sáng tạo lại là sự tiếp nhận có sự kiểm soát của lí trí
+					- và sự tiếp nhận cod sáng tạo này cũng có ba mức:
+						- thứ nhất là không tiếp nhận toàn bộ mà chỉ chọn lọc lấy những giá trị thích hợp cho tộc người mình
+						- thứ hai là tiếp nhận cả hệ thống nhưng đã có sự sắp xếp lại theo quan niệm giá trị của tộc người chủ thể.
+						- thứ ba là mô phỏng và biển thể một số thành tựu của văn hóa tộc người khác bởi tộc người chủ thể
+		- Như thế, quan hệ biện chứng giữa yếu tố nội sinh và yếu tố ngoại sinh đặt ra đòi hỏi với chính tộc người chủ thể là nội lực của chính nó, hay nói cách khác là bản sắc và truyền thống văn hóa của tộc người tiếp nhận
+			- trên cái nhìn lịch sử, bản sắc và truyền thống không phải là yếu tố nhất thành bất biến
+			- sự vận động của mỗi nền văn hóa trong không gian và trong thời gian luôn luôn là sự vận động của các yếu tố bất biến và khả biến, giữa cái cố hữu và cái cách tân
+				- cái khả biến phát triển đến mức độ nào đó sẽ làm thay đổi chỉnh thực thể văn hóa ấy, như quy luật, lượng đổi, chất đổi.
+		- Ngày nay, chúng ta đã nhận thức được rằng tiếp biến và giao lưu văn hóa là quy luật phát triển của văn hóa, quy luật tất yếu của đời sống, một nhu cầu tự nhiên của con người hiện tại

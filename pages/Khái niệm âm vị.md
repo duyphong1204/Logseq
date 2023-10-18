@@ -1,0 +1,103 @@
+- *Trong một từ như ba của tiếng Việt, ngoài thanh điệu, có hai đơn vị tối thiểu là b và a*
+- *Nhờ hai đơn vị ấy người Việt nhận diện được từ ba và phân biệt được vỏ âm thanh của từ này với âm thanh của các từ khác như va, la ca, bi, bô, be* {{cloze có thật sự cần mấy dòng này không, để lần đầu đọc cho nó thuận và không ngán như nhìn ghi chép dài? nhưng về lâu dài tra thì sẽ phải mất thời gian lùng}}
+- ---
+- ### 1. Âm vị là gì
+  collapsed:: true
+	- Âm vị là đơn vị ngữ âm tối thiểu của hệ thống ngữ âm của một ngôn ngữ gọi
+		- phoneme
+		- ví dụ trong từ ba
+			- b
+			- a
+		- có hai chức năng
+			- cấu tạo nên vỏ âm thanh của các đơn vị có nghĩa
+			- phân biệt (khu biệt) vỏ âm thanh của các đơn vị có nghĩa
+		- ghi âm vị
+			- đặt kí hiệu phiên âm ở giữa hai vạch nghiêng song song
+			- ví dụ
+				- /b/
+				- /a/
+	- Đặc trưng âm vị
+		- tên khác
+			- nét khu biệt
+			- dấu hiệu khu biệt
+			- tiêu chí khu biệt
+		- câu hỏi
+			- các âm vị khác nhau phân biệt với nhau ở những đặc trưng nào
+				- phải xác định đặc trưng âm học và cấu âm tạo nên một âm vị cụ thể
+				- rồi so sánh những đặc trưng âm vị này với những đặc trưng âm vị khác để tìm ra sự khác biệt
+		- ví dụ
+			- /n/
+				- đầu lưỡi
+					- làm /n/ khác với /ŋ/
+						- /ŋ/ là một phụ âm cũng có tính chất tắc và vang nhưng có tính gốc lưỡi
+						- ((63dc8211-7ce2-43e9-b8ca-b9ae5a834417))
+				- tắc
+					- /n/ phân biệt với /l/
+						- /l/ là một phụ âm xát, dù cả hai là âm vang và đầu lưỡi
+						- ((63dc8225-ad75-4b99-97d7-062e87daa8d0))
+				- vang
+					- /n/ phân biệt với /t/
+						- /t/ cũng có tính chất tắc và đầu lưỡi nhưng có tính chất ồn
+						- ((63dc8236-b9d3-4d94-ae96-4a7cfc1f5113))
+				- từ ba đặc trưng khu biệt trên
+					- tên khác
+						- nét khu biệt
+						- dấu hiệu khu biệt
+						- tiêu chí khu biệt
+					- na phân biệt với nga, ta và la
+					- nay phân biệt với ngay, tay, lay
+		- tác dụng
+			- giúp người bản ngữ nhận diện các âm vị
+			- phân biệt các âm vị với nhau
+			- do đó phân biệt các đơn vị có nghĩa của ngôn ngữ
+		- định nghĩa khác
+			- Âm vị là một chùm hoặc một tổng thể đặc trưng khu biệt được thể hiện đồng thời
+- ### 2. Phân biệt âm vị với âm tố
+  collapsed:: true
+	- âm vị được thể hiện ra bằng các âm tố và âm tố là sự thể hiện của âm vị
+	  id:: 63dc8925-279c-4294-bd97-d4c99096513d
+		- tiếng Việt có âm vị /n/ nhưng trong lời nói hàng ngày không phải lúc nào cũng phát âm những âm [n] cụ thể hoàn toàn như nhau
+			- lúc mạnh
+			- lúc yếu
+			- lúc tròn môi
+				- trong no, nó
+		- việc phát âm như vậy sẽ tạo thành những âm tố cụ thể [n1], [n2], [n3]
+		- lõi chung là gốc âm vị /n/
+	- |âm vị|âm tố|
+	  |một đơn vị trừu tượng|một đơn vị cụ thể|
+	  |có ba đặc trưng khu biệt|có thêm những đặc trưng không khu biệt|
+	  | |*đặc trưng tròn môi (no, nô)*|
+	- nói đến âm vị là nói đến mặt xã hội
+		- bởi âm vị là cái chung
+		- mang chức năng khu biệt
+	- nói đến âm tố là nói đến mặt tự nhiên của ngữ âm
+		- âm tố là sự thể hiện của âm vị
+		- là yếu tố âm thanh
+	- phạm vi của âm vị
+		- bó hẹp trong một ngôn ngữ nhất định
+		- có thể nói /k/ và /ɣ/ là hai âm vị của tiếng Việt
+			- không thể nói đó là âm vị của tiếng Hán
+	- phạm vi của âm tố
+		- nói đến một cái chung cho ngôn ngữ
+- ### 3. Biến thể của âm vị
+  collapsed:: true
+	- những âm tố cùng thể hiện một âm vị được gọi là các biến thể của âm vị
+		- variant
+		- 2 loại
+			- biến thể kết hợp
+			  collapsed:: true
+				- bị quy định bởi vị trí
+				- bối cảnh ngữ âm
+				- ví dụ
+					- biến thể của âm vị /m/
+						- màn
+						- mũ
+							- [m] đi trước nguyên âm ròn môi [u] nên bị môi hóa
+			- biến thể tự do
+				- không bị quy định bởi bối cảnh ngữ âm
+				- ví dụ
+					- âm vị /ε/
+					  collapsed:: true
+						- mẹ
+							- có người phát âm hẹp gần như [e] và [i] nhẹ ở đầu
+							- có người phát âm [æ]

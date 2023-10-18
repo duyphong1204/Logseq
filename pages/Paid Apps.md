@@ -1,0 +1,21 @@
+- Consider
+	- Butter
+	- Miro
+	- Hepta
+	- Discord
+	- Netflix
+	- Spotify
+	- Notion
+	- Loom
+	- Doulingo
+	- Grammarly
+	- Trello
+	- Github
+	- Reddit,...
+	- mấy ứng dụng download ảnh
+	- download tài liệu
+		- để tiết kiệm thì đăng kí một tháng rồi cóp hết về rồi hủy, xem hết rồi mới đăng kí tiếp
+	- tiền để test mấy app của nợ khác và so sánh như của microsoft và google...
+- Paid
+	- ELSA life time
+	- Synology 13 triệu/4 năm

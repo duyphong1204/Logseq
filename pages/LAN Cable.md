@@ -1,0 +1,51 @@
+related::  [[NAS]][[Router]][[Hub]]
+
+- Cáp là gì
+	- Cấu tạo
+		- PVC Sheath
+		- Rip Cord
+		- Conductor
+		- PE Insulation
+		- đường kính lõi
+	- Chức năng
+	- Cat8, Cat7, Cat8?
+- Thị trường 2022
+	- Cat5
+	- Cat5e
+		- Đặc điểm
+			- cáp xoắn
+			- lõi đồng
+			- đường kính lõi
+				- 24AWG/0.511mm (tiêu chuẩn)
+				- 0.4 – 0.5mm
+			- tốc độ 100mbps
+			- ít bị [[cross-talk]]
+		- Loại
+			- UTP
+			- FTP
+			- SFTP
+			- FFTP
+			- SSTP
+	- Cat6
+	- Cat7
+	- Cat8
+		- DbillionDa
+		- Jadaol
+		- Dacrown
+		- Ugreen
+		- Vagobu
+		- Deego
+		- Deegotech
+		- Dasook
+		- Snowkids
+		- Zosion
+		- Smolink
+		- Orbam
+		  Kasimo
+- Hãng nào
+- Cat8
+- Hãng
+- Model
+-
+- Jargon
+	- Cross-talk

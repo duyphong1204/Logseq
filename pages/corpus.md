@@ -1,0 +1,4 @@
+- a collection of written or spoken texts
+	- a corpus of 100 milion wwords off spoken English
+-
+- [[corpor]]

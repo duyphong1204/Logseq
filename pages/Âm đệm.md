@@ -1,0 +1,69 @@
+- Yếu tố tròn môi trong âm tiết gọi là âm đệm /w/
+	- ví dụ
+		- trong những âm tiết như tuần, ngoan
+	- cấu tạo
+		- gần giống nguyên âm làm âm chính /u/
+			- trong những âm tiết như hút, lụi
+		- khác với âm chính /u/ ở vị trí và chức năng đảm nhiệm trong âm tiết
+			- âm chính {{cloze cái này éo reference được là mày take note chán rồi, thế này viết xong đ có khả năng dùng lại luôn, hoặc máy có sẵn refer ở dưới thì tốt, à cũng có, nhưng sẽ mất thời gian apply, còn hơn không, nhưng đấy mới chỉ liên kết kiến thức, lúc mày lấy kiến thức ra, sao retrive được và retrieve một dây dài xử lí có lâu không, có áp dụng được không là chuyện khác}}
+				- nằm ở đỉnh âm tiết
+				- quyết định âm sắc chủ yếu
+			- âm đệm
+				- chỉ nằm ở sườn đường cong đi lên
+				- có chức năng tu chỉnh, hoàn thiện, làm trầm hóa âm sắc
+					- so sánh lụt và luật
+						- ((63e29293-7218-44bc-a776-e296bb253cf0))
+- Âm đệm zero
+  collapsed:: true
+	- ở những âm tiết không có yếu tố tròn môi
+		- ví dụ {{cloze cái này không bị vào refer là matrix của logseq tốt phết nhỉ, phải tìm hiểu cách hoạt động, mà nhiều khi nghĩ mình ăn cắp hoặc modify hoặc tạo mới một hệ thống liên kết riêng thì đỉnh nhưng có lẽ 89% người ta tốt, 11% mình không ưng thôi}}
+			- tấn
+			- ngan
+- Độ mở của âm đệm /w/ *trong lời nói*
+	- phụ thuộc vào độ mở của nguyên âm - âm chính đi sau
+	- nếu nguyên âm đi sau là nguyên âm rộng như /a, ă, ε/
+	  collapsed:: true
+		- âm đệm cũng được mở rộng
+			- ví dụ
+				- hoa
+				- hoè
+				- xoăn
+	- nếu nguyên âm đi sau là nguyên âm hẹp như /i, e ,ɤ, ɤˇ/
+		- /w/ cũng được thu hẹp lại
+			- ví dụ
+				- hủy
+				- huệ
+				- tuần
+				- thuở
+- Thể hiện phản ánh hai biến thể rộng hẹp *trên chữ viết*
+	- có hai cách thể hiện
+		- ghi bằng o
+			- khi đi trước các nguyên âm rộng /a, ã, ε/
+				- ví dụ
+					- họa hoằn
+					- hoa hòe.
+		- ghi bằng u
+			- khi đi trước các nguyên âm còn lại
+			- ví dụ
+				- huy
+				- huệ
+				- tuần
+				- thuở
+	- khi đi sau phụ âm /k/ (với cách viết là q)
+		- âm đệm /w/ bao giò cũng được viết bằng u
+		- ví dụ
+			- qua
+			- que
+			- quăn
+			- quy
+			- quê
+- Âm đệm /w/ không phân bố sau các phụ âm môi /m, b, f, v/.
+	- một số trường hợp đi ra ngoài quy luật này đều là các từ phiên âm từ tiếng nước ngoài
+		- ví dụ
+			- ô tô buýt
+			- thùng phuy
+			- khăn voan
+	- (chỉ trong vài từ như noãn cầu, noãn sào, goá)
+- Trong tiếng Việt, hai âm có cấu âm như nhau hoặc gần nhau thì không kết hợp với nhau
+	- /w/ là một bán nguyên âm tròn môi, nó không đi với các phụ âm môi
+- Sau các phụ âm /n ,ɤ/ sự xu ất hiện của /w/ cũng rất hạn chế

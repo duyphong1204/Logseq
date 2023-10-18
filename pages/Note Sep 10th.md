@@ -1,0 +1,42 @@
+- Các trạng thái tư tưởng của lãnh đạo
+	- (thường là trong phim)
+	- Không muốn mất một ai
+		- ngây ngô non nớt nhưng hồ hởi nhiều sức
+	- Sẵn sàng mất tất cả
+		- sụp đổ, lạc lối chỉ còn biết vin vào thứ bất định và dễ thấy như kết quả
+	- Tự mình làm hết
+		- chấp nhận hiện thực nhưng không chấp nhận số phận
+		- chống lại nó và có thể chết
+			- dù cách chống có thông minh hơn và tâm bình thản hơn
+- Timeline cho một ngày
+	- Chia việc
+		- Chú ý
+			- công việc nên xong vào cuối tuần để có một ngày reflect lại
+			- thực trạng: 6 ngày làm không 1 ngày reflect, mà reflect 1 ngày cũng không ổn, sắp xếp và ôn lại thì dễ
+				- khiếp cứ như sinh viên y học và làm bài liên tục nhỉ
+			- dù như thế cũng chưa ổn, thế thì cả tuần không có ngày nào nghỉ hả
+			- map hóa với reflect cũng mệt, rồi phải làm mỗi tuần, còn chưa tính được việc ôn và ghi nhớ kiến thức đến mức thấm nhuần
+				- định sau một tuần, một tháng, hai tháng ôn lại đúng tuần đó trước, nhưng thế hơi nhiều việc
+				- chưa nói đến không có thời gian thì chỉ còn cách ôm đồm tốn một đống năng lượng cho việc cố vận dụng thật nhiều những thứ mình học để nhớ
+			- chưa thấy mấy việc này có giúp mày nhàn hơn không, mình có hướng tới nó, có thấy nó có thể khả thi nhưng cũng khó nói lắm vì cũng chưa dùng trọn vẹn và áp dụng được cho mọi lúc mấy thứ mình đang sưu tầm.
+		- Tại sao?
+			- Cần? không cần trả lời nữa
+			- Tại sao lại một tuần, tại sao không cứ thế alfm luôn
+				- vì đang dở mạch nghĩ thì khó mà buông nó để vào mạch phản tư tách ra khỏi nó và đánh giá phán xét
+		- Vấn đề
+			- của việc chọn việc và biết cách chunk/chia việc
+			- cũng liên quan đến kĩ năng chạy deadline
+				- chạy nhiều nhưng chưa chắc đã biết cách bảo tồn anwng lương, đưa hiệu quả công việc lên, dùng hiệu quả thời gian, duy trì được bộ mày này lâu trước khi nó sụp
+				- ít nhất cần phải phản tư, hoặc chú ý hơn đến việc mình làm và phân tích nó trong quá trình (sẽ có nhìn nhận cận hơn là phản tư nhưng tổng quan thì không hiệu quả bằng )
+				- được hỏi để phản tư cũng là một cách
+					- chấp nhận đau đớn thất bại là lúc đó mày không cho người ta một câu trả lời hoàn hảo được đâi
+				- hoặc hỏi bạn để cùng phản tư và bổ sung
+					- nhưng ý này đứng sau vì sao, vì để nó thành buổi quy nạp,  tổng hợp thay vì diễn dịch
+			- chợt nghĩ lại và nhận ra 1 tuần quá dài để tổng kết lại trong 1 ngày...
+			- chắc đảnh phải cắt bớt, không được, mày phải cố, ít nhất là nhìn lại đầu tuần và nói về synology, hệ thống lưu trữ online
+				- đến anh mày còn không biết, nhiều anh còn không biết, bố Phúc không biết sao mày nghĩ lớp mày biết
+				- nghĩ lại cho bản thân cách đây 1 tuần cũng khó, dù bản thân tôi đổi dời có tí thôi nhưng đã thấy mình như có một lịch sử với NAS rồi.
+				- đành vin vào clip để có cảm hứng cũ, đặc biệt là sự bất ngờ.
+				- mà nếu review một tuần thì đâu cố cần từ cuối lên đầu? vì một tuần vẫn nằ trong khoảng cảm hứng chưa đi
+			-
+-

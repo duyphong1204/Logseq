@@ -1,0 +1,6 @@
+- từ điển tiếng anh truyện Give My Regards to Black Jack
+- Vocabulary
+- [[attending]]
+-
+- Grammar
+- reverse sth with sth

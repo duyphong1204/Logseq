@@ -1,0 +1,29 @@
+- Hai phân ngành
+	- ngữ âm học đại cương
+	  collapsed:: true
+		- nghiên cứu
+			- quy luật ngữ âm chung của ngôn ngữ trên thế giới
+				- quy luật kết hợp
+				- quy luật biến đổi
+				- phát triển của các âm
+			- những nguyên lí cấu tạo trung của các âm
+			- những phương pháp nghiên cứu ngữ âm
+			- lí luận chung về cách viết và chính tả
+	- ngữ âm học cục bộ
+	  collapsed:: true
+		- nghiên cứu
+			- ngữ âm của một ngôn ngữ cụ thể
+				- ngữ âm tiếng Anh
+				- ngữ âm tiếng Việt
+			- chia nhỏ
+				- Ngữ âm học miêu tả
+					- nghiên cứu ngữ âm ở trạng thái hiện đại (đương đại)
+						- ngữ âm học tiếng Pháp hiện đại
+						- ngữ âm học tiếng Nga hiện đại
+				- Ngữ âm học lịch sử
+					- nghiên cứu quá trình phát triển lịch sử của hệ thống ngữ âm
+						- ví dụ quá trình trong tiếng Việt
+							- tlăm -> trăm
+							- Tlem -> Trèm -> Chèm
+							- Tlem -> Từ Liêm
+							- blời -> giời -> trời

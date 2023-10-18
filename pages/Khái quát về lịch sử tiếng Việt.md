@@ -1,0 +1,15 @@
+meta:: ![Mở đầu Việt Ngữ học.pdf](../assets/Mở_đầu_Việt_Ngữ_học_1673705928411_0.pdf)
+
+- Hiểu biết lịch sử tiếng Việt không chỉ là một nhu cầu thuần túy ngôn ngữ học, mà là một nhu cầu hiểu biết lịch sử văn hóa dẫn tộc
+  collapsed:: true
+	- Việt Nam là một dân tộc có hàng ngàn năm lịch sử. Trong quá trình đó dân tộc đã phải trải qua nhiều thăng trầm biến đổi nhưng vẫn giữ được bản sắc văn hóa của mình và vượt lên mọi khó khăn thách thức
+	- Tiếng Việt với tư cách là một công cụ giao tiếp, công cụ tư duy đã gắn liền với quá trình lịch sử vẻ vang đó
+- Tiếng Việt còn có một vai trò xã hội quan trọng trong sự nghiệp xây dựng một quốc gia dân giàu nước mạnh, hòa nhập vào xu thế phát triển của khu vực; đồng thời góp phần xây dựng bản sắc văn hóa của dân tộc, xây dựng một nền văn hóa mới, phù hợp với yêu cầu xâu dựng một xã hội mới, văn minh hiện đại
+  collapsed:: true
+	- vì có trách nhiệm là một ngôn ngữ chính thức của một quốc gia đa dân tộc đông dân ở khu vực Đông Nam Á
+	- {{cloze viết sau khi đã suy tư về cái cloze ở gần cuối phần vấn đề nguồn gốc của tiếng Việt, giờ thì hiểu tại sao summary lại khiến cách hành văn nghe chán, một phần vì nó cắt hết liên từ và một phần vì nó đi theo hướng suy luận ngược đời, không hẳn suy luận như quy nạp mà là tổng hợp thống kê của diễn dịch - sự không quen với cách tư duy bình thường này liệu có khiến mình thấy nó không hay, dù cảm giác không bảo thế mà chỉ chối từ vì nghe ngang nhưng không dám, không thể phủ nhận có thể có mối quan hệ tiềm ẩn không biểu lộ ra thành cảm xúc, và bản thân cũng chẳng đáp lại bằng cảm xúc như một câu trả lời cho mình được }}
+- {{embed [[Vấn đề nguồn gốc của tiếng Việt]]}}
+- {{embed [[Quá trình phát triển của tiếng Việt]]}}
+- [[Tài liệu vô tình tìm được và chẳng chịu đọc]]
+	- [Alves2008nghincungnnghcngungctingVit.pdf](../assets/Alves2008nghincungnnghcngungctingVit_1674157976007_0.pdf)
+-

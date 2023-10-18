@@ -1,0 +1,3 @@
+- Ngoài âm cuối **/rezo/**, tiếng Việt còn có **8** âm cuối có nội dung tích cực, trong đó có **6** phụ âm /m, n, ŋ, p, t, k/ và **hai** bán nguyên âm /-w, -j/
+- ((63e41744-05c7-4612-8372-364ccc3302d5))
+- ((63e41763-f4c4-476e-8ebe-37398b20bf54))

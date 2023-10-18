@@ -1,0 +1,52 @@
+meta:: ![02050004616.pdf](../assets/02050004616_1691462902530_0.pdf)
+
+- ## Cách nghiên cứu
+	- kì thực mình cũng chưa biết, chỉ đọc theo chiều xuôi và tự suy, tự vẽ các mối liên hệ thôi, cách này khá là diễn dịch chứ không quy nạp được như cách chuẩn người ta làm lên một đề tài nghiên cứu, mà mình làm sao biết nó được quy nạp từ những kiến thức gì, bước nào...
+- ## Đề tài
+	- NGHIÊN CỨU NGÔN NGỮ HỘI THOẠI TRÊN LỚP GIỮA GIÁO VIÊN VÀ GIÁO SINH (TỈNH HẢI DƯƠNG)
+- ## Cấu trúc
+	- Lời cam đoan
+	- Lời cảm ơn
+	- Mục lục
+	- Danh mục các chữ viết tắt
+	  collapsed:: true
+		- (*có thể không cần*)
+	- Danh mục các bảng, biểu đồ, sơ đồ
+	  collapsed:: true
+		- (*có thể không cần*)
+	- ### Mở đầu
+		- Chương 1. Tổng quan và cơ sở lí luận
+			- *tự dưng sợ vl vì mình không hiểu sao một số phần lại có trong bài nghiên cứu của người ta, mình có phần nào tương đồng về nội dung hay cần phải tương đồng về hình thức - tức các phân cấp lí luận mà mình cần đề cập tương tự không, có lẽ triết từ đề tài ra là có, chỉ là mày sợ vì nhiều người bảo làm khung sớm khó lắm vì nghiên cứu đã ra gì đâu mà có khung, làm vội quá sau này sửa khổ, lạc đề thì chết, mà không có khung thì biết lấy gì làm?*
+			- 1.1. Tổng quan tình hình nghiên cứu
+				- (*để xác lập đề tài mới và xác định vị trí, mối tương quan, sự liên kết và sử dụng những thông tin có quan hệ*)
+				- 1.1.1. Tình hình nghiên cứu các vấn đề hội thoại
+				- 1.1.2. Tình hình nghiên cứu hội thoại dạy học
+				- 1.1.3. Tình hình nghiên cứu năng lực giao tiếp
+			- 1.2. Cơ sở lí luận
+				- (*là thứ được rút ra từ tổng quan tình hình nghiên cứu? và sẽ được sử dụng để làm cơ sở, tiền đề nghiên cứu, trực tiếp liên quan vấn đề của đề tài. Ở đây sẽ nghiên cứu cách họ bóc tách và tổng hợp kiến thức, hình thành tiền giả định*)
+				- 1.2.1. Lí thuyết giao tiếp
+					- 1.2.1.1. Dẫn nhập về giao tiếp
+					- 1.2.1.2. Giao tiếp dạy học
+					- 1.2.1.3. Vấn đề năng lực giao tiếp
+				- 1.2.2. Lí thuyết hội thoại
+					- 1.2.2.1. Một số quan điểm về đơn vị hội thoại
+					- 1.2.2.2. Một số vấn đề về cấu trúc hội thoại và cuộc thoại dạy học
+					- 1.2.2.3. Bước thoại và bước thoại trong hội thoại dạy học
+					- 1.2.2.4. Hành vi ngôn ngữ trong hội thoại dạy học
+					- 1.2.2.5. Nguyên tắc hội thoại
+			- 1.3. Tiểu kết
+		- Chương 2. Đặc trưng bước thoại và hành vi ngôn ngữ của giáo sinh
+			- *đây hình như là vào vấn đề rồi, ở đây mình sẽ chủ yếu nghiên cứu việc họ sắp xếp data thành những mảng như nào, làm sao có được data đó và mối liên hệ của nó với cơ sở nghiên cứu. Chắc chắn nó không phải kiểu biểu đồ ven hoàn toàn đâu mà focus on one nhiều hơn, kiểu thu được gì từ nghiên cứu thì cố làm nó tròn triện nhất chứ không phối hợp để các yếu tố hình thành một tổng thể hoàn chỉnh, bao quát tất cả - nó sẽ khác cách Phong hay chia các phần kiểu tương quan bao trùm kiểu triết: ý thức, vật chất*
+			- 2.1. Bước thoại của giáo sinh trong hội thoại dạy học
+				- 2.1.1. Bước thoại khởi xướng của giáo sinh
+					- 2.1.1.1. Khởi xướng nội dung thông tin liên quan đến bài học
+					- 2.1.1.2 Khởi xướng nội dung phát vấn mong muốn giáo viên trả lời
+					- 2.1.1.3. Khởi xướng yêu cầu hành động
+				- 2.1.2. Bước thoại trả lời (R - Reply)
+				- 2.1.3. Bước thoại phản hồi (F – Feedback)
+			- 2.2. Hành vi ngôn ngữ của giáo sinh trong hội thoại dạy học
+				- 2.2.1. Hành vi phi lời
+				- 2.2.2. Hành vi ngôn ngữ được thực hiện bằng lời
+			- 2.3. Đặc điểm cấu trúc bƣớc thoại của giáo sinh và sự liên kết các hành
+			  vi ngôn ngữ trong bƣớc thoại
+			- 2.4. Tiểu kết

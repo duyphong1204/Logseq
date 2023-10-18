@@ -1,0 +1,176 @@
+- ##### 626 sinh viên khoa Sư phạm Tiếng Anh
+- # Khoa Sư phạm Tiếng Anh - FELTE
+	- Sư phạm
+	- Ngôn ngữ Anh
+- # Văn phòng khoa
+  collapsed:: true
+	- Địa chỉ
+	- Phòng ban
+		- Ban Chủ Nhiệm
+			- Phó Trưởng Khoa
+				- Phụ trách công tác HSSV, Đoàn hội
+					- Công tác tính điểm rèn luyện, hoạt động ngoại khóa rèn luyện
+					  MC tổ chức trò chơi
+					- Nguyễn Tuấn Anh
+						- gmail
+				- Phùng Thị Kim Dung
+			- Trưởng Khoa
+				- Hay ngồi ở văn phòng Khoa nhất
+			- Phó trưởng Khoa
+				- Phụ trách đào tạo
+		- Phụ trách giáo vụ
+			- Khóa QH2022
+				- Nguyễn Thu Trang
+			- Khóa QH2021
+				- Nguyễn Thị Thanh An
+			- Khóa QH2020
+			- Khóa QH2019
+		- Bộ môn
+			- Tiếng Anh 1
+			  id:: 633f25f8-450b-4a04-a2ec-66a1e1489001
+				- Trưởng bộ môn
+					- Phạm Hoàng Long Biên
+						- đi Ireland 1 năm
+			- Tiếng Anh 2
+				- Những môn thực hành tiếng năm 1
+				- Trưởng bộ môn
+					- Vũ Thị Việt Hương
+				- Phó trưởng bộ môn
+					- Hoàng Thị Hổng Hải
+			- Bộ môn Phương pháp giảng dạy (Sư phạm)
+				- chuyên ngành năm 3, 4
+			- Bộ môn Dịch
+				- Tự chọn của Ngôn ngữ Anh
+				- Trưởng bộ môn
+					- Vương Thị Thanh Nhàn
+						- cựu
+			- Bộ môn Giáo dục khai phóng
+			- Bộ môn Tiếng Anh chuyên ngành
+			-
+- # Lộ trình 4 năm
+	- #phùngthịkimdung
+	- ## Các CTĐT tại Khoa SPTA
+	  collapsed:: true
+		- ### Sư phạm Tiếng Anh
+			- 132 TC
+		- ### Sư phạm Tiếng Anh CLC
+			- 147 TC
+		- ### Ngôn ngữ Anh
+			- 132 TC
+			- Năm ngoái 152 TC
+	- Phân bậc trình độ Tiếng Anh năm nhất
+		- Ngày
+		- Trình độ
+			- Sinh viên có trình độ bậc 5
+				- tương đương 7.0 - 8.0 IELTS
+			- Sinh viên có trình độ bậc 4
+			- Sinh viên có trình độ bậc 3
+		- Chứng chỉ là điều kiện công nhận tốt nghiệp
+	- Sư phạm tiếng Anh
+	  collapsed:: true
+		- Năm 1
+		  collapsed:: true
+			- Các môn phát triển năng lực tiếng Anh theo 3 bậc trình độ 3,4,5
+			- Các môn chung (kỹ năng, lý luận chính trị, GDQP, GDTC)
+				- triết học
+					- *không học triết học không phải là sinh viên*
+		- Năm 2
+		  collapsed:: true
+			- Các môn khối xã hội, nhân văn
+		- Năm 3
+			- Các môn khối ngôn ngữ và văn hóa
+				- ngôn ngữ học 1, ngôn ngữ học 2
+					- *làm chủ ngoại ngữ*
+					- *tiếng Anh như một hệ thống*
+				- giao thoa văn hóa
+			- Các môn khối chuyên ngành Sư phạm và Giảng dạy tiếng Anh
+				- chuyên ngành sư phạm về giảng dạy tiếng Anh
+					- *hay, học sẽ đam mê và thích*
+					- *năng lực sát sườn*
+					- *sử dụng kiến thức thầy cô cung cấp cho để ứng dụng vào trong thực tế*
+					- các thầy cô SPTA hay được mời
+		- Năm 4
+			- Các môn khối ngôn ngữ và chuyên ngành Giảng dạy tiếng Anh
+				- tiếp tục học
+			- Khóa luận tốt nghiệp
+				- dấu ấn
+	- Ngôn ngữ Anh
+	  collapsed:: true
+		- 5 định hướng ngành ngôn ngữ Anh
+			- Biên Phiên dịch
+			- Ngôn ngữ văn hóa xã hội
+			- Quốc tế học
+			- Quản trị học
+			- Kinh doanh thương mại
+		- Năm 1
+			- Các môn phát triển năng lực tiếng Anh theo 3 bậc trình độ
+			- Các môn chung
+				- kỹ năng, lý luận chính trị, GDQP, GDTC
+		- Năm 2
+			- kết thúc hoặc giữa năm 2 sẽ có workshop hội thảo để nhìn rõ về 5 định hướng, giúp sinh viên xác định định hướng theo học
+			- Các môn xã hội
+		- Năm 3
+			- học định hướng
+		- Năm 4
+	- Khóa luận tốt nghiệp
+	  collapsed:: true
+		- Sư phạm Tiếng Anh CLC
+			- Dự án NCKH độc lập của mỗi cá nhân về chủ đề em quan tâm liên quan đến chuyên ngành, nhóm ngành, khối ngành học
+				- trước đây chỉ được chọn theo chuyên ngành
+				  collapsed:: true
+					- giờ thế giới rất lớn, có nhiều vấn đề cần giải quyết
+						- giờ được thoải mái chọn, miễn là liên quan giáo dục, sư phạm
+				- 30 trang
+			- Năm thứ 4 - 6 tháng
+				- bắt đầu vào năm 4 đã được đăng kí
+			- Định hướng
+				- Nghiên cứu & Ứng dụng
+					- trước đây chỉ có định hướng nghiên cứu
+					- Nghiên cứu
+						- truyền thống của trường và khoa
+						- chọn một vấn đề liên quan
+						- nghiên cứu thu thập tổ chức từ
+						- viết khóa luận tốt nghiệp để
+					- Ứng dụng
+						- đổi mới, mang tính ứng dụng nhiều hơn
+						- chọn vấn đề
+						- có liên hệ một lĩnh vực hoặc cộng đồng cụ thể
+						- khuyến khích phát triển thành sản phẩm
+							- có tính thương mại, có tiềm năng thương mại
+							- chia sẻ giới thiệu ra cộng đồng nhằm giải quyết vấn đề cộng đồng
+			- Được 1-2 cán bộ hướng dẫn
+			- Nếu không làm khóa luận này sẽ không được bằng CLC
+		- Sư phạm tiếng Anh
+			- KLTC
+				- optional
+			- 2 môn học thay thế
+		- Nội dung thực hành thực tập
+			- Chương trình nào cũng có
+			- Đi thực tập khi nào?
+				- năm 1
+				- chủ động trong quá trình thực tập
+				- các thầy cô SPTA rất hỗ trợ trong quá trình
+					- bất kì vướng mắc như không tìm được
+			- Thực tập ở đâu?
+			- Làm sao viết Hồ sơ thực tập đạt chuẩn?
+				- Đề án thực tập mới
+					- Nộp 3 tháng trước khi xét tốt nghiệp
+					- Tiêu chí đánh giá
+					- Người chấm và đánh giá
+						- các Ban từ khoa đào tạo
+						- có thể mời doanh nghiệp tham gia chấm Hồ sơ thực tập
+					- Bảng điểm hệ số
+						- 10
+- Bộ môn ((633f25f8-450b-4a04-a2ec-66a1e1489001))
+	- video /youtube
+		- {{cloze suýt nữa thì tôi định cắt video}}
+	- Ban Lãnh đạo
+	- Trưởng nhóm môn học
+- Game
+	- Kahoot
+- Thông báo sinh viên bậc 3
+- Note: 3 tín chỉ 1 môn
+	- tuy các cô giáo trưởng, được suggest học toàn biến đi đâu mất nhưng tôi vẫn kệ mà học
+	- vì mình chỉ coi họ là người truyền tải, là giảng viên chứ không thực sự một người thầy
+		- định nghĩa người thầy là gì? mình học được từ họ và gắn kết với họ ở không chỉ phương diện kiến thức
+		- phải chăng đó là ý nghĩa của từ người

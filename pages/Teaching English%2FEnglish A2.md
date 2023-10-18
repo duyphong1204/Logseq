@@ -1,0 +1,36 @@
+- Note 11/9/2023 - 22:56
+  collapsed:: true
+	- Lần này mình đã đau đớn biết thế nào là đúng và nhận ra sự cứng nhắc của mình khiến bọn trẻ con chán là ở đâu
+	- Như cô Thu, là có cả thì giờ cho phần giao tiếp và đốc thúc người ta nói nữa
+		- dù mày biết mày dạy vocab và grammar và đốc bọn nó là chính nhưng nếu được thì cứ chia sẻ thêm và đem giá trị cả ở writing với cả speaking nữa? why not? when you can
+	- Và confident chia sẻ, hỏi han tìm hiểu về đối tượng để kế sách và bài giảng sát người học nhất
+	- Tận tâm? Lần trước mày có đấy nhưng còn e dè và nhiều lúc mày thấy không đáng tiền người ta bỏ ra cho mày
+		- Khổ thật người ta trả cả tiền cho lỗi sai của tôi, còn nếu minimum là thế thì oke, giỏi thì cả hai lời nhưng không oke chút nào, dù sao mình cũng không làm vì tiền
+		- vì kinh nghiệm để đọ với bọn học Sư phạm và để tốt hơn (cố k chỉ là mình nghĩ thế) với mấy đứa sau Ánh nếu có. Huhu không được giúp nó nữa mình cũng thấy buồn nao nao chẳng hiểu vì lí do gì? Chắc vì nghĩ sẽ không được trải nghiệm mọi thứ lẫn không còn ai học như thế nữa. Nó như tạm biệt một người một thời. Ít nhiều là thấy sẽ không có lại lần hai. Liệu đây có phải điều các cô thấy, là cách các cô khóc (là kĩ thuật để khóc? trầm trọng hóa mọi thứ lên)
+	- Dạy ít nhưng nhận ra nhiều còn hơn dạy nhiều, nhận ra nhiều nhưng không kịp implement (còn tất nhiên hơn làm nhiều nhưng không có tư duy rồi), tất nhiên implement là chuyện khó, phải hết một kì mới thật sự bớt dàn trải vấn đề và nhìn vào một và thay đổi thì đúng là cay đắng (sau khi quên một số thứ mà chẳng biết nó ngấm vào người chưa...)
+	- Dạy từ a, b, c thì chú trọng phát âm đúng và giúp người ta phát âm đúng
+		- cần vận dụng ngữ học, cái mình đã được học.
+		- mình cũng phải học lại từ đầu, dạy lại từ dễ để thấy cái khó của cả dễ và khó, đôi khi đi từ dễ lên khó thì hơi bth mà chưa chắc giác ngộ được như này? đây như kiểu lùi bước, khác với thụt lùi.
+- Note 12/9/2023 - 16:03
+	- The lesson elements
+		- Introduction of the teacher and the students
+			- This wasn't included in my first or second time teaching because i'm not confident but well this time it is adult so things must be clear: i'm qualified
+			- Caution
+				- Nếu cháu giảng nhanh quá thì các cô bảo cháu nhé
+			- The first part: Write and explain knowledge on the board
+			- The second part: Six grammar in book and doing exercises
+			- The last part: speaking, questioning if anyone have, feedback...
+		- Lesson elements updated 14/9 18:32
+			- Các chú biết mình sai ở đâu chưa
+				- Do you know where were u wrong
+			- Tại sao chú lại làm thế này
+				- Why did you do it like this
+			- Các chú học được từ mới nào rồi
+				- Speaking about yourself, the weather, habits, job
+					- learn vocab though topics
+			- Bài hôm nay các chú học được gì, còn nhớ được gì?
+				- What did you learn in today lesson?
+- Note 19/9/2023 19:18
+	- nên hỏi xem có từ mới nào khó trong bài vừa rồi không
+	- lí tưởng vẫn là bảo họ đọc phát âm hoặc dịch nhưng nếu họ không thích hoặc không có thời gian như chú Long thì thôi, mình cũng chỉ được chill trong lúc đấy đỡ phải giảng thôi mà
+- Cách phát âm tiếng Anh #TODO

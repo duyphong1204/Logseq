@@ -1,0 +1,15 @@
+# What Does Remote Learning Mean For The Future Of The Workforce?
+- Introduction
+	- Although remote learning might flourished in the COVID-19 pandemic, its concept had been nurtured in schools and colleges years before
+	- Despite the fact the mass process of changing into online class didn't work well, experts still believe it will benefit the future of work.
+		- new employees can be given online education for them to fit into their role better since millions of employers do their work remotely nowadays
+- ## **Distance learning helps new hires get used to using technology.**
+- if young people have remotely learned to use the bussiness technologies before, they will be able to understand when they get into workforce
+- According to a study from Instructure, their researchers found that eight out of 10 teachers believe tech has become increasingly important for all-around learning; therefore digital literacy is necessary.
+- Moreover, students who have participated in remote learning programme are not only quickly well inform and quickly get into good teleworking positions, but can also learn online meeting etiquette
+- ## **Distance learning helps new hires to increase their value**
+- Remote learning demands students to acquire soft skills such as googling and confident to raise question, working independly, and therefore it gives them a better preparation for their future job
+- ## **Distance learning helps new hires to ‘mentor up.’**
+- Younger employees who have attended distance learning may help their colleagues upskill by creating, moderating training sessions or contribute to comfort the digital tranformation process in their workforce.
+- This is a form of what has been referred to as 'managing up.’ However, it can be done transparently in any organization. The goal is for former remote learners to leverage their unique backgrounds to elevate the entire team’s collective knowledge.
+- Many people believed it was impossible for whole schools to move online, but this process has already begun. and although it hasn't been perfected yet, it is predicted to make a positive impact on the w Remote learning among teens and college students hasn’t been perfected yet. Nonetheless, it’s poised to make a positive impact on the future of work

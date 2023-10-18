@@ -1,0 +1,21 @@
+- Brand
+	- Apple
+	- Bphone
+	- Google
+	- Itel
+	- Energizer
+	- Nokia
+	- Nubia
+	- Masstel
+	- OPPO
+	- Philips
+	- TECHNO
+	- Vivo
+	- Realme
+	- TCL
+	- Samsung
+	- Xiaomi
+	- XOR
+	- ZTE
+	-
+	-

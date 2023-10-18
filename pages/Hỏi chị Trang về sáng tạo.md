@@ -1,0 +1,11 @@
+- Hai câu hỏi
+	- Tầm nhìn sáng tạo
+	- Mối quan hệ với khách hàng
+-
+- Lý do em có câu hỏi này
+	- Công việc em làm, khó khăn em đang mắc
+- Tình hình hiện nay
+	- Cần tìm hướng ổn định mới
+		- thế sẽ chuyên nghiệp hơn
+	- Tìm case study để nghĩ ý tưởng
+- => Câu hỏi của em và tại sao em muốn hỏi câu đó
