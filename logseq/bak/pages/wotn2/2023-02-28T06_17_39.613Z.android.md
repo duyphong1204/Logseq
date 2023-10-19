@@ -1,0 +1,31 @@
+- chơi rate bài viết, hoặc thử tìm cơ chế đằng sau xem họ có khó khăn khi chọn đề tài không hoặc nghĩ những hướng có thể để rep hoặc có cách nào rep theo level, type hoặc một hệ thống đi từ thấp đến cao theo cách nào đó trong rep không?
+- test khả năng paraphrase nữa
+- định tìm mỗi bài bình nhi mà éo ra, đ phân biệt được ai với ai nên thôi ta đọc toàn bộ
+	- dù sao anh chị sẽ bất ngờ vl
+		- haha thằng nay định tăng giá trị rồi từ chối người chú ý tới mình
+	- và nó cũng tốt, một việc mình quen làm, đọc cũng đâu quá chán, chỉ hơi nhiều, cũng là một thử thách cho mình
+		- họ mà rep thì dm m luôn
+	- và được rep bài và được đánh giá bài cũng rất quan trọng hơn là chỉ có viết
+		- nó tăng động lực và tạm thời với cách rep của tôi thì maybe giúp người ta tư duy
+	- nhưng nó không hợp mình lắm với việc phân tích sâu để tổng hợp data vì mình chẳng nhớ gì cả, có lẽ bài blog nào thực sự hay thì sẽ ấn tượng
+		- còn không thì blog như bài báo vứt đi, cũng chẳng ai có hệ thống như anh Lê lắm nhỉ, đọc thế cảm giác vui hơn, là tôi ít nhất tôi sẽ nhân cơ hội làm series gì đó hoặc maybe thậm chí ý tưởng phải lớn hơn cả thế nữa
+		- hoặc lấy làm một bài học cần chú ý trong đời (như bài chị tân)
+			- ít nhất với network của mình họ sẽ chú ý cái này muốn cái kia thích cái này,... mình modify bản thân theo họ
+	- mình làm dưới góc độ 1 bài được đọc hết kèm 1 câu rep ít miễn cưỡng nhất có thể
+		- cách để tìm sự thú vị (ngay cả khi mệt) ở mọi bài
+			- góc nhìn mới, chuyện lạ
+			- đôi khi mình vẫn seeding hơi miễn cưỡng ở ch:ấm đấy chứ
+- 1
+  collapsed:: true
+	- ![image.png](../assets/image_1676240629304_0.png)
+- 2
+  collapsed:: true
+	- ![image.png](../assets/image_1676241339528_0.png)
+	- não tàn rồi những mỗi lần nghĩ là một cơ hội, cố gắng nhớ và cố gắng tự tổng hợp thành một cuốn sách hoàn chỉnh về những câu phản khen đi.
+		- có thể đơn giản là well một chữ khen sẽ không bao giờ nói được bao nhiêu chuỗi sự kiện đang chảy trong tôi (Cả tốt xấu đáng khen và không)
+- 3
+  collapsed:: true
+	- ![image.png](../assets/image_1676241635780_0.png)
+- 4
+	- ![image.png](../assets/image_1676241821325_0.png)
+	- ![image.png](../assets/image_1676242224933_0.png)

@@ -1,0 +1,239 @@
+{:blocks (
+{:block/created-at 1695859951218
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [1272 1776]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "958dca50-5d92-11ee-8f9c-1d866687d2cc"
+:fontWeight 400
+:noFill true
+:point [-544 296]
+:fontSize 20
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859465602
+:italic false}}
+:block/updated-at 1695859951218} 
+{:block/created-at 1695859951220
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "text"
+:size [385 77]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ae5c5880-5d92-11ee-8f9c-1d866687d2cc"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [-512 328]
+:lineHeight 1.2
+:fontSize 48
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859507472
+:italic false
+:text "Người nghệ sĩ"}}
+:block/updated-at 1695859951220} 
+{:block/created-at 1695859907997
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [1272 1776]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "e0c1a6e0-5d92-11ee-8f9c-1d866687d2cc"
+:fontWeight 400
+:noFill true
+:point [984 -2560]
+:fontSize 20
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859592705
+:italic false}}
+:block/updated-at 1695859907997} 
+{:block/created-at 1695859908002
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 3
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "text"
+:size [273 77]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "430bda50-5d93-11ee-8f9c-1d866687d2cc"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [1016 -2528]
+:lineHeight 1.2
+:fontSize 48
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859756441
+:italic false
+:text "Tác phẩm"}}
+:block/updated-at 1695859908002} 
+{:block/created-at 1695859966620
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [1440 1808]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "5822dec0-5d93-11ee-8f9c-1d866687d2cc"
+:fontWeight 400
+:noFill true
+:point [2584 272]
+:fontSize 20
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859792857
+:italic false}}
+:block/updated-at 1695859966620} 
+{:block/created-at 1695859966620
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked false
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 5
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "text"
+:size [216 80]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6d274590-5d93-11ee-8f9c-1d866687d2cc"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [2632 312]
+:lineHeight 1.2
+:fontSize 48
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859827940
+:italic false
+:text "Độc giả"}}
+:block/updated-at 1695859966620} 
+{:block/created-at 1695860047625
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:index 6
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "ellipse"
+:size [7168 6504]
+:strokeType "line"
+:strokeWidth 4.8
+:opacity 1
+:label ""
+:id "c437f000-5d93-11ee-8f9c-1d866687d2cc"
+:fontWeight 400
+:noFill true
+:point [-1752 -3128]
+:fontSize 48
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695859974404
+:italic false}}
+:block/updated-at 1695860047625} 
+{:block/created-at 1695860298467
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 7
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "text"
+:size [2563 77]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f4e52e20-5d93-11ee-8f9c-1d866687d2cc"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [168 3840]
+:lineHeight 1.2
+:fontSize 48
+:parentId "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:nonce 1695860054767
+:italic false
+:text "Cả một quá trình những thao tác văn học (sáng tác, lí luận,...) có lẽ không phải một quá trình linear"}}
+:block/updated-at 1695860298467})
+:pages (
+{:block/uuid #uuid "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6514c291-a9a5-47f2-a59c-c3f86616415d"
+:name "lí luận văn học"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("958dca50-5d92-11ee-8f9c-1d866687d2cc" "ae5c5880-5d92-11ee-8f9c-1d866687d2cc" "e0c1a6e0-5d92-11ee-8f9c-1d866687d2cc" "430bda50-5d93-11ee-8f9c-1d866687d2cc" "5822dec0-5d93-11ee-8f9c-1d866687d2cc" "6d274590-5d93-11ee-8f9c-1d866687d2cc" "c437f000-5d93-11ee-8f9c-1d866687d2cc" "f4e52e20-5d93-11ee-8f9c-1d866687d2cc")}}
+:block/updated-at 1695860298467
+:block/created-at 1695859345537
+:block/type "whiteboard"
+:block/name "lí luận văn học"
+:block/original-name "Lí luận Văn học"})}

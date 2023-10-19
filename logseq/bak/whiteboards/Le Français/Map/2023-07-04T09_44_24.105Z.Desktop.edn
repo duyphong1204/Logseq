@@ -1,0 +1,355 @@
+{:blocks (
+{:block/created-at 1685993211494
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "pink"
+:rotation 0
+:borderRadius 2
+:index 3
+:scale [1 1]
+:scaleLevel "xxl"
+:fill "pink"
+:type "box"
+:size [908.1473347455503 251.45345864118644]
+:strokeType "dashed"
+:strokeWidth 6
+:opacity 1
+:label ""
+:id "1d866b50-03d5-11ee-8feb-abb9acdb7a58"
+:fontWeight 400
+:noFill true
+:point [4943.294393477903 -5378.936339595656]
+:fontSize 60
+:parentId "647d2637-d2cf-4429-b512-d931596d26e8"
+:nonce 1685992437055
+:italic false}}
+:block/updated-at 1685993211494} 
+{:block/created-at 1685995902587
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked false
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 7
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [85.34400174094662 30]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d8182610-03d6-11ee-8feb-abb9acdb7a58"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [5092.795916590162 -5304.991984831573]
+:lineHeight 1.2
+:fontSize 16
+:parentId "647d2637-d2cf-4429-b512-d931596d26e8"
+:nonce 1685993178158
+:italic false
+:text "Le passé composé"}}
+:block/updated-at 1685995902587} 
+{:block/created-at 1685995902586
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked false
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 8
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [99.0176879443543 30]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fc3f0120-03dc-11ee-8feb-abb9acdb7a58"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [5200.868802756946 -5307.1492916140005]
+:lineHeight 1.2
+:fontSize 16
+:parentId "647d2637-d2cf-4429-b512-d931596d26e8"
+:nonce 1685995815629
+:italic false
+:text "Le passé recent"}}
+:block/updated-at 1685995902586} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "647d2637-d2cf-4429-b512-d931596d26e8"}
+:block/parent 
+{:block/uuid #uuid "647d2637-d2cf-4429-b512-d931596d26e8"}
+:block/properties 
+{}
+:block/uuid #uuid "647d2665-de75-4b6c-b3b4-0d2fa52f531d"} 
+{:block/created-at 1685995920712
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 9
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [70 30]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ebca86e0-03d5-11ee-8feb-abb9acdb7a58"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [5574.209049788649 -5306.600661455745]
+:lineHeight 1.2
+:fontSize 16
+:parentId "647d2637-d2cf-4429-b512-d931596d26e8"
+:nonce 1685992782491
+:italic false
+:text "Le futur"}}
+:block/updated-at 1685995920712} 
+{:block/created-at 1685995896036
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 5
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [92 30]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c44e5790-03d5-11ee-8feb-abb9acdb7a58"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [5310.210266962743 -5306.257812615489]
+:lineHeight 1.2
+:fontSize 16
+:parentId "647d2637-d2cf-4429-b512-d931596d26e8"
+:nonce 1685992716724
+:italic false
+:text "Le présent"}}
+:block/updated-at 1685995896036} 
+{:block/created-at 1685995902587
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 6
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [90 30]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "09b3d850-03d6-11ee-8feb-abb9acdb7a58"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [4974.031547300643 -5304.585505547095]
+:lineHeight 1.2
+:fontSize 16
+:parentId "647d2637-d2cf-4429-b512-d931596d26e8"
+:nonce 1685992832568
+:italic false
+:text "L'imparfait"}}
+:block/updated-at 1685995902587} 
+{:block/created-at 1685993098335
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "red"
+:borderRadius 0
+:index 2
+:scale [1 1]
+:refs ["Le Français/Grammaire Frainçaise"]
+:scaleLevel "xxl"
+:fill "red"
+:type "text"
+:size [418 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3e36c170-03d4-11ee-8feb-abb9acdb7a58"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [5974.598075192929 -5257.298268824746]
+:lineHeight 1.2
+:fontSize 60
+:parentId "647d2637-d2cf-4429-b512-d931596d26e8"
+:nonce 1685992061714
+:italic false
+:text "La Grammaire"}}
+:block/updated-at 1685993098335} 
+{:block/created-at 1685992420967
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "gray"
+:borderRadius 0
+:index 0
+:scale [1 1]
+:refs ["Le Français"]
+:scaleLevel "xxl"
+:fill "gray"
+:type "text"
+:size [346 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "72447370-0336-11ee-9bd8-09ab7ff7270e"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [1787.8784796987543 -5284.604928519328]
+:lineHeight 1.2
+:fontSize 60
+:parentId "647d2637-d2cf-4429-b512-d931596d26e8"
+:nonce 1685924288609
+:italic false
+:text "Le Français"}}
+:block/updated-at 1685992420967} 
+{:block/created-at 1685992408784
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked false
+:stroke "blue"
+:rotation 0
+:borderRadius 0
+:index 1
+:scale [1 1]
+:refs ["Le Français/Vocabulaire Français"]
+:scaleLevel "xxl"
+:fill "blue"
+:type "text"
+:size [451.7854583545022 92.17844638039719]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d5ddcdd0-03d3-11ee-8feb-abb9acdb7a58"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [-1870.2302394918297 -5255.2308150025365]
+:lineHeight 1.2
+:fontSize 60
+:parentId "647d2637-d2cf-4429-b512-d931596d26e8"
+:nonce 1685991887349
+:italic false
+:text "Le Vocabulaire"}}
+:block/updated-at 1685992408784} 
+{:block/created-at 1685995918727
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked false
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 10
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [89.94350097928236 26.617219443583053]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "313e0d30-03dd-11ee-8feb-abb9acdb7a58"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [5453.733109154514 -5307.149259353106]
+:lineHeight 1.2
+:fontSize 16
+:parentId "647d2637-d2cf-4429-b512-d931596d26e8"
+:nonce 1685995904482
+:italic false
+:text "Le futur proche"}}
+:block/updated-at 1685995918727} 
+{:block/created-at 1685993093174
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 4
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [318 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "71778640-03d5-11ee-8feb-abb9acdb7a58"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [4957.122838348664 -5367.884645727563]
+:lineHeight 1.2
+:fontSize 32
+:parentId "647d2637-d2cf-4429-b512-d931596d26e8"
+:nonce 1685992577103
+:italic false
+:text "Les temps du verbe"}}
+:block/updated-at 1685993093174})
+:pages (
+{:block/uuid #uuid "647d2637-d2cf-4429-b512-d931596d26e8"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "647d2637-d2cf-4429-b512-d931596d26e8"
+:name "le français/map"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("72447370-0336-11ee-9bd8-09ab7ff7270e" "d5ddcdd0-03d3-11ee-8feb-abb9acdb7a58" "3e36c170-03d4-11ee-8feb-abb9acdb7a58" "1d866b50-03d5-11ee-8feb-abb9acdb7a58" "71778640-03d5-11ee-8feb-abb9acdb7a58" "c44e5790-03d5-11ee-8feb-abb9acdb7a58" "09b3d850-03d6-11ee-8feb-abb9acdb7a58" "d8182610-03d6-11ee-8feb-abb9acdb7a58" "fc3f0120-03dc-11ee-8feb-abb9acdb7a58" "ebca86e0-03d5-11ee-8feb-abb9acdb7a58" "313e0d30-03dd-11ee-8feb-abb9acdb7a58")}}
+:block/journal? false
+:block/namespace 
+{:db/id 2689}
+:block/updated-at 1685995920711
+:block/created-at 1685923383402
+:block/format :markdown
+:block/type "whiteboard"
+:block/name "le français/map"
+:block/original-name "Le Français/Map"})}

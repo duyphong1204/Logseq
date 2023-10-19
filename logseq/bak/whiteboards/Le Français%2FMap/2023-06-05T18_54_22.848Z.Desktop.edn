@@ -1,0 +1,61 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "647d2637-d2cf-4429-b512-d931596d26e8"}
+:block/parent 
+{:block/uuid #uuid "647d2637-d2cf-4429-b512-d931596d26e8"}
+:block/properties 
+{}
+:block/uuid #uuid "647d2665-de75-4b6c-b3b4-0d2fa52f531d"} 
+{:block/created-at 1685924402976
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "gray"
+:borderRadius 0
+:index 0
+:scale [1 1]
+:refs ["Le Français"]
+:scaleLevel "xxl"
+:fill "gray"
+:type "text"
+:size [346 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "72447370-0336-11ee-9bd8-09ab7ff7270e"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [463.0999755859375 93.09999084472656]
+:lineHeight 1.2
+:fontSize 60
+:parentId "647d2637-d2cf-4429-b512-d931596d26e8"
+:nonce 1685924287741
+:italic false
+:text "Le Français"}}
+:block/updated-at 1685924402976})
+:pages (
+{:block/uuid #uuid "647d2637-d2cf-4429-b512-d931596d26e8"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "647d2637-d2cf-4429-b512-d931596d26e8"
+:name "le français/map"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("72447370-0336-11ee-9bd8-09ab7ff7270e")}}
+:block/journal? false
+:block/namespace 
+{:db/id 2689}
+:block/updated-at 1685924402976
+:block/created-at 1685923383402
+:block/format :markdown
+:block/type "whiteboard"
+:block/name "le français/map"
+:block/original-name "Le Français/Map"})}
