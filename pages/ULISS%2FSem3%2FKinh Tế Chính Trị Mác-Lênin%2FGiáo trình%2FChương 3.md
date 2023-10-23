@@ -126,6 +126,7 @@
 		- ### 3.2.2. Hai thuộc tính của hàng hóa - sức lao động
 			- Cũng như các hàng hoá khác, hàng hoá - sức lao động có hai thuộc tỉnh: giá trị và giá trị sử dụng
 				- Giá trị của hàng hoá - sức lao động
+				  collapsed:: true
 					- Do lượng lao động xã hội cần thiết để sản xuất và tái sản xuất ra nó quyết định
 						- sản xuất và tái sản xuất sức lao động được thực hiện thông qua sự tiêu dùng cá nhân của người lao động.
 						- bởi vậy, giá trị sức lao động ngang bằng:
@@ -152,6 +153,11 @@
 							- điều kiện lịch sử hình thành giai cấp công nhân
 							- trình độ văn minh đã đạt được
 							- Vì vậy, giá trị hàng hoá sức lao động khác nhau, tùy theo quốc gia, tùy hoàn cảnh lịch sử và trình độ phát triển ở mỗi nước...
-					- Giá trị sức lao động biểu hiện bằng tiền là giá cả sức lao động (tiền lương người công nhân nhận được khi bán sức lao động). Giá cả sức lao động được hình thành trên cơ sở giá trị sức lao động, song nó còn chịu sự tác động của quan hệ cung - cầu về sức lao động trên thị trường và các nhân tố kinh tế - xã hội khác (chính sách nhà nước, đầu tranh của công nhân, trình độ phát triển của kinh tế thị trường, mức độ hội nhập...)
+				- Giá cả sức lao động
+					- Giá trị sức lao động biểu hiện bằng tiền là giá cả sức lao động
+						- (tiền lương người công nhân nhận được khi bán sức lao động).
+					- Giá cả sức lao động được hình thành trên cơ sở giá trị sức lao động, song nó còn chịu sự tác động của
+						- quan hệ cung - cầu về sức lao động trên thị trường
+						- các nhân tố kinh tế - xã hội khác (chính sách nhà nước, đầu tranh của công nhân, trình độ phát triển của kinh tế thị trường, mức độ hội nhập...) {{cloze cách ngắt câu thành ý ở }}
 					- Giá trị sử dụng của hàng hoá sức lao động là công dụng của sức lao động; nó thoả mãn nhu cầu của người mua là sử dụng vào quả trình lao động. Điều đó có nghĩa là, quá trình người mua tiêu dùng hàng hoá sức lao động đồng thời cũng là quá trình sản xuất ra hàng hoá và giá trị thặng dư. Cũng như các hàng hoá khác, sự tiêu dùng sắc lao động tiến hành ở ngoài lĩnh vực lưu thông; tức là trong quá trình sản xuất, người lao động sử dụng tư liệu sản xuất của nhà tư bản để tạo ra hàng hoá cho nhà tư bản. Chẳng hạn, sau một thời gian lao động
 -
