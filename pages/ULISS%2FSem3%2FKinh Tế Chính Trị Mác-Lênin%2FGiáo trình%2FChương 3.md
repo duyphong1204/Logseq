@@ -134,9 +134,9 @@
 						- Như vậy, giá trị sức lao động không chỉ bao gồm giá trị của những vật phẩm tiêu dùng cần thiết để khôi phục thế lực người công nhân, mà còn bao gồm cả những chi tiêu cần thiết để thoả mãn nhu cầu tinh thần của người công nhân và con cái anh ta.
 					- Cụ thể, giá trị sức lao động bao gồm những bộ phận hợp thành như sau:
 						- Giá trị tư liệu sinh hoạt cần thiết cho bản thân người công nhân
-							- những tư liệu sinh hoạt cần thiết đó là lương thực, thực phẩm, vải vác, đường sữa, thuốc chữa bệnh; các phương tiện thông tin, giải trí .....
+							- những tư liệu sinh hoạt cần thiết đó là lương thực, thực phẩm, vải vác, đường sữa, thuốc chữa bệnh; các phương tiện thông tin, giải trí,...
 						- Phí tổn đào tạo công nhân
 							- đó là những chi phi học tập văn hoá, đào tạo nghề, bồi dưỡng nghiệp vụ..
-							  
-							  + Giá trị các tư liệu sinh hoạt cần thiết nuôi sống con cái công nhân. Về cơ bản, các tư liệu sinh hoạt cần thiết cũng giống như của công nhân.
+						- Giá trị các tư liệu sinh hoạt cần thiết nuôi sống con cái công nhân
+							- về cơ bản, các tư liệu sinh hoạt cần thiết cũng giống như của công nhân.
 -
