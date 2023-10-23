@@ -12,8 +12,7 @@
 				- bản thân tiền không phải là tư bản
 				- không phải bất cứ một lưọng tiền nào cũng là tư bản
 			- Ví dụ
-			  collapsed:: true
-				- Chẳng hạn, khi người sản xuât hàng hoá nhỏ, độc lập dùng tiền để trao đổi hàng hoá thì khi đó tiền làm phương tiện lưu thông, không phải là tư bản
+				- chẳng hạn, khi người sản xuất hàng hoá nhỏ, độc lập dùng tiền để trao đổi hàng hoá thì khi đó tiền làm phương tiện lưu thông, không phải là tư bản
 			- Tiền đó vận động theo công thức:
 			  collapsed:: true
 				- H (hàng hoá) - T (tiền) - H (hàng hoá)
@@ -28,9 +27,7 @@
 				  collapsed:: true
 					- ông gọi đó là công thức chung của tư bản (hay lưu thông của tư bản).
 			- Hai công thức H - T - H và T - H - T
-			  collapsed:: true
 				- tuy đều phản ánh những quan hệ chung của kinh tế hàng hoá
-				  collapsed:: true
 					- đều có các quá trình mua và bán
 					- đều có những nhân tố vật chất là hàng và tiền
 					- đều có quan hệ giữa người bán và người mua
@@ -127,16 +124,17 @@
 		- ### 3.2.2. Hai thuộc tính của hàng hóa - sức lao động
 			- Cũng như các hàng hoá khác, hàng hoá - sức lao động có hai thuộc tỉnh: giá trị và giá trị sử dụng
 				- Giá trị của hàng hoá - sức lao động
-					- do lượng lao động xã hội cần thiết để sản xuất và tái sản xuất ra nó quyết định
+					- Do lượng lao động xã hội cần thiết để sản xuất và tái sản xuất ra nó quyết định
 						- sản xuất và tái sản xuất sức lao động được thực hiện thông qua sự tiêu dùng cá nhân của người lao động.
 						- bởi vậy, giá trị sức lao động ngang bằng
 							- giá trị của toàn bộ các tư liệu sinh hoạt cần thiết về vật chất và tinh thần để duy trì đời sống bình thường của người công nhân và con cái học
 							- những phí tổn đào tạo để công nhân có được một trình độ lao động nhất định
 						- Như vậy, giá trị sức lao động không chỉ bao gồm giá trị của những vật phẩm tiêu dùng cần thiết để khôi phục thế lực người công nhân, mà còn bao gồm cả những chi tiêu cần thiết để thoả mãn nhu cầu tinh thần của người công nhân và con cái anh ta.
-					- cụ thể, giá trị sức lao động bao gồm những bộ phận hợp thành như sau:
-						- Giá trị tư liệu sinh hoạt cần thiết cho bản thân người công nhân. Những tư liệu sinh hoạt cần thiết đó là lương thực, thực phẩm, vải vác, đường sữa, thuốc chữa bệnh; các phương tiện thông tin, giải trí .....
-						  
-						  + Phí tổn đào tạo công nhân. Đó là những chi phi học tập văn hoá, đào tạo nghề, bồi dưỡng nghiệp vụ..
-						  
-						  + Giá trị các tư liệu sinh hoạt cần thiết nuôi sống con cái công nhân. Về cơ bản, các tư liệu sinh hoạt cần thiết cũng giống như của công nhân.
+					- Cụ thể, giá trị sức lao động bao gồm những bộ phận hợp thành như sau:
+						- Giá trị tư liệu sinh hoạt cần thiết cho bản thân người công nhân.
+							- những tư liệu sinh hoạt cần thiết đó là lương thực, thực phẩm, vải vác, đường sữa, thuốc chữa bệnh; các phương tiện thông tin, giải trí .....
+							  
+							  + Phí tổn đào tạo công nhân. Đó là những chi phi học tập văn hoá, đào tạo nghề, bồi dưỡng nghiệp vụ..
+							  
+							  + Giá trị các tư liệu sinh hoạt cần thiết nuôi sống con cái công nhân. Về cơ bản, các tư liệu sinh hoạt cần thiết cũng giống như của công nhân.
 -
