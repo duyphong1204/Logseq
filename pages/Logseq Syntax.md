@@ -38,7 +38,7 @@
 -
 - ---
 - Mục đích indent outdent kiến thức và dùng những syntax:
-- Chép toàn bộ vào để máy đọc và theo cấu trúc thông tin xử lí nhanh hơn
-- Con người khi đọc lại hoặc đọc mới chỉ cần nhìn những syntax trên để tìm đúng cái mình cần, vị trí mình cần, chẳng hạn nếu đó là ví dụ dễ hơn
-	- Họ có
+	- Chép toàn bộ vào để máy đọc và theo cấu trúc thông tin xử lí nhanh hơn
+	- Con người khi đọc lại hoặc đọc mới chỉ cần nhìn những syntax trên để tìm đúng cái mình cần, vị trí mình cần, chẳng hạn nếu đó là ví dụ dễ hơn
+		- họ có thể đọc từ bullet ngoài, nếu chưa hiểu do không biết hay quên hay cần thêm thông tin thì hẵng mở bullet con nhỏ hơn
 -
