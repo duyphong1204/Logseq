@@ -129,11 +129,15 @@
 				- Giá trị của hàng hoá - sức lao động
 					- do lượng lao động xã hội cần thiết để sản xuất và tái sản xuất ra nó quyết định
 						- sản xuất và tái sản xuất sức lao động được thực hiện thông qua sự tiêu dùng cá nhân của người lao động.
-						- bởi vậy, giá trị sức lao động ngang bằng giá trị của toàn bộ các tư liệu sinh hoạt cần thiết về vật chất và tinh thần để duy trì đời sống bình thường của người công nhân và con cái học những phí tổn đào tạo để công nhân có được một trình độ lao động nhất định. Như vậy, giá trị sức lao động không chỉ bao gồm giá trị của những vật phẩm tiêu dùng cần thiết để khôi phục thế lực người công nhân, mà còn bao gồm cả những chi tiêu cần thiết để thoả mãn nhu cầu tinh thần của người công nhân và con cái anh ta. Cụ thể, giá trị sức lao động bao gồm những bộ phận hợp thành như sau:
-						  
-						  + Giá trị tư liệu sinh hoạt cần thiết cho bản thân người công nhân. Những tư liệu sinh hoạt cần thiết đó là lương thực, thực phẩm, vải vác, đường sữa, thuốc chữa bệnh; các phương tiện thông tin, giải trí .....
-						  
-						  + Phí tổn đào tạo công nhân. Đó là những chi phi học tập văn hoá, đào tạo nghề, bồi dưỡng nghiệp vụ..
-						  
-						  + Giá trị các tư liệu sinh hoạt cần thiết nuôi sống con cái công nhân. Về cơ bản, các tư liệu sinh hoạt cần thiết cũng giống như của công nhân.
+						- bởi vậy, giá trị sức lao động ngang bằng
+							- giá trị của toàn bộ các tư liệu sinh hoạt cần thiết về vật chất và tinh thần để duy trì đời sống bình thường của người công nhân và con cái học
+							- những phí tổn đào tạo để công nhân có được một trình độ lao động nhất định
+							- Như vậy, giá trị sức lao động không chỉ bao gồm giá trị của những vật phẩm tiêu dùng cần thiết để khôi phục thế lực người công nhân, mà còn bao gồm cả những chi tiêu cần thiết để thoả mãn nhu cầu tinh thần của người công nhân và con cái anh ta.
+					- cụ thể, giá trị sức lao động bao gồm những bộ phận hợp thành như sau:
+					  
+					  + Giá trị tư liệu sinh hoạt cần thiết cho bản thân người công nhân. Những tư liệu sinh hoạt cần thiết đó là lương thực, thực phẩm, vải vác, đường sữa, thuốc chữa bệnh; các phương tiện thông tin, giải trí .....
+					  
+					  + Phí tổn đào tạo công nhân. Đó là những chi phi học tập văn hoá, đào tạo nghề, bồi dưỡng nghiệp vụ..
+					  
+					  + Giá trị các tư liệu sinh hoạt cần thiết nuôi sống con cái công nhân. Về cơ bản, các tư liệu sinh hoạt cần thiết cũng giống như của công nhân.
 -
