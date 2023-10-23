@@ -165,7 +165,9 @@
 					- Cũng như các hàng hoá khác, sự tiêu dùng sức lao động tiến hành ở ngoài lĩnh vực lưu thông
 						- tức là trong quá trình sản xuất, người lao động sử dụng tư liệu sản xuất của nhà tư bản để tạo ra hàng hoá cho nhà tư bản
 							- chẳng hạn, sau một thời gian lao động nhất định, một ngày chẳng hạn, người lao động chỉ tạo được một lượng giá trị bằng với lượng giá trị mà nhà tư bản trả cho sức lao động của công nhân thì nhà tư bản chẳng có lợi gì và sẽ không mua sức lao động đó.
-							- nhưng hàng hoá sức lao động có một giá trị sử dụng đặc biệt, khác với các hàng hoá thông thường là khi sử dụng, sức lao động sẽ tạo ra một giá trị mới lớn hơn giá trị của bản thân nó. Điều đó có nghĩa là, giá trị sức lao động và giá trị do sức lao động sáng tạo ra trong quá trình sản xuất là hai đại lượng khác nhau. Sự chênh lệch giữa hai đại lượng đó là tiền đề của sự bóc lột TBCN, là nguồn gốc của giá trị thặng dư.
+							- nhưng hàng hoá sức lao động có một giá trị sử dụng đặc biệt, khác với các hàng hoá thông thường là khi sử dụng, sức lao động sẽ tạo ra một giá trị mới lớn hơn giá trị của bản thân nó
+								- điều đó có nghĩa là, giá trị sức lao động và giá trị do sức lao động sáng tạo ra trong quá trình sản xuất là hai đại lượng khác nhau
+								- sự chênh lệch giữa hai đại lượng đó là tiền đề của sự bóc lột TBCN, là nguồn gốc của giá trị thặng dư.
 							- Như vậy, hàng hoá sức lao động là nguồn gốc sinh ra giá trị thặng dư là chiếc chìa khoá để giải quyết mâu thuẫn của công thức chung của tư bản.
 							- 3.2.3. Tiền lương trong nền kinh tế thị trường
 							- Bản chất của tiền lương

@@ -35,3 +35,6 @@
 - Note 1.5: là 1 nhưng có phân cấp ở cấp độ câu, đôi khi có những chỗ chối quá thì có chỗ phải 1.5, còn lại là 1, quan trọng là có cần và có cách nào để nhận biết không? lúc nào cũng tra lại bản gốc thì mệt
 - Note 1: chép y nguyên câu chữ, chỉ phân cấp ở mức độ heading
 - Note 0: raw ở định dạng riêng
+-
+- ---
+- Mục đích
