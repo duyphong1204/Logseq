@@ -131,7 +131,7 @@
 						- bởi vậy, giá trị sức lao động ngang bằng:
 							- giá trị của toàn bộ các tư liệu sinh hoạt cần thiết về vật chất và tinh thần để duy trì đời sống bình thường của người công nhân và con cái học
 							- những phí tổn đào tạo để công nhân có được một trình độ lao động nhất định
-							- Như vậy, giá trị sức lao động không chỉ bao gồm giá trị của những vật phẩm tiêu dùng cần thiết để khôi phục thế lực người công nhân, mà còn bao gồm cả những chi tiêu cần thiết để thoả mãn nhu cầu tinh thần của người công nhân và con cái anh ta.
+							- Như vậy, giá trị sức lao động không chỉ bao gồm giá trị của những vật phẩm tiêu dùng cần thiết để khôi phục thế lực người công nhân, mà còn bao gồm cả những chi tiêu cần thiết để thoả mãn nhu cầu tinh thần của người công nhân và con cái anh ta. {{cloze cái này chẳng biết indent vào đây hay không, vì nó như tổng kết cho cả đoạn, mà để làm thế thì}}
 					- Cụ thể, giá trị sức lao động bao gồm những bộ phận hợp thành như sau:
 						- Giá trị tư liệu sinh hoạt cần thiết cho bản thân người công nhân
 							- những tư liệu sinh hoạt cần thiết đó là lương thực, thực phẩm, vải vác, đường sữa, thuốc chữa bệnh; các phương tiện thông tin, giải trí,...
