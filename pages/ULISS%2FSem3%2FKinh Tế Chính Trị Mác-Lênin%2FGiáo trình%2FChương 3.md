@@ -161,6 +161,8 @@
 						- các nhân tố kinh tế - xã hội khác (chính sách nhà nước, đầu tranh của công nhân, trình độ phát triển của kinh tế thị trường, mức độ hội nhập...) {{cloze cách ngắt câu thành ý với văn phong cuốn sách này không hay cho lắm vì nó làm đứt ý, dù khi đọc thì cũng nên mở hết bullet ra đọc, nhưng tại thông tin không giải thích quá thừa để làm thành ảnh hưởng, nguyên nhân, ví dụ... những thông tin xung quanh khác mà đa phần toàn trình bày rõ tính chất thôi. Thế mới biết cách viết này bị dài dòng, (đôi khi không rạch ròi topic sentence and supporting sentence) dù có thể nó giúp đọc không chán nhưng tra lại kiến thức bằng sách sẽ rất khổ vì cũng phải đọc một đoạn dài tương đương}}
 					- Giá trị sử dụng của hàng hoá sức lao động là công dụng của sức lao động
 						- nó thoả mãn nhu cầu của người mua là sử dụng vào quá trình lao động
-						- điều đó có nghĩa là, quá trình người mua tiêu dùng hàng hoá sức lao động đồng thời cũng là quá trình sản xuất ra hàng hoá và giá trị thặng dư.
-						- Cũng như các hàng hoá khác, sự tiêu dùng sắc lao động tiến hành ở ngoài lĩnh vực lưu thông; tức là trong quá trình sản xuất, người lao động sử dụng tư liệu sản xuất của nhà tư bản để tạo ra hàng hoá cho nhà tư bản. Chẳng hạn, sau một thời gian lao động
+							- điều đó có nghĩa là, quá trình người mua tiêu dùng hàng hoá sức lao động đồng thời cũng là quá trình sản xuất ra hàng hoá và giá trị thặng dư {{cloze ca này khó vãi, vì hai câu như }}
+					- Cũng như các hàng hoá khác, sự tiêu dùng sức lao động tiến hành ở ngoài lĩnh vực lưu thông
+						- tức là trong quá trình sản xuất, người lao động sử dụng tư liệu sản xuất của nhà tư bản để tạo ra hàng hoá cho nhà tư bản
+							- chẳng hạn, sau một thời gian lao động
 -
