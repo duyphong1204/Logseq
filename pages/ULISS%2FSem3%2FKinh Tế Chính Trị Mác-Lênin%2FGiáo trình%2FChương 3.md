@@ -136,7 +136,7 @@
 						- Giá trị tư liệu sinh hoạt cần thiết cho bản thân người công nhân
 							- những tư liệu sinh hoạt cần thiết đó là lương thực, thực phẩm, vải vác, đường sữa, thuốc chữa bệnh; các phương tiện thông tin, giải trí,...
 						- Phí tổn đào tạo công nhân
-							- đó là những chi phi học tập văn hoá, đào tạo nghề, bồi dưỡng nghiệp vụ..
+							- đó là những chi phi học tập văn hoá, đào tạo nghề, bồi dưỡng nghiệp vụ,...
 						- Giá trị các tư liệu sinh hoạt cần thiết nuôi sống con cái công nhân
 							- về cơ bản, các tư liệu sinh hoạt cần thiết cũng giống như của công nhân.
 -
