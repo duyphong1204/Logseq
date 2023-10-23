@@ -121,6 +121,8 @@
 					- sức lao động và tư liệu sản xuất là hai yếu tố cơ bản của quá trình lao động sản xuất sản phẩm.
 					- nhưng khi người lao động bị tước đoạt hết tư liệu sản xuất thì họ buộc phải bán ra chính sức lao động của minh như một hàng hoá
 						- chứ không phải bán ra những hàng hoá trong đó lao động của họ đã được thể hiện.
-					- =>Như vậy, để sức lao động trở thành hàng hoá thì “người có tiền phải tìm được người lao động tự do trên thị trường, tự do theo hai nghĩa: theo nghĩa là một con người tự do chi phối được sức lao động của mình với tư cách là một hàng hoá; và mặt khác, anh ta không còn có một hàng hoá nào khác để bán, nói một cách khác là trần như nhộng, hoàn toàn không có những vật cần thiết để thực hiện sức lao động của mình”.
-						- Đây là điểm khởi đầu xuất hiện hàng hóa sức lao động, báo hiệu một giai đoạn mới của sự phát triển xã hội, giai đoạn sản xuất hàng
+				- =>Như vậy, để sức lao động trở thành hàng hoá thì “người có tiền phải tìm được người lao động tự do trên thị trường
+					- tự do theo hai nghĩa: theo nghĩa là một con người tự do chi phối được sức lao động của mình với tư cách là một hàng hoá
+					- và mặt khác, anh ta không còn có một hàng hoá nào khác để bán, nói một cách khác là trần như nhộng, hoàn toàn không có những vật cần thiết để thực hiện sức lao động của mình”.
+					- Đây là điểm khởi đầu xuất hiện hàng hóa sức lao động, báo hiệu một giai đoạn mới của sự phát triển xã hội, giai đoạn sản xuất hàng
 -
