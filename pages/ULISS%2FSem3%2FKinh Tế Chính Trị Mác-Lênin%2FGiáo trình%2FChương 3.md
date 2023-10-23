@@ -109,6 +109,7 @@
 					- vì thế, ngay từ lúc mới xuất hiện, tư bản đã báo hiệu một thời đại đặc biệt của quá trình sản xuất xã hội
 	- ## 3.2. Hàng hóa, sức lao động
 		- ### 3.2.1. Những điều kiện cần thiết để sức lao động trở thành hàng hoá
+		  collapsed:: true
 			- Sức lao động là khả năng lao động của con người, bao gồm toàn bộ thể lực (sức khỏe, thể hình, sức bền...), trí lực (tri thức, kinh nghiệm, kỹ năng...) và tâm lực (đạo đức nghề nghiệp, ý thức tổ chức, kỷ luật lao động...) của con người, có thể được sử dụng để tiến hành quá trình lao động sản xuất.
 			- Trong mọi xã hội, sức lao động là yếu tố cơ bản của quá trình sản xuất nhưng chỉ trong những điều kiện nhất định, sức lao động mới trở thành hàng hoá. Những điều kiện để sức lao động trở thành hàng hóa là:
 				- Người có sức lao động được tự do về thân thể
@@ -123,4 +124,5 @@
 						- chứ không phải bán ra những hàng hoá trong đó lao động của họ đã được thể hiện.
 				- =>Như vậy, để sức lao động trở thành hàng hoá thì *“người có tiền phải tìm được người lao động tự do trên thị trường, tự do theo hai nghĩa: theo nghĩa là một con người tự do chi phối được sức lao động của mình với tư cách là một hàng hoá và mặt khác, anh ta không còn có một hàng hoá nào khác để bán, nói một cách khác là trần như nhộng, hoàn toàn không có những vật cần thiết để thực hiện sức lao động của mình”*.
 					- Đây là điểm khởi đầu xuất hiện hàng hóa sức lao động, báo hiệu một giai đoạn mới của sự phát triển xã hội, giai đoạn sản xuất hàng hóa
+		- ### 3.2.2.
 -
