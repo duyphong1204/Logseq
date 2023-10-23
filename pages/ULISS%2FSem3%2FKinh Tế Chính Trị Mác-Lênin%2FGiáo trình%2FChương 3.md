@@ -171,7 +171,7 @@
 								- sự chênh lệch giữa hai đại lượng đó là tiền đề của sự bóc lột TBCN, là nguồn gốc của giá trị thặng dư.
 							- Như vậy, hàng hoá sức lao động là nguồn gốc sinh ra giá trị thặng dư là chiếc chìa khoá để giải quyết mâu thuẫn của công thức chung của tư bản.
 		- ### 3.2.3. Tiền lương trong nền kinh tế thị trường
-			- #### Bản chất của tiền lương {{cloze }}
+			- **Bản chất của tiền lương** {{cloze vấn đề khi dùng đến tận nhan đề thứ 4 là chữ nó còn nhỏ hơn cả nội dung, dùng Bold cũng được nhưng thế sau này bold nội dung để đọc nhanh thì có lẫn không. Cách cũ ở những bài đầu tiên làm theo kiểu này là bold, bold cả tiêu đề lớn}}
 				- Trong nền kinh tế thị trường và trong CNTB, sau một thời gian lao động cho chủ doanh nghiệp, người công nhận được nhận một số tiền nhất định, gọi là tiền lương. Từ đó, các nhà kinh tế cho rằng, số tiền lương đó là do chủ doanh nghiệp trả công cho lao động của công nhân, hay nói cách khác, tiền lương là giá cả của lao động.
 			- Trong CNTB người ta thường lầm tưởng rằng, tiền lương là giá cả của lao động và việc mua bán hoàn toàn tự nguyện, nhà tư bản không bóc lột công nhân. Song, biểu hiện bề ngoài đó không phản ánh được bản chất của tiền lương, che đậy bản chất thật sự của tiền lương, che dấu mối quan hệ giữa tư bản và lao động. Nếu coi tiền lương là giá cả của lao động sẽ dẫn đến hàng loạt những điều vô lý sau:
 			- Một là, lao động sẽ là hàng hóa. Nhưng lao động lại là sự kết hợp giữa sức lao động và tư liệu sản xuất, mà người lao động lại chỉ có sức lao động, còn tư liệu sản xuất là của nhà tư bản. Nếu người công nhân
