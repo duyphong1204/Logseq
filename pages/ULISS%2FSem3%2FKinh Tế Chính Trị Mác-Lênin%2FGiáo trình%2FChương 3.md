@@ -131,7 +131,7 @@
 						- bởi vậy, giá trị sức lao động ngang bằng:
 							- giá trị của toàn bộ các tư liệu sinh hoạt cần thiết về vật chất và tinh thần để duy trì đời sống bình thường của người công nhân và con cái học
 							- những phí tổn đào tạo để công nhân có được một trình độ lao động nhất định
-							- Như vậy, giá trị sức lao động không chỉ bao gồm giá trị của những vật phẩm tiêu dùng cần thiết để khôi phục thế lực người công nhân, mà còn bao gồm cả những chi tiêu cần thiết để thoả mãn nhu cầu tinh thần của người công nhân và con cái anh ta. {{cloze cái này chẳng biết indent vào đây hay không, vì nó như tổng kết cho cả đoạn, mà để làm thế thì cả đoạn nên dẫn đến nó hơn, đằng này cái dẫn đến nó theo phép suy luận hoàn toàn là những ý được indent... đáng ra nên cut nó đi, vì nếu cho ra ngoài, sau này bôi đậm sẽ tiện đó, nhanh đó, nhưng dễ thành lặp thông tin}}
+							- Như vậy, giá trị sức lao động không chỉ bao gồm giá trị của những vật phẩm tiêu dùng cần thiết để khôi phục thế lực người công nhân, mà còn bao gồm cả những chi tiêu cần thiết để thoả mãn nhu cầu tinh thần của người công nhân và con cái anh ta. {{cloze cái này chẳng biết indent vào đây hay không, vì nó như tổng kết cho cả đoạn, mà để làm thế thì cả đoạn nên dẫn đến nó hơn, đằng này cái dẫn đến nó theo phép suy luận hoàn toàn là những ý được indent... đáng ra nên cut nó đi, vì nếu cho ra ngoài, sau này bôi đậm sẽ tiện đó, nhanh đó, nhưng dễ thành lặp thông tin; một cách xử lí khác là biến nó thành luận điểm luôn, tránh kiểu trình bày tổng phân hợp, dùng diễn dịch}}
 					- Cụ thể, giá trị sức lao động bao gồm những bộ phận hợp thành như sau:
 						- Giá trị tư liệu sinh hoạt cần thiết cho bản thân người công nhân
 							- những tư liệu sinh hoạt cần thiết đó là lương thực, thực phẩm, vải vác, đường sữa, thuốc chữa bệnh; các phương tiện thông tin, giải trí,...
@@ -139,15 +139,15 @@
 							- đó là những chi phi học tập văn hoá, đào tạo nghề, bồi dưỡng nghiệp vụ,...
 						- Giá trị các tư liệu sinh hoạt cần thiết nuôi sống con cái công nhân
 							- về cơ bản, các tư liệu sinh hoạt cần thiết cũng giống như của công nhân
-					- Cần lưu ý rằng, giá trị hàng hóa sức lao động mang tính chất xã hội
+					- Cần lưu ý rằng, giá trị hàng hóa sức lao động mang tính chất xã hội {{cloze nghe điêu nhỉ, nhìn lên trên thì cụ trong những bộ phận trên, cái gì xã hội định giá? - nghe hơi sai về mặt chữ nhưng nếu là giải thích ở kia thì đúng logic mình, mọi thứ based dựa trên giá trị vật chất cần có để sống. Mà xã hội tức trung bình, tính như nào, tùy cung cầu? thế có thiệt thòi cho một số người quá không nếu chưa ai quy định điều đó trong xã hội, như việc mình làm và nhiều người làm? rồi, trình độ phát triển của một đất nước về mặt nghệ thuật, tức những nhu cầu vô lại đó, ở Việt Nam chắc chắn thấp vì mức lương cơ bản thấp? bất công nữa là dường như mình bị quy định mình sẽ chỉ được có ngần này nhu cầu trong cuộc sống... có lẽ vì thế nên nhiều người tự định giá mình rồi tìm cách bán dù nó có thể không bền hơn là việc đợi được ai đó trả tiền. Làm sao tính chuẩn nhu cầu một người bình thường là được cầu cái gì, chẳng hạn giáo dục ở mức nào? mức thường là mức nào???}}
 						- tức là không tùy thuộc vào nhu cầu tiêu dùng cá nhân của từng người công nhân
 						- mà tùy thuộc vào mức tiêu dùng trung bình của những người công nhân và được xã hội thừa nhận.
 							- vì sức lao động trị giá bằng một số tư liệu sinh hoạt nhất định nên giá trị của nó thay đổi tuỳ theo giá trị của những tư liệu sinh hoạt đó
 								- nghĩa là thay đổi theo tỷ lệ thuận với thời gian lao động sản xuất ra những tư liệu sinh hoạt đó
-						- {{cloze nghe điêu nhỉ, nhìn lên trên thì cụ trong những bộ phận trên, cái gì xã hội định giá? - nghe hơi sai về mặt chữ nhưng nếu là giải thích ở kia thì đúng logic mình, mọi thứ based dựa trên giá trị vật chất cần có để sống. Mà xã hội tức trung bình, tính như nào, tùy cung cầu? thế có thiệt thòi cho một số người quá không nếu chưa ai quy định điều đó trong xã hội, như việc mình làm và nhiều người làm? rồi, trình độ phát triển của một đất nước về mặt nghệ thuật, tức những nhu cầu vô lại đó, ở Việt Nam chắc chắn thấp vì mức lương cơ bản thấp? bất công nữa là dường như mình bị quy định mình sẽ chỉ được có ngần này nhu cầu trong cuộc sống... có lẽ vì thế nên nhiều người tự định giá mình rồi tìm cách bán dù nó có thể không bền hơn là việc đợi được ai đó trả tiền. Làm sao tính chuẩn nhu cầu một người bình thường là được cầu cái gì, chẳng hạn giáo dục ở mức nào? mức thường là mức nào???}}
 					- Trong quá trình phát triển của xã hội, mức nhu cầu nói chung của công nhân và những tư liệu sinh hoạt để thoả mãn những nhu cầu đó thay đổi không ngừng.
 						- Ở các nước khác nhau, mức nhu cầu nói chung của công nhân cũng khác nhau.
 						- Nhu cầu của công nhân phụ thuộc vào
+						  collapsed:: true
 							- hoàn cảnh lịch sử của từng nước, từng lúc
 							- điều kiện lịch sử hình thành giai cấp công nhân
 							- trình độ văn minh đã đạt được
