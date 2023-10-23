@@ -177,5 +177,5 @@
 				- Trong CNTB người ta thường lầm tưởng rằng
 					- tiền lương là giá cả của lao động
 					- việc mua bán hoàn toàn tự nguyện, nhà tư bản không bóc lột công nhân. Song, biểu hiện bề ngoài đó không phản ánh được bản chất của tiền lương, che đậy bản chất thật sự của tiền lương, che dấu mối quan hệ giữa tư bản và lao động. Nếu coi tiền lương là giá cả của lao động sẽ dẫn đến hàng loạt những điều vô lý sau:
-			- Một là, lao động sẽ là hàng hóa. Nhưng lao động lại là sự kết hợp giữa sức lao động và tư liệu sản xuất, mà người lao động lại chỉ có sức lao động, còn tư liệu sản xuất là của nhà tư bản. Nếu người công nhân
+				- Một là, lao động sẽ là hàng hóa. Nhưng lao động lại là sự kết hợp giữa sức lao động và tư liệu sản xuất, mà người lao động lại chỉ có sức lao động, còn tư liệu sản xuất là của nhà tư bản. Nếu người công nhân
 			-
