@@ -158,6 +158,6 @@
 						- (tiền lương người công nhân nhận được khi bán sức lao động).
 					- Giá cả sức lao động được hình thành trên cơ sở giá trị sức lao động, song nó còn chịu sự tác động của
 						- quan hệ cung - cầu về sức lao động trên thị trường
-						- các nhân tố kinh tế - xã hội khác (chính sách nhà nước, đầu tranh của công nhân, trình độ phát triển của kinh tế thị trường, mức độ hội nhập...) {{cloze cách ngắt câu thành ý ở }}
+						- các nhân tố kinh tế - xã hội khác (chính sách nhà nước, đầu tranh của công nhân, trình độ phát triển của kinh tế thị trường, mức độ hội nhập...) {{cloze cách ngắt câu thành ý với văn phong cuốn sách này không hay cho lắm vì nó làm đứt ý, dù khi đọc thì cũng nên mở hết bullet ra đọc, nhưng tại thông tin không giải thích quá thừa để làm thành ảnh hưởng, nguyên nhân }}
 					- Giá trị sử dụng của hàng hoá sức lao động là công dụng của sức lao động; nó thoả mãn nhu cầu của người mua là sử dụng vào quả trình lao động. Điều đó có nghĩa là, quá trình người mua tiêu dùng hàng hoá sức lao động đồng thời cũng là quá trình sản xuất ra hàng hoá và giá trị thặng dư. Cũng như các hàng hoá khác, sự tiêu dùng sắc lao động tiến hành ở ngoài lĩnh vực lưu thông; tức là trong quá trình sản xuất, người lao động sử dụng tư liệu sản xuất của nhà tư bản để tạo ra hàng hoá cho nhà tư bản. Chẳng hạn, sau một thời gian lao động
 -
