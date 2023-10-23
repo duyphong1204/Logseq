@@ -124,6 +124,7 @@
 				- =>Như vậy, để sức lao động trở thành hàng hoá thì *“người có tiền phải tìm được người lao động tự do trên thị trường, tự do theo hai nghĩa: theo nghĩa là một con người tự do chi phối được sức lao động của mình với tư cách là một hàng hoá và mặt khác, anh ta không còn có một hàng hoá nào khác để bán, nói một cách khác là trần như nhộng, hoàn toàn không có những vật cần thiết để thực hiện sức lao động của mình”*.
 					- Đây là điểm khởi đầu xuất hiện hàng hóa sức lao động, báo hiệu một giai đoạn mới của sự phát triển xã hội, giai đoạn sản xuất hàng hóa
 		- ### 3.2.2. Hai thuộc tính của hàng hóa - sức lao động
+		  collapsed:: true
 			- Cũng như các hàng hoá khác, hàng hoá - sức lao động có hai thuộc tỉnh: giá trị và giá trị sử dụng
 				- Giá trị của hàng hoá - sức lao động
 				  collapsed:: true
@@ -170,7 +171,7 @@
 								- sự chênh lệch giữa hai đại lượng đó là tiền đề của sự bóc lột TBCN, là nguồn gốc của giá trị thặng dư.
 							- Như vậy, hàng hoá sức lao động là nguồn gốc sinh ra giá trị thặng dư là chiếc chìa khoá để giải quyết mâu thuẫn của công thức chung của tư bản.
 		- ### 3.2.3. Tiền lương trong nền kinh tế thị trường
-			- #### Bản chất của tiền lương
+			- #### Bản chất của tiền lương {{cloze }}
 				- Trong nền kinh tế thị trường và trong CNTB, sau một thời gian lao động cho chủ doanh nghiệp, người công nhận được nhận một số tiền nhất định, gọi là tiền lương. Từ đó, các nhà kinh tế cho rằng, số tiền lương đó là do chủ doanh nghiệp trả công cho lao động của công nhân, hay nói cách khác, tiền lương là giá cả của lao động.
 			- Trong CNTB người ta thường lầm tưởng rằng, tiền lương là giá cả của lao động và việc mua bán hoàn toàn tự nguyện, nhà tư bản không bóc lột công nhân. Song, biểu hiện bề ngoài đó không phản ánh được bản chất của tiền lương, che đậy bản chất thật sự của tiền lương, che dấu mối quan hệ giữa tư bản và lao động. Nếu coi tiền lương là giá cả của lao động sẽ dẫn đến hàng loạt những điều vô lý sau:
 			- Một là, lao động sẽ là hàng hóa. Nhưng lao động lại là sự kết hợp giữa sức lao động và tư liệu sản xuất, mà người lao động lại chỉ có sức lao động, còn tư liệu sản xuất là của nhà tư bản. Nếu người công nhân
