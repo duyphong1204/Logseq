@@ -138,5 +138,6 @@
 						- Phí tổn đào tạo công nhân
 							- đó là những chi phi học tập văn hoá, đào tạo nghề, bồi dưỡng nghiệp vụ,...
 						- Giá trị các tư liệu sinh hoạt cần thiết nuôi sống con cái công nhân
-							- về cơ bản, các tư liệu sinh hoạt cần thiết cũng giống như của công nhân.
+							- về cơ bản, các tư liệu sinh hoạt cần thiết cũng giống như của công nhân
+					-
 -
