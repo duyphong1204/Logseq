@@ -12,7 +12,9 @@
 				- xác định đề tài là một khâu then chốt, có ý nghĩa quan trọng đối với người nghiên cứu
 					- vì phát hiện được vấn đề để nghiên cứu nhiều khi còn khó hơn cả giải quyết vấn đề đó và lựa chọn đề tài, đôi khi quyết định cả phương hướng chuyên môn trong sự nghiệp của người nghiên cứu
 				- Vì vậy, khi xác định đề tài nghiên cứu, người nghiên cứu cần chú ý tới các yêu cầu đối với đề tài nghiên cứu.
-		- Để xác định được đề tài nghiên cứu, người nghiên cứu phải trình bày rõ lý do chọn đề tài nghiên cứu (hay còn gọi là tính cấp thiết của đề tài nghiên cứu). Phần này yêu cầu người nghiên cứu phải trình bày rõ ràng, tường minh những lý do khiến tác giả chọn đề tài để nghiên cứu về mặt lý thuyết, về mặt thực tiễn, về tính cấp thiết, về năng lực nghiên cứu và sở thích cả nhân
+		- Để xác định được đề tài nghiên cứu, người nghiên cứu phải
+			- trình bày rõ lý do chọn đề tài nghiên cứu (hay còn gọi là tính cấp thiết của đề tài nghiên cứu)
+				- phần này yêu cầu người nghiên cứu phải trình bày rõ ràng, tường minh những lý do khiến tác giả chọn đề tài để nghiên cứu về mặt lý thuyết, về mặt thực tiễn, về tính cấp thiết, về năng lực nghiên cứu và sở thích cả nhân
 	- ### 3.1.2 Tổng quan nghiên cứu
 	- ### 3.1.3 Xây dựng khung lý luận/lý thuyết & khung phân tích
 	- ### 3.1.4 Thiết kế nghiên cứu
