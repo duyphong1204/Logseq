@@ -20,10 +20,13 @@
 						- về tính cấp thiết
 						- về năng lực nghiên cứu
 						- sở thích cá nhân
-			- Lý do chọn đề tài thưởng xuất phát từ những yêu cầu của thực tế công tác mà người nghiên cứu đảm nhiệm, hay từ việc phát hiện những thiếu sót, những hạn chế trong nghiên cứu lý thuyết chuyên ngành cần phải bổ sung, mà việc nghiên cứu này sẽ đem lại lợi ích hiện tại hoặc cho tương lai của khoa học và thực tiễn. b) Các yêu cầu đối với đề tài nghiên cứu
+			- Lý do chọn đề tài thưởng xuất phát từ
+				- những yêu cầu của thực tế công tác mà người nghiên cứu đảm nhiệm
+				- việc phát hiện những thiếu sót, những hạn chế trong nghiên cứu lý thuyết chuyên ngành cần phải bổ sung
+					- mà việc nghiên cứu này sẽ đem lại lợi ích hiện tại hoặc cho tương lai của khoa học và thực tiễn
+		- **Các yêu cầu đối với đề tài nghiên cứu**
 			- Đề tài nghiên cứu phải có ý nghĩa khoa học: Bổ sung nội dung lý thuyết của khoa học; làm rõ một số vấn đề lý thuyết vốn tồn tại; xây dựng cơ sở lý thuyết mới hoặc xây dựng nguyên lý các giải pháp khác nhau trong kỹ thuật, công nghệ, tổ chức, quản lý ...
-			  
-			  Đề tài phải có tính thực tiễn, thể hiện: Xây dựng luận cứ cho các chương trình nhát triển kinh tế xã hội; nhu cầu kỹ thuật của sản xuất; nhu cầu về tổ chức, quản lý, thị trường.
+			- Đề tài phải có tính thực tiễn, thể hiện: Xây dựng luận cứ cho các chương trình nhát triển kinh tế xã hội; nhu cầu kỹ thuật của sản xuất; nhu cầu về tổ chức, quản lý, thị trường.
 			- Đề tài phải có tính cấp thiết đối với thời điểm tiến hành nghiên cứu. Vấn đề đang là điểm nóng bỏng về khoa học công nghệ cần phải giải quyết và giải quyết triển của khoa học và đời sống.
 			  
 			  được nó sẽ đem lại giá trị thiết thực cho lý luận và thực tiễn, đóng góp cho sự phát
