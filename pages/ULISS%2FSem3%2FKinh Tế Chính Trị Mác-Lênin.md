@@ -1,1 +1,1 @@
-- [[ULISS/Sem3/Kinh Tế Chính Trị Mác-Lênin/Giáo trình]]
+- [[ULISS/Sem3/Kinh Tế Chính Trị Mác-Lênin/Giáo Trình]]
