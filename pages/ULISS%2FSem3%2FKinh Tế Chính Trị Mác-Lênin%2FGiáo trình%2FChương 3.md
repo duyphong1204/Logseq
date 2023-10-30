@@ -218,5 +218,7 @@
 									- thời gian làm việc
 										- (giờ, ngày, tuần, tháng)
 									- hoặc theo số lượng sản phẩm đã chế tạo ra.
-									- Thời gian lao động càng dài, kết quả lao động lại càng tốt, tiền lương càng cao
+								- thời gian lao động càng dài
+									- kết quả lao động lại càng tốt
+									- tiền lương càng cao
 			-
