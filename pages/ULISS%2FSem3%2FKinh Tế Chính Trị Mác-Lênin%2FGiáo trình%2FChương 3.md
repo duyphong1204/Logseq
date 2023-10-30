@@ -236,7 +236,7 @@
 									- thời gian lao động thặng dư.
 			- **Các hình thức cơ bản của tiền lương**
 				- Trong cơ chế thị trường và trong chế độ TBCN, tiền lương thường được trả theo hai hình thức cơ bản:
-					- tiền lương tính theo thời gian
+					- Tiền lương tính theo thời gian
 						- tiền lương tính theo thời gian là
 							- hình thức tiền lương mà số lượng của nó tuỳ thuộc vào thời gian lao động của công nhân
 							- đó là
@@ -244,7 +244,17 @@
 								- lương tuần
 								- lương tháng
 								- lượng năm
-						- Tiền lương theo thời gian thường được áp dụng trong các công việc mà kết quả của lao động không tính được cụ thể, chẳng hạn lao động quản lý, lao động hành chính...
-					- tiền lương tính theo sản phẩm.
-				- Thực hành chế độ trả lương theo thời gian, đương nhiên nhà tư bản phải tăng cường quản lý người lao động cả về thời gian lao động. cũng như cường độ lao động. Do đó, trả lương theo thời gian vừa làm tăng chi phí quản lý; vừa gây phản ứng chống đối của người lao động. Vì thế, hình thức trả lương theo sản phẩm được sử dụng ngày càng phổ biến hơn.
+						- Tiền lương theo thời gian thường được áp dụng
+							- trong các công việc mà kết quả của lao động không tính được cụ thể,
+								- chẳng hạn
+									- lao động quản lý
+									- lao động hành chính
+					- tiền lương tính theo sản phẩm
+						- thực hành chế độ trả lương theo thời gian, đương nhiên nhà tư bản phải
+							- tăng cường quản lý người lao động cả về thời gian lao động
+							- cũng như cường độ lao động
+						- do đó, trả lương theo thời gian vừa
+							- làm tăng chi phí quản lý
+							- gây phản ứng chống đối của người lao động
+							- Vì thế, hình thức trả lương theo sản phẩm được sử dụng ngày càng phổ biến hơn
 				- Tiền lương tỉnh theo sản phẩm là hình thức tiền lương mà số lượng của nó tuỳ thuộc vào số lượng, chất lượng sản phẩm được sản xuất, hoặc số lượng, chất lượng công việc mà người công nhân đã hoàn thành. Tiền lương tính theo sản phẩm áp dụng đối với những
