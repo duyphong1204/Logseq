@@ -173,6 +173,7 @@
 		- ### 3.2.3. Tiền lương trong nền kinh tế thị trường
 			- **Bản chất của tiền lương** {{cloze vấn đề khi dùng đến tận nhan đề thứ 4 là chữ nó còn nhỏ hơn cả nội dung, dùng Bold cũng được nhưng thế sau này bold nội dung để đọc nhanh thì có lẫn không. Cách cũ ở những bài đầu tiên làm theo kiểu này là bold, bold cả tiêu đề lớn, nó sẽ tạo nhiều lựa chọn hơn: nhan đề bold và không bold, tức gấp đôi số lựa chọn để không bao giờ gặp vấn đề nếu tài liệu chia quá nhỏ các ý. Một cách sai lầm hồi xưa là mình đã tách những phần này thành page riêng, không nên, vì dù thế tiện để giảm tiêu đề, nó lại mang ý nghĩa sánh ngang với các evergreen note trong khi nó chỉ là idea, data từ một tài liệu - kể cả nó có tổng hợp từ nhiều tài liệu, evergreen vẫn có tính chất rộng lớn hơn là page không bao giờ bị đóng băng, có thể liên tục sửa đổi để ăn thêm data theo thời gian. Chỉ sợ có ngày nó quá dài quá phức tạp :))) một bách khoa về chính một khái niệm}}
 				- Trong nền kinh tế thị trường và trong CNTB, sau một thời gian lao động cho chủ doanh nghiệp, người công nhân được nhận một số tiền nhất định, gọi là tiền lương
+				  collapsed:: true
 					- từ đó, các nhà kinh tế cho rằng, số tiền lương đó là do chủ doanh nghiệp trả công cho lao động của công nhân, hay nói cách khác, tiền lương là giá cả của lao động.
 				- Trong CNTB người ta thường lầm tưởng rằng
 					- tiền lương là giá cả của lao động
@@ -192,6 +193,7 @@
 						- điều này không đúng với thực tế trong CNTB
 						- Nhưng nếu giải thích giá trị thặng dư mà nhà tư bản thu được là kết quả của việc mua rẻ hàng hóa lao động thì lại vi phạm quy luật giá trị.
 				- Trong phần trên khi bàn về hàng hóa sức lao động, một kết luận đã được rút ra là:
+				  collapsed:: true
 					- "Tiền lương trong và sự biểu hiện bằng tiền của tiền của sức lao động là giá cả sức lao động"
 						- tiền lương không phải là giá cả lao động
 							- vì dù lao động tạo ra giá trị hàng hoá
@@ -229,9 +231,11 @@
 									- “thuận mua vừa bán”
 									- “tự do
 									- “bình đẳng” giữa lao động và tư bản
-								- nó xoá mở ranh giới của sự phân chia ngày lao động thành thời gian lao động cần thiết và thời gian lao động thặng dư.
-							- Các hình thức cơ bản của tiền lương
-							- Trong cơ chế thị trường và trong chế độ TBCN, tiền lương thường được trả theo hai hình thức cơ bản: tiền lương tính theo thời gian và tiền lương tính theo sản phẩm.
-							- Tiền lương tỉnh theo thời gian là hình thức tiền lương mà số lượng của nó tuỳ thuộc vào thời gian lao động của công nhân. Đó là lương ngày, lương tuần, lương tháng, lượng năm. Tiền lương theo thời gian thường được áp dụng trong các công việc mà kết quả của lao động không tính được cụ thể, chẳng hạn lao động quản lý, lao động hành chính...
-							- Thực hành chế độ trả lương theo thời gian, đương nhiên nhà tư bản phải tăng cường quản lý người lao động cả về thời gian lao động. cũng như cường độ lao động. Do đó, trả lương theo thời gian vừa làm tăng chi phí quản lý; vừa gây phản ứng chống đối của người lao động. Vì thế, hình thức trả lương theo sản phẩm được sử dụng ngày càng phổ biến hơn.
-							- Tiền lương tỉnh theo sản phẩm là hình thức tiền lương mà số lượng của nó tuỳ thuộc vào số lượng, chất lượng sản phẩm được sản xuất, hoặc số lượng, chất lượng công việc mà người công nhân đã hoàn thành. Tiền lương tính theo sản phẩm áp dụng đối với những
+								- nó xoá mờ ranh giới của sự phân chia ngày lao động thành
+									- thời gian lao động cần thiết
+									- thời gian lao động thặng dư.
+			- Các hình thức cơ bản của tiền lương
+				- Trong cơ chế thị trường và trong chế độ TBCN, tiền lương thường được trả theo hai hình thức cơ bản: tiền lương tính theo thời gian và tiền lương tính theo sản phẩm.
+				- Tiền lương tỉnh theo thời gian là hình thức tiền lương mà số lượng của nó tuỳ thuộc vào thời gian lao động của công nhân. Đó là lương ngày, lương tuần, lương tháng, lượng năm. Tiền lương theo thời gian thường được áp dụng trong các công việc mà kết quả của lao động không tính được cụ thể, chẳng hạn lao động quản lý, lao động hành chính...
+				- Thực hành chế độ trả lương theo thời gian, đương nhiên nhà tư bản phải tăng cường quản lý người lao động cả về thời gian lao động. cũng như cường độ lao động. Do đó, trả lương theo thời gian vừa làm tăng chi phí quản lý; vừa gây phản ứng chống đối của người lao động. Vì thế, hình thức trả lương theo sản phẩm được sử dụng ngày càng phổ biến hơn.
+				- Tiền lương tỉnh theo sản phẩm là hình thức tiền lương mà số lượng của nó tuỳ thuộc vào số lượng, chất lượng sản phẩm được sản xuất, hoặc số lượng, chất lượng công việc mà người công nhân đã hoàn thành. Tiền lương tính theo sản phẩm áp dụng đối với những
