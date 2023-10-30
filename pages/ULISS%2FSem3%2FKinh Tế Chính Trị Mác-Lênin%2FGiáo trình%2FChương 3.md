@@ -183,15 +183,13 @@
 						- mà người lao động lại chỉ có sức lao động
 							- còn tư liệu sản xuất là của nhà tư bản.
 						- nếu người công nhân bán lao động tức là họ bán cả tư liệu sản xuất, những thứ không thuộc quyền sở hữu của họ
-					- Hai là, lao động là hàng hóa
-						- thì lao động sẽ phải có giá trị
+					- Hai là, lao động là hàng hóa thì lao động sẽ phải có giá trị
 						- mà giá trị lại chính là lao động kết tinh trong hàng hóa
 						- Như thế, giá trị của bằng hóa hai chúng sẽ là lao động
 							- đây là điều luẩn quẩn, vô nghĩa.
-					- Ba là, nếu lao động là hàng hóa và được bán theo đúng quy luật giá trị
+					- Ba là, nếu lao động là hàng hóa và được bán theo đúng quy luật giá trị thì nhà tư bản sẽ không thể có giá trị thặng dư
 						- tức là trao đổi ngang giá
-						- thì nhà tư bản sẽ không thể có giá trị thặng dư
-							- điều này không đúng với thực tế trong CNTB
+						- điều này không đúng với thực tế trong CNTB
 						- Nhưng nếu giải thích giá trị thặng dư mà nhà tư bản thu được là kết quả của việc mua rẻ hàng hóa lao động thì lại vi phạm quy luật giá trị.
 				- Trong phần trên khi bàn về hàng hóa sức lao động, một kết luận đã được rút ra là:
 					- lương trong và sự biểu hiện bằng tiền của tiền của sức lao động là giá cả sức lao động. Tiền lương không phải là giá cả lại động, vì dù lao động tạo ra giá trị hàng hoá nhưng bản thân nó lại không phải là hàng hoá nền không có giá trị và giá cả, không phải là đói tượng mua bán.
