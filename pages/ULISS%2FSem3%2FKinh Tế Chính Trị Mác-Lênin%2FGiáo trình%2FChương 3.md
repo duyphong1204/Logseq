@@ -221,4 +221,12 @@
 								- thời gian lao động càng dài
 									- kết quả lao động lại càng tốt
 									- tiền lương càng cao
-			-
+								- Điều đó càng làm cho người ta lầm tưởng tiền lương do lao động quyết định
+							- thứ tư
+								- đối với người công nhân thì lao động là phương tiện kiểm sống của họ, phái lao động mới được trả tiền. Do đó, hình như tiền lương trả cho hoạt động lao động của công nhân.
+							- Như vậy là, tiền lương đã che đậy kín đáo quan hệ bóc lột TBCN. Nó biểu hiện quan hệ bóc lột thành quan hệ “thuận mua vừa bán”, “tự do”, “bình đẳng” giữa lao động và tư bản; nó xoá mở ranh giới của sự phân chia ngày lao động thành thời gian lao động cần thiết và thời gian lao động thặng dư.
+							- Các hình thức cơ bản của tiền lương
+							- Trong cơ chế thị trường và trong chế độ TBCN, tiền lương thường được trả theo hai hình thức cơ bản: tiền lương tính theo thời gian và tiền lương tính theo sản phẩm.
+							- Tiền lương tỉnh theo thời gian là hình thức tiền lương mà số lượng của nó tuỳ thuộc vào thời gian lao động của công nhân. Đó là lương ngày, lương tuần, lương tháng, lượng năm. Tiền lương theo thời gian thường được áp dụng trong các công việc mà kết quả của lao động không tính được cụ thể, chẳng hạn lao động quản lý, lao động hành chính...
+							- Thực hành chế độ trả lương theo thời gian, đương nhiên nhà tư bản phải tăng cường quản lý người lao động cả về thời gian lao động. cũng như cường độ lao động. Do đó, trả lương theo thời gian vừa làm tăng chi phí quản lý; vừa gây phản ứng chống đối của người lao động. Vì thế, hình thức trả lương theo sản phẩm được sử dụng ngày càng phổ biến hơn.
+							- Tiền lương tỉnh theo sản phẩm là hình thức tiền lương mà số lượng của nó tuỳ thuộc vào số lượng, chất lượng sản phẩm được sản xuất, hoặc số lượng, chất lượng công việc mà người công nhân đã hoàn thành. Tiền lương tính theo sản phẩm áp dụng đối với những
