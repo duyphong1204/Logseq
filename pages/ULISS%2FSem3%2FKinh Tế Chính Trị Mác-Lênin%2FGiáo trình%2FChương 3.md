@@ -176,14 +176,15 @@
 					- từ đó, các nhà kinh tế cho rằng, số tiền lương đó là do chủ doanh nghiệp trả công cho lao động của công nhân, hay nói cách khác, tiền lương là giá cả của lao động.
 				- Trong CNTB người ta thường lầm tưởng rằng
 					- tiền lương là giá cả của lao động
-					- việc mua bán hoàn toàn tự nguyện, nhà tư bản không bóc lột công nhân. Song, biểu hiện bề ngoài đó không phản ánh được bản chất của tiền lương, che đậy bản chất thật sự của tiền lương, che dấu mối quan hệ giữa tư bản và lao động. Nếu coi tiền lương là giá cả của lao động sẽ dẫn đến hàng loạt những điều vô lý sau:
-				- Một là, lao động sẽ là hàng hóa
-					- nhưng lao động lại là sự kết hợp giữa sức lao động và tư liệu sản xuất
-					- mà người lao động lại chỉ có sức lao động
-						- còn tư liệu sản xuất là của nhà tư bản.
-					- nếu người công nhân bán lao động tức là họ bán cả tư liệu sản xuất, những thứ không thuộc quyền sở hữu của họ
-				- Hai là, lao động là hàng hóa thì lao động sẽ phải có giá trị. Mà giá trị lại chính là lao động kết tinh trong hàng hóa. Như thế, giá trị của bằng hóa hai chúng sẽ là lao động. Đây là điều luẩn quẩn, vô nghĩa.
-				- Ba là, nếu lao động là hàng hóa và được bán theo đúng quy luật giá trị, tức là trao đổi ngang giá thì nhà tư bản sẽ không thể có giá trị thặng dư. Điều này không đúng với thực tế trong CNTB. Nhưng nếu giải thích giá trị thặng dư mà nhà tư bản thu được là kết quả của việc mua rẻ hàng hóa lao động thì lại vi phạm quy luật giá trị. nghĩa
+					- việc mua bán hoàn toàn tự nguyện, nhà tư bản không bóc lột công nhân. Song, biểu hiện bề ngoài đó không phản ánh được bản chất của tiền lương, che đậy bản chất thật sự của tiền lương, che dấu mối quan hệ giữa tư bản và lao động.
+				- Nếu coi tiền lương là giá cả của lao động sẽ dẫn đến hàng loạt những điều vô lý sau:
+					- Một là, lao động sẽ là hàng hóa
+						- nhưng lao động lại là sự kết hợp giữa sức lao động và tư liệu sản xuất
+						- mà người lao động lại chỉ có sức lao động
+							- còn tư liệu sản xuất là của nhà tư bản.
+						- nếu người công nhân bán lao động tức là họ bán cả tư liệu sản xuất, những thứ không thuộc quyền sở hữu của họ
+					- Hai là, lao động là hàng hóa thì lao động sẽ phải có giá trị. Mà giá trị lại chính là lao động kết tinh trong hàng hóa. Như thế, giá trị của bằng hóa hai chúng sẽ là lao động. Đây là điều luẩn quẩn, vô nghĩa.
+					- Ba là, nếu lao động là hàng hóa và được bán theo đúng quy luật giá trị, tức là trao đổi ngang giá thì nhà tư bản sẽ không thể có giá trị thặng dư. Điều này không đúng với thực tế trong CNTB. Nhưng nếu giải thích giá trị thặng dư mà nhà tư bản thu được là kết quả của việc mua rẻ hàng hóa lao động thì lại vi phạm quy luật giá trị. nghĩa
 				- Trong phần trên khi bàn về hàng hóa sức lao động, một kết lúa đã được rất ra là tiên trong và sự biểu hiện bằng tiền của tiền của sức lao động là giá cả sức lao động. Tiền lương không phải là giá cả lại động, vì dù lao động tạo ra giá trị hàng hoá nhưng bản thân nó lại không phải là hàng hoá nền không có giá trị và giá cả, không phải là đói tượng mua bán.
 					- Như vậy, bản chất của tiền lương là giá cả của sức lao động nhưng nó lại được biểu hiện ra bên ngoài như là giá cả của lao động Sở dĩ như vậy là do:
 					- Thứ nhất, công nhân bản sức lao động cho nhà tư bản là bản khi năng lao động của mình, là cái không nhìn thấy được. Nhà tư bản mua sức lao động là mua quyền sử dụng nó trong một thời gian nhất định. (tức là công nhân phải lao động), mà việc sử dụng sức lao động có thể nhìn thấy được. Do đó, nhìn bề ngoài thì hình như nhà tư bản trả tiền. cho hoạt động lao động.
