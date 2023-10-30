@@ -200,7 +200,9 @@
 								- không phải là đói tượng mua bán.
 					- Như vậy, bản chất của tiền lương là giá cả của sức lao động nhưng nó lại được biểu hiện ra bên ngoài như là giá cả của lao động
 						- sở dĩ như vậy là do:
-							- thứ nhất, công nhân bản sức lao động cho nhà tư bản là bản khi năng lao động của mình, là cái không nhìn thấy được. Nhà tư bản mua sức lao động là mua quyền sử dụng nó trong một thời gian nhất định. (tức là công nhân phải lao động), mà việc sử dụng sức lao động có thể nhìn thấy được. Do đó, nhìn bề ngoài thì hình như nhà tư bản trả tiền. cho hoạt động lao động.
+							- thứ nhất, công nhân bản sức lao động cho nhà tư bản là bán khả năng lao động của mình
+								- là cái không nhìn thấy được.
+								- Nhà tư bản mua sức lao động là mua quyền sử dụng nó trong một thời gian nhất định. (tức là công nhân phải lao động), mà việc sử dụng sức lao động có thể nhìn thấy được. Do đó, nhìn bề ngoài thì hình như nhà tư bản trả tiền. cho hoạt động lao động.
 					- Thứ hai, nhà tư bản trả lương cho công nhân sau khi người công | nhận đã lao động. Điều đó làm cho không những nhà tư bản, mà ngày cả người công nhân cũng lầm tưởng tiền lương trả cho lao động.
 					- Thứ ba, tiền lương được trả theo thời gian làm việc (giờ, ngày, tuần, tháng) hoặc theo số lượng sản phẩm đã chế tạo ra. Thời gian lao
 			-
