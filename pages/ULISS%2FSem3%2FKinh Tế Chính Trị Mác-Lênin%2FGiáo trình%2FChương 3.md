@@ -213,6 +213,10 @@
 								- nhà tư bản trả lương cho công nhân
 									- sau khi người công nhân đã lao động
 								- Điều đó làm cho không những nhà tư bản, mà ngày cả người công nhân cũng lầm tưởng tiền lương trả cho lao động
-							- thứ ba\
-							- tiền lương được trả theo thời gian làm việc (giờ, ngày, tuần, tháng) hoặc theo số lượng sản phẩm đã chế tạo ra. Thời gian lao
+							- thứ ba
+								- tiền lương được trả theo
+									- thời gian làm việc
+										- (giờ, ngày, tuần, tháng)
+									- hoặc theo số lượng sản phẩm đã chế tạo ra.
+									- Thời gian lao động càng dài, kết quả lao động lại càng tốt, tiền lương càng cao
 			-
