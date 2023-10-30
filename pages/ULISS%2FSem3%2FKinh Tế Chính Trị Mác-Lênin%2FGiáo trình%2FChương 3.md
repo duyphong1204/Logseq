@@ -257,4 +257,8 @@
 								- vừa gây phản ứng chống đối của người lao động
 							- Vì thế, hình thức trả lương theo sản phẩm được sử dụng ngày càng phổ biến hơn
 					- tiền lương tính theo sản phẩm
-						- Tiền lương tỉnh theo sản phẩm là hình thức tiền lương mà số lượng của nó tuỳ thuộc vào số lượng, chất lượng sản phẩm được sản xuất, hoặc số lượng, chất lượng công việc mà người công nhân đã hoàn thành. Tiền lương tính theo sản phẩm áp dụng đối với những
+						- tiền lương tỉnh theo sản phẩm là
+							- hình thức tiền lương mà số lượng của nó tuỳ thuộc vào
+								- số lượng, chất lượng sản phẩm được sản xuất
+								- hoặc số lượng, chất lượng công việc mà người công nhân đã hoàn thành
+						- tiền lương tính theo sản phẩm áp dụng đối với những
