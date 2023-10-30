@@ -249,12 +249,12 @@
 								- chẳng hạn
 									- lao động quản lý
 									- lao động hành chính
-					- tiền lương tính theo sản phẩm
-						- thực hành chế độ trả lương theo thời gian, đương nhiên nhà tư bản phải
-							- tăng cường quản lý người lao động cả về thời gian lao động
-							- cũng như cường độ lao động
-						- do đó, trả lương theo thời gian vừa
-							- làm tăng chi phí quản lý
-							- gây phản ứng chống đối của người lao động
+							- thực hành chế độ trả lương theo thời gian, đương nhiên nhà tư bản phải
+								- tăng cường quản lý người lao động cả về thời gian lao động
+								- cũng như cường độ lao động
+							- do đó, trả lương theo thời gian
+								- vừa làm tăng chi phí quản lý
+								- vừa gây phản ứng chống đối của người lao động
 							- Vì thế, hình thức trả lương theo sản phẩm được sử dụng ngày càng phổ biến hơn
-				- Tiền lương tỉnh theo sản phẩm là hình thức tiền lương mà số lượng của nó tuỳ thuộc vào số lượng, chất lượng sản phẩm được sản xuất, hoặc số lượng, chất lượng công việc mà người công nhân đã hoàn thành. Tiền lương tính theo sản phẩm áp dụng đối với những
+					- tiền lương tính theo sản phẩm
+						- Tiền lương tỉnh theo sản phẩm là hình thức tiền lương mà số lượng của nó tuỳ thuộc vào số lượng, chất lượng sản phẩm được sản xuất, hoặc số lượng, chất lượng công việc mà người công nhân đã hoàn thành. Tiền lương tính theo sản phẩm áp dụng đối với những
