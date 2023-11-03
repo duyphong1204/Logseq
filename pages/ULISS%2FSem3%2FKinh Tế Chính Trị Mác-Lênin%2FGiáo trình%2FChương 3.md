@@ -1,6 +1,7 @@
 # Chương 3: Giá trị thặng dư trong nền kinh tế thị trường tư bản chủ nghĩa
 	- {{cloze chắc đành để số heading tạm như sách, vì mình cũng chưa biết sửa thành heading, không heading hay A, a hay gì, rồi khi nào thì nên có một page riêng, một chương hay một tiêu đề? dù nó cũng đều là block cả thôi}}
 	- ## 3.1. Sự chuyển hóa của tiền tệ thành tư bản
+	  collapsed:: true
 		- ### 3.1.1. Công thức chung của tư bản và mâu thuẫn của nó
 			- Tiền tệ
 			  collapsed:: true
