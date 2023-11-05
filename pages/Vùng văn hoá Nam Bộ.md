@@ -2,6 +2,7 @@ meta:: ((647fbd88-5a79-41c1-9860-08fe34cb9fb4)) (tr 282 - 294)
 ---
 
 - # Đặc điểm môi trường tự nhiên và xã hội văn hóa Nam Bộ
+  collapsed:: true
 	- ## Địa bàn
 		- Nam Bộ hôm nay là địa bàn thuộc lãnh thổ của các tỉnh
 			- Đồng Nai, Bình Dương, Bình Phước, Tây Ninh, Bà Rịa - Vũng Tàu thuộc miền Đông Nam Bộ
