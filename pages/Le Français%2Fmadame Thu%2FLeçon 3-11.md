@@ -1,2 +1,2 @@
 - des marionnettes sur l'eau
-- ça sert à
+- ça sert à ... = pour
