@@ -22,4 +22,5 @@ title:: Français/madame Thu
 	- [[Le Français/madame Thu/Leçon 12-8]]
 	- [[Le Français/madame Thu/Leçon 18-8]]
 	- [[Le Français/madame Thu/Leçon 29-9]]
+	- [ơ]
 -
