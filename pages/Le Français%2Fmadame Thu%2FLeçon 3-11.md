@@ -17,3 +17,8 @@
 - la cinquième
 - la sixième
 -
+- #+BEGIN_NOTE
+  9:31 cô Thu nói tiếng Pháp nghe hay vl
+  #+END_NOTE
+- piquer: đụng, châm chọc
+- la piqure
