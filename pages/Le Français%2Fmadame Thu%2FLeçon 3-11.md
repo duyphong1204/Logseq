@@ -31,5 +31,8 @@
 - en principe
 -
 - #+BEGIN_NOTE
-  học theo mode de même famille thì nghe hay nhưng mà đôi khi khó nhớ vì nó thiếu liên kết hoặc mình chưa cảm thấy đã form 
+  học theo mode de même famille thì nghe hay nhưng mà đôi khi khó nhớ vì nó thiếu liên kết hoặc mình chưa cảm thấy đã form được nếu mới học (tại từ nào trông cũng mới)
+  
+  chứ link với từ đã biết ở tiếng Anh
   #+END_NOTE
+-
