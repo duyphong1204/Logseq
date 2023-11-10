@@ -23,4 +23,5 @@
 - piquer: đụng, châm chọc
 - la piqûre: injection
 - la piment: ớt
-- piquant: cay
+- piquant: cay, lạnh thấu da
+-
