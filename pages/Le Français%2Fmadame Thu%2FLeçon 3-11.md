@@ -35,4 +35,8 @@
   
   chứ hiện tại nếu link với từ đã biết ở tiếng Anh nghe cảm giác vào ngay (hiểu) + dễ nhớ hơn
   #+END_NOTE
-- à côse de
+- à côse de l'humidité
+- surveiller
+- le surveillant (bác giám thị)
+-
+- PDG: president directeur
