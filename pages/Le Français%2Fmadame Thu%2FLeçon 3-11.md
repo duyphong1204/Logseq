@@ -44,3 +44,7 @@
 - le général Giap
 -
 - Tổng Bí Thư: secrétaire général
+-
+- matériel survieller
+-
+- attach
