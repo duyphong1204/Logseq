@@ -47,4 +47,8 @@
 -
 - matériel survieller
 -
-- attach
+- attacher la ceinture: thắt lưng buộc bụng
+-
+- abandon - abandonner = quitter
+- s'enfermer
+- tel père, tel fils
