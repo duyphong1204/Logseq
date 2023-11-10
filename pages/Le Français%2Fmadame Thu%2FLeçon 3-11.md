@@ -25,3 +25,5 @@
 - la piment: ớt
 - piquant: cay, lạnh thấu da
 -
+- du changement
+- du climat
