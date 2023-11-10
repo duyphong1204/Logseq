@@ -1,2 +1,0 @@
-- Questions pour donner ma professeure
-	- sont les mêmes? les?
