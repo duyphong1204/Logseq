@@ -30,4 +30,6 @@
 -
 - en principe
 -
--
+- #+BEGIN_NOTE
+  học theo mode de même famille thì nghe hay nhưng mà đôi khi khó nhớ vì nó thiếu liên kết hoặc mình chưa cảm thấy đã form 
+  #+END_NOTE
