@@ -6,3 +6,5 @@
 	- faire du français/mes études du français
 -
 - nous nous sommes reçu
+- la particularité de
+- la class à option li
