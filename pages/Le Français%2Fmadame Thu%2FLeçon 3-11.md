@@ -7,4 +7,10 @@
 -
 - nous nous sommes reçu
 - la particularité de
-- la class à option li
+- la class à option littéraire
+-
+- la terminal
+- la première
+- la seconde
+- la troisième
+- la quartième
