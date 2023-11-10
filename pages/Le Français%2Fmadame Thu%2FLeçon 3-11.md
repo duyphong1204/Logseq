@@ -51,4 +51,5 @@
 -
 - abandon - abandonner = quitter
 - s'enfermer
-- tel père, tel fils
+- tel père, tel fils!
+	- cha nào con đấy
