@@ -243,6 +243,7 @@
 						- tiền lương tính theo thời gian là
 							- hình thức tiền lương mà số lượng của nó tuỳ thuộc vào thời gian lao động của công nhân
 							- đó là
+							  collapsed:: true
 								- lương ngày
 								- lương tuần
 								- lương tháng
