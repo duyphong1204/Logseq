@@ -2,4 +2,7 @@
 - ça sert à ... = pour
 - elle être en liste de meilleur national
 - J'ai eu madame Thuy comme professeur de literature: đã học cô Thủy ba năm
-	- J
+	- J'ai appris le français avec madame Thu
+	- faire du français/mes études du français
+-
+- nous nous sommes reçu
