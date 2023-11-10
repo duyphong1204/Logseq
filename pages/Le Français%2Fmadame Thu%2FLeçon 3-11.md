@@ -33,6 +33,6 @@
 - #+BEGIN_NOTE
   học theo mode de même famille thì nghe hay nhưng mà đôi khi khó nhớ vì nó thiếu liên kết hoặc mình chưa cảm thấy đã form được nếu mới học (tại từ nào trông cũng mới)
   
-  chứ link với từ đã biết ở tiếng Anh
+  chứ hiện tại nếu link với từ đã biết ở tiếng Anh nghe cảm giác vào ngay (hiểu) + dễ nhớ hơn
   #+END_NOTE
--
+- à côse de
