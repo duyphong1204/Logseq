@@ -1,4 +1,5 @@
 - des marionnettes sur l'eau
 - ça sert à ... = pour
 - elle être en liste de meilleur national
--
+- J'ai eu madame Thuy comme professeur de literature: đã học cô Thủy ba năm
+	- J
