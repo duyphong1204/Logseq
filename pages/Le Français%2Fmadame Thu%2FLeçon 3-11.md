@@ -39,4 +39,8 @@
 - surveiller
 - le surveillant (bác giám thị)
 -
-- PDG: president directeur
+- PDG: president directeur général
+-
+- le général Giap
+-
+- Tổng Bí Thư: secrétaire général
