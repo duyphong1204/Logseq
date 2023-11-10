@@ -21,4 +21,6 @@
   9:31 cô Thu nói tiếng Pháp nghe hay vl
   #+END_NOTE
 - piquer: đụng, châm chọc
-- la piqure
+- la piqûre: injection
+- la piment: ớt
+- piquant: cay
