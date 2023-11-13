@@ -47,6 +47,6 @@ meta:: ![Luận án.pdf](../assets/Luận_án_1693192941555_0.pdf)
 			- 2.2. Hành vi ngôn ngữ của giáo sinh trong hội thoại dạy học
 				- 2.2.1. Hành vi phi lời
 				- 2.2.2. Hành vi ngôn ngữ được thực hiện bằng lời
-			- 2.3. Đặc điểm cấu trúc bƣớc thoại của giáo sinh và sự liên kết các hành
-			  vi ngôn ngữ trong bƣớc thoại
+			- 2.3. Đặc điểm cấu trúc bước thoại của giáo sinh và sự liên kết các hành
+			  vi ngôn ngữ trong bước thoại
 			- 2.4. Tiểu kết
