@@ -233,6 +233,7 @@
  :ui/show-full-blocks? true
  :editor/preferred-pasting-file? true
  :ui/auto-expand-block-refs? true
+ :file/name-format :triple-lowbar
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
