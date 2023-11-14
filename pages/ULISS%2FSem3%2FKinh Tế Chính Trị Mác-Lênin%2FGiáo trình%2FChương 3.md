@@ -174,6 +174,7 @@
 		- ### 3.2.3. Tiền lương trong nền kinh tế thị trường
 			- **Bản chất của tiền lương** {{cloze vấn đề khi dùng đến tận nhan đề thứ 4 là chữ nó còn nhỏ hơn cả nội dung, dùng Bold cũng được nhưng thế sau này bold nội dung để đọc nhanh thì có lẫn không. Cách cũ ở những bài đầu tiên làm theo kiểu này là bold, bold cả tiêu đề lớn, nó sẽ tạo nhiều lựa chọn hơn: nhan đề bold và không bold, tức gấp đôi số lựa chọn để không bao giờ gặp vấn đề nếu tài liệu chia quá nhỏ các ý. Một cách sai lầm hồi xưa là mình đã tách những phần này thành page riêng, không nên, vì dù thế tiện để giảm tiêu đề, nó lại mang ý nghĩa sánh ngang với các evergreen note trong khi nó chỉ là idea, data từ một tài liệu - kể cả nó có tổng hợp từ nhiều tài liệu, evergreen vẫn có tính chất rộng lớn hơn là page không bao giờ bị đóng băng, có thể liên tục sửa đổi để ăn thêm data theo thời gian. Chỉ sợ có ngày nó quá dài quá phức tạp :))) một bách khoa về chính một khái niệm}}
 				- Trong nền kinh tế thị trường và trong CNTB, sau một thời gian lao động cho chủ doanh nghiệp, người công nhân được nhận một số tiền nhất định, gọi là tiền lương
+				  collapsed:: true
 					- từ đó, các nhà kinh tế cho rằng, số tiền lương đó là do chủ doanh nghiệp trả công cho lao động của công nhân, hay nói cách khác, tiền lương là giá cả của lao động.
 				- Trong CNTB người ta thường lầm tưởng rằng
 				  collapsed:: true
@@ -182,59 +183,83 @@
 				- Nếu coi tiền lương là giá cả của lao động sẽ dẫn đến hàng loạt những điều vô lý sau:
 				  collapsed:: true
 					- Một là, lao động sẽ là hàng hóa
+					  collapsed:: true
 						- nhưng lao động lại là sự kết hợp giữa sức lao động và tư liệu sản xuất
 						- mà người lao động lại chỉ có sức lao động
+						  collapsed:: true
 							- còn tư liệu sản xuất là của nhà tư bản.
 						- nếu người công nhân bán lao động tức là họ bán cả tư liệu sản xuất, những thứ không thuộc quyền sở hữu của họ
 					- Hai là, lao động là hàng hóa thì lao động sẽ phải có giá trị
 					  collapsed:: true
 						- mà giá trị lại chính là lao động kết tinh trong hàng hóa
 						- Như thế, giá trị của bằng hóa hai chúng sẽ là lao động
+						  collapsed:: true
 							- đây là điều luẩn quẩn, vô nghĩa.
 					- Ba là, nếu lao động là hàng hóa và được bán theo đúng quy luật giá trị thì nhà tư bản sẽ không thể có giá trị thặng dư
+					  collapsed:: true
 						- tức là trao đổi ngang giá
 						- điều này không đúng với thực tế trong CNTB
 						- Nhưng nếu giải thích giá trị thặng dư mà nhà tư bản thu được là kết quả của việc mua rẻ hàng hóa lao động thì lại vi phạm quy luật giá trị.
 				- Trong phần trên khi bàn về hàng hóa sức lao động, một kết luận đã được rút ra là:
 				  collapsed:: true
 					- "Tiền lương trong và sự biểu hiện bằng tiền của tiền của sức lao động là giá cả sức lao động"
+					  collapsed:: true
 						- tiền lương không phải là giá cả lao động
+						  collapsed:: true
 							- vì dù lao động tạo ra giá trị hàng hoá
 							- nhưng bản thân nó lại không phải là hàng hoá
+							  collapsed:: true
 								- nên không có giá trị và giá cả
 								- không phải là đói tượng mua bán.
 					- Như vậy, bản chất của tiền lương là giá cả của sức lao động nhưng nó lại được biểu hiện ra bên ngoài như là giá cả của lao động
+					  collapsed:: true
 						- sở dĩ như vậy là do:
+						  collapsed:: true
 							- thứ nhất
+							  collapsed:: true
 								- công nhân bản sức lao động cho nhà tư bản
+								  collapsed:: true
 									- là bán khả năng lao động của mình
+									  collapsed:: true
 										- là cái không nhìn thấy được.
 								- nhà tư bản mua sức lao động
+								  collapsed:: true
 									- là mua quyền sử dụng nó trong một thời gian nhất định
+									  collapsed:: true
 										- tức là công nhân phải lao động
 									- mà việc sử dụng sức lao động có thể nhìn thấy được
 								- Do đó, nhìn bề ngoài thì hình như nhà tư bản trả tiền cho hoạt động lao động.
 							- thứ hai
+							  collapsed:: true
 								- nhà tư bản trả lương cho công nhân
+								  collapsed:: true
 									- sau khi người công nhân đã lao động
 								- Điều đó làm cho không những nhà tư bản, mà ngày cả người công nhân cũng lầm tưởng tiền lương trả cho lao động
 							- thứ ba
+							  collapsed:: true
 								- tiền lương được trả theo
+								  collapsed:: true
 									- thời gian làm việc
+									  collapsed:: true
 										- (giờ, ngày, tuần, tháng)
 									- hoặc theo số lượng sản phẩm đã chế tạo ra.
 								- thời gian lao động càng dài
+								  collapsed:: true
 									- kết quả lao động lại càng tốt
 									- tiền lương càng cao
 								- Điều đó càng làm cho người ta lầm tưởng tiền lương do lao động quyết định
 							- thứ tư
+							  collapsed:: true
 								- đối với người công nhân thì lao động là phương tiện kiểm sống của họ, phái lao động mới được trả tiền. Do đó, hình như tiền lương trả cho hoạt động lao động của công nhân.
 							- Như vậy là, tiền lương đã che đậy kín đáo quan hệ bóc lột TBCN
+							  collapsed:: true
 								- nó biểu hiện quan hệ bóc lột thành quan hệ
+								  collapsed:: true
 									- “thuận mua vừa bán”
 									- “tự do
 									- “bình đẳng” giữa lao động và tư bản
 								- nó xoá mờ ranh giới của sự phân chia ngày lao động thành
+								  collapsed:: true
 									- thời gian lao động cần thiết
 									- thời gian lao động thặng dư.
 			- **Các hình thức cơ bản của tiền lương**
@@ -243,26 +268,33 @@
 						- tiền lương tính theo thời gian là
 							- hình thức tiền lương mà số lượng của nó tuỳ thuộc vào thời gian lao động của công nhân
 							- đó là
-							  collapsed:: true
 								- lương ngày
 								- lương tuần
 								- lương tháng
 								- lượng năm
 						- Tiền lương theo thời gian thường được áp dụng
+						  collapsed:: true
 							- trong các công việc mà kết quả của lao động không tính được cụ thể,
+							  collapsed:: true
 								- chẳng hạn
+								  collapsed:: true
 									- lao động quản lý
 									- lao động hành chính
 							- thực hành chế độ trả lương theo thời gian, đương nhiên nhà tư bản phải
+							  collapsed:: true
 								- tăng cường quản lý người lao động cả về thời gian lao động
 								- cũng như cường độ lao động
 							- do đó, trả lương theo thời gian
+							  collapsed:: true
 								- vừa làm tăng chi phí quản lý
 								- vừa gây phản ứng chống đối của người lao động
 							- Vì thế, hình thức trả lương theo sản phẩm được sử dụng ngày càng phổ biến hơn
-					- tiền lương tính theo sản phẩm
+					- Tiền lương tính theo sản phẩm
+					  collapsed:: true
 						- tiền lương tỉnh theo sản phẩm là
+						  collapsed:: true
 							- hình thức tiền lương mà số lượng của nó tuỳ thuộc vào
+							  collapsed:: true
 								- số lượng, chất lượng sản phẩm được sản xuất
 								- hoặc số lượng, chất lượng công việc mà người công nhân đã hoàn thành
 						- tiền lương tính theo sản phẩm áp dụng đối với những
