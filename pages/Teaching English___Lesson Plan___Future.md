@@ -9,4 +9,7 @@
 		- Khẳng định
 			- will + V
 				- will là động từ khuyết thiếu không cần trợ động từ
-		-
+		- Phủ định
+			- will + not
+		- Nghi vấn
+			- will + S + V?
