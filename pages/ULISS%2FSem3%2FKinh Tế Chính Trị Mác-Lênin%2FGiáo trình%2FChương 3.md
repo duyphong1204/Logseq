@@ -264,7 +264,9 @@
 									- thời gian lao động thặng dư.
 			- **Các hình thức cơ bản của tiền lương**
 				- Trong cơ chế thị trường và trong chế độ TBCN, tiền lương thường được trả theo hai hình thức cơ bản:
+				  collapsed:: true
 					- Tiền lương tính theo thời gian
+					  collapsed:: true
 						- tiền lương tính theo thời gian là
 							- hình thức tiền lương mà số lượng của nó tuỳ thuộc vào thời gian lao động của công nhân
 							- đó là
