@@ -114,7 +114,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {:editor/escape-editing "ctrl+escape"}
+ :shortcuts {:editor/escape-editing "f12"}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
@@ -233,6 +233,7 @@
  :ui/show-full-blocks? true
  :editor/preferred-pasting-file? true
  :ui/auto-expand-block-refs? true
+ :file/name-format :triple-lowbar
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}

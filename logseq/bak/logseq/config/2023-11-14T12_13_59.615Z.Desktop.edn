@@ -210,7 +210,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["Le Français/Grammaire Frainçaise" "How to take dummy notes?"]
+ :favorites ["How to take dummy notes?"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -233,6 +233,7 @@
  :ui/show-full-blocks? true
  :editor/preferred-pasting-file? true
  :ui/auto-expand-block-refs? true
+ :file/name-format :triple-lowbar
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}

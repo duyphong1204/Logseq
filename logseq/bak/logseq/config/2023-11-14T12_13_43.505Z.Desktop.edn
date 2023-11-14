@@ -119,8 +119,6 @@
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
  :shortcut/doc-mode-enter-for-new-block? false
-
- :graph/re-index ["ctrl"]
  
  ;; Whether to show command doc on hover
  :ui/show-command-doc? true
@@ -232,9 +230,10 @@
  :graph/settings {:journal? true, :builtin-pages? true}
  :publishing/all-pages-public? true
  :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 0}, :checkbox {:counts 0}, :parentheses {:counts 0}, :command {:counts 0}, :calendar {:counts 0}, :paint {:counts 0}, :list {:counts 0}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 7}, :rotate {:counts 12}, :tag {:counts 0}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 0}}
- :ui/show-full-blocks? true
+ :ui/show-full-blocks? false
  :editor/preferred-pasting-file? true
  :ui/auto-expand-block-refs? true
+ :file/name-format :triple-lowbar
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
