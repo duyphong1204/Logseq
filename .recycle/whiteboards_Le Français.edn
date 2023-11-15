@@ -1,0 +1,436 @@
+{:blocks (
+{:block/content "[[Français/madame Thu/Leçon 1]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "646f5ef0-5c9a-496b-bd75-851448928a81"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-5c9a-496b-bd75-851448928a81"}
+:block/uuid #uuid "63fe1e12-9420-4a8e-b93a-5bc507bf8d65"} 
+{:block/content "[[Français/madame Thu/Leçon 12]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63fe1e12-c08b-4d54-907d-4eda1e8c15b7"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-5c9a-496b-bd75-851448928a81"}
+:block/uuid #uuid "63fe1e12-0fbe-41f4-813c-e927be259823"} 
+{:block/content "[[Français/madame Thu/Leçon 4]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63fe1e12-b80e-46b4-bfe3-9f5c2d776010"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-5c9a-496b-bd75-851448928a81"}
+:block/uuid #uuid "63fe1e12-eb3b-4f28-b606-063b141004ee"} 
+{:block/content "[[Français/madame Thu/Leçon 6]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63fe1e12-eb3b-4f28-b606-063b141004ee"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-5c9a-496b-bd75-851448928a81"}
+:block/uuid #uuid "63fe1e12-c08b-4d54-907d-4eda1e8c15b7"} 
+{:block/content "[[Français/madame Thu/Leçon 18]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63fe1e12-ee61-4dce-ad0d-9b2d742e1c2d"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-5c9a-496b-bd75-851448928a81"}
+:block/uuid #uuid "63fe1e12-aa12-4a43-8ce5-589fd41ebc87"} 
+{:block/content "[[Français/madame Thu/Leçon 3]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63fe1e12-9420-4a8e-b93a-5bc507bf8d65"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-5c9a-496b-bd75-851448928a81"}
+:block/uuid #uuid "63fe1e12-b80e-46b4-bfe3-9f5c2d776010"} 
+{:block/content "[[Français/madame Thu/Leçon 15]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63fe1e12-0fbe-41f4-813c-e927be259823"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-5c9a-496b-bd75-851448928a81"}
+:block/uuid #uuid "63fe1e12-1467-4878-828a-541325dc7ca9"} 
+{:block/content "[[Français/madame Thu/Leçon 16]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63fe1e12-1467-4878-828a-541325dc7ca9"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-5c9a-496b-bd75-851448928a81"}
+:block/uuid #uuid "63fe1e12-ee61-4dce-ad0d-9b2d742e1c2d"} 
+{:block/collapsed? false
+:block/content "Learning"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "646f5ef0-d979-43c6-a9c1-9a3e6dc20283"}
+:block/parent 
+{:block/uuid #uuid "647d1c1c-7470-4be4-85a8-fba4c911618b"}
+:block/uuid #uuid "63fe1e12-c20b-41a8-a21a-0f600815665a"} 
+{:block/content "[[Vocabulaire Français]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63fe1e12-c20b-41a8-a21a-0f600815665a"}
+:block/parent 
+{:block/uuid #uuid "647d1c1c-7470-4be4-85a8-fba4c911618b"}
+:block/uuid #uuid "64568b28-550a-4615-9464-406b046d48b3"} 
+{:block/content "Dùng collins tốt hơn vì hình thức nó tiện hơn (và ở sau còn có translation)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "646f5ef0-784b-4771-9cc6-efde67257b7d"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-784b-4771-9cc6-efde67257b7d"}
+:block/uuid #uuid "64568b28-2c7b-4258-ae52-c2007f15ae5f"} 
+{:block/content "![image.png](../assets/image_1668421943592_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64568b28-2c7b-4258-ae52-c2007f15ae5f"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-784b-4771-9cc6-efde67257b7d"}
+:block/uuid #uuid "64568b28-cb9d-4b69-b0bb-b6216c70d6ad"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64568b28-9078-4d66-8daa-b9eafcf1d218"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-784b-4771-9cc6-efde67257b7d"}
+:block/uuid #uuid "64568b28-836b-4bc1-a3db-dd9f540fe54d"} 
+{:block/content "![image.png](../assets/image_1668421968032_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64568b28-cb9d-4b69-b0bb-b6216c70d6ad"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-784b-4771-9cc6-efde67257b7d"}
+:block/uuid #uuid "64568b28-9078-4d66-8daa-b9eafcf1d218"} 
+{:block/content "[[Grammaire Frainçaise]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64568b28-550a-4615-9464-406b046d48b3"}
+:block/parent 
+{:block/uuid #uuid "647d1c1c-7470-4be4-85a8-fba4c911618b"}
+:block/uuid #uuid "64568b28-464d-486c-b18c-62e77a30c86a"} 
+{:block/content "[[Le Nouveau Taxi 1]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63fe1e12-c20b-41a8-a21a-0f600815665a"}
+:block/parent 
+{:block/uuid #uuid "63fe1e12-c20b-41a8-a21a-0f600815665a"}
+:block/uuid #uuid "6464f0d5-5f42-4382-8914-a833b8645be1"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 1]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464f702-579c-42d5-a634-4380d072cbf1"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 2]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464f702-579c-42d5-a634-4380d072cbf1"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464f7b3-880a-43bf-915d-3f4a2b22e8a9"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 3]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464f7b3-880a-43bf-915d-3f4a2b22e8a9"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464f8f0-e42c-4baa-a834-3d3f61d2b50f"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 4]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464f8f0-e42c-4baa-a834-3d3f61d2b50f"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fa2c-58fd-48a1-8421-14fe4956bd3d"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 5]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fa2c-58fd-48a1-8421-14fe4956bd3d"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fa33-6a3f-46b1-9198-781fc2ab67c2"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 6]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fa33-6a3f-46b1-9198-781fc2ab67c2"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fa34-fa29-49e7-b882-a51fe7ca60eb"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 7]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fa34-fa29-49e7-b882-a51fe7ca60eb"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fa34-3d13-435f-8fde-d28efd7ddaea"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 8]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fa34-3d13-435f-8fde-d28efd7ddaea"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fa34-5f5d-49dc-8856-ff3a1bf9dcb4"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 10]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "646f5ef0-486d-49ef-87f2-7aca728fee31"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fa3c-9e94-43dd-9bb2-e8142880b1f2"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 11]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fa3c-9e94-43dd-9bb2-e8142880b1f2"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fa3e-dc21-4919-a1d1-d116023b20df"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 12]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fa3e-dc21-4919-a1d1-d116023b20df"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fa41-e016-4076-9047-fa3fb1c05d75"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 13]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fa41-e016-4076-9047-fa3fb1c05d75"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fa42-4a27-4052-b657-8d9d1965b00e"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 14]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fa42-4a27-4052-b657-8d9d1965b00e"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fa42-e952-48ff-abd4-f7686963bb6d"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 15]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fa42-e952-48ff-abd4-f7686963bb6d"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fa43-88f6-46a0-b265-f1211207af97"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 16]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fa43-88f6-46a0-b265-f1211207af97"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fa43-66d8-4c41-a3f5-dc257aa8a790"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 17]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fa43-66d8-4c41-a3f5-dc257aa8a790"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fb68-36f1-49a6-b24d-721b57acd4b1"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 18]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fb68-36f1-49a6-b24d-721b57acd4b1"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fb72-450c-4a70-9440-d8d0200134f6"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 19]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fb72-450c-4a70-9440-d8d0200134f6"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fb73-d3fe-47aa-aadd-3d27eef47ecf"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 20]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fb73-d3fe-47aa-aadd-3d27eef47ecf"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "6464fb8a-8451-4511-af59-1139d1f8404d"} 
+{:block/content "[[ULISS/Sem2/Français B1]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/parent 
+{:block/uuid #uuid "63fe1e12-c20b-41a8-a21a-0f600815665a"}
+:block/uuid #uuid "6464fb95-1518-48c1-9b13-573897702fe4"} 
+{:block/content "[[ULISS/Sem2/Français B1/Leçon 1]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fb95-1518-48c1-9b13-573897702fe4"}
+:block/parent 
+{:block/uuid #uuid "6464fb95-1518-48c1-9b13-573897702fe4"}
+:block/uuid #uuid "6464fbc8-1869-49e7-ad9d-96b35618630b"} 
+{:block/content "[[ULISS/Sem2/Français B1/Leçon 2]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fbc8-1869-49e7-ad9d-96b35618630b"}
+:block/parent 
+{:block/uuid #uuid "6464fb95-1518-48c1-9b13-573897702fe4"}
+:block/uuid #uuid "6464fc28-3141-4fa2-9704-c99d9e61e1f5"} 
+{:block/content "[[ULISS/Sem2/Français B1/Leçon 3]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fc28-3141-4fa2-9704-c99d9e61e1f5"}
+:block/parent 
+{:block/uuid #uuid "6464fb95-1518-48c1-9b13-573897702fe4"}
+:block/uuid #uuid "6464fc98-caac-40dc-9fbc-cc183dc7826f"} 
+{:block/content "[[ULISS/Sem2/Français B1/Leçon 4]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fc98-caac-40dc-9fbc-cc183dc7826f"}
+:block/parent 
+{:block/uuid #uuid "6464fb95-1518-48c1-9b13-573897702fe4"}
+:block/uuid #uuid "6464fc99-e296-4a79-b6a1-9faa19eba1e7"} 
+{:block/content "[[ULISS/Sem2/Français B1/Leçon 5]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fc99-e296-4a79-b6a1-9faa19eba1e7"}
+:block/parent 
+{:block/uuid #uuid "6464fb95-1518-48c1-9b13-573897702fe4"}
+:block/uuid #uuid "6464fdfb-c9f5-4f4c-8b96-7f13708c736d"} 
+{:block/content "[[ULISS/Sem2/Français B1/Leçon 6]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fdfb-c9f5-4f4c-8b96-7f13708c736d"}
+:block/parent 
+{:block/uuid #uuid "6464fb95-1518-48c1-9b13-573897702fe4"}
+:block/uuid #uuid "6464fdfc-c835-4fbd-b0f1-d4647760b216"} 
+{:block/collapsed? true
+:block/content "Meta\ncollapsed:: true"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "97810ca0-032e-11ee-9bd8-09ab7ff7270e"}
+:block/parent 
+{:block/uuid #uuid "647d1c1c-7470-4be4-85a8-fba4c911618b"}
+:block/properties 
+{}
+:block/uuid #uuid "646f5ef0-d979-43c6-a9c1-9a3e6dc20283"} 
+{:block/content "[[Français/madame Thu/Leçon 19-5]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63fe1e12-aa12-4a43-8ce5-589fd41ebc87"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-5c9a-496b-bd75-851448928a81"}
+:block/uuid #uuid "646f5ef0-a30a-4cc0-8cf7-06c9a0e4e2b5"} 
+{:block/collapsed? false
+:block/content "[[Français/madame Thu]]\ncollapsed:: true"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464f0d5-5f42-4382-8914-a833b8645be1"}
+:block/parent 
+{:block/uuid #uuid "63fe1e12-c20b-41a8-a21a-0f600815665a"}
+:block/properties 
+{}
+:block/uuid #uuid "646f5ef0-5c9a-496b-bd75-851448928a81"} 
+{:block/content "[[ULISS/Sem1/Français B1/Leçon 9]]\n:LOGBOOK:\nCLOCK: [2023-05-17 Wed 23:00:54]\n:END:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6464fa34-5f5d-49dc-8856-ff3a1bf9dcb4"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"}
+:block/uuid #uuid "646f5ef0-486d-49ef-87f2-7aca728fee31"} 
+{:block/collapsed? false
+:block/content "[[ULISS/Sem1/Français B1]]\ncollapsed:: true"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "646f5ef0-5c9a-496b-bd75-851448928a81"}
+:block/parent 
+{:block/uuid #uuid "63fe1e12-c20b-41a8-a21a-0f600815665a"}
+:block/properties 
+{}
+:block/uuid #uuid "646f5ef0-97eb-4388-82f3-7c6c81f3df17"} 
+{:block/collapsed? true
+:block/content "Meta\ncollapsed:: true"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "646f5ef0-784b-4771-9cc6-efde67257b7d"}
+:block/parent 
+{:block/uuid #uuid "647d1c1c-7470-4be4-85a8-fba4c911618b"}
+:block/properties 
+{}
+:block/uuid #uuid "646f5ef0-16a4-40ea-aec5-00d76ee45234"} 
+{:block/content "related:: \n[[Ulis_Tiếng Pháp B1]] from ... to\n[[Français_madame Thu]] from ... to"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "646f5ef0-16a4-40ea-aec5-00d76ee45234"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-16a4-40ea-aec5-00d76ee45234"}
+:block/properties 
+{:related ""}
+:block/uuid #uuid "646f5ef0-6246-4aa5-ba57-1d184432628e"} 
+{:block/content "related:: \n[[ULIS _ Tiếng Pháp B1]] from ... to\n[[Français_madame Thu]] from ... to"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "646f5ef0-d979-43c6-a9c1-9a3e6dc20283"}
+:block/parent 
+{:block/uuid #uuid "646f5ef0-d979-43c6-a9c1-9a3e6dc20283"}
+:block/properties 
+{:related ""}
+:block/uuid #uuid "646f5ef0-d625-4b65-9d63-d2c1709ef452"} 
+{:block/collapsed? true
+:block/content "Dictionnaire\ncollapsed:: true"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64568b28-464d-486c-b18c-62e77a30c86a"}
+:block/parent 
+{:block/uuid #uuid "647d1c1c-7470-4be4-85a8-fba4c911618b"}
+:block/properties 
+{}
+:block/uuid #uuid "646f5ef0-784b-4771-9cc6-efde67257b7d"} 
+{:block/created-at 1685921640945
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 0
+:scale [1 1]
+:refs ["Français"]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [120 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "97810ca0-032e-11ee-9bd8-09ab7ff7270e"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [323.8900244140623 3786.699996948242]
+:lineHeight 1.2
+:fontSize 20
+:parentId "647d1c1c-7470-4be4-85a8-fba4c911618b"
+:nonce 1685920914052
+:italic false
+:text "Le Français"}}
+:block/updated-at 1685921640945} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "647d1c1c-7470-4be4-85a8-fba4c911618b"}
+:block/parent 
+{:block/uuid #uuid "647d1c1c-7470-4be4-85a8-fba4c911618b"}
+:block/properties 
+{}
+:block/uuid #uuid "647d1f73-bd3a-432e-bbe3-d8658e01856c"})
+:pages (
+{:block/uuid #uuid "647d1c1c-7470-4be4-85a8-fba4c911618b"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "647d1c1c-7470-4be4-85a8-fba4c911618b"
+:name "le français"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("97810ca0-032e-11ee-9bd8-09ab7ff7270e")}}
+:block/journal? false
+:block/updated-at 1685921640945
+:block/created-at 1685920796751
+:block/format :markdown
+:block/type "whiteboard"
+:block/name "le français"
+:block/original-name "Le Français"})}
