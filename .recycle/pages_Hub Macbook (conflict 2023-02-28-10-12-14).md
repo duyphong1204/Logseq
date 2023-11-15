@@ -1,0 +1,29 @@
+- Quà cho Nguyệt Minh Nam tiến
+	- multimedia thì chắc cần làm việc với nhiều loại dữ liệu, đầu nối nên là ưu tiên loại tích hợp?
+	- cũng chưa rõ hạn chế tích hợp là gì
+	- khó mua quá thì liên hệ shop miền Nam họ ship
+- Tôi luôn tò mò về các công ty phát triển mấy phụ kiện. Chúng thiết kế như dành riêng cho Apple, Mac vậy nhưng lại không thuộc về Apple. Kì, đây là cộng sinh ư?
+- iWalk
+- FeelTEK
+	- [Viet Nam](https://feeltek.vn/)
+- Ugreen
+	- Ugreen 60383
+- Hyperdrive
+- Mazer
+- Rapoo
+- Belkin
+- Baseus
+-
+- 8-10h là chọn xong
+- Mới đầu tự dưng thấy đề xuất [video này](https://www.youtube.com/watch?v=TM37YAXjq6g) trên youtube
+- Bởi hôm trước đi lướt qua 1 vòng những phụ kiện Macbook và hỏi nó
+- Trước đó nữa thì tìm thử xem Rmit student có đồ chơi gì đi kèm thú vị không.
+	- không gì nhiều lắm. check hết từ ins đến tiktok. Còn thực sự trong group ra sao thì tôi không rõ vì có được vào đâu
+		- ờ hay đấy, đi hỏi Lã để kiếm quà cho nó luôn
+	- nhưng tôi biết là sẽ liên quan nhiều công nghệ
+	- xong chợt nhớ ra Nminh dùng Mac. Thế thì dễ vì tôi nghe nói Mac thiếu nhiều thứ lắm. Cộng đồng mạng than trời lên vì thế mà
+	- Nhưng tôi nghĩ nó thiếu tính năng hoặc add-ins.
+	- Có thể thế, vì mọi thứ yêu cầu bản quyền. Khổ nỗi là Rmit bao trọn cái đó rồi mà mua nó được 1,2 tháng thì làm ăn nỗi gì
+- Trước đó tôi có nghĩ đến Tech vì dạo này tôi đam mê ổ cứng, mà mua ổ cứng cho nó thì có thể nó không dùng nhiều lắm, tôi nghĩ vậy, còn bọn nó thích thì tôi vẫn share cho 10TB được mà
+- Chỉ còn mấy cái như kê máy tính và hub. Tôi nghĩ đến kê máy tính đầu tiên, tìm thêm các accessory thì thấy có cả hub. Ừ cổng chuyển đổi cũng hay vì nó làm truyền thông, lại đang
+-
