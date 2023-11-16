@@ -8,4 +8,10 @@
 			- SWOT
 				- ![image.png](../assets/image_1700161699333_0.png)
 			- PESTEL (bản hoàn chỉnh của SWOT)
--
+- # Sharing
+	- Cách kiếm tiền của chị Aki:
+		- Không chen vào những brand lớn
+			- cạnh tranh nhiều
+				- chị Aki mệt, lười
+			- start up không có job lớn, chuyên nghiệp nhưng có tinh thần cải thiện
+				-
