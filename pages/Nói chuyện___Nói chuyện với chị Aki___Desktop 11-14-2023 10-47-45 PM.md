@@ -1,4 +1,6 @@
 - Theories & Concepts
-	- ![image.png](../assets/image_1700161699333_0.png)
-		- Micro: domestic
-		- Macro: global
+	- Micro: domestic
+	- Macro: global
+	- SWOT
+		- ![image.png](../assets/image_1700161699333_0.png)
+	- Pestel (bản hoàn chỉnh của SWOT)
