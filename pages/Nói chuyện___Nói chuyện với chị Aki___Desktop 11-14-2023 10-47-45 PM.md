@@ -13,5 +13,8 @@
 		- Không chen vào những brand lớn
 			- cạnh tranh nhiều
 				- chị Aki mệt, lười
-			- start up không có job lớn, chuyên nghiệp nhưng có tinh thần cải thiện
-				-
+			- khó có cơ hội chuyển mình
+				- bạn chị Aki phải đi in và xem người khác làm cả tháng
+		- Đi start up tuy không có job lớn, chuyên nghiệp nhưng người ta có tinh thần cải thiện, mình được thực chiến
+			- cũng dễ được trọng dụng
+			-
