@@ -1,1 +1,4 @@
-- ![image.png](../assets/image_1700161699333_0.png)
+- Theories & Concepts
+	- ![image.png](../assets/image_1700161699333_0.png)
+		- Micro: domestic
+		- Macro: global
