@@ -21,5 +21,5 @@
 			- cũng dễ được trọng dụng
 			-
 	- Điều kiện nhận việc của chị Aki
-		- Sản phẩm phải tốt
-		- Khách phải hiểu
+		- Sản phẩm phải có chất lượng tốt
+		- Khách phải hiểu những gì chị làm (tin tưởng)
