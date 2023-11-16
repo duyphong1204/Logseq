@@ -2,7 +2,9 @@
 	- ## Market Analysis
 		- Micro: domestic
 		- Macro: global
-		-
-		- SWOT
-			- ![image.png](../assets/image_1700161699333_0.png)
-	- PESTEL (bản hoàn chỉnh của SWOT)
+		- ### Purpose
+			- Vì phải hướng đến thị trường
+		- ### Framework
+			- SWOT
+				- ![image.png](../assets/image_1700161699333_0.png)
+			- PESTEL (bản hoàn chỉnh của SWOT)
