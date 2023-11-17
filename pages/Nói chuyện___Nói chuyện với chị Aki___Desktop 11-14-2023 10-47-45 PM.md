@@ -24,3 +24,4 @@
 		- Sản phẩm phải có chất lượng tốt
 		- Khách phải hiểu những gì chị làm (tin tưởng)
 - 1:27:22 dừng
+- /you
