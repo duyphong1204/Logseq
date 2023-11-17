@@ -14,7 +14,11 @@
 			- làm lại thương hiệu
 			- Segmentation
 			- Target
-			- D
+			- Differentation
+				- ví dụ
+					- Viettel "Nói theo cách của bạn"
+						- làm viễn thông
+						- thoải mái nói,
 			- Positioning
 - # Sharing & Question
 	- Cách kiếm tiền của chị Aki
