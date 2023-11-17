@@ -7,6 +7,9 @@
 		- ### Framework
 			- SWOT
 				- ![image.png](../assets/image_1700161699333_0.png)
+				- Opportunities là nắm được xu hướng thị trường, ảnh hưởng
+					- một số thứ nổi trên thế giới thì sau một thời gian sẽ đi về Việt Nam\
+				- P
 			- PESTEL (bản hoàn chỉnh của SWOT)
 			- P&L
 			- ROI
