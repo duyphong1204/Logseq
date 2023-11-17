@@ -35,7 +35,14 @@
 	- Tính cá nhân hóa
 		- ai cũng thích một sự kiện ấn tượng về mặt nội dung, cảm xúc, đặc biệt là ở những thứ chỉ một lần trong đời
 	- Ai giỏi cái gì chỉ nên làm cái đó
-		-
+		- Agency
+			- sáng tạo
+			- kết nối khách hàng với vender
+		- Account
+			- nói chuyện với khách hàng
+			-
+			- vị trí có thể
+		- Wedding Planner
 - # Cấu trúc
 	- ## Mẫu
 		- [Smartcom-IMC-brief-template-VN.docx](../assets/Smartcom-IMC-brief-template-VN_1700229372083_0.docx)
