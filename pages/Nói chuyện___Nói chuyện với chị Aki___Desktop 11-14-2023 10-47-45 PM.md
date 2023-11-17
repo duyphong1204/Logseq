@@ -34,6 +34,7 @@
 			- Market
 - # Sharing & Question
 	- Cách kiếm tiền của chị Aki
+	  collapsed:: true
 		- Không chen vào những brand lớn
 			- cạnh tranh nhiều
 				- chị Aki mệt, lười
@@ -43,12 +44,15 @@
 		- Đi start up tuy không có job lớn, chuyên nghiệp nhưng người ta có tinh thần cải thiện, mình được thực chiến
 			- cũng dễ được trọng dụng
 	- Điều kiện nhận việc của chị Aki
+	  collapsed:: true
 		- Sản phẩm phải có chất lượng tốt
 		- Khách phải hiểu những gì chị làm (tin tưởng)
 	- Cách khảo sát của chị Aki
+	  collapsed:: true
 		- Nói chuyện với nhiều người
 		- Đi đường thì quan sát, lưu trong đầu, khi nào cần mọi thứ tự nhảy ra
 	- Tư tưởng làm việc của chị Aki
+	  collapsed:: true
 		- Cái để thu hút được khách hàng là uy tín
 	- Có module trong học về event là cách làm bảng báo giá
 	- Tính cá nhân hóa
@@ -70,10 +74,12 @@
 		- Không gì là không biết, chỉ là chưa học thôi
 			- Dù chưa có kinh nghiệm nhiều, làm có thể chưa đủ tốt nhưng phải biết
 	- Ở các công ty làm event họ chấm rồi thăng chức như nào?
+	  collapsed:: true
 		- Event thành công thì sẽ có buổi review lại
 		- Người ta chấm theo quá trình
 	- Đi làm thì nên để ý kĩ mọi người để học hỏi
-	- Làm sao biết được phân tích của mình đúng hay sai
+	- Làm sao biết được phân tích của mình đúng hay sai?
+	  collapsed:: true
 		- Không biết
 		- Dựa trên số đông thôi
 		- Luôn đón nhận ý kiến khác góp ý
@@ -97,7 +103,7 @@
 - # Video
 	- {{video https://youtu.be/rZgrjj8Moz0}}
 - # Định hướng phân tích
-	- Theo thời gian rồi chia về các nhóm, hoặc đúng hơn là nhóm các liên kết với nhau chứ không chỉ folder theo từng khoảng thời gian, rồi với nhóm liên kết ngầm mà trong cuộc nói chuyện không thể hiện ra: Evergreen note
+	- Theo thời gian rồi chia về các nhóm, hoặc đúng hơn là nhóm các liên kết với nhau chứ không chỉ folder theo từng khoảng thời gian, rồi với nhóm liên kết ngầm mà trong cuộc nói chuyện không thể hiện ra: Evergreen note (tức phân tách ra rồi tái cấu trúc lại, tổng hợp chứ không tổng hợp bừa luôn)
 	- ## Những ví dụ dưới dạng câu chuyện về bản thân
 		- có thể có insight về dân Long Thành, về người như chị Aki
 	- ## Toàn cảnh về hai sự kiện
