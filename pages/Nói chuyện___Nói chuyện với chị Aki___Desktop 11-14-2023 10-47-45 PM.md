@@ -38,6 +38,7 @@ collapsed:: true
 - # Chú ý
 	- Phải giải thích kĩ, không tư duy nhảy bước
 		- vì 10 người đọc có thể diễn giải theo 10 ý
+		- viết chi tiết ra cũng là một ý để tư duy dựa trên mà nghĩ ra ý khác
 - # Video
 	- {{video https://youtu.be/rZgrjj8Moz0}}
 -
