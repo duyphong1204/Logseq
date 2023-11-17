@@ -12,6 +12,7 @@
 					- một số thứ nổi trên thế giới thì sau một thời gian sẽ đi về Việt Nam
 				- Challenges
 					- cách xác định là đi phân tích đối thủ của mình
+					- đối thủ mình có mà mình chưa có thì có thể học từ nó
 			- PESTEL (bản hoàn chỉnh của SWOT)
 			- P&L
 			- ROI
@@ -76,6 +77,7 @@
 		- Không biết
 		- Dựa trên số đông thôi
 		- Luôn đón nhận ý kiến khác góp ý
+	-
 - # Cấu trúc
 	- ## Mẫu
 		- [Smartcom-IMC-brief-template-VN.docx](../assets/Smartcom-IMC-brief-template-VN_1700229372083_0.docx)
