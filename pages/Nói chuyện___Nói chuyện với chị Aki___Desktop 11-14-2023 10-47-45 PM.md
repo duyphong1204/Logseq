@@ -12,6 +12,10 @@
 			- ROI
 		- STDP
 			- làm lại thương hiệu
+			- Segmentation
+			- Target
+			- D
+			- Positioning
 - # Sharing & Question
 	- Cách kiếm tiền của chị Aki
 	  collapsed:: true
