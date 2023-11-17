@@ -11,6 +11,7 @@
 			- P&L
 			- ROI
 		- STDP
+		  collapsed:: true
 			- làm lại thương hiệu
 			- Segmentation
 			- Target
@@ -21,6 +22,9 @@
 						- thoải mái nói
 						- bảo mật tốt
 			- Positioning
+		- Monopoly
+		- Market
+		-
 - # Sharing & Question
 	- Cách kiếm tiền của chị Aki
 		- Không chen vào những brand lớn
