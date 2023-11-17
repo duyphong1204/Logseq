@@ -40,9 +40,10 @@
 			- kết nối khách hàng với vender
 		- Account
 			- nói chuyện với khách hàng
-			-
-			- vị trí có thể
+			- truyền thông tin tới tất cả các bộ phận còn lại
+			- => vị trí có thể học lỏm được nhiều nhất
 		- Wedding Planner
+			- lo từ A -> Z
 - # Cấu trúc
 	- ## Mẫu
 		- [Smartcom-IMC-brief-template-VN.docx](../assets/Smartcom-IMC-brief-template-VN_1700229372083_0.docx)
