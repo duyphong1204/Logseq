@@ -67,6 +67,10 @@
 		- Event thành công thì sẽ có buổi review lại
 		- Người ta chấm theo quá trình
 	- Đi làm thì nên để ý kĩ mọi người để học hỏi
+	- Làm sao biết được phân tích của mình đúng hay sai
+		- Không biết
+		- Dựa trên số đông thôi
+		- Luôn đón nhận ý kiến khác góp ý
 - # Cấu trúc
 	- ## Mẫu
 		- [Smartcom-IMC-brief-template-VN.docx](../assets/Smartcom-IMC-brief-template-VN_1700229372083_0.docx)
