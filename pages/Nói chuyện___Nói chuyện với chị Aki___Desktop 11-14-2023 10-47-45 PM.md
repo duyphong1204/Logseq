@@ -75,11 +75,12 @@
 		- [Bai-cua-Phong-SWOT-fixed.docx](../assets/Bai-cua-Phong-SWOT-fixed_1700229350142_0.docx)
 		- ### Mục đích
 			- Bổ sung việc đứng cạnh nhau thì khách hàng có thể so sánh giá
-			-
 - # Chú ý
 	- Phải giải thích kĩ, không tư duy nhảy bước
 		- vì 10 người đọc có thể diễn giải theo 10 ý
 		- viết chi tiết ra cũng là một ý để tư duy dựa trên mà nghĩ ra ý khác
+			- dựa trên câu hỏi tại sao hoặc bộ câu hỏi 5W1H
+		-
 - # Video
 	- {{video https://youtu.be/rZgrjj8Moz0}}
 -
