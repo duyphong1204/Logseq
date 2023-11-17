@@ -1,5 +1,4 @@
 # Theories & Concepts
-collapsed:: true
 	- ## Market Analysis
 		- Micro: domestic
 		- Macro: global
@@ -9,6 +8,8 @@ collapsed:: true
 			- SWOT
 				- ![image.png](../assets/image_1700161699333_0.png)
 			- PESTEL (bản hoàn chỉnh của SWOT)
+			- P&L
+			- ROI
 - # Sharing
 	- Cách kiếm tiền của chị Aki
 	  collapsed:: true
