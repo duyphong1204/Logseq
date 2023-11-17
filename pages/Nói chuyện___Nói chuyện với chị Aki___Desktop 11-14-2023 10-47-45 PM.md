@@ -53,7 +53,8 @@
 		- Không gì là không biết, chỉ là chưa học thôi
 			- Dù chưa có kinh nghiệm nhiều, làm có thể chưa đủ tốt nhưng phải biết
 	- Ở các công ty làm event họ chấm rồi thăng chức như nào?
-		- Event thành công thì sẽ có buổi
+		- Event thành công thì sẽ có buổi review lại
+		- Người ta chấm theo quá trình
 - # Cấu trúc
 	- ## Mẫu
 		- [Smartcom-IMC-brief-template-VN.docx](../assets/Smartcom-IMC-brief-template-VN_1700229372083_0.docx)
