@@ -10,6 +10,7 @@
 			- PESTEL (bản hoàn chỉnh của SWOT)
 			- P&L
 			- ROI
+		- STDP
 - # Sharing & Question
 	- Cách kiếm tiền của chị Aki
 	  collapsed:: true
