@@ -29,12 +29,15 @@ collapsed:: true
 		- Nói chuyện với nhiều người
 		- Đi đường thì quan sát, lưu trong đầu, khi nào cần mọi thứ tự nhảy ra
 - # Cấu trúc
-	- Mẫu
+	- ## Mẫu
 		- [Smartcom-IMC-brief-template-VN.docx](../assets/Smartcom-IMC-brief-template-VN_1700229372083_0.docx)
-	- Bài làm
+	- ## Bài làm
 		- [Bai cua Phong SWOT.docx](../assets/Bai_cua_Phong_SWOT_1700229365619_0.docx)
-	- Bài chữa
+	- ## Bài chữa
 		- [Bai-cua-Phong-SWOT-fixed.docx](../assets/Bai-cua-Phong-SWOT-fixed_1700229350142_0.docx)
+		- ### Mục đích
+			- khi đứng cùng nhau
+			- Bổ sung việc đứng cạnh nhau thì khách hàng có thể so sánh giá
 - # Chú ý
 	- Phải giải thích kĩ, không tư duy nhảy bước
 		- vì 10 người đọc có thể diễn giải theo 10 ý
