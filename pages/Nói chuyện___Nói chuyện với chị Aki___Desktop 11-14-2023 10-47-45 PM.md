@@ -28,6 +28,8 @@ collapsed:: true
 	- Cách khảo sát của chị Aki
 		- Nói chuyện với nhiều người
 		- Đi đường thì quan sát, lưu trong đầu, khi nào cần mọi thứ tự nhảy ra
+	-
+	- Có module học là cách làm bảng báo giá
 - # Cấu trúc
 	- ## Mẫu
 		- [Smartcom-IMC-brief-template-VN.docx](../assets/Smartcom-IMC-brief-template-VN_1700229372083_0.docx)
