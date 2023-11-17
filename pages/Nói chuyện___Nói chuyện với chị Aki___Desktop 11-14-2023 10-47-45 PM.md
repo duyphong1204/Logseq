@@ -28,7 +28,8 @@ collapsed:: true
 	- Cách khảo sát của chị Aki
 		- Nói chuyện với nhiều người
 		- Đi đường thì quan sát, lưu trong đầu, khi nào cần mọi thứ tự nhảy ra
-	-
+	- Tư tưởng làm việc của chị Aki
+		- Cái để thu hút được khách hàng là uy tín
 	- Có module học là cách làm bảng báo giá
 - # Cấu trúc
 	- ## Mẫu
