@@ -1,4 +1,5 @@
 # Theories & Concepts
+collapsed:: true
 	- ## Market Analysis
 		- Micro: domestic
 		- Macro: global
