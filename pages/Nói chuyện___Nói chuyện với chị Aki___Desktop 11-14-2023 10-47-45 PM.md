@@ -27,14 +27,18 @@
 		- Sản phẩm phải có chất lượng tốt
 		- Khách phải hiểu những gì chị làm (tin tưởng)
 	- Cách khảo sát của chị Aki
+	  collapsed:: true
 		- Nói chuyện với nhiều người
 		- Đi đường thì quan sát, lưu trong đầu, khi nào cần mọi thứ tự nhảy ra
 	- Tư tưởng làm việc của chị Aki
+	  collapsed:: true
 		- Cái để thu hút được khách hàng là uy tín
 	- Có module trong học về event là cách làm bảng báo giá
 	- Tính cá nhân hóa
+	  collapsed:: true
 		- Ai cũng thích một sự kiện ấn tượng về mặt nội dung, cảm xúc, đặc biệt là ở những thứ chỉ một lần trong đời
 	- Ai giỏi cái gì chỉ nên làm cái đó
+	  collapsed:: true
 		- Agency
 			- sáng tạo
 			- kết nối khách hàng với vender
@@ -45,8 +49,10 @@
 		- Wedding Planner
 			- lo từ A -> Z
 	- Thái độ đi làm thực tập
+	  collapsed:: true
 		- Không gì là không biết, chỉ là chưa học thôi
 			- Dù chưa có kinh nghiệm nhiều, làm có thể chưa đủ tốt nhưng phải biết
+-
 - # Cấu trúc
 	- ## Mẫu
 		- [Smartcom-IMC-brief-template-VN.docx](../assets/Smartcom-IMC-brief-template-VN_1700229372083_0.docx)
