@@ -36,6 +36,8 @@ collapsed:: true
 	- Bài chữa
 		- [Bai-cua-Phong-SWOT-fixed.docx](../assets/Bai-cua-Phong-SWOT-fixed_1700229350142_0.docx)
 - # Chú ý
+	- Phải giải thích kĩ, không tư duy nhảy bước
+		- vì 10 người đọc có thể diễn giải theo 10 ý
 - # Video
 	- {{video https://youtu.be/rZgrjj8Moz0}}
 -
