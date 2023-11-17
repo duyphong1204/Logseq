@@ -31,9 +31,9 @@
 		- Đi đường thì quan sát, lưu trong đầu, khi nào cần mọi thứ tự nhảy ra
 	- Tư tưởng làm việc của chị Aki
 		- Cái để thu hút được khách hàng là uy tín
-	- Có module học là cách làm bảng báo giá
+	- Có module trong học về event là cách làm bảng báo giá
 	- Tính cá nhân hóa
-		- ai cũng thích một sự kiện ấn tượng về mặt nội dung, cảm xúc, đặc biệt là ở những thứ chỉ một lần trong đời
+		- Ai cũng thích một sự kiện ấn tượng về mặt nội dung, cảm xúc, đặc biệt là ở những thứ chỉ một lần trong đời
 	- Ai giỏi cái gì chỉ nên làm cái đó
 		- Agency
 			- sáng tạo
@@ -44,6 +44,9 @@
 			- => vị trí có thể học lỏm được nhiều nhất
 		- Wedding Planner
 			- lo từ A -> Z
+	- Thái độ đi làm thực tập
+		- Không gì là không biết
+		-
 - # Cấu trúc
 	- ## Mẫu
 		- [Smartcom-IMC-brief-template-VN.docx](../assets/Smartcom-IMC-brief-template-VN_1700229372083_0.docx)
