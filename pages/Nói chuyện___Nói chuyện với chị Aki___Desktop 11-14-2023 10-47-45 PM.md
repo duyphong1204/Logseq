@@ -45,8 +45,8 @@
 		- Wedding Planner
 			- lo từ A -> Z
 	- Thái độ đi làm thực tập
-		- Không gì là không biết
-		-
+		- Không gì là không biết, chỉ là chưa học thôi
+			- Dù chưa có kinh nghiệm nhiều, làm có thể chưa đủ tốt nhưng phải biết
 - # Cấu trúc
 	- ## Mẫu
 		- [Smartcom-IMC-brief-template-VN.docx](../assets/Smartcom-IMC-brief-template-VN_1700229372083_0.docx)
