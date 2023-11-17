@@ -77,7 +77,8 @@
 		- Không biết
 		- Dựa trên số đông thôi
 		- Luôn đón nhận ý kiến khác góp ý
-	-
+	- Tư duy sáng tạo nên là cởi mở, tận dụng những cái sẵn có và cứ thế phát triển lên
+		- không nên gắn mãi với tư tưởng nếu sao chép là đạo nhái, mà nó là cách học
 - # Cấu trúc
 	- ## Mẫu
 		- [Smartcom-IMC-brief-template-VN.docx](../assets/Smartcom-IMC-brief-template-VN_1700229372083_0.docx)
