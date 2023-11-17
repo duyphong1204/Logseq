@@ -22,9 +22,10 @@
 						- thoải mái nói
 						- bảo mật tốt
 			- Positioning
-		- Monopoly
-		- Market
-		-
+		- Trạng thái thị trường
+			- Monopoly
+			- Ologipoly
+			- Market
 - # Sharing & Question
 	- Cách kiếm tiền của chị Aki
 		- Không chen vào những brand lớn
