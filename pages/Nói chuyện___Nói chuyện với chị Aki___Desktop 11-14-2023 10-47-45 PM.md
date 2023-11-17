@@ -18,7 +18,8 @@
 				- ví dụ
 					- Viettel "Nói theo cách của bạn"
 						- làm viễn thông
-						- thoải mái nói,
+						- thoải mái nói
+						- bảo mật tốt
 			- Positioning
 - # Sharing & Question
 	- Cách kiếm tiền của chị Aki
