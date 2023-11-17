@@ -11,7 +11,7 @@
 			- P&L
 			- ROI
 		- STDP
-			-
+			- làm lại thương hiệu
 - # Sharing & Question
 	- Cách kiếm tiền của chị Aki
 	  collapsed:: true
