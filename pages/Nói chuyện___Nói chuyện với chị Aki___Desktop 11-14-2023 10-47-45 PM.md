@@ -21,12 +21,13 @@
 			- cũng dễ được trọng dụng
 			-
 	- Điều kiện nhận việc của chị Aki
+	  collapsed:: true
 		- Sản phẩm phải có chất lượng tốt
 		- Khách phải hiểu những gì chị làm (tin tưởng)
 	- Cách khảo sát của chị Aki
+	  collapsed:: true
 		- Nói chuyện với nhiều người
 		- Đi đường thì quan sát, lưu trong đầu, khi nào cần mọi thứ tự nhảy ra
-- 1:27:22 dừng
 - # Video
 	- {{video https://youtu.be/rZgrjj8Moz0}}
 -
