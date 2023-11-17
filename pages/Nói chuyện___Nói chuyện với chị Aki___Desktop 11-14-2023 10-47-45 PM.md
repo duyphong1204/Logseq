@@ -96,6 +96,10 @@
 		-
 - # Video
 	- {{video https://youtu.be/rZgrjj8Moz0}}
-- Định hướng phân tích
-- ## Những ví dụ dưới dạng câu chuyện về bản thân
-- ## Toàn cảnh về hai sự kiện
+- # Định hướng phân tích
+	-
+	- ## Những ví dụ dưới dạng câu chuyện về bản thân
+		- có thể có insight về dân Long Thành, về người như chị Aki
+	- ## Toàn cảnh về hai sự kiện
+		- nội dung chị kể
+		- ý tưởng chị góp ý thêm
