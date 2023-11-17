@@ -28,7 +28,9 @@ collapsed:: true
 	- Cách khảo sát của chị Aki
 		- Nói chuyện với nhiều người
 		- Đi đường thì quan sát, lưu trong đầu, khi nào cần mọi thứ tự nhảy ra
-		- # Cấu trúc mẫu
+- # Cấu trúc mẫu
+	- Bài làm
+	- Bài chữa
 - # Chú ý
 - # Video
 	- {{video https://youtu.be/rZgrjj8Moz0}}
