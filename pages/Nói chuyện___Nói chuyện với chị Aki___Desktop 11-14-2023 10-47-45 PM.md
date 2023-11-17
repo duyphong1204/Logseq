@@ -96,4 +96,6 @@
 		-
 - # Video
 	- {{video https://youtu.be/rZgrjj8Moz0}}
--
+- Định hướng phân tích
+- ## Những ví dụ dưới dạng câu chuyện về bản thân
+- ## Toàn cảnh về hai sự kiện
