@@ -94,4 +94,3 @@
 			- vì 10 người đọc có thể diễn giải theo 10 ý
 			- viết chi tiết ra cũng là một ý để tư duy dựa trên mà nghĩ ra ý khác
 				- dựa trên câu hỏi tại sao hoặc bộ câu hỏi 5W1H
-			-
