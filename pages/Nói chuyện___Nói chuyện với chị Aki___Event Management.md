@@ -7,7 +7,6 @@
 			- ### Purpose
 				- Vì phải hướng đến thị trường
 			- ### Framework
-			  collapsed:: true
 				- SWOT
 					- ![image.png](../assets/image_1700161699333_0.png)
 					- Opportunities
