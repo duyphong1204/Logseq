@@ -5,6 +5,7 @@
 		- ### Purpose
 			- Vì phải hướng đến thị trường
 		- ### Framework
+		  collapsed:: true
 			- SWOT
 				- ![image.png](../assets/image_1700161699333_0.png)
 				- Opportunities
@@ -16,22 +17,21 @@
 			- PESTEL (bản hoàn chỉnh của SWOT)
 			- P&L
 			- ROI
-		- STDP
-		  collapsed:: true
-			- làm lại thương hiệu
-			- Segmentation
-			- Target
-			- Differentation
-				- ví dụ
-					- Viettel "Nói theo cách của bạn"
-						- làm viễn thông
-						- thoải mái nói
-						- bảo mật tốt
-			- Positioning
-		- Trạng thái thị trường
-			- Monopoly
-			- Ologipoly
-			- Market
+			- STDP
+				- làm lại thương hiệu
+				- Segmentation
+				- Target
+				- Differentation
+					- ví dụ
+						- Viettel "Nói theo cách của bạn"
+							- làm viễn thông
+							- thoải mái nói
+							- bảo mật tốt
+				- Positioning
+			- Trạng thái thị trường
+				- Monopoly
+				- Ologipoly
+				- Market
 - # Sharing & Question
 	- Cách kiếm tiền của chị Aki
 	  collapsed:: true
