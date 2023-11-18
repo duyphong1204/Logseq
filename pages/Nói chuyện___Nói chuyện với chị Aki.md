@@ -1,2 +1,2 @@
-- [[Nói chuyện/Nói chuyện với chị Aki/SWOT]]
+- [[Nói chuyện/Nói chuyện với chị Aki/Event Management]]
 -
