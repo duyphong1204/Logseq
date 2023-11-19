@@ -174,7 +174,6 @@
 		- ### 3.2.3. Tiền lương trong nền kinh tế thị trường
 			- **Bản chất của tiền lương** {{cloze vấn đề khi dùng đến tận nhan đề thứ 4 là chữ nó còn nhỏ hơn cả nội dung, dùng Bold cũng được nhưng thế sau này bold nội dung để đọc nhanh thì có lẫn không. Cách cũ ở những bài đầu tiên làm theo kiểu này là bold, bold cả tiêu đề lớn, nó sẽ tạo nhiều lựa chọn hơn: nhan đề bold và không bold, tức gấp đôi số lựa chọn để không bao giờ gặp vấn đề nếu tài liệu chia quá nhỏ các ý. Một cách sai lầm hồi xưa là mình đã tách những phần này thành page riêng, không nên, vì dù thế tiện để giảm tiêu đề, nó lại mang ý nghĩa sánh ngang với các evergreen note trong khi nó chỉ là idea, data từ một tài liệu - kể cả nó có tổng hợp từ nhiều tài liệu, evergreen vẫn có tính chất rộng lớn hơn là page không bao giờ bị đóng băng, có thể liên tục sửa đổi để ăn thêm data theo thời gian. Chỉ sợ có ngày nó quá dài quá phức tạp :))) một bách khoa về chính một khái niệm}}
 				- Trong nền kinh tế thị trường và trong CNTB, sau một thời gian lao động cho chủ doanh nghiệp, người công nhân được nhận một số tiền nhất định, gọi là tiền lương
-				  collapsed:: true
 					- từ đó, các nhà kinh tế cho rằng, số tiền lương đó là do chủ doanh nghiệp trả công cho lao động của công nhân, hay nói cách khác, tiền lương là giá cả của lao động.
 				- Trong CNTB người ta thường lầm tưởng rằng
 				  collapsed:: true
@@ -201,9 +200,7 @@
 						- điều này không đúng với thực tế trong CNTB
 						- Nhưng nếu giải thích giá trị thặng dư mà nhà tư bản thu được là kết quả của việc mua rẻ hàng hóa lao động thì lại vi phạm quy luật giá trị.
 				- Trong phần trên khi bàn về hàng hóa sức lao động, một kết luận đã được rút ra là:
-				  collapsed:: true
 					- "Tiền lương trong và sự biểu hiện bằng tiền của tiền của sức lao động là giá cả sức lao động"
-					  collapsed:: true
 						- tiền lương không phải là giá cả lao động
 						  collapsed:: true
 							- vì dù lao động tạo ra giá trị hàng hoá
