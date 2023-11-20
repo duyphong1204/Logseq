@@ -1,6 +1,6 @@
 - import cowsay
 	- làm theo copilot, install choco mà không install cowsay được 05:54
-	- đang không import được
+	- đang không import được - không biết phải làm gì
 		- thử cài choco
 		- thử dùng anaconda
 		-
