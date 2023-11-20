@@ -4,8 +4,11 @@
 		- thử cài choco
 		- thử dùng anaconda
 		- Phải add path theo [video](https://www.youtube.com/watch?v=Jw_MuM2BOuI) này
-	- ```
+	- ```pip
 	  pip install cowsay
 	  ```
-- không import được gkeepapi
-	-
+- import gkeepapi
+	- tự code của Quả Cầu không có
+	- ```pip
+	  pip install gkeepapi
+	  ```
