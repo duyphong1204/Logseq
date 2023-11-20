@@ -12,3 +12,7 @@
 	- ```pip
 	  pip install gkeepapi
 	  ```
+- import ruamel.yaml
+- ```
+  pip install "ruamel.yaml<0.18.0"
+  ```
