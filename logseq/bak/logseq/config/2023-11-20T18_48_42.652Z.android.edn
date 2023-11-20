@@ -25,7 +25,7 @@
  :ui/enable-tooltip? true
 
  ;; Enable Block timestamp
- :feature/enable-block-timestamps? false
+ :feature/enable-block-timestamps? true
 
  ;; Enable remove accents when searching.
  ;; After toggle this option, please remember to rebuild your search index by press (cmd+c cmd+s).
@@ -36,7 +36,8 @@
 
  ;; Specify the date on which the week starts.
  ;; Goes from 0 to 6 (Monday to Sunday), default to 6
- :start-of-week 6
+ :start-of-week 0
+
 
  ;; Specify a custom CSS import
  ;; This option take precedence over your local `logseq/custom.css` file
@@ -118,7 +119,7 @@
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
  :shortcut/doc-mode-enter-for-new-block? false
-
+ 
  ;; Whether to show command doc on hover
  :ui/show-command-doc? true
 
@@ -185,7 +186,7 @@
  ;; (multiple lines) can be collapsed too. For example:
  ;; - block title
  ;;   block content
- :outliner/block-title-collapse-enabled? false
+ :outliner/block-title-collapse-enabled? true
 
  ;; Macros replace texts and will make you more productive.
  ;; For example:
@@ -270,4 +271,5 @@
  ;; :quick-capture-templates
  ;; {:text "[[quick capture]] **{time}**: {text} from {url}"
  ;;  :media "[[quick capture]] **{time}**: {url}"}
+ 
  }
