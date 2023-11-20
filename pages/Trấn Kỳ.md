@@ -4,4 +4,7 @@
 		- thử cài choco
 		- thử dùng anaconda
 		- Phải add path theo [video](https://www.youtube.com/watch?v=Jw_MuM2BOuI) này
-		-
+	- ```
+	  pip install cowsay
+	  ```
+	-
