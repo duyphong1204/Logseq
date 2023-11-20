@@ -1,1 +1,2 @@
 - import cowsay
+	- làm theo copilot, install choco mà không install cowsay được 05:54
