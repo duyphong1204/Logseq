@@ -3,5 +3,4 @@
 	- đang không import được - không biết phải làm gì
 		- thử cài choco
 		- thử dùng anaconda
-		- Phải add path theo video này
-			- {{video https://www.youtube.com/watch?v=Jw_MuM2BOuI}}
+		- Phải add path theo [video](https://www.youtube.com/watch?v=Jw_MuM2BOuI) này
