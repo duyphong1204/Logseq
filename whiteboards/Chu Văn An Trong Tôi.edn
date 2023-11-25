@@ -65,11 +65,13 @@
 :nonce 1700905799410
 :italic false}}
 :block/updated-at 1700906000421} 
-{:block/properties 
+{:block/created-at 1700906074190
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
 :stroke ""
+:rotation 0
 :borderRadius 0
 :index 3
 :scale [1 1]
@@ -85,14 +87,14 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [3128 520]
+:point [1840 568]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906001482
+:nonce 1700906002499
 :italic false
 :text "Chu Văn An trong tôi"}}
-:block/updated-at 1700906008255})
+:block/updated-at 1700906074190})
 :pages (
 {:block/uuid #uuid "6561c138-bd9e-41ad-9201-c6d18e672f76"
 :block/properties 
@@ -105,7 +107,7 @@
 :nonce 1
 :assets []
 :shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001" "77a19a80-8b78-11ee-98af-0b668d138f19")}}
-:block/updated-at 1700906008254
+:block/updated-at 1700906074189
 :block/created-at 1700905273000
 :block/type "whiteboard"
 :block/name "chu văn an trong tôi"
