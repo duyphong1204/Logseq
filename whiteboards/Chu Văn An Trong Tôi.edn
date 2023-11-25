@@ -387,7 +387,7 @@
 :italic false
 :text "Working Procedure"}}
 :block/updated-at 1700908674420} 
-{:block/created-at 1700909672433
+{:block/created-at 1700909707070
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -399,23 +399,23 @@
 :scaleLevel "xxl"
 :fill ""
 :type "text"
-:size [229 82]
+:size [239 82]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "fd2cf200-8b80-11ee-98af-0b668d138f19"
 :padding 4
-:fontWeight 400
+:fontWeight 700
 :noFill true
-:point [2456 1648]
+:point [2456 1656]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700909661504
+:nonce 1700909661536
 :italic false
 :text "License"}}
-:block/updated-at 1700909672433})
+:block/updated-at 1700909707070})
 :pages (
 {:block/uuid #uuid "6561c138-bd9e-41ad-9201-c6d18e672f76"
 :block/properties 
@@ -531,7 +531,7 @@
 :nonce 1
 :assets []
 :shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001" "77a19a80-8b78-11ee-98af-0b668d138f19" "d0918c40-8b78-11ee-98af-0b668d138f19" "d4f24e50-8b78-11ee-98af-0b668d138f19" "9bc53380-8b79-11ee-98af-0b668d138f19" "af33b812-8b79-11ee-98af-0b668d138f19" "b24e8ca2-8b79-11ee-98af-0b668d138f19" "47d30a50-8b7d-11ee-98af-0b668d138f19" "4ecf85e2-8b7d-11ee-98af-0b668d138f19" "52265202-8b7d-11ee-98af-0b668d138f19" "8c9baed0-8b7d-11ee-98af-0b668d138f19" "fd2cf200-8b80-11ee-98af-0b668d138f19")}}
-:block/updated-at 1700909672433
+:block/updated-at 1700909707070
 :block/created-at 1700905273000
 :block/type "whiteboard"
 :block/name "chu văn an trong tôi"
