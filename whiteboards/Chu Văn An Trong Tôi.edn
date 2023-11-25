@@ -95,7 +95,7 @@
 :italic false
 :text "Chu Văn An trong tôi"}}
 :block/updated-at 1700906112563} 
-{:block/created-at 1700906462912
+{:block/created-at 1700908047260
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -107,7 +107,7 @@
 :scaleLevel "xxl"
 :fill ""
 :type "text"
-:size [295 82]
+:size [419 82]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -120,10 +120,10 @@
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906150869
+:nonce 1700906150883
 :italic false
-:text "Làm phim"}}
-:block/updated-at 1700906462912} 
+:text "Movie Making"}}
+:block/updated-at 1700908047260} 
 {:block/created-at 1700906464611
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -185,7 +185,7 @@
 :italic false
 :text "Sustainability"}}
 :block/updated-at 1700907012659} 
-{:block/created-at 1700906554663
+{:block/created-at 1700908046338
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -202,7 +202,7 @@
 :id "af33b812-8b79-11ee-98af-0b668d138f19"
 :fontWeight 400
 :noFill true
-:point [809.27 -1034]
+:point [869.62 -1034]
 :fontSize 32
 :handles 
 {:start 
@@ -213,14 +213,14 @@
 :end 
 {:id "end"
 :canBind true
-:point [1338.92 0]
+:point [1280.62 0]
 :bindingId "af33b811-8b79-11ee-98af-0b668d138f19"}}
 :decorations 
 {:end "arrow"}
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906524316
+:nonce 1700906524328
 :italic false}}
-:block/updated-at 1700906554663} 
+:block/updated-at 1700908046338} 
 {:block/created-at 1700906558140
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -316,7 +316,7 @@
 :nonce 1
 :assets []
 :shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001" "77a19a80-8b78-11ee-98af-0b668d138f19" "d0918c40-8b78-11ee-98af-0b668d138f19" "d4f24e50-8b78-11ee-98af-0b668d138f19" "9bc53380-8b79-11ee-98af-0b668d138f19" "af33b812-8b79-11ee-98af-0b668d138f19" "b24e8ca2-8b79-11ee-98af-0b668d138f19")}}
-:block/updated-at 1700907012670
+:block/updated-at 1700908049497
 :block/created-at 1700905273000
 :block/type "whiteboard"
 :block/name "chu văn an trong tôi"
