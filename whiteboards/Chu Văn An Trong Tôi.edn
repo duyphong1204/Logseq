@@ -164,7 +164,7 @@
 :borderRadius 0
 :index 6
 :scale [1 1]
-:refs ["CVATT\\Sustainability"]
+:refs ["CVATT/Sustainability"]
 :scaleLevel "xxl"
 :fill ""
 :type "text"
@@ -357,7 +357,7 @@
 :nonce 1700908086197
 :italic false}}
 :block/updated-at 1700908117009} 
-{:block/created-at 1700908233774
+{:block/created-at 1700908240155
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -378,14 +378,14 @@
 :padding 4
 :fontWeight 700
 :noFill true
-:point [1928 1808]
+:point [1136 1648]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700908184278
+:nonce 1700908184354
 :italic false
 :text "Working Culture"}}
-:block/updated-at 1700908233774})
+:block/updated-at 1700908240155})
 :pages (
 {:block/uuid #uuid "6561c138-bd9e-41ad-9201-c6d18e672f76"
 :block/properties 
@@ -501,7 +501,7 @@
 :nonce 1
 :assets []
 :shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001" "77a19a80-8b78-11ee-98af-0b668d138f19" "d0918c40-8b78-11ee-98af-0b668d138f19" "d4f24e50-8b78-11ee-98af-0b668d138f19" "9bc53380-8b79-11ee-98af-0b668d138f19" "af33b812-8b79-11ee-98af-0b668d138f19" "b24e8ca2-8b79-11ee-98af-0b668d138f19" "47d30a50-8b7d-11ee-98af-0b668d138f19" "4ecf85e2-8b7d-11ee-98af-0b668d138f19" "52265202-8b7d-11ee-98af-0b668d138f19" "8c9baed0-8b7d-11ee-98af-0b668d138f19")}}
-:block/updated-at 1700908233774
+:block/updated-at 1700908240155
 :block/created-at 1700905273000
 :block/type "whiteboard"
 :block/name "chu văn an trong tôi"
