@@ -13,4 +13,6 @@
 		- Các ban ngành tự phân công công việc nội bộ và thứ tự
 		-
 - Procedure
+	- Sẽ có nhiều bên đảm nhận từng việc riêng rồi ăn khớp với nhau (nhưng các bên nên chặt chẽ và bọc hậu được nhau vì con người không chỉ chuyên gia ở một lĩnh vực mà đôi khi họ nằm ở ranh giới của chúng)
+	- Vẫn khuyến khích nếu muốn thử việc mới hơn là làm chuyên môn hoặc thi thoảng chán quá đá ban, hoặc làm việc gì đó
 	-
