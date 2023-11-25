@@ -95,7 +95,7 @@
 :italic false
 :text "Chu Văn An trong tôi"}}
 :block/updated-at 1700906112563} 
-{:block/created-at 1700906174451
+{:block/created-at 1700906462912
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -116,27 +116,28 @@
 :padding 4
 :fontWeight 700
 :noFill true
-:point [872 472]
+:point [624 456]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906150751
+:nonce 1700906150869
 :italic false
 :text "Làm phim"}}
-:block/updated-at 1700906174451} 
-{:block/created-at 1700906176653
+:block/updated-at 1700906462912} 
+{:block/created-at 1700906464611
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:isSizeLocked true
+{:isSizeLocked false
 :stroke ""
+:rotation 0
 :borderRadius 0
 :index 5
 :scale [1 1]
 :scaleLevel "xxl"
 :fill ""
 :type "text"
-:size [514 82]
+:size [616 96]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -145,14 +146,14 @@
 :padding 4
 :fontWeight 700
 :noFill true
-:point [3104 448]
+:point [3224 456]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906158111
+:nonce 1700906158185
 :italic false
 :text "Phát triển trường"}}
-:block/updated-at 1700906176653})
+:block/updated-at 1700906464611})
 :pages (
 {:block/uuid #uuid "6561c138-bd9e-41ad-9201-c6d18e672f76"
 :block/properties 
@@ -165,7 +166,7 @@
 :nonce 1
 :assets []
 :shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001" "77a19a80-8b78-11ee-98af-0b668d138f19" "d0918c40-8b78-11ee-98af-0b668d138f19" "d4f24e50-8b78-11ee-98af-0b668d138f19")}}
-:block/updated-at 1700906176653
+:block/updated-at 1700906464611
 :block/created-at 1700905273000
 :block/type "whiteboard"
 :block/name "chu văn an trong tôi"
