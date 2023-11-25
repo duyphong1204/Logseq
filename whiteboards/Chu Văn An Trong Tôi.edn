@@ -41,15 +41,15 @@
 :nonce 1700905424155
 :isComplete true}}
 :block/updated-at 1700905450016} 
-{:block/created-at 1700906000421
+{:block/created-at 1700906129685
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:stroke ""
+{:stroke "red"
 :index 2
 :scale [1 1]
 :scaleLevel "xxl"
-:fill ""
+:fill "red"
 :type "ellipse"
 :size [1321.6198120117185 1321.6198120117185]
 :strokeType "line"
@@ -62,10 +62,10 @@
 :point [1488 -40]
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700905799410
+:nonce 1700905799413
 :italic false}}
-:block/updated-at 1700906000421} 
-{:block/created-at 1700906074190
+:block/updated-at 1700906129685} 
+{:block/created-at 1700906112563
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -78,23 +78,23 @@
 :scaleLevel "xxl"
 :fill ""
 :type "text"
-:size [597 82]
+:size [617 82]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "77a19a80-8b78-11ee-98af-0b668d138f19"
 :padding 4
-:fontWeight 400
+:fontWeight 700
 :noFill true
-:point [1840 568]
+:point [1832 576]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906002499
+:nonce 1700906003359
 :italic false
 :text "Chu Văn An trong tôi"}}
-:block/updated-at 1700906074190})
+:block/updated-at 1700906112563})
 :pages (
 {:block/uuid #uuid "6561c138-bd9e-41ad-9201-c6d18e672f76"
 :block/properties 
@@ -107,7 +107,7 @@
 :nonce 1
 :assets []
 :shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001" "77a19a80-8b78-11ee-98af-0b668d138f19")}}
-:block/updated-at 1700906074189
+:block/updated-at 1700906129685
 :block/created-at 1700905273000
 :block/type "whiteboard"
 :block/name "chu văn an trong tôi"
