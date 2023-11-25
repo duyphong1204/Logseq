@@ -124,11 +124,11 @@
 :italic false
 :text "Movie Making"}}
 :block/updated-at 1700908047260} 
-{:block/created-at 1700906464611
+{:block/created-at 1700908062709
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:isSizeLocked false
+{:isSizeLocked true
 :stroke ""
 :rotation 0
 :borderRadius 0
@@ -137,7 +137,7 @@
 :scaleLevel "xxl"
 :fill ""
 :type "text"
-:size [616 96]
+:size [558 82]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -150,10 +150,10 @@
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906158185
+:nonce 1700906158214
 :italic false
-:text "Phát triển trường"}}
-:block/updated-at 1700906464611} 
+:text "School Developing"}}
+:block/updated-at 1700908062709} 
 {:block/created-at 1700907012659
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -221,7 +221,7 @@
 :nonce 1700906524328
 :italic false}}
 :block/updated-at 1700908046338} 
-{:block/created-at 1700906558140
+{:block/created-at 1700908062801
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -238,13 +238,13 @@
 :id "b24e8ca2-8b79-11ee-98af-0b668d138f19"
 :fontWeight 400
 :noFill true
-:point [2187.11 -1034]
+:point [2186.4 -1034]
 :fontSize 32
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [1302.04 1489]
+:point [1280.48 1489]
 :bindingId "b24e8ca0-8b79-11ee-98af-0b668d138f19"}
 :end 
 {:id "end"
@@ -254,9 +254,109 @@
 :decorations 
 {:end "arrow"}
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906529571
+:nonce 1700906529572
 :italic false}}
-:block/updated-at 1700906558140})
+:block/updated-at 1700908062801} 
+{:block/created-at 1700908111456
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 9
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "text"
+:size [204 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "47d30a50-8b7d-11ee-98af-0b668d138f19"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [1344 -832]
+:lineHeight 1.2
+:fontSize 60
+:parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
+:nonce 1700908068826
+:italic false
+:text "Health"}}
+:block/updated-at 1700908111456} 
+{:block/created-at 1700908111455
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "4ecf85e2-8b7d-11ee-98af-0b668d138f19"
+:fontWeight 400
+:noFill true
+:point [1463.33 -746]
+:fontSize 32
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [1992.67 1194]}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "4ecf85e1-8b7d-11ee-98af-0b668d138f19"}}
+:decorations 
+{:end "arrow"}
+:parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
+:nonce 1700908080550
+:italic false}}
+:block/updated-at 1700908111455} 
+{:block/created-at 1700908111456
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "52265202-8b7d-11ee-98af-0b668d138f19"
+:fontWeight 400
+:noFill true
+:point [854.81 -746]
+:fontSize 32
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 1201]
+:bindingId "52265200-8b7d-11ee-98af-0b668d138f19"}
+:end 
+{:id "end"
+:canBind true
+:point [609.39 0]
+:bindingId "52265201-8b7d-11ee-98af-0b668d138f19"}}
+:decorations 
+{:end "arrow"}
+:parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
+:nonce 1700908086190
+:italic false}}
+:block/updated-at 1700908111456})
 :pages (
 {:block/uuid #uuid "6561c138-bd9e-41ad-9201-c6d18e672f76"
 :block/properties 
@@ -265,10 +365,18 @@
 {:id "6561c138-bd9e-41ad-9201-c6d18e672f76"
 :name "chu văn an trong tôi"
 :bindings 
-{:af33b810-8b79-11ee-98af-0b668d138f19 
-{:id "af33b810-8b79-11ee-98af-0b668d138f19"
+{:b79568f1-8b79-11ee-98af-0b668d138f19 
+{:id "b79568f1-8b79-11ee-98af-0b668d138f19"
 :type "line"
-:fromId "af33b812-8b79-11ee-98af-0b668d138f19"
+:fromId "b24e8ca2-8b79-11ee-98af-0b668d138f19"
+:toId "9bc53380-8b79-11ee-98af-0b668d138f19"
+:handleId "end"
+:point [0.41 0.46]
+:distance 4}
+:52265200-8b7d-11ee-98af-0b668d138f19 
+{:id "52265200-8b7d-11ee-98af-0b668d138f19"
+:type "line"
+:fromId "52265202-8b7d-11ee-98af-0b668d138f19"
 :toId "d0918c40-8b78-11ee-98af-0b668d138f19"
 :handleId "start"
 :point [0.5 0.5]
@@ -281,6 +389,14 @@
 :handleId "end"
 :point [0.53 0.42]
 :distance 4}
+:4ecf85e1-8b7d-11ee-98af-0b668d138f19 
+{:id "4ecf85e1-8b7d-11ee-98af-0b668d138f19"
+:type "line"
+:fromId "4ecf85e2-8b7d-11ee-98af-0b668d138f19"
+:toId "47d30a50-8b7d-11ee-98af-0b668d138f19"
+:handleId "end"
+:point [0.27 0.56]
+:distance 4}
 :b24e8ca0-8b79-11ee-98af-0b668d138f19 
 {:id "b24e8ca0-8b79-11ee-98af-0b668d138f19"
 :type "line"
@@ -288,14 +404,6 @@
 :toId "d4f24e50-8b78-11ee-98af-0b668d138f19"
 :handleId "start"
 :point [0.5 0.5]
-:distance 4}
-:b24e8ca1-8b79-11ee-98af-0b668d138f19 
-{:id "b24e8ca1-8b79-11ee-98af-0b668d138f19"
-:type "line"
-:fromId "b24e8ca2-8b79-11ee-98af-0b668d138f19"
-:toId "9bc53380-8b79-11ee-98af-0b668d138f19"
-:handleId "end"
-:point [0.32 0.47]
 :distance 4}
 :b65261a1-8b79-11ee-98af-0b668d138f19 
 {:id "b65261a1-8b79-11ee-98af-0b668d138f19"
@@ -305,18 +413,34 @@
 :handleId "end"
 :point [0.42 0.47]
 :distance 4}
-:b79568f1-8b79-11ee-98af-0b668d138f19 
-{:id "b79568f1-8b79-11ee-98af-0b668d138f19"
+:b24e8ca1-8b79-11ee-98af-0b668d138f19 
+{:id "b24e8ca1-8b79-11ee-98af-0b668d138f19"
 :type "line"
 :fromId "b24e8ca2-8b79-11ee-98af-0b668d138f19"
 :toId "9bc53380-8b79-11ee-98af-0b668d138f19"
 :handleId "end"
-:point [0.41 0.46]
+:point [0.32 0.47]
+:distance 4}
+:52265201-8b7d-11ee-98af-0b668d138f19 
+{:id "52265201-8b7d-11ee-98af-0b668d138f19"
+:type "line"
+:fromId "52265202-8b7d-11ee-98af-0b668d138f19"
+:toId "47d30a50-8b7d-11ee-98af-0b668d138f19"
+:handleId "end"
+:point [0.7 0.47]
+:distance 4}
+:af33b810-8b79-11ee-98af-0b668d138f19 
+{:id "af33b810-8b79-11ee-98af-0b668d138f19"
+:type "line"
+:fromId "af33b812-8b79-11ee-98af-0b668d138f19"
+:toId "d0918c40-8b78-11ee-98af-0b668d138f19"
+:handleId "start"
+:point [0.5 0.5]
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001" "77a19a80-8b78-11ee-98af-0b668d138f19" "d0918c40-8b78-11ee-98af-0b668d138f19" "d4f24e50-8b78-11ee-98af-0b668d138f19" "9bc53380-8b79-11ee-98af-0b668d138f19" "af33b812-8b79-11ee-98af-0b668d138f19" "b24e8ca2-8b79-11ee-98af-0b668d138f19")}}
-:block/updated-at 1700908049497
+:shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001" "77a19a80-8b78-11ee-98af-0b668d138f19" "d0918c40-8b78-11ee-98af-0b668d138f19" "d4f24e50-8b78-11ee-98af-0b668d138f19" "9bc53380-8b79-11ee-98af-0b668d138f19" "af33b812-8b79-11ee-98af-0b668d138f19" "b24e8ca2-8b79-11ee-98af-0b668d138f19" "47d30a50-8b7d-11ee-98af-0b668d138f19" "4ecf85e2-8b7d-11ee-98af-0b668d138f19" "52265202-8b7d-11ee-98af-0b668d138f19")}}
+:block/updated-at 1700908111455
 :block/created-at 1700905273000
 :block/type "whiteboard"
 :block/name "chu văn an trong tôi"
