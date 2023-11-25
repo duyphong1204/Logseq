@@ -184,14 +184,14 @@
 :italic false
 :text "Sustainability"}}
 :block/updated-at 1700906520959} 
-{:block/created-at 1700906532562
+{:block/created-at 1700906554663
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
 :index 7
 :scale [1 1]
-:scaleLevel "xxl"
+:scaleLevel "lg"
 :fill ""
 :type "line"
 :strokeType "line"
@@ -202,7 +202,7 @@
 :fontWeight 400
 :noFill true
 :point [809.27 -1034]
-:fontSize 20
+:fontSize 32
 :handles 
 {:start 
 {:id "start"
@@ -217,17 +217,17 @@
 :decorations 
 {:end "arrow"}
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906524315
+:nonce 1700906524316
 :italic false}}
-:block/updated-at 1700906532562} 
-{:block/created-at 1700906538532
+:block/updated-at 1700906554663} 
+{:block/created-at 1700906558140
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
 :index 8
 :scale [1 1]
-:scaleLevel "xxl"
+:scaleLevel "lg"
 :fill ""
 :type "line"
 :strokeType "line"
@@ -238,7 +238,7 @@
 :fontWeight 400
 :noFill true
 :point [2187.11 -1034]
-:fontSize 20
+:fontSize 32
 :handles 
 {:start 
 {:id "start"
@@ -253,9 +253,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906529568
+:nonce 1700906529571
 :italic false}}
-:block/updated-at 1700906538532})
+:block/updated-at 1700906558140})
 :pages (
 {:block/uuid #uuid "6561c138-bd9e-41ad-9201-c6d18e672f76"
 :block/properties 
@@ -315,7 +315,7 @@
 :nonce 1
 :assets []
 :shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001" "77a19a80-8b78-11ee-98af-0b668d138f19" "d0918c40-8b78-11ee-98af-0b668d138f19" "d4f24e50-8b78-11ee-98af-0b668d138f19" "9bc53380-8b79-11ee-98af-0b668d138f19" "af33b812-8b79-11ee-98af-0b668d138f19" "b24e8ca2-8b79-11ee-98af-0b668d138f19")}}
-:block/updated-at 1700906538534
+:block/updated-at 1700906558190
 :block/created-at 1700905273000
 :block/type "whiteboard"
 :block/name "chu văn an trong tôi"
