@@ -154,7 +154,7 @@
 :italic false
 :text "Phát triển trường"}}
 :block/updated-at 1700906464611} 
-{:block/created-at 1700906912457
+{:block/created-at 1700907012659
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -164,7 +164,7 @@
 :borderRadius 0
 :index 6
 :scale [1 1]
-:refs ["CVATT\\Sustainability "]
+:refs ["CVATT\\Sustainability"]
 :scaleLevel "xxl"
 :fill ""
 :type "text"
@@ -181,10 +181,10 @@
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906491767
+:nonce 1700906491769
 :italic false
 :text "Sustainability"}}
-:block/updated-at 1700906912457} 
+:block/updated-at 1700907012659} 
 {:block/created-at 1700906554663
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -316,7 +316,7 @@
 :nonce 1
 :assets []
 :shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001" "77a19a80-8b78-11ee-98af-0b668d138f19" "d0918c40-8b78-11ee-98af-0b668d138f19" "d4f24e50-8b78-11ee-98af-0b668d138f19" "9bc53380-8b79-11ee-98af-0b668d138f19" "af33b812-8b79-11ee-98af-0b668d138f19" "b24e8ca2-8b79-11ee-98af-0b668d138f19")}}
-:block/updated-at 1700906912478
+:block/updated-at 1700907012670
 :block/created-at 1700905273000
 :block/type "whiteboard"
 :block/name "chu văn an trong tôi"
