@@ -41,45 +41,44 @@
 :nonce 1700905424155
 :isComplete true}}
 :block/updated-at 1700905450016} 
-{:block/created-at 1700905590815
+{:block/created-at 1700905801786
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:borderRadius 2
 :index 2
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
-:type "box"
-:size [160 168]
+:type "ellipse"
+:size [1321.6198120117185 1321.6198120117185]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :label ""
-:id "2dd4bd70-8b77-11ee-a0d8-1dcac2e47ae0"
+:id "fed5fd30-8b77-11ee-844f-d9a94d349001"
 :fontWeight 400
 :noFill false
-:point [-80 -80]
+:point [1255.4455427217483 -293.3960742187501]
 :fontSize 20
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700905448244
+:nonce 1700905798868
 :italic false}}
-:block/updated-at 1700905590815})
+:block/updated-at 1700905801786})
 :pages (
 {:block/uuid #uuid "6561c138-bd9e-41ad-9201-c6d18e672f76"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:name "6561c138-bd9e-41ad-9201-c6d18e672f76"
+:name "chu văn an trong tôi"
 :bindings 
 {}
 :nonce 1
 :assets []
-:shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "2dd4bd70-8b77-11ee-a0d8-1dcac2e47ae0")}}
-:block/updated-at 1700905590815
+:shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001")}}
+:block/updated-at 1700905806438
 :block/created-at 1700905273000
 :block/type "whiteboard"
-:block/name "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:block/original-name "6561c138-bd9e-41ad-9201-c6d18e672f76"})}
+:block/name "chu văn an trong tôi"
+:block/original-name "Chu Văn An Trong Tôi"})}
