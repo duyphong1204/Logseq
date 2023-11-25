@@ -185,7 +185,7 @@
 :italic false
 :text "Sustainability"}}
 :block/updated-at 1700907012659} 
-{:block/created-at 1700908046338
+{:block/created-at 1700908139295
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -202,26 +202,26 @@
 :id "af33b812-8b79-11ee-98af-0b668d138f19"
 :fontWeight 400
 :noFill true
-:point [869.62 -1034]
+:point [865.32 -1034]
 :fontSize 32
 :handles 
 {:start 
 {:id "start"
 :canBind true
 :point [0 1489]
-:bindingId "af33b810-8b79-11ee-98af-0b668d138f19"}
+:bindingId "66841891-8b7d-11ee-98af-0b668d138f19"}
 :end 
 {:id "end"
 :canBind true
-:point [1280.62 0]
-:bindingId "af33b811-8b79-11ee-98af-0b668d138f19"}}
+:point [1303.06 0]
+:bindingId "705ed4e1-8b7d-11ee-98af-0b668d138f19"}}
 :decorations 
 {:end "arrow"}
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906524328
+:nonce 1700906524394
 :italic false}}
-:block/updated-at 1700908046338} 
-{:block/created-at 1700908062801
+:block/updated-at 1700908139295} 
+{:block/created-at 1700908143148
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -238,26 +238,26 @@
 :id "b24e8ca2-8b79-11ee-98af-0b668d138f19"
 :fontWeight 400
 :noFill true
-:point [2186.4 -1034]
+:point [2181.57 -1034]
 :fontSize 32
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [1280.48 1489]
+:point [1285.18 1489]
 :bindingId "b24e8ca0-8b79-11ee-98af-0b668d138f19"}
 :end 
 {:id "end"
 :canBind true
 :point [0 0]
-:bindingId "b79568f1-8b79-11ee-98af-0b668d138f19"}}
+:bindingId "735f1c91-8b7d-11ee-98af-0b668d138f19"}}
 :decorations 
 {:end "arrow"}
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906529572
+:nonce 1700906529628
 :italic false}}
-:block/updated-at 1700908062801} 
-{:block/created-at 1700908111456
+:block/updated-at 1700908143148} 
+{:block/created-at 1700908117008
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -278,15 +278,15 @@
 :padding 4
 :fontWeight 700
 :noFill true
-:point [1344 -832]
+:point [1384 -864]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700908068826
+:nonce 1700908068848
 :italic false
 :text "Health"}}
-:block/updated-at 1700908111456} 
-{:block/created-at 1700908111455
+:block/updated-at 1700908117008} 
+{:block/created-at 1700908117009
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -303,13 +303,13 @@
 :id "4ecf85e2-8b7d-11ee-98af-0b668d138f19"
 :fontWeight 400
 :noFill true
-:point [1463.33 -746]
+:point [1500.41 -778]
 :fontSize 32
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [1992.67 1194]}
+:point [1955.59 1226]}
 :end 
 {:id "end"
 :canBind true
@@ -318,10 +318,10 @@
 :decorations 
 {:end "arrow"}
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700908080550
+:nonce 1700908080557
 :italic false}}
-:block/updated-at 1700908111455} 
-{:block/created-at 1700908111456
+:block/updated-at 1700908117009} 
+{:block/created-at 1700908117009
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -338,25 +338,25 @@
 :id "52265202-8b7d-11ee-98af-0b668d138f19"
 :fontWeight 400
 :noFill true
-:point [854.81 -746]
+:point [855.57 -778]
 :fontSize 32
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 1201]
+:point [0 1233]
 :bindingId "52265200-8b7d-11ee-98af-0b668d138f19"}
 :end 
 {:id "end"
 :canBind true
-:point [609.39 0]
+:point [647.77 0]
 :bindingId "52265201-8b7d-11ee-98af-0b668d138f19"}}
 :decorations 
 {:end "arrow"}
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700908086190
+:nonce 1700908086197
 :italic false}}
-:block/updated-at 1700908111456})
+:block/updated-at 1700908117009})
 :pages (
 {:block/uuid #uuid "6561c138-bd9e-41ad-9201-c6d18e672f76"
 :block/properties 
@@ -381,6 +381,30 @@
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
+:66841891-8b7d-11ee-98af-0b668d138f19 
+{:id "66841891-8b7d-11ee-98af-0b668d138f19"
+:type "line"
+:fromId "af33b812-8b79-11ee-98af-0b668d138f19"
+:toId "d0918c40-8b78-11ee-98af-0b668d138f19"
+:handleId "start"
+:point [0.47 0.6]
+:distance 4}
+:705ed4e1-8b7d-11ee-98af-0b668d138f19 
+{:id "705ed4e1-8b7d-11ee-98af-0b668d138f19"
+:type "line"
+:fromId "af33b812-8b79-11ee-98af-0b668d138f19"
+:toId "9bc53380-8b79-11ee-98af-0b668d138f19"
+:handleId "end"
+:point [0.56 0.5]
+:distance 4}
+:735f1c91-8b7d-11ee-98af-0b668d138f19 
+{:id "735f1c91-8b7d-11ee-98af-0b668d138f19"
+:type "line"
+:fromId "b24e8ca2-8b79-11ee-98af-0b668d138f19"
+:toId "9bc53380-8b79-11ee-98af-0b668d138f19"
+:handleId "end"
+:point [0.4 0.47]
+:distance 4}
 :af33b811-8b79-11ee-98af-0b668d138f19 
 {:id "af33b811-8b79-11ee-98af-0b668d138f19"
 :type "line"
@@ -388,6 +412,14 @@
 :toId "9bc53380-8b79-11ee-98af-0b668d138f19"
 :handleId "end"
 :point [0.53 0.42]
+:distance 4}
+:6a551dc1-8b7d-11ee-98af-0b668d138f19 
+{:id "6a551dc1-8b7d-11ee-98af-0b668d138f19"
+:type "line"
+:fromId "b24e8ca2-8b79-11ee-98af-0b668d138f19"
+:toId "9bc53380-8b79-11ee-98af-0b668d138f19"
+:handleId "end"
+:point [0.38 0.5]
 :distance 4}
 :4ecf85e1-8b7d-11ee-98af-0b668d138f19 
 {:id "4ecf85e1-8b7d-11ee-98af-0b668d138f19"
@@ -440,7 +472,7 @@
 :nonce 1
 :assets []
 :shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001" "77a19a80-8b78-11ee-98af-0b668d138f19" "d0918c40-8b78-11ee-98af-0b668d138f19" "d4f24e50-8b78-11ee-98af-0b668d138f19" "9bc53380-8b79-11ee-98af-0b668d138f19" "af33b812-8b79-11ee-98af-0b668d138f19" "b24e8ca2-8b79-11ee-98af-0b668d138f19" "47d30a50-8b7d-11ee-98af-0b668d138f19" "4ecf85e2-8b7d-11ee-98af-0b668d138f19" "52265202-8b7d-11ee-98af-0b668d138f19")}}
-:block/updated-at 1700908111455
+:block/updated-at 1700908143211
 :block/created-at 1700905273000
 :block/type "whiteboard"
 :block/name "chu văn an trong tôi"
