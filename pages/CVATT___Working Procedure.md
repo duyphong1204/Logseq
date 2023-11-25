@@ -1,5 +1,6 @@
 # AI Integrated
 	- How? And inwhich?
 - # Meeting
-	- Các ban ngành tự phân công
 	-
+	- Các ban ngành tự phân công
+	- Sẽ có nh
