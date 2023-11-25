@@ -14,7 +14,9 @@
 		-
 - # Procedure
 	- Sẽ có nhiều bên đảm nhận từng việc riêng rồi ăn khớp với nhau (nhưng các bên nên chặt chẽ và bọc hậu được nhau vì con người không chỉ chuyên gia ở một lĩnh vực mà đôi khi họ nằm ở ranh giới của chúng)
-		-
+		- mình không muốn mỗi người sinh ra chỉ vì một việc, họ là mỗi chấm điểm của riêng họ
+		- họ làm một việc mà cả tâm trí, trái tim và kĩ năng họ hợp làm một, là một sự kết hợp độc nhất
+		- nếu coi đây là một tác phẩm nghệ thuật thì cả tác phẩm này là sự
 	- Vẫn khuyến khích nếu muốn thử việc mới hơn là làm chuyên môn hoặc thi thoảng chán quá đá ban, hoặc làm việc gì đó
 	- Cần nghĩ cách để có ý tưởng nào mới thì cũng đều đăng công khai được, tất cả đều có thể đọc và góp ý nếu muốn - chỉ sợ không có thời gian
 	-
