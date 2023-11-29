@@ -1,4 +1,4 @@
 - Example:
 	- Product Survey Structure From WOTN4
-	- Function Priority from a blog
+	- Function Priority from a [blog](https://www.facebook.com/kieukhanh259/posts/pfbid02t3qbh8hHeRxRQQtTxgLe4NJ7GGLi2uBxUyu1oiUaRNCR3qoSP9cMnBYRJdPNWXqml)
 		-
