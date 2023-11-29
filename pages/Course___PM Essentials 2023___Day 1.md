@@ -1,2 +1,3 @@
-- [[Course/PM Essentials 2023]]
+- [[Course/PM Essentials 2023/Day 1/Empathize]]
+-
 -
