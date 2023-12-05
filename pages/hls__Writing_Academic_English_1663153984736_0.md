@@ -115,7 +115,6 @@ title:: hls__Writing_Academic_English_1663153984736_0
 	  collapsed:: true
 		- Group brainstorming and in-class writing of first
 - ## Table of content
-  collapsed:: true
 	- **First Part**
 	  collapsed:: true
 		- a quick review of paragraph writing and summarizing, followed by a chapter that introduces the essay
