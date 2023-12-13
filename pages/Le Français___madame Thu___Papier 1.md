@@ -23,5 +23,5 @@
 	- voyez-vous: you see
 		- {{cloze Mình biết từ ngữ cảnh là you see nhưng cứ nghĩ nó là voyage}}
 	- ont du mal à suivre: are having hard time to follow
-	- devront
+	- devront:
 -
