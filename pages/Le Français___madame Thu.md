@@ -23,4 +23,5 @@ title:: Français/madame Thu
 	- [[Le Français/madame Thu/Leçon 18-8]]
 	- [[Le Français/madame Thu/Leçon 29-9]]
 	- [[Le Français/madame Thu/Leçon 3-11]]
--
+- Compréhension écrite
+	- [[Le Français
