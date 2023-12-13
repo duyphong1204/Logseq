@@ -18,5 +18,6 @@
 	  parents, en parler au directeur de l'établissement, aller voir le responsable de la restauration collective, les cuisiniers... Il faut montrer à tout le monde que le bio, c'est mieux pour les enfants et qu'un bon nombre de maladies, liées à la mauvaise nourriture peuvent ainsi être évitées. Å Saint-Étienne toujours, on sert plus de fruits et de légumes, on limite la viande et les matières grasses. On dirait des repas presque parfaits! Si aujourd'hui on fait tout pour donner du bon miam-miam à nos animaux, pourquoi nos enfants n'y auraient-ils pas droit?
 - ---
 - ## Les nouveaux vocabulaires
-	- voyez-vous
+	- voyez-vous: you see
+		- {{cloze Mình biết từ ngữ cảnh là you see nhưng cứ nghĩ nó là voyage}}
 -
