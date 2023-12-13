@@ -2,8 +2,10 @@
 	- ## 1.1 Sản xuất xã hội
 		- ### Một số khái niệm cơ bản
 			- ***Sản xuất xã hội***
-				- Vì vậy, sản xuất vật chất là cơ sở, nền tảng của đời sống xã hội. Sản xuất vật chất bao giờ cũng mang tỉnh chất xã hội vì muốn tạo ra sản phẩm, con người không chỉ phải quan hệ với tự nhiên, mà còn phải quan hệ với nhau.
+				- Sản xuất vật chất là cơ sở, nền tảng của đời sống xã hội.
+				- Sản xuất vật chất bao giờ cũng mang tính chất xã hội vì muốn tạo ra sản phẩm, con người không chỉ phải quan hệ với tự nhiên, mà còn phải quan hệ với nhau.
 				- Để tồn tại và phát triển, con người trước hết cần được thoả mãn các nhu cầu cơ bản
+				  collapsed:: true
 					- ăn, mặc, ở, đi lại, học tập, chữa bệnh, giải trí...
 				- Xã hội càng phát triển, nhu cầu của con người ngày càng cao, phong phú và đa dạng.
 				- Để thỏa mãn các nhu cầu đó, con người không thể chỉ trông chờ vào những gì có sẵn trong tự nhiên, mà phải tiến hành sản xuất của cải vật chất.
