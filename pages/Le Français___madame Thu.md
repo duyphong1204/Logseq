@@ -1,7 +1,7 @@
 title:: Français/madame Thu
 
 -
-- Lecon [[le français/madame thu]]
+- Lecon de [[le français/madame thu]]
   id:: 64e7e44c-b8c3-434b-b834-056c46ed938f
 	- [[Le Français/madame Thu/Leçon 1]]
 	- [[Le Français/madame Thu/Leçon 2]]
