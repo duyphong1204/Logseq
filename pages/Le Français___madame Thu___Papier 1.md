@@ -25,5 +25,5 @@
 	- ont du mal à suivre: are having hard time to follow
 	- devront: devoir (must?)
 	- la composition: the composition
-	- de chiffre
+	- chiffre
 -
