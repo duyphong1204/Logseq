@@ -342,4 +342,4 @@ filters:: {}
 - intervenent
 - outil (m): tool
 - formation (f): training
-- étq
+- établissement: establishment
