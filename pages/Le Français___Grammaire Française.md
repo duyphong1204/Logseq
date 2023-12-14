@@ -448,3 +448,4 @@
 - s’agiter: to fidget
 - oser: to dare
 - consacrer: to devote (time)
+- dédier
