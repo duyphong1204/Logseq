@@ -345,4 +345,5 @@ filters:: {}
 - établissement: establishment
 - tutelle (f): guardianship, trusteeship
 	- sous la tutelle de: under the supervision of
--
+- cadre:
+	- dans le cadre de: within the limitation of
