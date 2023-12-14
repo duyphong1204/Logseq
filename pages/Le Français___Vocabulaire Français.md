@@ -344,4 +344,5 @@ filters:: {}
 - formation (f): training
 - établissement: establishment
 - tutelle (f): guardianship, trusteeship
-	- sous la tutelle de
+	- sous la tutelle de: under the supervision of
+-

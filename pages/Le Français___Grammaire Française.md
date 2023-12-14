@@ -450,3 +450,4 @@
 - consacrer: to devote (time)
 - dédier
 - en savoir: tìm hiểu thêm
+- recrute
