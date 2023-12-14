@@ -328,8 +328,8 @@ filters:: {}
 - pelouge (f): lawn
 - paraît que: seem that
 - recette (f): recipe
-- le congélateur: refrigerater
-- le congé: holiday
+- congélateur (m): refrigerater
+- congé (m): holiday
 - tant: aunt
 - la nageoire: fin
 - la queue: tail
