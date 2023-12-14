@@ -292,8 +292,8 @@ filters:: {}
 - gâteau
 - thé
 - l'effet: effect
-- le mérite: credit, merit
-- le lien: connection, link
+- mérite (m): credit, merit
+- lien (m): connection, link
 - suspect(e): suspect, suspicious
 - sérieusement: seriously
 - juste: just
@@ -301,15 +301,15 @@ filters:: {}
 - vieux (vieille): old
 - déchiré: torn
 - infecté: infected
-- la moyenne: average
+- moyenne (f): average
 - l’au-delà: the hereafter (from now on), beyond
 - malheureusement: unfortunately
-- le besoin: need
+- besoin (m): need
 - lieu
 	- avoir lieu: to take place
 - baptême: baptism
 - environ: about, approxiamately
-- lfoudre: lightning
+- foudre (f): lightning
 - bras (m): arm
 -
 - chou-fleur: califlower
@@ -325,9 +325,9 @@ filters:: {}
 - fournir: provide, supp
 - aperçu:
 - Tant pis >< Tant mieux
-- la pelouge: lawn
+- pelouge (f): lawn
 - paraît que: seem that
-- la recette: recipe
+- recette (f): recipe
 - le congélateur: refrigerater
 - le congé: holiday
 - tant: aunt
