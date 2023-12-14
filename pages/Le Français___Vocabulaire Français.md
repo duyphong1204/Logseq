@@ -331,11 +331,11 @@ filters:: {}
 - congélateur (m): refrigerater
 - congé (m): holiday
 - tant: aunt
-- la nageoire: fin
-- la queue: tail
+- nageoire (f): fin
+- queue (f): tail
 - éclatant(e): brilliant, bright
-- le bonbon: sweet
-- le maître: primary teacher
+- bonbon: sweet
+- maître (m): primary teacher
 - spectacle (m): show
 -
 - le pilier: the pillar
