@@ -352,3 +352,4 @@ filters:: {}
 - sujet (m): subject
 - à temps plein/à plein temps: full-time
 - cursus (m): degree course
+- autour (adv): around
