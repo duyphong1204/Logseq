@@ -351,4 +351,4 @@ filters:: {}
 - matière (f): subject
 - sujet (m): subject
 - à temps plein/à plein temps: full-time
-- cursus (m): course
+- cursus (m): degree course
