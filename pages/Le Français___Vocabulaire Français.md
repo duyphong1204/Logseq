@@ -309,8 +309,8 @@ filters:: {}
 	- avoir lieu: to take place
 - baptême: baptism
 - environ: about, approxiamately
-- la foudre: lightning
-- le bras: arm
+- lfoudre: lightning
+- bras (m): arm
 -
 - chou-fleur: califlower
 - panne (f): breakdown
@@ -336,8 +336,9 @@ filters:: {}
 - éclatant(e): brilliant, bright
 - le bonbon: sweet
 - le maître: primary teacher
-- le spectacle: show
+- spectacle (m): show
 -
 - le pilier: the pillar
 - intervenent
 - outil (m): tool
+- formation (f): training
