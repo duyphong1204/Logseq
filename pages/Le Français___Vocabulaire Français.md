@@ -334,7 +334,7 @@ filters:: {}
 - nageoire (f): fin
 - queue (f): tail
 - éclatant(e): brilliant, bright
-- bonbon: sweet
+- bonbon (m): sweet
 - maître (m): primary teacher
 - spectacle (m): show
 -
