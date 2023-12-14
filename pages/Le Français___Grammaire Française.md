@@ -451,3 +451,4 @@
 - dédier
 - en savoir: tìm hiểu thêm
 - recruter: recruit
+- exiger: require
