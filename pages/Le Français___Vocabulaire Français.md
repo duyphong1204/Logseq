@@ -338,4 +338,4 @@ filters:: {}
 - le maître: primary teacher
 - le spectacle: show
 -
-- le pilier:
+- le pilier: the pillar
