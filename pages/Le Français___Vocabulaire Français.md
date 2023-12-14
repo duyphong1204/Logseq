@@ -348,3 +348,5 @@ filters:: {}
 - cadre (m): frame, surroundings, executive
 	- dans le cadre de: within the limitation of
 - métier (m): profession, job
+- matière (f): subject
+- sujet (m): subject
