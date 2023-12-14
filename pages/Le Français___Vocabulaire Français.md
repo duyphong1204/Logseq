@@ -350,3 +350,4 @@ filters:: {}
 - métier (m): profession, job
 - matière (f): subject
 - sujet (m): subject
+- à temps plein/à plein temps: full-time

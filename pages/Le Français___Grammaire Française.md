@@ -452,3 +452,4 @@
 - en savoir: tìm hiểu thêm
 - recruter: recruit
 - exiger: require
+- conférer: con
