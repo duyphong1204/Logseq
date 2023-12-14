@@ -450,7 +450,7 @@
 - consacrer: to devote (time)
 - dédier
 - en savoir: tìm hiểu thêm
-- recruter: recruit
-- exiger: require
-- conférer: confer
--
+- recruter: to recruit
+- exiger: to require
+- conférer: to confer
+- construire: to build
