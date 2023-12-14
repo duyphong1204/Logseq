@@ -343,3 +343,5 @@ filters:: {}
 - outil (m): tool
 - formation (f): training
 - établissement: establishment
+- tutelle (f): guardianship, trusteeship
+	- sous la tutelle de
