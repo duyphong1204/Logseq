@@ -50,6 +50,9 @@
 						- Việc dự báo, chỉ ra những đặc trưng của mỗi giai đoạn có ý nghĩa chỉ dẫn, soi đường cho những nước đi sau.
 						- Trên cơ sở những thành tựu nghiên cứu về sản xuất xã hội và thực tiễn phát triển kinh tế hiện nay, tiến trình phát triển của sản xuất xã hội còn được chia thành ba giai đoạn:
 							- kinh tế nông nghiệp
+							  logseq.order-list-type:: number
 							- kinh tế công nghiệp
+							  logseq.order-list-type:: number
 							- kinh tế tri thức
+							  logseq.order-list-type:: number
 							- Những nước đi sau không nhất thiết phải phát triển tuần tự qua các giai đoạn, mà có thể phát triển rút ngắn. Đảng Cộng sản Việt Nam chủ trương: “Tranh thủ cơ hội thuận lợi do bối cảnh quốc tế tạo ra và tiềm năng, lợi thế của nước ta để rút ngắn quá trình công nghiệp hoá, hiện đại hoá đất nước theo định hướng XHCN gắn với phát triển kinh tế tri thức, coi kinh tế tri thức là yếu tố quan trọng của nền kinh tế và công nghiệp hoá, hiện đại hoá. Phát triển mạnh các ngành và sản phẩm kinh tế có giá trị gia tăng cao dựa nhiều vào trì thức; kết hợp việc sử dụng nguồn vốn tri thức của con người Việt Nam với tri thức mới nhất của nhân loại”.
