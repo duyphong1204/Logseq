@@ -15,6 +15,7 @@
 				- Sản xuất xã hội không ngừng vận động, phát triển và có lịch sử rất lâu dài.
 					- Dưới những góc độ xem xét khác nhau, tiến trình phát triển của sản xuất xã hội có thể được phân chia theo những tiêu thức khác nhau.
 						- Bằng phương pháp luận duy vật lịch sử, Karl Marx cho rằng
+						  collapsed:: true
 							- Sản xuất xã hội phát triển qua 5 phương thức sản xuất
 								- cộng sản nguyên thuỷ
 								  logseq.order-list-type:: number
@@ -27,6 +28,7 @@
 							- Phương thức sản xuất sau phát triển cao hơn phương thức sản xuất trước cả về lực lượng sản xuất và quan hệ sản xuất
 							- Đây còn là thế giới quan và phương pháp luận của giai cấp vô sản trong cuộc đấu tranh, xây dựng Chủ nghĩa xã hội và Chủ nghĩa cộng sản
 						- Quá trình phát triển của sản xuất xã hội còn được phân chia thành hai giai đoạn
+						  collapsed:: true
 							- kinh tế tự nhiên
 							  logseq.order-list-type:: number
 							- kinh tế thị trường
@@ -41,6 +43,7 @@
 									- học thuyết kinh tế Mác - Lênin cũng nghiên cứu
 										- quá trình phát triển của nền sản xuất từ kinh tế tự nhiên, sang sản xuất hàng hoá giản đơn, kinh tế thị trường tự do, đến kinh tế thị trường hiện đại.
 						- A. Toffler chia tiến trình phát triển của sản xuất xã hội thành ba “làn sóng”
+						  collapsed:: true
 							- làn sóng nông nghiệp
 							  logseq.order-list-type:: number
 							- làn sóng công nghiệp
@@ -49,6 +52,7 @@
 							  logseq.order-list-type:: number
 						- Việc dự báo, chỉ ra những đặc trưng của mỗi giai đoạn có ý nghĩa chỉ dẫn, soi đường cho những nước đi sau.
 						- Trên cơ sở những thành tựu nghiên cứu về sản xuất xã hội và thực tiễn phát triển kinh tế hiện nay, tiến trình phát triển của sản xuất xã hội còn được chia thành ba giai đoạn:
+						  collapsed:: true
 							- kinh tế nông nghiệp
 							  logseq.order-list-type:: number
 							- kinh tế công nghiệp
@@ -58,3 +62,7 @@
 							- Những nước đi sau không nhất thiết phải phát triển tuần tự qua các giai đoạn, mà có thể phát triển rút ngắn.
 								- Đảng Cộng sản Việt Nam chủ trương
 									- “Tranh thủ cơ hội thuận lợi do bối cảnh quốc tế tạo ra và tiềm năng, lợi thế của nước ta để rút ngắn quá trình công nghiệp hoá, hiện đại hoá đất nước theo định hướng Xã hội chủ nghĩa gắn với phát triển kinh tế tri thức, coi kinh tế tri thức là yếu tố quan trọng của nền kinh tế và công nghiệp hoá, hiện đại hoá. Phát triển mạnh các ngành và sản phẩm kinh tế có giá trị gia tăng cao dựa nhiều vào tri thức; kết hợp việc sử dụng nguồn vốn tri thức của con người Việt Nam với tri thức mới nhất của nhân loại”.
+						- Tùy theo góc độ nghiên cứu, các cách phân loại trên đều có thể được sử dụng để đánh giá khái quát trình độ phát triển mà nền sản xuất đã đạt được. Điều quan trọng hơn, mỗi cách phân chia đều có ý nghĩa nhất định trong việc định hướng, xây dựng và phát triển nền kinh tế.
+							- Sản xuất xã hội có cấu trúc rất phức tạp. Karl Marx phân chia nền sản xuất thành 2 khu vực: khu vực sản xuất tư liệu sản xuất và khu vực sản xuất tư liệu tiêu dùng. Cấu trúc của mỗi khu vực và quan hệ giữa hai khu vực là một trong những nhân tố quy định sự vận động, phát triển của nền kinh tế. Kinh tế học hiện đại chia nền sản xuất thành 3 khu vực: khu vực I bao gồm các ngành nông nghiệp, lâm nghiệp, ngư nghiệp và khai khoáng; khu vực II bao gồm các ngành công nghiệp và xây dựng; khu vực III bao gồm các ngành dịch vụ như thương mại, du lịch, giao thông vận tải, ngân hàng, bảo hiểm, bưu chính, viễn thông... Tỷ trọng của các khu vực trong GDP là chỉ số quan trọng đánh giá trình độ phát triển của nền sản xuất xã hội. Khu vực I chiếm tỷ trọng càng nhỏ; khu vực II và III chiếm tỷ trọng càng lớn, nền sản xuất càng ít phụ thuộc vào tự nhiên, năng suất lao động xã hội và hiệu quả của nền sản xuất càng cao, trình độ phát triển của nền sản xuất càng cao. Đó là xu hướng chuyển dịch của cơ cấu ngành kinh tế theo hướng tiến bộ.
+							- Tái sản xuất
+							- Để thoả mãn các nhu cầu của mình, con người phải tiến hành quá trình sản xuất. Nhu cầu của con người không ngừng thay đổi và đòi hỏi phải được thoả mãn thường xuyên nên sản xuất không thể chỉ tiến hành một lần, mà phải được thực hiện và đổi mới liên tục. Quá trình sản xuất được lặp đi, lặp lại và đổi mới không ngừng gọi là quá trình tái sản xuất.
