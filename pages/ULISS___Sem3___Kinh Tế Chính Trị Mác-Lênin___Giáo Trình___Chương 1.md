@@ -15,18 +15,22 @@
 				- Sản xuất xã hội không ngừng vận động, phát triển và có lịch sử rất lâu dài.
 					- Dưới những góc độ xem xét khác nhau, tiến trình phát triển của sản xuất xã hội có thể được phân chia theo những tiêu thức khác nhau.
 						- Bằng phương pháp luận duy vật lịch sử, Karl Marx cho rằng
-						  collapsed:: true
 							- Sản xuất xã hội phát triển qua 5 phương thức sản xuất
 								- cộng sản nguyên thuỷ
+								  logseq.order-list-type:: number
 								- chiếm hữu nô lệ, phong kiến
+								  logseq.order-list-type:: number
 								- tư bản chủ nghĩa
+								  logseq.order-list-type:: number
 								- cộng sản chủ nghĩa
+								  logseq.order-list-type:: number
 							- Phương thức sản xuất sau phát triển cao hơn phương thức sản xuất trước cả về lực lượng sản xuất và quan hệ sản xuất
 							- Đây còn là thế giới quan và phương pháp luận của giai cấp vô sản trong cuộc đấu tranh, xây dựng Chủ nghĩa xã hội và Chủ nghĩa cộng sản
 						- Quá trình phát triển của sản xuất xã hội còn được phân chia thành hai giai đoạn
-						  collapsed:: true
 							- kinh tế tự nhiên
+							  logseq.order-list-type:: number
 							- kinh tế thị trường
+							  logseq.order-list-type:: number
 							- Cách phân chia này tạo điều kiện nghiên cứu, giải quyết nhiều vấn đề của nền kinh tế thị trường, tạo điều kiện thúc đẩy nền kinh tế thị trường phát triển.
 							  collapsed:: true
 								- Đó là cách phân chia trong các lý thuyết kinh tế của
@@ -38,8 +42,11 @@
 										- quá trình phát triển của nền sản xuất từ kinh tế tự nhiên, sang sản xuất hàng hoá giản đơn, kinh tế thị trường tự do, đến kinh tế thị trường hiện đại.
 						- A. Toffler chia tiến trình phát triển của sản xuất xã hội thành ba “làn sóng”
 							- làn sóng nông nghiệp
+							  logseq.order-list-type:: number
 							- làn sóng công nghiệp
+							  logseq.order-list-type:: number
 							- làn sóng hậu công nghiệp
+							  logseq.order-list-type:: number
 						- Việc dự báo, chỉ ra những đặc trưng của mỗi giai đoạn có ý nghĩa chỉ dẫn, soi đường cho những nước đi sau.
 						- Trên cơ sở những thành tựu nghiên cứu về sản xuất xã hội và thực tiễn phát triển kinh tế hiện nay, tiến trình phát triển của sản xuất xã hội còn được chia thành ba giai đoạn:
 							- kinh tế nông nghiệp
