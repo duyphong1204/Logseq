@@ -106,6 +106,9 @@
 								- trình độ phát triển của nền sản xuất càng cao
 								- Đó là xu hướng chuyển dịch của cơ cấu ngành kinh tế theo hướng tiến bộ.
 			- ***Tái sản xuất***
-				- Để thoả mãn các nhu cầu của mình, con người phải tiến hành quá trình sản xuất.
-				- Nhu cầu của con người không ngừng thay đổi và đòi hỏi phải được thoả mãn thường xuyên nên sản xuất không thể chỉ tiến hành một lần, mà phải được thực hiện và đổi mới liên tục.
+				- Con người phải tiến hành quá trình sản xuất
+					- để thoả mãn các nhu cầu của mình
+				- Sản xuất không thể chỉ tiến hành một lần, mà phải được thực hiện và đổi mới liên tục.
+					- do nhu cầu của con người không ngừng thay đổi và đòi hỏi phải được thoả mãn thường xuyên
 				- Quá trình sản xuất được lặp đi, lặp lại và đổi mới không ngừng gọi là quá trình tái sản xuất.
+				-
