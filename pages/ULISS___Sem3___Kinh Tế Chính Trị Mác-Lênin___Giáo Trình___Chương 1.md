@@ -14,12 +14,13 @@
 					- là năng lực của một xã hội nhất định trong việc cung ứng của cải vật chất nhằm đáp ứng các nhu cầu của con người, tính đến một thời điểm nhất định.
 				- Sản xuất xã hội không ngừng vận động, phát triển và có lịch sử rất lâu dài.
 					- Dưới những góc độ xem xét khác nhau, tiến trình phát triển của sản xuất xã hội có thể được phân chia theo những tiêu thức khác nhau.
-						- Bằng phương pháp luận duy vật lịch sử, Karl Marx cho rằng, sản xuất xã hội phát triển qua 5 phương thức sản xuất
-							- cộng sản nguyên thuỷ
-							- chiếm hữu nô lệ, phong kiến
-							- tư bản chủ nghĩa
-							- cộng sản chủ nghĩa
+						- Bằng phương pháp luận duy vật lịch sử, Karl Marx cho rằng
+							- Sản xuất xã hội phát triển qua 5 phương thức sản xuất
+								- cộng sản nguyên thuỷ
+								- chiếm hữu nô lệ, phong kiến
+								- tư bản chủ nghĩa
+								- cộng sản chủ nghĩa
 							- Phương thức sản xuất sau phát triển cao hơn phương thức sản xuất trước cả về lực lượng sản xuất và quan hệ sản xuất
-							- Đây còn là thể nguản và phương pháp luận của giai cấp vô sản trong cuộc đấu tranh, xây dựng CNXH và CNCS.
-							  hai Quá trình phát triển của sản xuất xã hội còn được phân chia thành ghodom kinh tế tự nhiên và kinh tế thị trường. Cách phân chia này hai giai đoạn, kinh tếc nghiên cứu, giải quyết nhiều vấn đề của nền kinh tạo điều kiến thức đầy kinh tế thị trường phát triển. Đó là cách phân chính trong các lý thuyết kinh tế của A. Smith, của D. Ricardo; học thuyết kinh tế của J. Keynes và rất nhiều lý thuyết của các nhà kinh tế khác Học thuyết kinh tế Mác - Lênin cũng nghiên cứu quá trình phát triển của nền sản xuất từ kinh tế tự nhiên, sang sản xuất hàng hoá giản đơn, kinh tế thị trường tự do, đến kinh tế thị trường hiện đại.
+							- Đây còn là thế giới quan và phương pháp luận của giai cấp vô sản trong cuộc đấu tranh, xây dựng Chủ nghĩa xã hội và Chủ nghĩa cộng sản
+							- Quá trình phát triển của sản xuất xã hội còn được phân chia thành ghodom kinh tế tự nhiên và kinh tế thị trường. Cách phân chia này hai giai đoạn, kinh tếc nghiên cứu, giải quyết nhiều vấn đề của nền kinh tạo điều kiến thức đầy kinh tế thị trường phát triển. Đó là cách phân chính trong các lý thuyết kinh tế của A. Smith, của D. Ricardo; học thuyết kinh tế của J. Keynes và rất nhiều lý thuyết của các nhà kinh tế khác Học thuyết kinh tế Mác - Lênin cũng nghiên cứu quá trình phát triển của nền sản xuất từ kinh tế tự nhiên, sang sản xuất hàng hoá giản đơn, kinh tế thị trường tự do, đến kinh tế thị trường hiện đại.
 					- A. Toffler chia tiến trình phát triển của sản xuất xã hội thành ba “làn sóng”: làn sóng nông nghiệp, làn sóng công nghiệp và làn sóng hậu công nghiệp. Việc dự báo, chỉ ra những đặc trưng của mỗi giai đoạn có ý nghĩa chỉ dẫn, soi đường cho những nước đi sau. Trên cơ sở những thành tựu nghiên cứu về sản xuất xã hội và thực tiễn phát triển kinh tế hiện nay, tiến trình phát triển của sản xuất xã hội còn được chia thành ba giai đoạn: kinh tế nông nghiệp, kinh tế công nghiệp và kinh tế tri thức. Những nước đi sau không nhất thiết phải phát triển tuần tự qua các giai đoạn, mà có thể phát triển rút ngắn. Đảng Cộng sản Việt Nam chủ trương: “Tranh thủ cơ hội thuận lợi do bối cảnh quốc tế tạo ra và tiềm năng, lợi thế của nước ta để rút ngắn quá trình công nghiệp hoá, hiện đại hoá đất nước theo định hướng XHCN gắn với phát triển kinh tế tri thức, coi kinh tế tri thức là yếu tố quan trọng của nền kinh tế và công nghiệp hoá, hiện đại hoá. Phát triển mạnh các ngành và sản phẩm kinh tế có giá trị gia tăng cao dựa nhiều vào trì thức; kết hợp việc sử dụng nguồn vốn tri thức của con người Việt Nam với tri thức mới nhất của nhân loại”.
