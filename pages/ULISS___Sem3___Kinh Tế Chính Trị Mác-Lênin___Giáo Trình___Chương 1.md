@@ -26,5 +26,10 @@
 							- kinh tế tự nhiên
 							- kinh tế thị trường
 						- Cách phân chia này tạo điều kiện nghiên cứu, giải quyết nhiều vấn đề của nền kinh tế thị trường, tạo điều kiện thúc đẩy nền kinh tế thị trường phát triển.
-							- Đó là cách phân chia trong các lý thuyết kinh tế của A. Smith, của D. Ricardo; học thuyết kinh tế của J. Keynes và rất nhiều lý thuyết của các nhà kinh tế khác Học thuyết kinh tế Mác - Lênin cũng nghiên cứu quá trình phát triển của nền sản xuất từ kinh tế tự nhiên, sang sản xuất hàng hoá giản đơn, kinh tế thị trường tự do, đến kinh tế thị trường hiện đại.
+							- Đó là cách phân chia trong các lý thuyết kinh tế của
+								- A. Smith
+								- D. Ricardo
+								- học thuyết kinh tế của J. Keynes
+								- và rất nhiều lý thuyết của các nhà kinh tế khác
+								- Học thuyết kinh tế Mác - Lênin cũng nghiên cứu quá trình phát triển của nền sản xuất từ kinh tế tự nhiên, sang sản xuất hàng hoá giản đơn, kinh tế thị trường tự do, đến kinh tế thị trường hiện đại.
 					- A. Toffler chia tiến trình phát triển của sản xuất xã hội thành ba “làn sóng”: làn sóng nông nghiệp, làn sóng công nghiệp và làn sóng hậu công nghiệp. Việc dự báo, chỉ ra những đặc trưng của mỗi giai đoạn có ý nghĩa chỉ dẫn, soi đường cho những nước đi sau. Trên cơ sở những thành tựu nghiên cứu về sản xuất xã hội và thực tiễn phát triển kinh tế hiện nay, tiến trình phát triển của sản xuất xã hội còn được chia thành ba giai đoạn: kinh tế nông nghiệp, kinh tế công nghiệp và kinh tế tri thức. Những nước đi sau không nhất thiết phải phát triển tuần tự qua các giai đoạn, mà có thể phát triển rút ngắn. Đảng Cộng sản Việt Nam chủ trương: “Tranh thủ cơ hội thuận lợi do bối cảnh quốc tế tạo ra và tiềm năng, lợi thế của nước ta để rút ngắn quá trình công nghiệp hoá, hiện đại hoá đất nước theo định hướng XHCN gắn với phát triển kinh tế tri thức, coi kinh tế tri thức là yếu tố quan trọng của nền kinh tế và công nghiệp hoá, hiện đại hoá. Phát triển mạnh các ngành và sản phẩm kinh tế có giá trị gia tăng cao dựa nhiều vào trì thức; kết hợp việc sử dụng nguồn vốn tri thức của con người Việt Nam với tri thức mới nhất của nhân loại”.
