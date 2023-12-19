@@ -24,6 +24,7 @@
 							- Phương thức sản xuất sau phát triển cao hơn phương thức sản xuất trước cả về lực lượng sản xuất và quan hệ sản xuất
 							- Đây còn là thế giới quan và phương pháp luận của giai cấp vô sản trong cuộc đấu tranh, xây dựng Chủ nghĩa xã hội và Chủ nghĩa cộng sản
 						- Quá trình phát triển của sản xuất xã hội còn được phân chia thành hai giai đoạn
+						  collapsed:: true
 							- kinh tế tự nhiên
 							- kinh tế thị trường
 							- Cách phân chia này tạo điều kiện nghiên cứu, giải quyết nhiều vấn đề của nền kinh tế thị trường, tạo điều kiện thúc đẩy nền kinh tế thị trường phát triển.
@@ -39,4 +40,9 @@
 							- làn sóng nông nghiệp
 							- làn sóng công nghiệp
 							- làn sóng hậu công nghiệp
-						- Việc dự báo, chỉ ra những đặc trưng của mỗi giai đoạn có ý nghĩa chỉ dẫn, soi đường cho những nước đi sau. Trên cơ sở những thành tựu nghiên cứu về sản xuất xã hội và thực tiễn phát triển kinh tế hiện nay, tiến trình phát triển của sản xuất xã hội còn được chia thành ba giai đoạn: kinh tế nông nghiệp, kinh tế công nghiệp và kinh tế tri thức. Những nước đi sau không nhất thiết phải phát triển tuần tự qua các giai đoạn, mà có thể phát triển rút ngắn. Đảng Cộng sản Việt Nam chủ trương: “Tranh thủ cơ hội thuận lợi do bối cảnh quốc tế tạo ra và tiềm năng, lợi thế của nước ta để rút ngắn quá trình công nghiệp hoá, hiện đại hoá đất nước theo định hướng XHCN gắn với phát triển kinh tế tri thức, coi kinh tế tri thức là yếu tố quan trọng của nền kinh tế và công nghiệp hoá, hiện đại hoá. Phát triển mạnh các ngành và sản phẩm kinh tế có giá trị gia tăng cao dựa nhiều vào trì thức; kết hợp việc sử dụng nguồn vốn tri thức của con người Việt Nam với tri thức mới nhất của nhân loại”.
+						- Việc dự báo, chỉ ra những đặc trưng của mỗi giai đoạn có ý nghĩa chỉ dẫn, soi đường cho những nước đi sau.
+						- Trên cơ sở những thành tựu nghiên cứu về sản xuất xã hội và thực tiễn phát triển kinh tế hiện nay, tiến trình phát triển của sản xuất xã hội còn được chia thành ba giai đoạn:
+							- kinh tế nông nghiệp
+							- kinh tế công nghiệp
+							- kinh tế tri thức
+							- Những nước đi sau không nhất thiết phải phát triển tuần tự qua các giai đoạn, mà có thể phát triển rút ngắn. Đảng Cộng sản Việt Nam chủ trương: “Tranh thủ cơ hội thuận lợi do bối cảnh quốc tế tạo ra và tiềm năng, lợi thế của nước ta để rút ngắn quá trình công nghiệp hoá, hiện đại hoá đất nước theo định hướng XHCN gắn với phát triển kinh tế tri thức, coi kinh tế tri thức là yếu tố quan trọng của nền kinh tế và công nghiệp hoá, hiện đại hoá. Phát triển mạnh các ngành và sản phẩm kinh tế có giá trị gia tăng cao dựa nhiều vào trì thức; kết hợp việc sử dụng nguồn vốn tri thức của con người Việt Nam với tri thức mới nhất của nhân loại”.
