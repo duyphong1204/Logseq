@@ -20,3 +20,4 @@
 							- tư bản chủ nghĩa
 							- cộng sản chủ nghĩa
 							- Phương thức sản xuất sau phát triển cao hơn phương thức sản
+					-
