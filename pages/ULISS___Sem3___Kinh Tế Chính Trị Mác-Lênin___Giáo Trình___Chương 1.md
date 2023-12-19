@@ -15,6 +15,7 @@
 				- Sản xuất xã hội không ngừng vận động, phát triển và có lịch sử rất lâu dài.
 					- Dưới những góc độ xem xét khác nhau, tiến trình phát triển của sản xuất xã hội có thể được phân chia theo những tiêu thức khác nhau.
 						- Bằng phương pháp luận duy vật lịch sử, Karl Marx cho rằng
+						  collapsed:: true
 							- Sản xuất xã hội phát triển qua 5 phương thức sản xuất
 								- cộng sản nguyên thuỷ
 								- chiếm hữu nô lệ, phong kiến
@@ -25,14 +26,15 @@
 						- Quá trình phát triển của sản xuất xã hội còn được phân chia thành hai giai đoạn
 							- kinh tế tự nhiên
 							- kinh tế thị trường
-						- Cách phân chia này tạo điều kiện nghiên cứu, giải quyết nhiều vấn đề của nền kinh tế thị trường, tạo điều kiện thúc đẩy nền kinh tế thị trường phát triển.
-							- Đó là cách phân chia trong các lý thuyết kinh tế của
-								- A. Smith
-								- D. Ricardo
-								- học thuyết kinh tế của J. Keynes
-								- và rất nhiều lý thuyết của các nhà kinh tế khác
-								- học thuyết kinh tế Mác - Lênin cũng nghiên cứu
-									- quá trình phát triển của nền sản xuất từ kinh tế tự nhiên, sang sản xuất hàng hoá giản đơn, kinh tế thị trường tự do, đến kinh tế thị trường hiện đại.
+							- Cách phân chia này tạo điều kiện nghiên cứu, giải quyết nhiều vấn đề của nền kinh tế thị trường, tạo điều kiện thúc đẩy nền kinh tế thị trường phát triển.
+							  collapsed:: true
+								- Đó là cách phân chia trong các lý thuyết kinh tế của
+									- A. Smith
+									- D. Ricardo
+									- học thuyết kinh tế của J. Keynes
+									- và rất nhiều lý thuyết của các nhà kinh tế khác
+									- học thuyết kinh tế Mác - Lênin cũng nghiên cứu
+										- quá trình phát triển của nền sản xuất từ kinh tế tự nhiên, sang sản xuất hàng hoá giản đơn, kinh tế thị trường tự do, đến kinh tế thị trường hiện đại.
 						- A. Toffler chia tiến trình phát triển của sản xuất xã hội thành ba “làn sóng”
 							- làn sóng nông nghiệp
 							- làn sóng công nghiệp
