@@ -79,7 +79,19 @@
 								- khu vực I
 									- ngành nông nghiệp
 									- ngành lâm nghiệp
-									- Ngành ngư nghiệp
-									- khai khoáng; khu vực II bao gồm các ngành công nghiệp và xây dựng; khu vực III bao gồm các ngành dịch vụ như thương mại, du lịch, giao thông vận tải, ngân hàng, bảo hiểm, bưu chính, viễn thông... Tỷ trọng của các khu vực trong GDP là chỉ số quan trọng đánh giá trình độ phát triển của nền sản xuất xã hội. Khu vực I chiếm tỷ trọng càng nhỏ; khu vực II và III chiếm tỷ trọng càng lớn, nền sản xuất càng ít phụ thuộc vào tự nhiên, năng suất lao động xã hội và hiệu quả của nền sản xuất càng cao, trình độ phát triển của nền sản xuất càng cao. Đó là xu hướng chuyển dịch của cơ cấu ngành kinh tế theo hướng tiến bộ.
+									- ngành ngư nghiệp
+									- ngành khai khoáng
+								- khu vực II
+									- ngành công nghiệp và xây dựng
+								- khu vực III
+									- các ngành dịch vụ
+										- thương mại
+										- du lịch
+										- giao thông vận tải
+										- ngân hàng
+										- bảo hiểm
+										- bưu chính
+										- viễn thông
+								- Tỷ trọng của các khu vực trong GDP là chỉ số quan trọng đánh giá trình độ phát triển của nền sản xuất xã hội. Khu vực I chiếm tỷ trọng càng nhỏ; khu vực II và III chiếm tỷ trọng càng lớn, nền sản xuất càng ít phụ thuộc vào tự nhiên, năng suất lao động xã hội và hiệu quả của nền sản xuất càng cao, trình độ phát triển của nền sản xuất càng cao. Đó là xu hướng chuyển dịch của cơ cấu ngành kinh tế theo hướng tiến bộ.
 					- Tái sản xuất
 					- Để thoả mãn các nhu cầu của mình, con người phải tiến hành quá trình sản xuất. Nhu cầu của con người không ngừng thay đổi và đòi hỏi phải được thoả mãn thường xuyên nên sản xuất không thể chỉ tiến hành một lần, mà phải được thực hiện và đổi mới liên tục. Quá trình sản xuất được lặp đi, lặp lại và đổi mới không ngừng gọi là quá trình tái sản xuất.
