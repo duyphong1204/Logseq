@@ -193,7 +193,11 @@
 							- Tỷ lệ tiết kiệm và đầu tư trong GDP là những chỉ số trực tiếp tác động đến tốc độ tăng và đầu kinh tế.
 								- Vì thế, việc phân phối này một mặt do sản xuất quy định, mặt khác lại có tác động rất quan trọng đối với sản xuất.
 								- Chỉ khi định một khi phối đáp ứng được các nhu cầu của sản xuất thì quá trình sản xuất mới có thể tiếp tục và không ngừng mở rộng.
-						- Phân phối cho tiêu dùng không chỉ nhằm đáp ứng nhu cầu tiêu dùng Phản ảnh mà còn nhằm phục vụ cho sản xuất vì nó có tác dụng tài sản xuất sức lao động. Phân phối cho tiêu dùng do sản xuất quyết định vì người ta chỉ có thể phân phối những gì được sản xuất ra. Nhưng phân phối cho tiêu dùng lại tác động trở lại rất mạnh mẽ đến sản xuất vì tiêu dùng là mục đích của sản xuất. Phân phối cho tiêu dùng trực tiếp tác động đến sản xuất, kìm hãm hoặc thúc đẩy sản xuất phát triển Bởi vậy, sự công bằng trong phân phối cho tiêu dùng (phân phối thu nhập) không chỉ là mục tiêu xã hội mà còn là điều kiện của quá trình tái sản xuất.
+						- Phân phối cho tiêu dùng
+							- đáp ứng nhu cầu tiêu dùng cá nhân
+							- phục vụ cho sản xuất
+								- vì nó có tác dụng tái sản xuất sức lao động.
+						- Phân phối cho tiêu dùng do sản xuất quyết định vì người ta chỉ có thể phân phối những gì được sản xuất ra. Nhưng phân phối cho tiêu dùng lại tác động trở lại rất mạnh mẽ đến sản xuất vì tiêu dùng là mục đích của sản xuất. Phân phối cho tiêu dùng trực tiếp tác động đến sản xuất, kìm hãm hoặc thúc đẩy sản xuất phát triển Bởi vậy, sự công bằng trong phân phối cho tiêu dùng (phân phối thu nhập) không chỉ là mục tiêu xã hội mà còn là điều kiện của quá trình tái sản xuất.
 						  Phân phối cho tiêu dùng cũng được thực hiện dưới hình thức giả trị sử dụng và giá trị. Phân phối dưới hình thức giá trị sử dụng nhằm đáp ứng nhu cầu nhiều mặt của đời sống con người. Đa dạng hóa nâng cao chất lượng các loại giá trị sử dụng vừa là biểu hiện, vừa là đòi hỏi của quá trình phát triển kinh tế - xã hội. Phân phối dưới hình thức giá trị là phân chia kết quả của sản xuất cho các chủ thể kinh tế xã hội, trực tiếp hình thành thu nhập của họ. Với thu nhập có được các chủ thể kinh tế có thể mua các hàng hoá, dịch vụ phù hợp với nh cầu tiêu dùng cá nhân của mình và tích lũy mở rộng sản xuất.
 					- Trao đổi
 					  logseq.order-list-type:: number
