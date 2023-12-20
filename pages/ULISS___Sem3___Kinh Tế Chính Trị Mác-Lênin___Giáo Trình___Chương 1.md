@@ -201,8 +201,10 @@
 								- Người ta chỉ có thể phân phối những gì được sản xuất ra nhưng phân phối cho tiêu dùng lại tác động trở lại rất mạnh mẽ đến sản xuất
 									- vì tiêu dùng là mục đích của sản xuất
 							- Phân phối cho tiêu dùng trực tiếp tác động đến sản xuất, kìm hãm hoặc thúc đẩy sản xuất phát triển
-								- Bởi vậy, sự công bằng trong phân phối cho tiêu dùng (phân phối thu nhập) không chỉ là mục tiêu xã hội mà còn là điều kiện của quá trình tái sản xuất.
-								  Phân phối cho tiêu dùng cũng được thực hiện dưới hình thức giả trị sử dụng và giá trị. Phân phối dưới hình thức giá trị sử dụng nhằm đáp ứng nhu cầu nhiều mặt của đời sống con người. Đa dạng hóa nâng cao chất lượng các loại giá trị sử dụng vừa là biểu hiện, vừa là đòi hỏi của quá trình phát triển kinh tế - xã hội. Phân phối dưới hình thức giá trị là phân chia kết quả của sản xuất cho các chủ thể kinh tế xã hội, trực tiếp hình thành thu nhập của họ. Với thu nhập có được các chủ thể kinh tế có thể mua các hàng hoá, dịch vụ phù hợp với nh cầu tiêu dùng cá nhân của mình và tích lũy mở rộng sản xuất.
+								- Bởi vậy, sự công bằng trong phân phối cho tiêu dùng (phân phối thu nhập) là
+									- mục tiêu xã hội mà
+									- điều kiện của quá trình tái sản xuất.
+							- Phân phối cho tiêu dùng cũng được thực hiện dưới hình thức giả trị sử dụng và giá trị. Phân phối dưới hình thức giá trị sử dụng nhằm đáp ứng nhu cầu nhiều mặt của đời sống con người. Đa dạng hóa nâng cao chất lượng các loại giá trị sử dụng vừa là biểu hiện, vừa là đòi hỏi của quá trình phát triển kinh tế - xã hội. Phân phối dưới hình thức giá trị là phân chia kết quả của sản xuất cho các chủ thể kinh tế xã hội, trực tiếp hình thành thu nhập của họ. Với thu nhập có được các chủ thể kinh tế có thể mua các hàng hoá, dịch vụ phù hợp với nh cầu tiêu dùng cá nhân của mình và tích lũy mở rộng sản xuất.
 					- Trao đổi
 					  logseq.order-list-type:: number
 					- Tiêu dùng
