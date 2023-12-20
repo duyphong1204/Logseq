@@ -291,7 +291,8 @@
 					- Việc thực hiện trôi chảy từng khâu là điều kiện đảm bảo cho quá trình tái sản xuất có thể tiến hành một cách liên tục.
 	- ## 1.1.2. Vai trò của sản xuất xã hội
 		- ### Thỏa mãn các nhu cầu vật chất của con người
-			- Để tồn tại, trước hết con người cần được thỏa mãn các nhu c cơ bản, thiết yếu như ăn, mặc, ở. Xã hội càng phát triển, nhu c cơ bản, thiết càng cao, càng xuất hiện nhiều nhu cầu mới. Điều hiện chiền là, việc thỏa mãn các nhu cầu này phụ thuộc vào năng lực hiểnền sản xuất. Trình độ phát triển của nền sản xuất quyết đị mức độ, chất lượng và phương thức thỏa mãn các nhu cầu vật chất của con người.
+			- Để tồn tại, trước hết con người cần được thỏa mãn các nhu cầu cơ bản, thiết yếu
+				- ăn, mặc, ở. Xã hội càng phát triển, nhu c cơ bản, thiết càng cao, càng xuất hiện nhiều nhu cầu mới. Điều hiện chiền là, việc thỏa mãn các nhu cầu này phụ thuộc vào năng lực hiểnền sản xuất. Trình độ phát triển của nền sản xuất quyết đị mức độ, chất lượng và phương thức thỏa mãn các nhu cầu vật chất của con người.
 		- Trong cơ chế thị trường, các nhu cầu vật chất của con người được thỏa mãn thông qua thị trường. Nền kinh tế thị trường càng phát triển mức thu nhập của người dân càng cao; hàng hoá, dịch vụ càng già tăng về số lượng, đa dạng về chủng loại, chất lượng cao nên các nhu cầu vật chất của con người càng được thỏa mãn tốt hơn.
 		  collapsed:: true
 		  Cung ứng các điều kiện vật chất cho sự phát triển các mặt của đời sống kinh tế - xã hội
