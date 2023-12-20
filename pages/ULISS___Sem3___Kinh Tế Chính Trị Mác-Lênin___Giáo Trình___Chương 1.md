@@ -126,5 +126,9 @@
 					- Hiện nay, thuật ngữ “tăng trưởng kinh tế" được sử dụng rộng rãi trong khoa học kinh tế và trong đời sống.
 						- Tăng trưởng kinh tế được hiểu theo một số cách khác nhau nhưng về thực chất đó là sự gia tăng quy mô và nâng cao hiệu quả của nền sản xuất.
 						- Như vậy, tăng trưởng kinh tế và tài sản xuất mở rộng có cùng nội hàm.
-					- Tái sản xuất mở rộng hay tăng trưởng kinh tế được thực hiện bằng hai con đường chủ yếu: chiều rộng và chiều sâu. Tăng trưởng kinh tế theo chiều rộng tức là tăng trưởng kinh tế được thực hiện bằng cách đầu tư thêm tư liệu sản xuất và sức lao động, hay là nhờ vào sự gia tăng quy mô của các nguồn lực như: vốn, lao động, tài nguyên Tăng trưởng kinh tế theo chiều sâu được thực hiện bằng cách tăng năng suất lao động, mà chủ yếu dựa vào ứng dụng tiến bộ khoa học - công nghệ, năng cao tay nghề của người lao động, cải tiến tổ chức quản lý. Nói cách khác, tăng trưởng kinh tế theo chiều sâu được thực hiện bằng năng cao hiệu quả sử dụng các nguồn lực.
+					- Tái sản xuất mở rộng hay tăng trưởng kinh tế được thực hiện bằng hai con đường chủ yếu:
+						- chiều rộng
+							- Tăng trưởng kinh tế theo chiều rộng tức là tăng trưởng kinh tế được thực hiện bằng cách đầu tư thêm tư liệu sản xuất và sức lao động, hay là nhờ vào sự gia tăng quy mô của các nguồn lực như: vốn, lao động, tài nguyên
+						- chiều sâu
+					- Tăng trưởng kinh tế theo chiều sâu được thực hiện bằng cách tăng năng suất lao động, mà chủ yếu dựa vào ứng dụng tiến bộ khoa học - công nghệ, năng cao tay nghề của người lao động, cải tiến tổ chức quản lý. Nói cách khác, tăng trưởng kinh tế theo chiều sâu được thực hiện bằng năng cao hiệu quả sử dụng các nguồn lực.
 					  Đối với các nước nghèo và lạc hậu, tăng trưởng kinh tế theo chiều rồng là con đường phố biển vì tiềm năng về sức lao động, tài nguyên chưa được khai thác thác hết, trong khi đó trình độ khoa học - công
