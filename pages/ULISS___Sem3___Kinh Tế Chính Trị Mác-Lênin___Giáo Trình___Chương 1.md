@@ -298,10 +298,12 @@
 				  logseq.order-list-type:: number
 				- ở
 				  logseq.order-list-type:: number
-			- Xã hội càng phát triển, nhu cầu cơ bản, thiết yếu càng cao, càng xuất hiện nhiều nhu cầu mới.
+			- Xã hội càng phát triển
+				- nhu cầu cơ bản
+				- thiết yếu càng cao
+				- càng xuất hiện nhiều nhu cầu mới.
 				- Điều hiển nhiên là, việc thỏa mãn các nhu cầu này phụ thuộc vào năng lực của nền sản xuất.
 				- Trình độ phát triển của nền sản xuất quyết định mức độ, chất lượng và phương thức thỏa mãn các nhu cầu vật chất của con người.
-		- Trong cơ chế thị trường, các nhu cầu vật chất của con người được thỏa mãn thông qua thị trường. Nền kinh tế thị trường càng phát triển mức thu nhập của người dân càng cao; hàng hoá, dịch vụ càng già tăng về số lượng, đa dạng về chủng loại, chất lượng cao nên các nhu cầu vật chất của con người càng được thỏa mãn tốt hơn.
-		  collapsed:: true
-		  Cung ứng các điều kiện vật chất cho sự phát triển các mặt của đời sống kinh tế - xã hội
-		  Đời sống kinh tế - xã hội bao gồm nhiều lĩnh vực khác nhau: kinh tế, chính trị, tôn giáo, khoa học, nghệ thuật, giáo dục, quân sự, thể dụ thể thao... Mỗi lĩnh vực hoạt động có tính độc lập tương đối nhưng đều có quan hệ chặt chẽ với sự phát triển của nền sản xuất xã hội. Sản
+			- Trong cơ chế thị trường, các nhu cầu vật chất của con người được thỏa mãn thông qua thị trường. Nền kinh tế thị trường càng phát triển mức thu nhập của người dân càng cao; hàng hoá, dịch vụ càng già tăng về số lượng, đa dạng về chủng loại, chất lượng cao nên các nhu cầu vật chất của con người càng được thỏa mãn tốt hơn.
+				- Cung ứng các điều kiện vật chất cho sự phát triển các mặt của đời sống kinh tế - xã hội
+				  Đời sống kinh tế - xã hội bao gồm nhiều lĩnh vực khác nhau: kinh tế, chính trị, tôn giáo khoa học, nghệ thuật, giáo dục, quân sự, thể dụ thể thao... Mỗi lĩnh vực hoạt động có tính độc lập tương đối nhưng đều có quan hệ chặt chẽ với sự phát triển của nền sản xuất xã hội. Sản
