@@ -226,6 +226,10 @@
 					- Tiêu dùng
 					  logseq.order-list-type:: number
 						- Tiêu dùng bao gồm tiêu dùng cá nhân và tiêu dùng cho sản xuất.
-						- Tiêu dùng do sản xuất quyết định vì tiêu dùng là quá trình sử dụng kết quả của sản xuất. Do đó, mức tiêu dùng của xã hội phụ thuộc vào trình độ phát triển sản xuất xã hội. Theo quan điểm của chủ nghĩa Mác - Lênin, mức tiêu dùng của xã hội không được vượt quá trình độ phát triển mà xã hội đạt được. Vì vậy, phải tiết kiệm tiêu dùng, coi “tiết kiệm là quốc sách”.
+						- Tiêu dùng do sản xuất quyết định
+							- tiêu dùng là quá trình sử dụng kết quả của sản xuất
+							- Do đó, mức tiêu dùng của xã hội phụ thuộc vào trình độ phát triển sản xuất xã hội
+							- Theo quan điểm của chủ nghĩa Mác - Lênin, mức tiêu dùng của xã hội không được vượt quá trình độ phát triển mà xã hội đạt được.
+								- Vì vậy, phải tiết kiệm tiêu dùng, coi “tiết kiệm là quốc sách”.
 					- Mỗi khâu có vai trò, vị trí riêng
 					- Việc thực hiện trôi chảy từng khâu là điều kiện đảm bảo cho quá trình tái sản xuất có thể tiến hành một cách liên tục.
