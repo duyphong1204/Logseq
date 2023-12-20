@@ -182,6 +182,8 @@
 						- Tiêu dùng cá nhân đòi hỏi có các tư liệu tiêu dùng phù hợp.
 							- Do đó, sản xuất phải đáp ứng nhu cầu về tư liệu tiêu dùng, tư liệu sản xuất không chỉ về số lượng, chất lượng mà cả về cơ cấu
 							- Giữa tư liệu sản xuất và tư liệu tiêu dùng cũng phải có một tỷ lệ phù hợp mới có thể đảm bảo cho quá trình tái sản xuất được thực hiện bình thường.
+						- Trong cơ chế thị trường, quá trình sản xuất ra giá trị sử dụng đồng thời là quá trình sản xuất ra giá trị.
+							- Do đó, các chủ thể kinh tế vừa phải quan tâm đến giá trị sử dụng, vừa phải quan tâm đến giá trị.
 					- Phân phối
 					  logseq.order-list-type:: number
 					- Trao đổi
@@ -190,4 +192,3 @@
 					  logseq.order-list-type:: number
 					- Mỗi khâu có vai trò, vị trí riêng
 					- Việc thực hiện trôi chảy từng khâu là điều kiện đảm bảo cho quá trình tái sản xuất có thể tiến hành một cách liên tục.
-				- Trong cơ chế thị trường, quá trình sản xuất ra giá trị sử dụng đồng thời là quá trình sản xuất ra giá trị. Do đó, các chủ thể kinh tế vừa phải quan tâm đến giá trị sử dụng, vừa phải quan tâm đến giá trị.
