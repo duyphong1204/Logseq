@@ -212,6 +212,7 @@
 										- Với thu nhập có được các chủ thể kinh tế có thể mua các hàng hoá, dịch vụ phù hợp với nhu cầu tiêu dùng cá nhân của mình và tích lũy mở rộng sản xuất.
 					- Trao đổi
 					  logseq.order-list-type:: number
+						- logseq.order-list-type:: number
 					- Tiêu dùng
 					  logseq.order-list-type:: number
 					- Mỗi khâu có vai trò, vị trí riêng
