@@ -239,7 +239,6 @@
 								- thông tin thị trường
 								- xúc tiến thương mại
 								- hiện đại hoá giao thông vận tải...
-						- Tiêu dùng
 					- Tiêu dùng
 					  logseq.order-list-type:: number
 						- Tiêu dùng bao gồm tiêu dùng cá nhân và tiêu dùng cho sản xuất.
