@@ -171,7 +171,7 @@
 						- Đối với các nước nghèo và lạc hậu, tăng trưởng kinh tế theo chiều rộng là con đường phố biển vì tiềm năng về sức lao động, tài nguyên chưa được khai thác thác hết, trong khi đó trình độ khoa học - công nghệ rất thấp
 						- Trong điều kiện kinh tế thị trường, cạnh tranh toàn cầu ngày càng quyết liệt và vì nhiều lí do khác nhau, tăng trưởng kinh tế theo chiều sâu trở htành tất yếu đối với nhiều quốc gia, trong đó có Việt Nam
 						- Cuộc cách mạng công nghiệp lần thứ tư đạt ra nhiều thách thức nhưng là cơ hội to lớn để đất nước ta chuyển đổi mô hình tăng trưởng từ rộng sang sâu
-			- **Các khâu của quá trình tái sản xuất**
+			- ***Các khâu của quá trình tái sản xuất***
 				- Quá trình tái sản xuất có 4 khâu
 					- Sản xuất
 					  logseq.order-list-type:: number
@@ -205,7 +205,7 @@
 									- Bởi vậy, sự công bằng trong phân phối cho tiêu dùng (phân phối thu nhập) là
 										- mục tiêu xã hội
 										- điều kiện của quá trình tái sản xuất
-								- Phân phối cho tiêu dùng cũng được thực hiện dưới hình thức giả trị sử dụng và giá trị. Phân phối dưới hình thức giá trị sử dụng nhằm đáp ứng nhu cầu nhiều mặt của đời sống con người. Đa dạng hóa nâng cao chất lượng các loại giá trị sử dụng vừa là biểu hiện, vừa là đòi hỏi của quá trình phát triển kinh tế - xã hội. Phân phối dưới hình thức giá trị là phân chia kết quả của sản xuất cho các chủ thể kinh tế xã hội, trực tiếp hình thành thu nhập của họ. Với thu nhập có được các chủ thể kinh tế có thể mua các hàng hoá, dịch vụ phù hợp với nh cầu tiêu dùng cá nhân của mình và tích lũy mở rộng sản xuất.
+								- Phân phối cho tiêu dùng cũng được thực hiện dưới hình thức giá trị sử dụng và giá trị. Phân phối dưới hình thức giá trị sử dụng nhằm đáp ứng nhu cầu nhiều mặt của đời sống con người. Đa dạng hóa nâng cao chất lượng các loại giá trị sử dụng vừa là biểu hiện, vừa là đòi hỏi của quá trình phát triển kinh tế - xã hội. Phân phối dưới hình thức giá trị là phân chia kết quả của sản xuất cho các chủ thể kinh tế xã hội, trực tiếp hình thành thu nhập của họ. Với thu nhập có được các chủ thể kinh tế có thể mua các hàng hoá, dịch vụ phù hợp với nh cầu tiêu dùng cá nhân của mình và tích lũy mở rộng sản xuất.
 					- Trao đổi
 					  logseq.order-list-type:: number
 					- Tiêu dùng
