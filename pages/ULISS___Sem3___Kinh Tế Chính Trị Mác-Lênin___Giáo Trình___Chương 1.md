@@ -249,3 +249,4 @@
 								- Vì vậy, phải tiết kiệm tiêu dùng, coi “tiết kiệm là quốc sách”.
 					- Mỗi khâu có vai trò, vị trí riêng
 					- Việc thực hiện trôi chảy từng khâu là điều kiện đảm bảo cho quá trình tái sản xuất có thể tiến hành một cách liên tục.
+-
