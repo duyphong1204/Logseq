@@ -212,7 +212,13 @@
 										- Với thu nhập có được các chủ thể kinh tế có thể mua các hàng hoá, dịch vụ phù hợp với nhu cầu tiêu dùng cá nhân của mình và tích lũy mở rộng sản xuất.
 					- Trao đổi
 					  logseq.order-list-type:: number
-						- logseq.order-list-type:: number
+						- Phân công lao động xã hội và tính chất tư nhân của sản xuất làm cho trao đổi sản phẩm trở thành tất yếu.
+						- Quá trình trao đổi, mặc dù không tạo ra giá trị sử dụng nhưng có vai trò đặc biệt quan trọng đối với quá trình tái sản xuất
+							- bởi vì chỉ sau khi trao đổi, hàng hoá mới đi vào tiêu dùng, tái sản xuất được sức lao động; người sản xuất mới thu hồi được các chi phí, khôi phục các yếu tố sản xuất và có thể tiếp tục quá trình sản xuất.
+							  Quá trình trao đổi trực tiếp chịu sự chỉ phối của các quy luật thị trường, như quy luật giá trị, quy luật cạnh tranh, quy luật cung - cầu... Chỉ trong trao đổi, người sản xuất mới biết sản phẩm của họ có phủ hợp với nhu cầu của người mua hay không về số lượng, chất lượng, giá cả, kiểu dáng... Có thể nói rằng, trong trao đổi, quan hệ giữa các chủ thể mới được bộc lộ một cách trực tiếp và đầy đủ.
+						- Do tầm quan trọng của trao đổi, người sản xuất không thể chỉ quan tâm đến sản xuất, không thể "bán cái mình có”, mà phải “bản cái thị trường cần”. Vì thế, người sản xuất cần phải làm rất nhiều việc: nghiên cứu nhu cầu, thị hiếu của khách hàng; nâng cao chất lượng hàng hoá, dịch vụ; giảm chi phí, giảm giá... Nhà nước cần hỗ trợ doanh nghiệp về thông tin thị trường, xúc tiến thương mại, hiện đại hoá giao thông vận tải...
+						- Tiêu dùng
+						  Tiêu dùng bao gồm tiêu dùng cá nhân và tiêu dùng cho sản xuất. Tiêu dùng do sản xuất quyết định vì tiêu dùng là quá trình sử dụng kết quả của sản xuất. Do đó, mức tiêu dùng của xã hội phụ thuộc vào trình độ phát triển sản xuất xã hội. Theo quan điểm của chủ nghĩa Mác - Lênin, mức tiêu dùng của xã hội không được vượt quá trình độ phát triển mà xã hội đạt được. Vì vậy, phải tiết kiệm tiêu dùng, coi “tiết kiệm là quốc sách”.
 					- Tiêu dùng
 					  logseq.order-list-type:: number
 					- Mỗi khâu có vai trò, vị trí riêng
