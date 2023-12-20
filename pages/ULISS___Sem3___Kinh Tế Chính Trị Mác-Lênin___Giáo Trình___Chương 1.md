@@ -114,42 +114,61 @@
 					- do nhu cầu của con người không ngừng thay đổi và đòi hỏi phải được thoả mãn thường xuyên
 				- Quá trình sản xuất được lặp đi, lặp lại và đổi mới không ngừng gọi là quá trình tái sản xuất.
 				- Tái sản xuất có thể được xem xét trên những phạm vi khác nhau.
+				  collapsed:: true
 					- Tái sản xuất diễn ra trên phạm vi doanh nghiệp được gọi là tái sản xuất cá biệt
 					- Tái sản xuất diễn ra trên phạm vi xã hội gọi là tái sản xuất xã hội
+					  collapsed:: true
 						- Tái sản xuất xã hội bao gồm tái sản xuất cá biệt nhưng không phải là tổng số giản đơn của tái sản xuất cả biệt, mà là tổng thể tái sản xuất cá biệt trong mối liên hệ hữu cơ với nhau.
 					- Tải sản xuất có thể khác biệt về quy mô
+					  collapsed:: true
 						- tua lại với quy mô như cũ gọi là tài sản xuất giản đơn
 						- lặp lại với quy mô lớn hơn trước gọi là tái sản xuất mở rộng
 					- Xã hội chỉ có thể phát triển trên cơ sở tái sản xuất mở rộng
+					  collapsed:: true
 						- Tốc độ cao của tái sản xuất mở rộng là điều kiện cần để cải thiện và nâng cao đời sống của dân cư, nhất trên các mặt của đời sống kinh tế - xã hội.
+						  collapsed:: true
 							- Bởi vậy, tái sản xuất mở rộng trở thành mối quan tâm hàng đầu của các quốc gia, dân tộc.
 					- Hiện nay, thuật ngữ “tăng trưởng kinh tế" được sử dụng rộng rãi trong khoa học kinh tế và trong đời sống.
+					  collapsed:: true
 						- Tăng trưởng kinh tế được hiểu theo một số cách khác nhau nhưng về thực chất đó là sự gia tăng quy mô và nâng cao hiệu quả của nền sản xuất.
 						- Như vậy, tăng trưởng kinh tế và tài sản xuất mở rộng có cùng nội hàm.
 					- Tái sản xuất mở rộng hay tăng trưởng kinh tế được thực hiện bằng hai con đường chủ yếu:
+					  collapsed:: true
 						- chiều rộng
 						  logseq.order-list-type:: number
 						  collapsed:: true
 							- Tăng trưởng kinh tế theo chiều rộng tức là tăng trưởng kinh tế được thực hiện bằng cách
+							  collapsed:: true
 								- đầu tư thêm tư liệu sản xuất và sức lao động
 								- là nhờ vào sự gia tăng quy mô của các nguồn lực
+								  collapsed:: true
 									- vốn
 									  logseq.order-list-type:: number
+									  collapsed:: true
 									- lao động
 									  logseq.order-list-type:: number
+									  collapsed:: true
 									- tài nguyên
 									  logseq.order-list-type:: number
+									  collapsed:: true
 						- chiều sâu
 						  logseq.order-list-type:: number
+						  collapsed:: true
 							- Tăng trưởng kinh tế theo chiều sâu được thực hiện bằng cách tăng năng suất lao động
+							  collapsed:: true
 								- chủ yếu dựa vào
+								  collapsed:: true
 									- ứng dụng tiến bộ khoa học - công nghệ
 									  logseq.order-list-type:: number
+									  collapsed:: true
 									- năng cao tay nghề của người lao động
 									  logseq.order-list-type:: number
+									  collapsed:: true
 									- cải tiến tổ chức quản lý
 									  logseq.order-list-type:: number
+									  collapsed:: true
 									- Nói cách khác, tăng trưởng kinh tế theo chiều sâu được thực hiện bằng năng cao hiệu quả sử dụng các nguồn lực.
 						- Đối với các nước nghèo và lạc hậu, tăng trưởng kinh tế theo chiều rộng là con đường phố biển vì tiềm năng về sức lao động, tài nguyên chưa được khai thác thác hết, trong khi đó trình độ khoa học - công nghệ rất thấp
 						- Trong điều kiện kinh tế thị trường, cạnh tranh toàn cầu ngày càng quyết liệt và vì nhiều lí do khác nhau, tăng trưởng kinh tế theo chiều sâu trở htành tất yếu đối với nhiều quốc gia, trong đó có Việt Nam
 						- Cuộc cách mạng công nghiệp lần thứ tư đạt ra nhiều thách thức nhưng là cơ hội to lớn để đất nước ta chuyển đổi mô hình tăng trưởng từ rộng sang sâu
+			- B
