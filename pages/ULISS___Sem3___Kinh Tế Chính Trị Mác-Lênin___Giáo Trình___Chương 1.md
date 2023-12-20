@@ -220,7 +220,15 @@
 							- người sản xuất mới thu hồi được các chi phí
 								- khôi phục các yếu tố sản xuất
 									- có thể tiếp tục quá trình sản xuất.
-						- Quá trình trao đổi trực tiếp chịu sự chỉ phối của các quy luật thị trường, như quy luật giá trị, quy luật cạnh tranh, quy luật cung - cầu... Chỉ trong trao đổi, người sản xuất mới biết sản phẩm của họ có phủ hợp với nhu cầu của người mua hay không về số lượng, chất lượng, giá cả, kiểu dáng... Có thể nói rằng, trong trao đổi, quan hệ giữa các chủ thể mới được bộc lộ một cách trực tiếp và đầy đủ.
+						- Quá trình trao đổi trực tiếp chịu sự chỉ phối của các quy luật thị trường
+							- quy luật giá trị
+							- quy luật cạnh tranh
+							- quy luật cung - cầu...
+							- Chỉ trong trao đổi, người sản xuất mới biết sản phẩm của họ có phủ hợp với nhu cầu của người mua hay không
+								- số lượng
+								- chất lượng
+								- giá cả
+								- kiểu dáng... Có thể nói rằng, trong trao đổi, quan hệ giữa các chủ thể mới được bộc lộ một cách trực tiếp và đầy đủ.
 						- Do tầm quan trọng của trao đổi, người sản xuất không thể chỉ quan tâm đến sản xuất, không thể "bán cái mình có”, mà phải “bản cái thị trường cần”. Vì thế, người sản xuất cần phải làm rất nhiều việc: nghiên cứu nhu cầu, thị hiếu của khách hàng; nâng cao chất lượng hàng hoá, dịch vụ; giảm chi phí, giảm giá... Nhà nước cần hỗ trợ doanh nghiệp về thông tin thị trường, xúc tiến thương mại, hiện đại hoá giao thông vận tải...
 						- Tiêu dùng
 					- Tiêu dùng
