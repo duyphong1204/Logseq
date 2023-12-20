@@ -176,7 +176,9 @@
 					- sản xuất
 					- phân phối
 					- trao đổi
-					- tiêu dùng. Mỗi khâu có vai trò, vị trí riêng và việc thực hiện trôi chảy từng khâu là điều kiện đảm bảo cho quá trình tái sản xuất có thể tiến hành một cách liên tục.
+					- tiêu dùng
+					- Mỗi khâu có vai trò, vị trí riêng
+					- Việc thực hiện trôi chảy từng khâu là điều kiện đảm bảo cho quá trình tái sản xuất có thể tiến hành một cách liên tục.
 				- Sản xuất
 				- Sản xuất là sự kết hợp giữa tư liệu sản xuất và sức lao động (hay là sự kết hợp các nguồn lực) nhằm tạo ra của cải vật chất, về hiện vật bao gồm tư liệu sản xuất và tư liệu tiêu dùng. Do đó, sản xuất không chỉ có ý nghĩa quyết định đối với tiêu dùng, mà còn có ý nghĩa quyết định đối với quy mô của sản xuất ở chu kỳ tiếp theo.
 				- Là sự kết hợp tư liệu sản xuất và sức lao động, sản xuất đòi hỏi không những phải có tư liệu sản xuất mà còn phải có sức lao động. Bởi vậy, tiêu dùng cá nhân với mục đích tái tạo khả năng lao động của con người có vai trò hết sức quan trọng đối với sản xuất.
