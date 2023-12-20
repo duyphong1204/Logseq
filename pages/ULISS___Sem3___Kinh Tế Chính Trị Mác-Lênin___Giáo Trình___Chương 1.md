@@ -171,4 +171,14 @@
 						- Đối với các nước nghèo và lạc hậu, tăng trưởng kinh tế theo chiều rộng là con đường phố biển vì tiềm năng về sức lao động, tài nguyên chưa được khai thác thác hết, trong khi đó trình độ khoa học - công nghệ rất thấp
 						- Trong điều kiện kinh tế thị trường, cạnh tranh toàn cầu ngày càng quyết liệt và vì nhiều lí do khác nhau, tăng trưởng kinh tế theo chiều sâu trở htành tất yếu đối với nhiều quốc gia, trong đó có Việt Nam
 						- Cuộc cách mạng công nghiệp lần thứ tư đạt ra nhiều thách thức nhưng là cơ hội to lớn để đất nước ta chuyển đổi mô hình tăng trưởng từ rộng sang sâu
-			- B
+			- **Các khâu của quá trình tái sản xuất**
+				- Quá trình tái sản xuất có 4 khâu
+					- sản xuất
+					- phân phối
+					- trao đổi
+					- tiêu dùng. Mỗi khâu có vai trò, vị trí riêng và việc thực hiện trôi chảy từng khâu là điều kiện đảm bảo cho quá trình tái sản xuất có thể tiến hành một cách liên tục.
+				- Sản xuất
+				- Sản xuất là sự kết hợp giữa tư liệu sản xuất và sức lao động (hay là sự kết hợp các nguồn lực) nhằm tạo ra của cải vật chất, về hiện vật bao gồm tư liệu sản xuất và tư liệu tiêu dùng. Do đó, sản xuất không chỉ có ý nghĩa quyết định đối với tiêu dùng, mà còn có ý nghĩa quyết định đối với quy mô của sản xuất ở chu kỳ tiếp theo.
+				- Là sự kết hợp tư liệu sản xuất và sức lao động, sản xuất đòi hỏi không những phải có tư liệu sản xuất mà còn phải có sức lao động. Bởi vậy, tiêu dùng cá nhân với mục đích tái tạo khả năng lao động của con người có vai trò hết sức quan trọng đối với sản xuất.
+				- Tiêu dùng cá nhân đòi hỏi có các tư liệu tiêu dùng phù hợp. Do đó, sản xuất phải đáp ứng nhu cầu về tư liệu tiêu dùng, tư liệu sản xuất không chỉ về số lượng, chất lượng mà cả về cơ cấu; giữa tư liệu sản xuất và tư liệu tiêu dùng cũng phải có một tỷ lệ phù hợp mới có thể đảm bảo cho quá trình tái sản xuất được thực hiện bình thường.
+				- Trong cơ chế thị trường, quá trình sản xuất ra giá trị sử dụng đồng thời là quá trình sản xuất ra giá trị. Do đó, các chủ thể kinh tế vừa phải quan tâm đến giá trị sử dụng, vừa phải quan tâm đến giá trị.
