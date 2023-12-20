@@ -128,6 +128,8 @@
 						- Như vậy, tăng trưởng kinh tế và tài sản xuất mở rộng có cùng nội hàm.
 					- Tái sản xuất mở rộng hay tăng trưởng kinh tế được thực hiện bằng hai con đường chủ yếu:
 						- chiều rộng
+						  logseq.order-list-type:: number
+						  collapsed:: true
 							- Tăng trưởng kinh tế theo chiều rộng tức là tăng trưởng kinh tế được thực hiện bằng cách
 								- đầu tư thêm tư liệu sản xuất và sức lao động
 								- là nhờ vào sự gia tăng quy mô của các nguồn lực
@@ -138,6 +140,7 @@
 									- tài nguyên
 									  logseq.order-list-type:: number
 						- chiều sâu
+						  logseq.order-list-type:: number
 							- Tăng trưởng kinh tế theo chiều sâu được thực hiện bằng cách tăng năng suất lao động
 								- chủ yếu dựa vào
 									- ứng dụng tiến bộ khoa học - công nghệ
@@ -149,4 +152,4 @@
 									- Nói cách khác, tăng trưởng kinh tế theo chiều sâu được thực hiện bằng năng cao hiệu quả sử dụng các nguồn lực.
 						- Đối với các nước nghèo và lạc hậu, tăng trưởng kinh tế theo chiều rộng là con đường phố biển vì tiềm năng về sức lao động, tài nguyên chưa được khai thác thác hết, trong khi đó trình độ khoa học - công nghệ rất thấp
 						- Trong điều kiện kinh tế thị trường, cạnh tranh toàn cầu ngày càng quyết liệt và vì nhiều lí do khác nhau, tăng trưởng kinh tế theo chiều sâu trở htành tất yếu đối với nhiều quốc gia, trong đó có Việt Nam
-						- Cuộc cách mạng công nghiệp lần thứ tư đạt ra nhiều thách thức nhưng là cơ hội to lớn để đất nước ta chuyển đổi mô hình tăng trưởng
+						- Cuộc cách mạng công nghiệp lần thứ tư đạt ra nhiều thách thức nhưng là cơ hội to lớn để đất nước ta chuyển đổi mô hình tăng trưởng từ rộng sang sâu
