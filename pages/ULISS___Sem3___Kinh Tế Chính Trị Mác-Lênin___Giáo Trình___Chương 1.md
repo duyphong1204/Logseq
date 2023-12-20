@@ -175,86 +175,124 @@
 				- Quá trình tái sản xuất có 4 khâu
 					- Sản xuất
 					  logseq.order-list-type:: number
+					  collapsed:: true
 						- Sản xuất là sự kết hợp giữa tư liệu sản xuất và sức lao động (hay là sự kết hợp các nguồn lực) nhằm tạo ra của cải vật chất, về hiện vật bao gồm tư liệu sản xuất và tư liệu tiêu dùng.
+						  collapsed:: true
 							- Do đó, sản xuất không chỉ có ý nghĩa quyết định đối với tiêu dùng, mà còn có ý nghĩa quyết định đối với quy mô của sản xuất ở chu kỳ tiếp theo.
 						- Là sự kết hợp tư liệu sản xuất và sức lao động, sản xuất đòi hỏi không những phải có tư liệu sản xuất mà còn phải có sức lao động.
+						  collapsed:: true
 							- Bởi vậy, tiêu dùng cá nhân với mục đích tái tạo khả năng lao động của con người có vai trò hết sức quan trọng đối với sản xuất.
 						- Tiêu dùng cá nhân đòi hỏi có các tư liệu tiêu dùng phù hợp.
+						  collapsed:: true
 							- Do đó, sản xuất phải đáp ứng nhu cầu về tư liệu tiêu dùng, tư liệu sản xuất không chỉ về số lượng, chất lượng mà cả về cơ cấu
 							- Giữa tư liệu sản xuất và tư liệu tiêu dùng cũng phải có một tỷ lệ phù hợp mới có thể đảm bảo cho quá trình tái sản xuất được thực hiện bình thường.
 						- Trong cơ chế thị trường, quá trình sản xuất ra giá trị sử dụng đồng thời là quá trình sản xuất ra giá trị.
+						  collapsed:: true
 							- Do đó, các chủ thể kinh tế vừa phải quan tâm đến giá trị sử dụng, vừa phải quan tâm đến giá trị.
 						- Ngày nay, những người sản xuất phải tìm cách tạo ra giá trị gia tăng cao, tham gia vào chuỗi giá trị toàn cầu
 					- Phân phối
 					  logseq.order-list-type:: number
+					  collapsed:: true
 						- Kết quả của sản xuất được phân phối cho sản xuất và cho tiêu dùng.
+						  collapsed:: true
 							- Phân phối cho sản xuất
+							  collapsed:: true
 								- là sự phân chia các yếu tố sản xuất cho các ngành, các cơ sở sản xuất.
 								- Trong cơ chế thị trường, phân phối cho sản xuất còn được xem xét cả về phương diện giá trị.
+								  collapsed:: true
 									- Tỷ lệ tiết kiệm và đầu tư trong GDP là những chỉ số trực tiếp tác động đến tốc độ tăng và đầu kinh tế.
+									  collapsed:: true
 										- Vì thế, việc phân phối này một mặt do sản xuất quy định, mặt khác lại có tác động rất quan trọng đối với sản xuất.
 										- Chỉ khi định một khi phối đáp ứng được các nhu cầu của sản xuất thì quá trình sản xuất mới có thể tiếp tục và không ngừng mở rộng.
 							- Phân phối cho tiêu dùng
+							  collapsed:: true
 								- đáp ứng nhu cầu tiêu dùng cá nhân
 								- phục vụ cho sản xuất
+								  collapsed:: true
 									- vì nó có tác dụng tái sản xuất sức lao động.
 								- Phân phối cho tiêu dùng do sản xuất quyết định
+								  collapsed:: true
 									- Người ta chỉ có thể phân phối những gì được sản xuất ra nhưng phân phối cho tiêu dùng lại tác động trở lại rất mạnh mẽ đến sản xuất
+									  collapsed:: true
 										- vì tiêu dùng là mục đích của sản xuất
 								- Phân phối cho tiêu dùng trực tiếp tác động đến sản xuất, kìm hãm hoặc thúc đẩy sản xuất phát triển
+								  collapsed:: true
 									- Bởi vậy, sự công bằng trong phân phối cho tiêu dùng (phân phối thu nhập) là
+									  collapsed:: true
 										- mục tiêu xã hội
 										- điều kiện của quá trình tái sản xuất
 								- Phân phối cho tiêu dùng cũng được thực hiện dưới hình thức giá trị sử dụng và giá trị
+								  collapsed:: true
 									- Phân phối dưới hình thức giá trị sử dụng nhằm đáp ứng nhu cầu nhiều mặt của đời sống con người
+									  collapsed:: true
 										- Đa dạng hóa nâng cao chất lượng các loại giá trị sử dụng vừa là biểu hiện, vừa là đòi hỏi của quá trình phát triển kinh tế - xã hội.
 									- Phân phối dưới hình thức giá trị là phân chia kết quả của sản xuất cho các chủ thể kinh tế xã hội, trực tiếp hình thành thu nhập của họ.
+									  collapsed:: true
 										- Với thu nhập có được các chủ thể kinh tế có thể mua các hàng hoá, dịch vụ phù hợp với nhu cầu tiêu dùng cá nhân của mình và tích lũy mở rộng sản xuất.
 					- Trao đổi
 					  logseq.order-list-type:: number
+					  collapsed:: true
 						- Phân công lao động xã hội và tính chất tư nhân của sản xuất làm cho trao đổi sản phẩm trở thành tất yếu.
 						- Quá trình trao đổi, mặc dù không tạo ra giá trị sử dụng nhưng có vai trò đặc biệt quan trọng đối với quá trình tái sản xuất
+						  collapsed:: true
 							- bởi vì chỉ sau khi trao đổi,
+							  collapsed:: true
 								- hàng hoá mới đi vào tiêu dùng
+								  collapsed:: true
 									- tái sản xuất được sức lao động;
 							- người sản xuất mới thu hồi được các chi phí
+							  collapsed:: true
 								- khôi phục các yếu tố sản xuất
+								  collapsed:: true
 									- có thể tiếp tục quá trình sản xuất.
 						- Quá trình trao đổi trực tiếp chịu sự chỉ phối của các quy luật thị trường
+						  collapsed:: true
 							- quy luật giá trị
 							- quy luật cạnh tranh
 							- quy luật cung - cầu...
 							- Chỉ trong trao đổi, người sản xuất mới biết sản phẩm của họ có phủ hợp với nhu cầu của người mua hay không
+							  collapsed:: true
 								- số lượng
 								- chất lượng
 								- giá cả
 								- kiểu dáng... Có thể nói rằng, trong trao đổi, quan hệ giữa các chủ thể mới được bộc lộ một cách trực tiếp và đầy đủ.
 						- Do tầm quan trọng của trao đổi, người sản xuất không thể chỉ quan tâm đến sản xuất, không thể "bán cái mình có”, mà phải “bản cái thị trường cần”.
+						  collapsed:: true
 							- Vì thế, người sản xuất cần phải làm rất nhiều việc
+							  collapsed:: true
 								- nghiên cứu nhu cầu
 								- thị hiếu của khách hàng
 								- nâng cao chất lượng hàng hoá, dịch vụ
 								- giảm chi phí, giảm giá...
 							- Nhà nước cần hỗ trợ doanh nghiệp
+							  collapsed:: true
 								- thông tin thị trường
 								- xúc tiến thương mại
 								- hiện đại hoá giao thông vận tải...
 					- Tiêu dùng
 					  logseq.order-list-type:: number
+					  collapsed:: true
 						- Tiêu dùng bao gồm tiêu dùng cá nhân và tiêu dùng cho sản xuất.
 						- Tiêu dùng do sản xuất quyết định
+						  collapsed:: true
 							- tiêu dùng là quá trình sử dụng kết quả của sản xuất
 							- Do đó, mức tiêu dùng của xã hội phụ thuộc vào trình độ phát triển sản xuất xã hội
 							- Theo quan điểm của chủ nghĩa Mác - Lênin, mức tiêu dùng của xã hội không được vượt quá trình độ phát triển mà xã hội đạt được.
+							  collapsed:: true
 								- Vì vậy, phải tiết kiệm tiêu dùng, coi “tiết kiệm là quốc sách”.
-						- Nhưng tiêu dùng còn là mục đích của sản xuất nên không có tiêu dùng thì cũng không có sản xuất.
-							- Tiêu dùng còn có tác dụng tái sản xuất sức lao động
-								- một yếu tố cơ bản của quá trình sản xuất.
-								- Vì vậy mở rộng tiêu dùng hợp lý, "kích cầu" lại trở thành giải pháp kích thích nền kinh tế tăng trưởng. Do đó, quan tâm đến tiêu dùng không chỉ vì con người, mà còn là chăm lo cho sản xuất và tải sản xuất,
+						- Nhưng tiêu dùng còn là mục đích của sản xuất
+						  collapsed:: true
+							- không có tiêu dùng thì cũng không có sản xuất.
+						- Tiêu dùng có tác dụng tái sản xuất sức lao động
+						  collapsed:: true
+							- một yếu tố cơ bản của quá trình sản xuất.
+							- Vì vậy mở rộng tiêu dùng hợp lý, "kích cầu" lại trở thành giải pháp kích thích nền kinh tế tăng trưởng.
+							- Do đó, quan tâm đến tiêu dùng không chỉ vì con người, mà còn là chăm lo cho sản xuất và tải sản xuất
 						- 1.1.2. Vai trò của sản xuất xã hội
 						- Thỏa mãn các nhu cầu vật chất của con người
 						- Để tồn tại, trước hết con người cần được thỏa mãn các nhu c cơ bản, thiết yếu như ăn, mặc, ở. Xã hội càng phát triển, nhu c cơ bản, thiết càng cao, càng xuất hiện nhiều nhu cầu mới. Điều hiện chiền là, việc thỏa mãn các nhu cầu này phụ thuộc vào năng lực hiểnền sản xuất. Trình độ phát triển của nền sản xuất quyết đị mức độ, chất lượng và phương thức thỏa mãn các nhu cầu vật chất của con người.
 						- Trong cơ chế thị trường, các nhu cầu vật chất của con người được thỏa mãn thông qua thị trường. Nền kinh tế thị trường càng phát triển mức thu nhập của người dân càng cao; hàng hoá, dịch vụ càng già tăng về số lượng, đa dạng về chủng loại, chất lượng cao nên các nhu cầu vật chất của con người càng được thỏa mãn tốt hơn.
+						  collapsed:: true
 						  Cung ứng các điều kiện vật chất cho sự phát triển các mặt của đời sống kinh tế - xã hội
 						  Đời sống kinh tế - xã hội bao gồm nhiều lĩnh vực khác nhau: kinh tế, chính trị, tôn giáo, khoa học, nghệ thuật, giáo dục, quân sự, thể dụ thể thao... Mỗi lĩnh vực hoạt động có tính độc lập tương đối nhưng đều có quan hệ chặt chẽ với sự phát triển của nền sản xuất xã hội. Sản
 					- Mỗi khâu có vai trò, vị trí riêng
