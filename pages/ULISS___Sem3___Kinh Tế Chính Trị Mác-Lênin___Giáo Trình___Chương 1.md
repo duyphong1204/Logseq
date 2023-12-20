@@ -308,6 +308,10 @@
 				- Nền kinh tế thị trường càng phát triển
 					- mức thu nhập của người dân càng cao
 					- hàng hoá, dịch vụ càng già tăng về số lượng
-					- đa dạng về chủng loại, chất lượng cao nên các nhu cầu vật chất của con người càng được thỏa mãn tốt hơn.
-				- Cung ứng các điều kiện vật chất cho sự phát triển các mặt của đời sống kinh tế - xã hội
-				  Đời sống kinh tế - xã hội bao gồm nhiều lĩnh vực khác nhau: kinh tế, chính trị, tôn giáo khoa học, nghệ thuật, giáo dục, quân sự, thể dụ thể thao... Mỗi lĩnh vực hoạt động có tính độc lập tương đối nhưng đều có quan hệ chặt chẽ với sự phát triển của nền sản xuất xã hội. Sản
+					- đa dạng về chủng loại, chất lượng cao
+					- => các nhu cầu vật chất của con người càng được thỏa mãn tốt hơn.
+		- ### Cung ứng các điều kiện vật chất cho sự phát triển các mặt của đời sống kinh tế - xã hội
+			- Đời sống kinh tế - xã hội bao gồm nhiều lĩnh vực khác nhau
+				- kinh tế
+				- chính trị
+				- tôn giáo khoa học, nghệ thuật, giáo dục, quân sự, thể dụ thể thao... Mỗi lĩnh vực hoạt động có tính độc lập tương đối nhưng đều có quan hệ chặt chẽ với sự phát triển của nền sản xuất xã hội. Sản
