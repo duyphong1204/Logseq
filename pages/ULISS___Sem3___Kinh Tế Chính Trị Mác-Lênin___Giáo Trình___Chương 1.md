@@ -175,9 +175,8 @@
 				- Quá trình tái sản xuất có 4 khâu
 					- Sản xuất
 					  logseq.order-list-type:: number
-						- Sản xuất là sự kết hợp giữa tư liệu sản xuất và sức lao động
-							- (hay là sự kết hợp các nguồn lực)
-							- nhằm tạo ra của cải vật chất, về hiện vật bao gồm tư liệu sản xuất và tư liệu tiêu dùng. Do đó, sản xuất không chỉ có ý nghĩa quyết định đối với tiêu dùng, mà còn có ý nghĩa quyết định đối với quy mô của sản xuất ở chu kỳ tiếp theo.
+						- Sản xuất là sự kết hợp giữa tư liệu sản xuất và sức lao động (hay là sự kết hợp các nguồn lực) nhằm tạo ra của cải vật chất, về hiện vật bao gồm tư liệu sản xuất và tư liệu tiêu dùng.
+							- Do đó, sản xuất không chỉ có ý nghĩa quyết định đối với tiêu dùng, mà còn có ý nghĩa quyết định đối với quy mô của sản xuất ở chu kỳ tiếp theo.
 					- Phân phối
 					  logseq.order-list-type:: number
 					- Trao đổi
