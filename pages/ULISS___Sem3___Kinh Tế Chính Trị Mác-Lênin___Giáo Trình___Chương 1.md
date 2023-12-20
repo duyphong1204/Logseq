@@ -177,8 +177,10 @@
 					  logseq.order-list-type:: number
 						- Sản xuất là sự kết hợp giữa tư liệu sản xuất và sức lao động (hay là sự kết hợp các nguồn lực) nhằm tạo ra của cải vật chất, về hiện vật bao gồm tư liệu sản xuất và tư liệu tiêu dùng.
 							- Do đó, sản xuất không chỉ có ý nghĩa quyết định đối với tiêu dùng, mà còn có ý nghĩa quyết định đối với quy mô của sản xuất ở chu kỳ tiếp theo.
-							- Là sự kết hợp tư liệu sản xuất và sức lao động, sản xuất đòi hỏi không những phải có tư liệu sản xuất mà còn phải có sức lao động. Bởi vậy, tiêu dùng cá nhân với mục đích tái tạo khả năng lao động của con người có vai trò hết sức quan trọng đối với sản xuất.
-							- Tiêu dùng cá nhân đòi hỏi có các tư liệu tiêu dùng phù hợp. Do đó, sản xuất phải đáp ứng nhu cầu về tư liệu tiêu dùng, tư liệu sản xuất không chỉ về số lượng, chất lượng mà cả về cơ cấu; giữa tư liệu sản xuất và tư liệu tiêu dùng cũng phải có một tỷ lệ phù hợp mới có thể đảm bảo cho quá trình tái sản xuất được thực hiện bình thường.
+						- Là sự kết hợp tư liệu sản xuất và sức lao động, sản xuất đòi hỏi không những phải có tư liệu sản xuất mà còn phải có sức lao động.
+							- Bởi vậy, tiêu dùng cá nhân với mục đích tái tạo khả năng lao động của con người có vai trò hết sức quan trọng đối với sản xuất.
+						- Tiêu dùng cá nhân đòi hỏi có các tư liệu tiêu dùng phù hợp.
+							- Do đó, sản xuất phải đáp ứng nhu cầu về tư liệu tiêu dùng, tư liệu sản xuất không chỉ về số lượng, chất lượng mà cả về cơ cấu; giữa tư liệu sản xuất và tư liệu tiêu dùng cũng phải có một tỷ lệ phù hợp mới có thể đảm bảo cho quá trình tái sản xuất được thực hiện bình thường.
 					- Phân phối
 					  logseq.order-list-type:: number
 					- Trao đổi
