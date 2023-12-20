@@ -173,10 +173,14 @@
 						- Cuộc cách mạng công nghiệp lần thứ tư đạt ra nhiều thách thức nhưng là cơ hội to lớn để đất nước ta chuyển đổi mô hình tăng trưởng từ rộng sang sâu
 			- **Các khâu của quá trình tái sản xuất**
 				- Quá trình tái sản xuất có 4 khâu
-					- sản xuất
-					- phân phối
-					- trao đổi
-					- tiêu dùng
+					- Sản xuất
+					  logseq.order-list-type:: number
+					- Phân phối
+					  logseq.order-list-type:: number
+					- Trao đổi
+					  logseq.order-list-type:: number
+					- Tiêu dùng
+					  logseq.order-list-type:: number
 					- Mỗi khâu có vai trò, vị trí riêng
 					- Việc thực hiện trôi chảy từng khâu là điều kiện đảm bảo cho quá trình tái sản xuất có thể tiến hành một cách liên tục.
 				- Sản xuất
