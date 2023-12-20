@@ -314,4 +314,11 @@
 			- Đời sống kinh tế - xã hội bao gồm nhiều lĩnh vực khác nhau
 				- kinh tế
 				- chính trị
-				- tôn giáo khoa học, nghệ thuật, giáo dục, quân sự, thể dụ thể thao... Mỗi lĩnh vực hoạt động có tính độc lập tương đối nhưng đều có quan hệ chặt chẽ với sự phát triển của nền sản xuất xã hội. Sản
+				- tôn giáo
+				- khoa học
+				- nghệ thuật
+				- giáo dục
+				- quân sự
+				- thể dục thể thao,...
+				- Mỗi lĩnh vực hoạt động có tính độc lập tương đối nhưng đều có quan hệ chặt chẽ với sự phát triển của nền sản xuất xã hội.
+				- Sản
