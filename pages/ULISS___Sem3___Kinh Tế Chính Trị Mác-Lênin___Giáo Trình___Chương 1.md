@@ -138,7 +138,7 @@
 									- tài nguyên
 									  logseq.order-list-type:: number
 						- chiều sâu
-							- Tăng trưởng kinh tế theo chiều sâu được thực hiện bằng cách tăng năng suất lao động,
+							- Tăng trưởng kinh tế theo chiều sâu được thực hiện bằng cách tăng năng suất lao động
 								- chủ yếu dựa vào
 									- ứng dụng tiến bộ khoa học - công nghệ
 									  logseq.order-list-type:: number
@@ -147,4 +147,5 @@
 									- cải tiến tổ chức quản lý
 									  logseq.order-list-type:: number
 									- Nói cách khác, tăng trưởng kinh tế theo chiều sâu được thực hiện bằng năng cao hiệu quả sử dụng các nguồn lực.
-									- Đối với các nước nghèo và lạc hậu, tăng trưởng kinh tế theo chiều rồng là con đường phố biển vì tiềm năng về sức lao động, tài nguyên chưa được khai thác thác hết, trong khi đó trình độ khoa học - công
+						- Đối với các nước nghèo và lạc hậu, tăng trưởng kinh tế theo chiều rộng là con đường phố biển vì tiềm năng về sức lao động, tài nguyên chưa được khai thác thác hết, trong khi đó trình độ khoa học - công nghệ rất thấp
+						-
