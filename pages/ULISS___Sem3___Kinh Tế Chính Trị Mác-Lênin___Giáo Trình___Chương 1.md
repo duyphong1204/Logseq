@@ -271,7 +271,6 @@
 								- hiện đại hoá giao thông vận tải...
 					- Tiêu dùng
 					  logseq.order-list-type:: number
-					  collapsed:: true
 						- Tiêu dùng bao gồm tiêu dùng cá nhân và tiêu dùng cho sản xuất.
 						- Tiêu dùng do sản xuất quyết định
 						  collapsed:: true
@@ -288,13 +287,12 @@
 							- một yếu tố cơ bản của quá trình sản xuất.
 							- Vì vậy mở rộng tiêu dùng hợp lý, "kích cầu" lại trở thành giải pháp kích thích nền kinh tế tăng trưởng.
 							- Do đó, quan tâm đến tiêu dùng không chỉ vì con người, mà còn là chăm lo cho sản xuất và tải sản xuất
-						- 1.1.2. Vai trò của sản xuất xã hội
-						- Thỏa mãn các nhu cầu vật chất của con người
-						- Để tồn tại, trước hết con người cần được thỏa mãn các nhu c cơ bản, thiết yếu như ăn, mặc, ở. Xã hội càng phát triển, nhu c cơ bản, thiết càng cao, càng xuất hiện nhiều nhu cầu mới. Điều hiện chiền là, việc thỏa mãn các nhu cầu này phụ thuộc vào năng lực hiểnền sản xuất. Trình độ phát triển của nền sản xuất quyết đị mức độ, chất lượng và phương thức thỏa mãn các nhu cầu vật chất của con người.
-						- Trong cơ chế thị trường, các nhu cầu vật chất của con người được thỏa mãn thông qua thị trường. Nền kinh tế thị trường càng phát triển mức thu nhập của người dân càng cao; hàng hoá, dịch vụ càng già tăng về số lượng, đa dạng về chủng loại, chất lượng cao nên các nhu cầu vật chất của con người càng được thỏa mãn tốt hơn.
-						  collapsed:: true
-						  Cung ứng các điều kiện vật chất cho sự phát triển các mặt của đời sống kinh tế - xã hội
-						  Đời sống kinh tế - xã hội bao gồm nhiều lĩnh vực khác nhau: kinh tế, chính trị, tôn giáo, khoa học, nghệ thuật, giáo dục, quân sự, thể dụ thể thao... Mỗi lĩnh vực hoạt động có tính độc lập tương đối nhưng đều có quan hệ chặt chẽ với sự phát triển của nền sản xuất xã hội. Sản
 					- Mỗi khâu có vai trò, vị trí riêng
 					- Việc thực hiện trôi chảy từng khâu là điều kiện đảm bảo cho quá trình tái sản xuất có thể tiến hành một cách liên tục.
--
+	- ## 1.1.2. Vai trò của sản xuất xã hội
+		- ### Thỏa mãn các nhu cầu vật chất của con người
+			- Để tồn tại, trước hết con người cần được thỏa mãn các nhu c cơ bản, thiết yếu như ăn, mặc, ở. Xã hội càng phát triển, nhu c cơ bản, thiết càng cao, càng xuất hiện nhiều nhu cầu mới. Điều hiện chiền là, việc thỏa mãn các nhu cầu này phụ thuộc vào năng lực hiểnền sản xuất. Trình độ phát triển của nền sản xuất quyết đị mức độ, chất lượng và phương thức thỏa mãn các nhu cầu vật chất của con người.
+		- Trong cơ chế thị trường, các nhu cầu vật chất của con người được thỏa mãn thông qua thị trường. Nền kinh tế thị trường càng phát triển mức thu nhập của người dân càng cao; hàng hoá, dịch vụ càng già tăng về số lượng, đa dạng về chủng loại, chất lượng cao nên các nhu cầu vật chất của con người càng được thỏa mãn tốt hơn.
+		  collapsed:: true
+		  Cung ứng các điều kiện vật chất cho sự phát triển các mặt của đời sống kinh tế - xã hội
+		  Đời sống kinh tế - xã hội bao gồm nhiều lĩnh vực khác nhau: kinh tế, chính trị, tôn giáo, khoa học, nghệ thuật, giáo dục, quân sự, thể dụ thể thao... Mỗi lĩnh vực hoạt động có tính độc lập tương đối nhưng đều có quan hệ chặt chẽ với sự phát triển của nền sản xuất xã hội. Sản
