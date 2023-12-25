@@ -421,6 +421,6 @@
 						- Đây là những vấn đề được nhân loại quan tâm và đang tìm ra nhiều giải pháp để khắc phục các vấn đề đó.
 			- Tư liệu lao động
 				- Con người muốn biến đổi đối tượng lao động thành sản phẩm nhằm thỏa mãn các nhu cầu của mình cần phải sử dụng các phương tiện truyền dẫn
-					- tức là những tư liệu lao động.
+					- tức là những tư liệu lao động
 				- Tư liệu lao động là một
 		-
