@@ -491,6 +491,7 @@
 			- Năng lực của con người trong việc thích ứng với tự nhiên, biến đổi những yếu tố tự nhiên thành sản phẩm được gọi là lực lượng sản xuất.
 		- Lực lượng sản xuất là toàn bộ những năng lực sản xuất của một xã hội nhất định, ở một thời điểm nhất định.
 		- Lực lượng sản xuất bao gồm
+		  collapsed:: true
 			- người lao động với những khả năng nhất định
 				- sức khoẻ
 				- thể lực
