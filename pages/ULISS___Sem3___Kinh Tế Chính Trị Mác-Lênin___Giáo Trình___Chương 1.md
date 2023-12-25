@@ -345,4 +345,15 @@
 							- Phát triển bền vững là quá trình phát triển có sự kết hợp chặt chẽ, hài hoà giữa tăng trưởng kinh tế, cải thiện các vấn đề xã hội và bảo vệ môi trường.
 								- {{cloze không nên xuống dòng ở đây vì sẽ đứt câu, đặc biệt là câu định nghĩa, còn ở trên thì được vì nó chỉ là một trong số những nguồn}}
 	- ## 1.1.3. Các yếu tố cơ bản của quá trình lao động sản xuất
-		- Quá trình lao động sản xuất là quá trình con người tác động (trực tiếp hoặc gián tiếp) vào tự nhiên nhằm biến đổi các dạng vật chất của tự nhiên thành sản phẩm thoả mãn các nhu cầu của mình. Để tiến hành
+		- Quá trình lao động sản xuất là quá trình con người tác động (trực tiếp hoặc gián tiếp) vào tự nhiên nhằm biến đổi các dạng vật chất của tự nhiên thành sản phẩm thoả mãn các nhu cầu của mình
+		- Để tiến hành hoạt động lao động sản xuất, cần có những yếu tố cơ bản
+			- sức lao động
+			- đối tượng lao động
+			- tư liệu lao động
+		- Sức lao động
+		  Là khả năng lao động của con người
+		- Là toàn bộ thể lực, tâm lực của con người có thể sử dụng để tiến hành hoạt động lao động tâm lựcNhư vậy, sức lao động là tiềm năng lao động, là khả năng tạo ra sản phẩm của con người. Sức lao động là yếu tố quan trọng nhất của hasing ng lao động sản xuất vì sức lao động thuộc về con người - vừa là khách thể, vừa là chủ thể của quá trình lao động sản xuất. trí lực và
+		- Để tiến hành hoạt động lao động sản xuất, người lao động phải có khả năng về thể lực, trị lực và tâm lực. Các yếu tố thuộc về thể lực của người lao động bao gồm chiều cao, cân nặng, sức bền, sức đề kháng bệnh tật... Trị lực của người lao động gồm có khả năng tư duy, tri thức, kỹ năng, kinh nghiệm lao động. Tinh thần, thái độ lao động, ý thức tổ chức kỷ luật trong lao động thuộc về tâm lực của người lao động. Vì thế, để phát triển sản xuất, người lao động phải được quan tâm cả đời sống vật chất và tinh thần.
+		  Như vậy, con người vừa là mục tiêu, vừa là nguồn lực để phát triển. Muốn phát triển sản xuất xã hội cần có nguồn nhân lực chất lượng cao. Do đó, phát triển giáo dục - đào tạo, phát triển y tế, bảo vệ môi trường trở thành điều kiện phát triển nền sản xuất.
+		- Đối tượng lao động
+		- Quá trình sản xuất của cải vật chất là quá trình con người tác động vào tự nhiên, sử dụng những dạng vật chất khác nhau trong tự nhiên như: đất đai, tài nguyên rừng, biển; các loại khoáng sản... để làm ra sản phẩm. Các yếu tố tự nhiên đó được gọi là đối tượng lao động. Đối tượng lao động là tất cả những dạng vật chất của tự nhiên mà lao động của con người tác động vào có thể biến đổi thành sản phẩm, đáp ứng các nhu cầu của con người.
