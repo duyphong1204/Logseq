@@ -452,6 +452,16 @@
 						- gọi chung là hệ thống bình chứa của sản xuất
 							- như là nhà kho chứa vật tư, hàng hóa
 							- bể chứa dầu, hóa chất...
-						- Nền sản xuất cùng phát triển, nhu cầu về loại tư liệu lao động này cũng càng cao.
-						- Tư liệu lao động còn bao gồm những phương tiện vật chất trực tiếp hoặc gián tiếp phục vụ chung cho quá trình sản xuất như: bến bãi, đường sá, phương tiện vận chuyển, phương tiện thông tin liên lạc... hay còn gọi là kết cấu hạ tầng của nền kinh tế. Trong nền kinh tế thị trường, kết cấu hạ tầng được coi là hàng hoá công cộng, rất cần thiết cho hoạt động của doanh nghiệp, ảnh hưởng trực tiếp đến năng suất, chất lượng, hiệu quả hoạt động của doanh nghiệp và của nền kinh tế Từ năm 2011 đến nay, đất nước ta đã và đang thực hiện ba đột phá chiến lược, trong đó có đột phá phát triển kết cấu hạ tầng. “Tiếp tục đẩy mạnh thực hiện đột phá chiến lược về xây dựng hệ thống kết cấu hạ tầng đồng bộ với một số công trình hiện đại. Tập trung ưu tiên đầu tư, sớm đưa vào sử dụng các công trình, dự án hạ tầng trọng điểm về giao thông đường bộ, đường sắt, đường biển, đường không kết nối các vùng, khu vực, các trung tâm kinh tế trong nước và quốc tế.
+						- Nền sản xuất càng phát triển, nhu cầu về loại tư liệu lao động này cũng càng cao.
+					- Tư liệu lao động còn bao gồm những phương tiện vật chất trực tiếp hoặc gián tiếp phục vụ chung cho quá trình sản xuất
+						- hay còn gọi là kết cấu hạ tầng của nền kinh tế.
+						- bến bãi
+						  logseq.order-list-type:: number
+						- đường sá
+						  logseq.order-list-type:: number
+						- phương tiện vận chuyển
+						  logseq.order-list-type:: number
+						- phương tiện thông tin liên lạc... 
+						  logseq.order-list-type:: number
+						- Trong nền kinh tế thị trường, kết cấu hạ tầng được coi là hàng hoá công cộng, rất cần thiết cho hoạt động của doanh nghiệp, ảnh hưởng trực tiếp đến năng suất, chất lượng, hiệu quả hoạt động của doanh nghiệp và của nền kinh tế Từ năm 2011 đến nay, đất nước ta đã và đang thực hiện ba đột phá chiến lược, trong đó có đột phá phát triển kết cấu hạ tầng. “Tiếp tục đẩy mạnh thực hiện đột phá chiến lược về xây dựng hệ thống kết cấu hạ tầng đồng bộ với một số công trình hiện đại. Tập trung ưu tiên đầu tư, sớm đưa vào sử dụng các công trình, dự án hạ tầng trọng điểm về giao thông đường bộ, đường sắt, đường biển, đường không kết nối các vùng, khu vực, các trung tâm kinh tế trong nước và quốc tế.
 		-
