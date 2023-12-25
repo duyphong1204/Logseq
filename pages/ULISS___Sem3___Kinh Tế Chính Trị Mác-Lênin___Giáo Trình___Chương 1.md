@@ -401,8 +401,16 @@
 					- Việc khai thác các nguồn tài nguyên thiên nhiên hiệu quả hơn
 						- năng suất cây trồng, vật nuôi trên một đơn vị diện tích đất đai tăng lên
 						- hiệu suất khai thác các mỏ than, mỏ dầu... tăng lên.
-					- Nhu cầu khai thác và sử dụng tài nguyên càng lớn do quy mô của nền sản xuất không ngừng mở rộng. Hậu quả là: giới hạn của tài nguyên thiên nhiên xuất hiện; môi trường sinh thái mất cân bằng, ô nhiễm...
-						- Các nguồn năng lượng mới, sạch được quan tâm khai thác: năng lượng gió, năng lượng sinh học, năng lượng mặt trời, địa nhiệt...
+					- Nhu cầu khai thác và sử dụng tài nguyên càng lớn
+						- do quy mô của nền sản xuất không ngừng mở rộng
+						- Hậu quả
+							- giới hạn của tài nguyên thiên nhiên xuất hiện
+							- môi trường sinh thái mất cân bằng, ô nhiễm...
+					- Các nguồn năng lượng mới, sạch được quan tâm khai thác
+						- năng lượng gió
+						- năng lượng sinh học
+						- năng lượng mặt trời
+						- địa nhiệt...
 						  
 						  Như vậy, trong giai đoạn hiện nay, đối tượng lao động ngày càng phong phú, đa dạng nhưng mặt khác, nhiều vấn đề mới được đặt ra: các mỏ dầu, các mỏ khoáng sản khác có nguy cơ bị cạn kiệt, khí thải gây hiệu ứng nhà kính tăng lên làm cho trái đất ấm dần lên; tình trạng ô nhiễm môi trường xuất hiện và ngày càng nghiêm trọng... Đây là những vấn đề được nhân loại quan tâm và đang tìm ra nhiều giải pháp để khắc phục các vấn đề đó.
 						  
