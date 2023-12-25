@@ -1,5 +1,6 @@
 # Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế Chính trị Mác - Lênin
 	- ## 1.1 Sản xuất xã hội
+	  collapsed:: true
 		- ### Một số khái niệm cơ bản
 		  collapsed:: true
 			- ***Sản xuất xã hội***
@@ -291,6 +292,7 @@
 					- Mỗi khâu có vai trò, vị trí riêng
 					- Việc thực hiện trôi chảy từng khâu là điều kiện đảm bảo cho quá trình tái sản xuất có thể tiến hành một cách liên tục.
 	- ## 1.1.2. Vai trò của sản xuất xã hội
+	  collapsed:: true
 		- ### Thỏa mãn các nhu cầu vật chất của con người
 		  collapsed:: true
 			- Để tồn tại, trước hết con người cần được thỏa mãn các nhu cầu cơ bản, thiết yếu
