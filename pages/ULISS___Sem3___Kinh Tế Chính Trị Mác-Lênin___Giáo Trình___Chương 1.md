@@ -380,7 +380,8 @@
 						- tài nguyên rừng
 						- biển
 						- các loại khoáng sản...
-				- Các yếu tố tự nhiên đó được gọi là đối tượng lao động. Đối tượng lao động là tất cả những dạng vật chất của tự nhiên mà lao động của con người tác động vào có thể biến đổi thành sản phẩm, đáp ứng các nhu cầu của con người.
+					- Các yếu tố tự nhiên đó được gọi là đối tượng lao động.
+				- Đối tượng lao động là tất cả những dạng vật chất của tự nhiên mà lao động của con người tác động vào có thể biến đổi thành sản phẩm, đáp ứng các nhu cầu của con người.
 			- Tư liệu lao động
 		-
 		-
