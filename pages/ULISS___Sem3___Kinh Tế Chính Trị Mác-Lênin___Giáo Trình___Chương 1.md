@@ -345,6 +345,7 @@
 							- Phát triển bền vững là quá trình phát triển có sự kết hợp chặt chẽ, hài hoà giữa tăng trưởng kinh tế, cải thiện các vấn đề xã hội và bảo vệ môi trường.
 								- {{cloze không nên xuống dòng ở đây vì sẽ đứt câu, đặc biệt là câu định nghĩa, còn ở trên thì được vì nó chỉ là một trong số những nguồn}}
 	- ## 1.1.3. Các yếu tố cơ bản của quá trình lao động sản xuất
+	  collapsed:: true
 		- Quá trình lao động sản xuất là quá trình con người tác động (trực tiếp hoặc gián tiếp) vào tự nhiên nhằm biến đổi các dạng vật chất của tự nhiên thành sản phẩm thoả mãn các nhu cầu của mình
 		- Để tiến hành hoạt động lao động sản xuất, cần có những yếu tố cơ bản
 			- Sức lao động
@@ -473,4 +474,10 @@
 							- ảnh hưởng trực tiếp đến năng suất, chất lượng, hiệu quả hoạt động của doanh nghiệp và của nền kinh tế
 							- Từ năm 2011 đến nay, đất nước ta đã và đang thực hiện ba đột phá chiến lược, trong đó có đột phá phát triển kết cấu hạ tầng.
 								- “Tiếp tục đẩy mạnh thực hiện đột phá chiến lược về xây dựng hệ thống kết cấu hạ tầng đồng bộ với một số công trình hiện đại. Tập trung ưu tiên đầu tư, sớm đưa vào sử dụng các công trình, dự án hạ tầng trọng điểm về giao thông đường bộ, đường sắt, đường biển, đường không kết nối các vùng, khu vực, các trung tâm kinh tế trong nước và quốc tế.
-		-
+- 1.1.4. Hai mặt của sản xuất xã hội
+	- Lực lượng sản xuất
+	- Trong quá trình sản xuất của cải vật chất, con người phải khai thác, sử dụng các yếu tố tự nhiên (nguyên, vật liệu, nhiên liệu, nước, đất đai...), tức là phải quan hệ với tự nhiên. Năng lực của con người trong việc thích ứng với tự nhiên, biến đổi những yếu tố tự nhiên thành sản phẩm được gọi là lực lượng sản xuất.
+	- Lực lượng sản xuất là toàn bộ những năng lực sản xuất của một xã hội nhất định, ở một thời điểm nhất định.
+	- Lực lượng sản xuất trước hết bao gồm người lao động với những khả năng nhất định về sức khoẻ, thể lực cùng những tri thức, kỹ năng lao động. Với sức lực và trí tuệ của mình, con người sử dụng các tư liệu lao động để khai thác và làm biến đổi những vật liệu của tự nhiên thành những sản phẩm phù hợp với nhu cầu của mình. Trong lực lượng sản xuất, nhân tố con người là quan trọng nhất. “Lực lượng sản xuất hàng đầu của toàn thể nhân loại là công nhân, là người lao động.
+	- Bộ phận thứ hai của lực lượng sản xuất là tư liệu sản xuất, bao gồm đối tượng lao động và tư liệu lao động. Trong tư liệu sản xuất, công cụ lao động có vị trí đặc biệt. Công cụ lao động, theo Friedrich Engels, là "khi quan của bộ óc con người”, “là sức mạnh của tri thức đã được vật thể hoá” có tác dụng “nối dài bàn tay” và nhân lên sức mạnh trí tuệ của con người. Trong nền kinh tế hiện đại, các loại máy công nghiệp, máy tính, máy fax... là những công cụ lao động tạo ra sức mạnh thần kỳ cho con người trong việc chính phục, chế ngự tự nhiên.
+	- Trình độ của lực lượng sản xuất thể hiện khả năng của con người trong việc chiếm lĩnh tự nhiên, giải quyết quan hệ của mình với tự nhiên. Lực lượng sản xuất phát triển cảng cao cũng có nghĩa là năng
