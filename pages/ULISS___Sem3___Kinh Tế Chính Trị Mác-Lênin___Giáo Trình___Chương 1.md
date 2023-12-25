@@ -411,12 +411,15 @@
 						- năng lượng sinh học
 						- năng lượng mặt trời
 						- địa nhiệt...
-						  
-						  Như vậy, trong giai đoạn hiện nay, đối tượng lao động ngày càng phong phú, đa dạng nhưng mặt khác, nhiều vấn đề mới được đặt ra: các mỏ dầu, các mỏ khoáng sản khác có nguy cơ bị cạn kiệt, khí thải gây hiệu ứng nhà kính tăng lên làm cho trái đất ấm dần lên; tình trạng ô nhiễm môi trường xuất hiện và ngày càng nghiêm trọng... Đây là những vấn đề được nhân loại quan tâm và đang tìm ra nhiều giải pháp để khắc phục các vấn đề đó.
-						  
-						  Tư liệu lao động
-						  
-						  Con người muốn biến đổi đối tượng lao động thành sản phẩm nhằm thỏa mãn các nhu cầu của mình, cần phải sử dụng các phượng tiện truyền dẫn, tức là những tư liệu lao động. Tư liệu lao động là một
+					- Như vậy, trong giai đoạn hiện nay
+						- đối tượng lao động ngày càng phong phú, đa dạng
+						- nhiều vấn đề mới được đặt ra
+							- các mỏ dầu, các mỏ khoáng sản khác có nguy cơ bị cạn kiệt
+							- khí thải gây hiệu ứng nhà kính tăng lên làm cho trái đất ấm dần lên; tình trạng ô nhiễm môi trường xuất hiện và ngày càng nghiêm trọng... Đây là những vấn đề được nhân loại quan tâm và đang tìm ra nhiều giải pháp để khắc phục các vấn đề đó.
+							  
+							  Tư liệu lao động
+							  
+							  Con người muốn biến đổi đối tượng lao động thành sản phẩm nhằm thỏa mãn các nhu cầu của mình, cần phải sử dụng các phượng tiện truyền dẫn, tức là những tư liệu lao động. Tư liệu lao động là một
 			- Tư liệu lao động
 		-
 		-
