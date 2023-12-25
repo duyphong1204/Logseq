@@ -348,24 +348,30 @@
 		- Quá trình lao động sản xuất là quá trình con người tác động (trực tiếp hoặc gián tiếp) vào tự nhiên nhằm biến đổi các dạng vật chất của tự nhiên thành sản phẩm thoả mãn các nhu cầu của mình
 		- Để tiến hành hoạt động lao động sản xuất, cần có những yếu tố cơ bản
 			- Sức lao động
+			  collapsed:: true
 				- Là khả năng lao động của con người
 				  logseq.order-list-type:: number
+				  collapsed:: true
 					- Như vậy, sức lao động là tiềm năng lao động, là khả năng tạo ra sản phẩm của con người.
 				- Là toàn bộ thể lực, tâm lực của con người có thể sử dụng để tiến hành hoạt động lao động
 				  logseq.order-list-type:: number
+				  collapsed:: true
 					- Để tiến hành hoạt động lao động sản xuất, người lao động phải có khả năng về thể lực, trí lực và tâm lực.
 					  collapsed:: true
 						- Thể lực của người lao động bao gồm
+						  collapsed:: true
 							- chiều cao
 							- cân nặng
 							- sức bền
 							- sức đề kháng bệnh tật...
 						- Trí lực của người lao động gồm
+						  collapsed:: true
 							- khả năng tư duy
 							- tri thức
 							- kỹ năng
 							- kinh nghiệm lao động.
 							- Tâm lực của người lao động gồm
+							  collapsed:: true
 								- tinh thần
 								- thái độ lao động
 								- ý thức tổ chức kỷ luật trong lao động
@@ -373,9 +379,12 @@
 				- Sức lao động là yếu tố quan trọng nhất của hoạt động lao động sản xuất vì sức lao động thuộc về con người - vừa là khách thể, vừa là chủ thể của quá trình lao động sản xuất.
 				- Con người vừa là mục tiêu, vừa là nguồn lực để phát triển. Muốn phát triển sản xuất xã hội cần có nguồn nhân lực chất lượng cao. Do đó, phát triển giáo dục - đào tạo, phát triển y tế, bảo vệ môi trường trở thành điều kiện phát triển nền sản xuất.
 			- Đối tượng lao động
+			  collapsed:: true
 				- Quá trình sản xuất của cải vật chất
+				  collapsed:: true
 					- là quá trình con người tác động vào tự nhiên
 					- sử dụng những dạng vật chất khác nhau trong tự nhiên để làm ra sản phẩm
+					  collapsed:: true
 						- đất đai
 						- tài nguyên rừng
 						- biển
@@ -383,44 +392,57 @@
 					- Các yếu tố tự nhiên đó được gọi là đối tượng lao động.
 				- Đối tượng lao động là tất cả những dạng vật chất của tự nhiên mà lao động của con người tác động vào có thể biến đổi thành sản phẩm, đáp ứng các nhu cầu của con người.
 				- Đối tượng lao động có hai loại
+				  collapsed:: true
 					- thứ nhất là những vật liệu có sẵn trong tự nhiên
+					  collapsed:: true
 						- quặng trong lòng đất
 						- cá dưới biển
 						- gỗ trong rừng nguyên thuỷ...
 					- thứ hai là những vật liệu đã qua chế biến
+					  collapsed:: true
 						- gang trong lò luyện thép
 						- sợi trong nhà máy dệt
 						- bột gỗ trong nhà máy giấy...
 					- Đối tượng lao động đã qua chế biến gọi là nguyên liệu.
 				- Trong nền kinh tế hiện đại, đối tượng lao động có những đặc điểm sau:
+				  collapsed:: true
 					- Nhiều loại nguyên liệu mới xuất hiện thay thế nguyên liệu truyền thống
+					  collapsed:: true
 						- tơ, sợi hóa học
 						- gỗ công nghiệp
 						- chất dẻo
 						- các vật liệu nhẹ, không thấm nước, chống cháy nổ...
 					- Việc khai thác các nguồn tài nguyên thiên nhiên hiệu quả hơn
+					  collapsed:: true
 						- năng suất cây trồng, vật nuôi trên một đơn vị diện tích đất đai tăng lên
 						- hiệu suất khai thác các mỏ than, mỏ dầu... tăng lên.
 					- Nhu cầu khai thác và sử dụng tài nguyên càng lớn
+					  collapsed:: true
 						- do quy mô của nền sản xuất không ngừng mở rộng
 						- Hậu quả
+						  collapsed:: true
 							- giới hạn của tài nguyên thiên nhiên xuất hiện
 							- môi trường sinh thái mất cân bằng, ô nhiễm...
 					- Các nguồn năng lượng mới, sạch được quan tâm khai thác
+					  collapsed:: true
 						- năng lượng gió
 						- năng lượng sinh học
 						- năng lượng mặt trời
 						- địa nhiệt...
 					- Như vậy, trong giai đoạn hiện nay
+					  collapsed:: true
 						- đối tượng lao động ngày càng phong phú, đa dạng
 						- nhiều vấn đề mới được đặt ra
+						  collapsed:: true
 							- các mỏ dầu, các mỏ khoáng sản khác có nguy cơ bị cạn kiệt
 							- khí thải gây hiệu ứng nhà kính tăng lên
+							  collapsed:: true
 								- làm cho trái đất ấm dần lên
 							- tình trạng ô nhiễm môi trường xuất hiện và ngày càng nghiêm trọng...
 						- Đây là những vấn đề được nhân loại quan tâm và đang tìm ra nhiều giải pháp để khắc phục các vấn đề đó.
 			- Tư liệu lao động
 				- Con người muốn biến đổi đối tượng lao động thành sản phẩm nhằm thỏa mãn các nhu cầu của mình cần phải sử dụng các phương tiện truyền dẫn
+				  collapsed:: true
 					- tức là những tư liệu lao động
-				- Tư liệu lao động là một
+				- Tư liệu lao động là một m
 		-
