@@ -352,10 +352,11 @@
 				  logseq.order-list-type:: number
 				- Là toàn bộ thể lực, tâm lực của con người có thể sử dụng để tiến hành hoạt động lao động
 				  logseq.order-list-type:: number
-				- Như vậy, sức lao động là tiềm năng lao động, là khả năng tạo ra sản phẩm của con người. Sức lao động là yếu tố quan trọng nhất của hasing ng lao động sản xuất vì sức lao động thuộc về con người - vừa là khách thể, vừa là chủ thể của quá trình lao động sản xuất. trí lực và
+				- Như vậy, sức lao động là tiềm năng lao động, là khả năng tạo ra sản phẩm của con người.
+				- Sức lao động là yếu tố quan trọng nhất của hasing ng lao động sản xuất vì sức lao động thuộc về con người - vừa là khách thể, vừa là chủ thể của quá trình lao động sản xuất. trí lực và
+					- Để tiến hành hoạt động lao động sản xuất, người lao động phải có khả năng về thể lực, trị lực và tâm lực. Các yếu tố thuộc về thể lực của người lao động bao gồm chiều cao, cân nặng, sức bền, sức đề kháng bệnh tật... Trị lực của người lao động gồm có khả năng tư duy, tri thức, kỹ năng, kinh nghiệm lao động. Tinh thần, thái độ lao động, ý thức tổ chức kỷ luật trong lao động thuộc về tâm lực của người lao động. Vì thế, để phát triển sản xuất, người lao động phải được quan tâm cả đời sống vật chất và tinh thần.
+					  Như vậy, con người vừa là mục tiêu, vừa là nguồn lực để phát triển. Muốn phát triển sản xuất xã hội cần có nguồn nhân lực chất lượng cao. Do đó, phát triển giáo dục - đào tạo, phát triển y tế, bảo vệ môi trường trở thành điều kiện phát triển nền sản xuất.
 			- đối tượng lao động
 			- tư liệu lao động
-		- Để tiến hành hoạt động lao động sản xuất, người lao động phải có khả năng về thể lực, trị lực và tâm lực. Các yếu tố thuộc về thể lực của người lao động bao gồm chiều cao, cân nặng, sức bền, sức đề kháng bệnh tật... Trị lực của người lao động gồm có khả năng tư duy, tri thức, kỹ năng, kinh nghiệm lao động. Tinh thần, thái độ lao động, ý thức tổ chức kỷ luật trong lao động thuộc về tâm lực của người lao động. Vì thế, để phát triển sản xuất, người lao động phải được quan tâm cả đời sống vật chất và tinh thần.
-		  Như vậy, con người vừa là mục tiêu, vừa là nguồn lực để phát triển. Muốn phát triển sản xuất xã hội cần có nguồn nhân lực chất lượng cao. Do đó, phát triển giáo dục - đào tạo, phát triển y tế, bảo vệ môi trường trở thành điều kiện phát triển nền sản xuất.
 		- Đối tượng lao động
 		- Quá trình sản xuất của cải vật chất là quá trình con người tác động vào tự nhiên, sử dụng những dạng vật chất khác nhau trong tự nhiên như: đất đai, tài nguyên rừng, biển; các loại khoáng sản... để làm ra sản phẩm. Các yếu tố tự nhiên đó được gọi là đối tượng lao động. Đối tượng lao động là tất cả những dạng vật chất của tự nhiên mà lao động của con người tác động vào có thể biến đổi thành sản phẩm, đáp ứng các nhu cầu của con người.
