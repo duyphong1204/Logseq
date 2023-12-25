@@ -450,7 +450,9 @@
 					- Công cụ lao động là những tư liệu lao động trực tiếp tác động làm biến đổi đối tượng lao động
 						- cái cày
 						- cái cuộc
-						- tay đấy, máy gặt. Công cụ lao động là sự kết tinh tri thức và kinh nghiệm của con người, trực tiếp quyết định năng suất lao động và chất lượng sản phẩm. Vì vậy, công cụ lao động thể hiện năng lực, hiểu biết của con người, đo lường trình độ phát triển của nền sản xuất.
+						- máy cấy
+						- máy gặt
+					- Công cụ lao động là sự kết tinh tri thức và kinh nghiệm của con người, trực tiếp quyết định năng suất lao động và chất lượng sản phẩm. Vì vậy, công cụ lao động thể hiện năng lực, hiểu biết của con người, đo lường trình độ phát triển của nền sản xuất.
 					- Tư liệu lao động dùng để bảo quản những đối tượng và sản phẩm lao động
 						- gọi chung là hệ thống bình chứa của sản xuất
 							- như là nhà kho chứa vật tư, hàng hóa
