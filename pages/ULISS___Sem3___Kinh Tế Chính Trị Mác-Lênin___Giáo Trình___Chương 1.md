@@ -380,6 +380,7 @@
 						- tài nguyên rừng
 						- biển
 						- các loại khoáng sản...
+				- Các yếu tố tự nhiên đó được gọi là đối tượng lao động. Đối tượng lao động là tất cả những dạng vật chất của tự nhiên mà lao động của con người tác động vào có thể biến đổi thành sản phẩm, đáp ứng các nhu cầu của con người.
 			- Tư liệu lao động
-		- Đối tượng lao động
-		- Quá trình sản xuất của cải vật chất là quá trình con người tác động vào tự nhiên, sử dụng những dạng vật chất khác nhau trong tự nhiên như: đất đai, tài nguyên rừng, biển; các loại khoáng sản... để làm ra sản phẩm. Các yếu tố tự nhiên đó được gọi là đối tượng lao động. Đối tượng lao động là tất cả những dạng vật chất của tự nhiên mà lao động của con người tác động vào có thể biến đổi thành sản phẩm, đáp ứng các nhu cầu của con người.
+		-
+		-
