@@ -392,19 +392,23 @@
 						- sợi trong nhà máy dệt
 						- bột gỗ trong nhà máy giấy...
 					- Đối tượng lao động đã qua chế biến gọi là nguyên liệu.
-					  
-					  Trong nền kinh tế hiện đại, đối tượng lao động có những đặc điểm sau:
-					  
-					  Nhiều loại nguyên liệu mới xuất hiện thay thế nguyên liệu truyền thống: tơ, sợi hóa học; gỗ công nghiệp; chất dẻo, các vật liệu nhẹ, không thấm nước, chống cháy nổ...
-				- Việc khai thác các nguồn tài nguyên thiên nhiên hiệu quả hơn: năng suất cây trồng, vật nuôi trên một đơn vị diện tích đất đai tăng lên; hiệu suất khai thác các mỏ than, mỏ dầu... tăng lên.
-				- Nhu cầu khai thác và sử dụng tài nguyên càng lớn do quy mô của nền sản xuất không ngừng mở rộng. Hậu quả là: giới hạn của tài nguyên thiên nhiên xuất hiện; môi trường sinh thái mất cân bằng, ô nhiễm...
-				- Các nguồn năng lượng mới, sạch được quan tâm khai thác: năng lượng gió, năng lượng sinh học, năng lượng mặt trời, địa nhiệt...
-				  
-				  Như vậy, trong giai đoạn hiện nay, đối tượng lao động ngày càng phong phú, đa dạng nhưng mặt khác, nhiều vấn đề mới được đặt ra: các mỏ dầu, các mỏ khoáng sản khác có nguy cơ bị cạn kiệt, khí thải gây hiệu ứng nhà kính tăng lên làm cho trái đất ấm dần lên; tình trạng ô nhiễm môi trường xuất hiện và ngày càng nghiêm trọng... Đây là những vấn đề được nhân loại quan tâm và đang tìm ra nhiều giải pháp để khắc phục các vấn đề đó.
-				  
-				  Tư liệu lao động
-				  
-				  Con người muốn biến đổi đối tượng lao động thành sản phẩm nhằm thỏa mãn các nhu cầu của mình, cần phải sử dụng các phượng tiện truyền dẫn, tức là những tư liệu lao động. Tư liệu lao động là một
+				- Trong nền kinh tế hiện đại, đối tượng lao động có những đặc điểm sau:
+					- Nhiều loại nguyên liệu mới xuất hiện thay thế nguyên liệu truyền thống
+						- tơ, sợi hóa học
+						- gỗ công nghiệp
+						- chất dẻo
+						- các vật liệu nhẹ, không thấm nước, chống cháy nổ...
+					- Việc khai thác các nguồn tài nguyên thiên nhiên hiệu quả hơn
+						- năng suất cây trồng, vật nuôi trên một đơn vị diện tích đất đai tăng lên
+						- hiệu suất khai thác các mỏ than, mỏ dầu... tăng lên.
+					- Nhu cầu khai thác và sử dụng tài nguyên càng lớn do quy mô của nền sản xuất không ngừng mở rộng. Hậu quả là: giới hạn của tài nguyên thiên nhiên xuất hiện; môi trường sinh thái mất cân bằng, ô nhiễm...
+						- Các nguồn năng lượng mới, sạch được quan tâm khai thác: năng lượng gió, năng lượng sinh học, năng lượng mặt trời, địa nhiệt...
+						  
+						  Như vậy, trong giai đoạn hiện nay, đối tượng lao động ngày càng phong phú, đa dạng nhưng mặt khác, nhiều vấn đề mới được đặt ra: các mỏ dầu, các mỏ khoáng sản khác có nguy cơ bị cạn kiệt, khí thải gây hiệu ứng nhà kính tăng lên làm cho trái đất ấm dần lên; tình trạng ô nhiễm môi trường xuất hiện và ngày càng nghiêm trọng... Đây là những vấn đề được nhân loại quan tâm và đang tìm ra nhiều giải pháp để khắc phục các vấn đề đó.
+						  
+						  Tư liệu lao động
+						  
+						  Con người muốn biến đổi đối tượng lao động thành sản phẩm nhằm thỏa mãn các nhu cầu của mình, cần phải sử dụng các phượng tiện truyền dẫn, tức là những tư liệu lao động. Tư liệu lao động là một
 			- Tư liệu lao động
 		-
 		-
