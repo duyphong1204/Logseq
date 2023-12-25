@@ -533,7 +533,8 @@
 						- là nguồn lực quan trọng để tăng trưởng, phát triển kinh tế
 						- Trong nền kinh tế tự nhiên, tài nguyên thiên nhiên là nguồn lực quan trọng nhất.
 							- Vì thế, những quốc gia có điều kiện tự nhiên khắc nghiệt, tài nguyên thiên nhiên nghèo nàn sẽ gặp nhiều khó khăn trong quá trình tăng trưởng, phát triển kinh tế.
-							- Ngược lại, những quốc gia có các nguồn tài nguyên thiên nhiên phong phú sẽ thuận lợi hơn trong quá trình tăng trưởng, phát triển kinh tế. Vì vậy, khai thác sử dụng tài nguyên thiên nhiên tiết kiệm, hiệu quả; bảo vệ tài nguyên và môi trưởng là một trong những trụ cột của phát triển bền vững.
+							- Ngược lại, những quốc gia có các nguồn tài nguyên thiên nhiên phong phú sẽ thuận lợi hơn trong quá trình tăng trưởng, phát triển kinh tế.
+							- Vì vậy, khai thác sử dụng tài nguyên thiên nhiên tiết kiệm, hiệu quả; bảo vệ tài nguyên và môi trưởng là một trong những trụ cột của phát triển bền vững.
 					- Khoa học - công nghệ.
 					  logseq.order-list-type:: number
 				- Khi nền kinh tế phát triển dựa vào tri thức thi tài nguyên nhân tạo ngày càng có vai trò quan trọng hơn. Việc sáng tạo và ứng dụng trí thức trong các hoạt động kinh tế và trong đời sống đều phải dựa vào nguồn dữ liệu; nguồn dữ liệu càng đầy đủ, phong phú thì khả năng sáng tạo và ứng dụng tri thức càng cao. Vì vậy, xây dựng, kết nổi, chia sẻ cơ sở dữ liệu (Bigdata) đang trở thành nội dung quan trọng trong thực hiện Cách mạng công nghiệp lần thứ tư. Tài nguyên nhân tạo còn bao gồm cả những giá trị vật chất và tinh thần mà con người đã sáng tạo ra, có thể khai thác để phát triển du lịch và các ngành kinh tế liên quan. Đó là các công trình kiến trúc, các lễ hội và các di sản văn hóa vật thể, phi vật thể....
