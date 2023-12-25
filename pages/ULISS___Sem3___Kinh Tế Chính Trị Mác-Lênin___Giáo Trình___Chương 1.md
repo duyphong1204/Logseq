@@ -523,11 +523,10 @@
 					  logseq.order-list-type:: number
 						- Trong cơ chế thị trường, vốn là nguồn lực rất quan trọng
 							- vốn có thể chuyển hóa thành (mua được)
-							  collapsed:: true
 								- sức lao động
 								- tài nguyên
 								- công nghệ
-							- từ đó có thể tiến hành các hoạt động kinh tế.
+								- từ đó có thể tiến hành các hoạt động kinh tế.
 						- Do đó, thực hiện tích lũy vốn, mở rộng quy mô và nâng cao hiệu quả sử dụng vốn chính là phát triển lực lượng sản xuất.
 					- Lao động
 					  logseq.order-list-type:: number
