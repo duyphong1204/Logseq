@@ -477,11 +477,18 @@
 	- ## 1.1.4. Hai mặt của sản xuất xã hội
 		- Lực lượng sản xuất
 			- Trong quá trình sản xuất của cải vật chất, con người phải khai thác, sử dụng các yếu tố tự nhiên
+				- tức là phải quan hệ với tự nhiên.
 				- nguyên liệu
+				  logseq.order-list-type:: number
 				- vật liệu
+				  logseq.order-list-type:: number
 				- nhiên liệu
+				  logseq.order-list-type:: number
 				- nước
-				- đất đai... tức là phải quan hệ với tự nhiên. Năng lực của con người trong việc thích ứng với tự nhiên, biến đổi những yếu tố tự nhiên thành sản phẩm được gọi là lực lượng sản xuất.
+				  logseq.order-list-type:: number
+				- đất đai... 
+				  logseq.order-list-type:: number
+			- Năng lực của con người trong việc thích ứng với tự nhiên, biến đổi những yếu tố tự nhiên thành sản phẩm được gọi là lực lượng sản xuất.
 		- Lực lượng sản xuất là toàn bộ những năng lực sản xuất của một xã hội nhất định, ở một thời điểm nhất định.
 		- Lực lượng sản xuất trước hết bao gồm người lao động với những khả năng nhất định về sức khoẻ, thể lực cùng những tri thức, kỹ năng lao động. Với sức lực và trí tuệ của mình, con người sử dụng các tư liệu lao động để khai thác và làm biến đổi những vật liệu của tự nhiên thành những sản phẩm phù hợp với nhu cầu của mình. Trong lực lượng sản xuất, nhân tố con người là quan trọng nhất. “Lực lượng sản xuất hàng đầu của toàn thể nhân loại là công nhân, là người lao động.
 		- Bộ phận thứ hai của lực lượng sản xuất là tư liệu sản xuất, bao gồm đối tượng lao động và tư liệu lao động. Trong tư liệu sản xuất, công cụ lao động có vị trí đặc biệt. Công cụ lao động, theo Friedrich Engels, là "khi quan của bộ óc con người”, “là sức mạnh của tri thức đã được vật thể hoá” có tác dụng “nối dài bàn tay” và nhân lên sức mạnh trí tuệ của con người. Trong nền kinh tế hiện đại, các loại máy công nghiệp, máy tính, máy fax... là những công cụ lao động tạo ra sức mạnh thần kỳ cho con người trong việc chính phục, chế ngự tự nhiên.
