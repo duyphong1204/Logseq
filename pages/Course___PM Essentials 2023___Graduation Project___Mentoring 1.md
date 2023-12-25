@@ -1,0 +1,378 @@
+- {{video https://www.youtube.com/watch?v=1fBEMT33LE0}}
+- ***Đánh giá chung của mọi người***
+	- Đề khó, dễ hoang mang
+		- Bình thường học khóa này sẽ đi giải quyết bài toán B2C - nói chuyện với customer
+- ***Bài học rút ra***
+	- Nên họp First Meeting sớm nhất có thể để việc đưa hình thành và thông
+	- Về vấn đề xác định công việc thì nên nói chuyện với mentor sớm nhất có thể để cùng chốt hướng đi và rồi có một buổi cuối nhờ đánh giá
+	- Khi giảng đi kèm phân tích, hỏi mấy câu có lẽ chỉ để check tương tác, mà quan trọng không phải check người ta hiểu hay không mà có theo được mạch hay không - nên có mô hình, hoặc câu hỏi đó có thể break ra phần riêng - tại câu hỏi chính nó mang tính liên kết thực tế hơn với người học, rồi cố gắng đá lại mạch chính - giữ mạch là thứ quan trọng nhất chứ không phải giảng dễ hiểu hay không, cuốn đôi khi lợi là cái đó, nó khiến người ta follow và cảm thấy hiệu quả, tất nhiên còn những yếu tố khác nữa cần cân nhắc: đúng đủ, vấn đề của bọn giảng hay là thế
+		- nếu ta không back lại được chỗ họ chưa rõ, có thể sau mỗi đoạn hỏi họ là họ hình dung nó như nào, họ nắm được gì rồi
+			- check họ đã chunking rồi liên kết chưa thôi
+			- mình sẽ back lại và nói tiếp tùy theo việc họ hiểu chưa
+	- phải xem lại record thì là lỗi mình tiếp thu kém hay do người ta giảng nhanh hơn bình thường? lúc giảng nên đặt đối tượng là người chưa hiểu gì? hay lúc đấy mình mệt, hay nhiều suy nghĩ khác quá
+- ---
+- # Debrief cùng anh Phú
+	- ## WeShare
+		- mô hình độc đáo
+			- đi gây quỹ
+				- bằng việc đi mua hàng trên các sàn thương mại điện tử, sử dụng link của WeShare thì sẽ dư ra một khoản, khoản đó được WeShare dùng để gây quỹ giúp các hoạt động ý nghĩa xã hội
+		- đơn vị ra đề
+		- bài toán không liên quan gì
+			- nên đừng quan tâm đến WeShare về câu chuyện hay business model
+	- ## Phân tích đề
+		- ESG
+			- khía cạnh này ở Việt Nam không có nhiều
+			- ở Đức
+				- 3P
+					- People, Profit, Planet
+			- bài toán liên quan đến những chỉ số, báo cáo
+				- trông như nào
+	- ## Phân tích hướng dẫn
+		- *kể về đề theo cách riêng thôi, hoặc nghe cách người khác kể cũng ra vấn đề rất nhiều liên kết giữa đề với kiến thức họ, ra khía cạnh để khai thác, ra việc cần làm, chỉ từ góc nhìn khác*
+		- Xem những cái bối cảnh hiện nay có điểm chung gì
+		- Các bạn ra đề đưa cho rất nhiều ví dụ vì sợ người làm không biết ESG là như nào
+			- đưa ra nhiều mô hình liên quan ESG
+			- công ty
+			- brand
+			- Sẽ xem điểm chung chúng là gì, người ta còn đính link
+		- Chỉ số ở Việt Nam đang thấp
+			- nên người ta muốn cho mình biết là tất cả các brand đều quan tâm, đều biết, đều quan tâm
+			- con số chứng minh nó là điều không thể tránh khỏi
+			- các công ty muốn lớn đều phải giải quyết bài toán đó
+				- 93% là gần như mọi công ty lớn đều aware
+			- => Mình không build sản phẩm giới thiệu cho mọi người xung quanh biết mà là **giải quyết ra sao, thực hiện như nào, ghi nhận chuyện đó cho các công ty ra sao**
+			- Con số 35% là hint chỉ ra vấn đề: đang thấp bởi có gì đó nên mới không làm
+				- mức trung bình 44% cũng không cao
+				- có thể phải vấn đề bên trong?
+					- không đủ nhân lực
+					- không đủ resource
+				- => Đưa ra lí do mà người nghe thấy được là thí sinh có aware về ngành, có sự thật hiển nhiên, insight mà tất cả các công ty biết nhưng không làm (câu chuyện)
+			- Con số 58% là lời hứa
+				- các bên đều biết, chưa cam kết nhiều nhưng hứa sẽ làm
+				- conflict
+					- các bên đã biết
+					- nhưng chưa biết làm thế nào
+					- có lời hứa như lời delay
+					- 2-4 năm là room để nhảy vào giải quyết bài toán, để giúp nó thành 1-2 năm là mọi chuyện xong xuôi
+		- Người ra đề link hết tất cả những thứ mà người ta muốn mình thấy, mình chỉ cần đi theo là sẽ ra được cái hình thái nào đó, gợi ý nào đó của bài toán
+			- *ra đề rất có tâm*
+			- cơ hội
+				- từ thông tin về bối cảnh
+			- xu hướng
+				- từ bối cảnh hiện nay
+				- tất cả những competitor khác làm như nào, tiếp cận bài toán ra sao
+			- lỗ hổng là gì
+			- biết được những cái trên là xong 50% rồi
+		- Người ta còn đưa mình báo cáo ESG
+			- PNJ & FPT
+				- => Hãy xem internal các công ty thực tế chạy ESG như nào, vận hành ra sao, chúng ta có được thông tin gì để kết hợp với cơ hội, xu hướng mà đưa ra giải pháp
+		- Thực tại: Thường khi làm bảng tiếp cận Product, mình thường đưa ra ước mơ vĩ đại, tức giải quyết nhiều bài toán một lúc
+			- có 7 ngày thôi thì giải quyết như nào
+				- không thể giải quyết tất cả bài toán trong một thời điểm
+			- => Họ narrow down cho mình biết (xem thử những doanh nghiệp khác đang chạy như nào) đâu là lỗ hổng quan trọng để nhảy vào giải quyết hơn là một giải pháp toàn vẹn giải quyết loạt vấn đề mà các công ty 3-4 năm không giải quyết được
+				- kết hợp những hiểu biết từ market research
+					- cơ hội
+					- xu hướng
+			- các giải pháp đều có trên thị trường từ những nhà doanh nghiệp nước ngoài
+				- => cố gắng xem qua các sản phẩm xem họ tiếp cận như nào
+	- ## Vấn đề cần giải quyết
+		- Sản phẩm giúp các doanh nghiệp thực thi hoặc báo cáo
+			- Người ra đề biết không nên tiếp cận rộng nên đề xuất thực thi, báo cáo
+				- Thông thường bất kì một dự án nào cũng có
+					- Research
+					- Implement
+					- Assign
+					- Thực thi
+					- Báo cáo
+				- Execution
+					- Những phần mềm trên giúp các doanh nghiệp secure như nào
+				- Report
+					- Sau khi những doanh nghiệp execute thì các doanh nghiệp có thể report nhanh hoặc vấn đề về báo cáo như nào
+	- ## Gợi ý cho các đội thi
+		- Đặc trưng các ngành nghề có thể khác nhau
+			- Anh Phú thắc mắc từ đầu chúng có khác không
+				- tìm hiểu tí thì chúng có định nghĩa khác nhau
+				- framework khác nhau
+			- => Tập trung chọn ngành nghề mà dễ tiếp cận nhất mà giải quyết vấn đề của họ
+				- đọc báo cáo dễ hiểu nhất
+				- hoặc tập trung vào ngành nghề thiếu hụt
+					- *đây là assumption của anh*
+					- PNJ
+						- làm kim cương kim loại quý
+					- FPT
+						- dịch vụ sản phẩm truyền thông
+					- các công ty nhỏ họ sẽ look up lên các template của các ông lớn kia, thấy được nhưng có vấn đề gì họ không follow được
+			- => mình kết hợp hiểu biết cơ hội xu hướng nhưng chỉ tập trung vào một ngành nghề thôi thì nó tạo ra một niche market rất rộng
+				- mọi người trong ngành nghề đó sẽ sẵn sàng bỏ tiền ra vì nó đang thiếu
+	- ## Thang điểm
+		- Business Model Canvas
+			- Vì đây là sản phẩm mới nên không cần đi xây dựng một UI hoặc màn hình, feature quá cụ thể
+				- sơ sài xíu cũng được
+			- Quan trọng là ý tưởng mô hình công ty có thể chạy được thực tế mà giải quyết được các vấn đề ở trên
+	- ## Rốt cuộc ESG làm gì?
+		- Cách để tiếp cận bài toán khi mình research một concept mà mình không rõ gì hết
+			- => Xem các thằng khác làm gì
+				- Bình thường mọi người sẽ search Wiki để tìm thông tin đạng đơn giản nhất
+				- Mình sẽ cung cấp frame đẳng cấp, tức khái niệm liên kết có hệ thống và tổng hợp những kiến giải đối với các vấn đề, các sản phẩm trên thị trường
+					- như một wiki, như forum nhưng mọi thứ có liên kết hơn thì tự cái nào conflict sẽ được raise ra để giải quyết, và ghi log lại để sau này thích thì có thể phản tư
+						- người làm nên rõ các nhánh mình triển khai tiếp là dựa trên cơ sở gì, điều kiện gì sẽ chặt đứt ngọn mình luôn
+					- như là dù có dùng Sandbox để tránh virus từ các ứng dụng tải lậu thì hầu như cũng phải kích hoạt Windows Pro bằng tool, chết ở đó
+			- Cố gắng liệt kê hết các thằng nổi bật
+				- Đề bài này đề cập rồi
+				- mình chỉ cần tổng hợp điểm chung, rút ra insight thì có điểm khởi đầu tốt
+			- Cách để nhìn một sản phẩm, trang web, product mà nó giải quyết bài toán người dùng
+				- chúng đều có trang nhỏ hơn gọi là product feature/product solution
+				- tại họ làm sản phẩm họ thường tự hào về những điểm mạnh sản phẩm của mình
+					- Momo
+						- chuyển tiền
+						- đặt vé
+						- họ sẽ bưng ra hết trên các trang web
+					- => ta xem họ đang tiếp cận bài toán gì, giải quyết gì ở đây
+		- MarinaChain
+			- không nói gì tới quản lý governance
+			- giúp mọi người quản lý reporting của logistics bên ngoài
+		- Ansadara
+			- nhìn chưa biết nó giải quyết vấn đề gì
+				- nhiều doanh nghiệp mắc lỗi cơ bản này vãi? nó là lỗi hay không?
+			- tập trung vào ESG
+				- reporting
+				- dashboard
+				- quản lý governance
+					- ít liên quan social, con người
+					- quản trị tốt hơn bằng chia sẻ file
+					- làm nội bộ trong công ty dễ dàng
+					- chia sẻ file
+		- => First look: ESG là concept rộng, nó bao hàm mọi thứ
+			- nếu đưa ra giải pháp giải quyết toàn bộ thì khó khả thi
+				- vì các công ty trên chỉ tập trung giải quyết một yếu tố
+				- không ai sẽ cố fill up các mảng trong ESG
+		- Giờ xem các thằng khác tiếp cận như nào vì 2 trong 3 thằng trên là start up, nó sẽ bị niche một xíu
+		- Diligent
+			- Không biết là gì, thấy ghi là nền tảng báo cáo
+			- => Reporting
+				- về governance
+				- mấy cái legal
+				- Risks
+			- có UI dash board để xem
+		- => các công ty sẽ có nhánh nhỏ hơn đi vào E, S, G hay đi hết nhưng một khâu, phase
+		- Giả thiết: có thằng đi vào execute
+			- chiến lược - đưa ra chiến lược cho các bên để làm theo ESG
+		- => 2 cách tiếp cận đề không bị rối
+			- xem thử các đối thủ, tập trung vào khía cạnh nhỏ E,S,G
+			- hoặc tất cả, một phase nào đó
+	- ## Đi như nào
+		- Khi giải quyết bài toán có sản phẩm lạ đời thì
+			- Làm bảng competitive audit
+				- {{cloze cái frame này cũng hay, dù mình cũng tự làm được sau khi nghiên cứu một số đối tượng thôi nhưng để có thị trường chung, based on timeline hay không (không thì có thể expand tùy ý) thì cái này làm tham khảo cũng tốt}}
+				- connect hết tất cả những thông tin của thằng xung quanh
+					- xem nó đang làm gì
+					- features nó đang giải quyết
+				- => điểm chung của bọn nó là gì
+					- điểm đó là điểm không thể thiếu của thị trường
+						- nếu nhảy vào mà không giải quyết được thì out
+						- nếu muốn người ta switch sang cái của mình thì cũng phải có tính năng gì đó hỗ trợ cái này
+							- ôi cái này mình phân tích được dễ vãi vì nó là nhu cầu của mình với các app notaking chẳng hạn (người ta hay so sánh mãi Notion với Obsidian)
+					- những điểm chung nào mà các thằng khác thiếu
+						- thị trường màu mỡ, chưa ai nhảy vào, chưa có giải pháp cụ thể
+						- hướng đó không phải thứ mà thị trường cần
+							- không cần bỏ quá nhiều công sức vào giải quyết
+				- chia như nào
+					- anh gợi ý thì mất vui
+					- feature
+						- data reporting
+						- social governance
+						- comply governance
+						- risk governance
+				- họ đang thiếu gì, dư gì
+			- => Giải quyết bài toán B2B như vậy
+				- {{cloze ôi bỏ mẹ, thế thì mỗi cái B2G, G2C, G2B, C2B, C2C, C2G đều có cách riêng à, nghĩ cũng thú}}
+				- Giải quyết B2C thì dễ hơn
+					- kiểu Momo, ví điện tử
+						- bóc ra 2 người
+						- 1 người chưa
+							- tại sao chưa sử dụng
+						- 1 người rồi
+							- tại sao tiếp tục sử dụng
+				- B2B thì không gặp ai, đâu biết ai là người thực sự nằm trong công ty
+					- không biết giải pháp, kế hoạch của công ty tại sao cần
+					- => cần đi từ outbound
+			- Xây persona nhưng dành cho B2B
+				- để hiểu về người đó
+				- nó không giống B2C vì B2B rộng hơn
+					- B2C họ cầm trên tay sử dụng trải nghiệm
+					- thực ra ở B2B, mình đang chọn ra người bán được sản phẩm
+					- => phụ thuộc vào người có thể thay đổi, quyết định công ty sử dụng sản phẩm của mình
+						- CEO
+						- boards
+						- CTO?
+						- người incharge của công việc đó, decision maker của ban, công ty
+					- => ẩn này giải quyết như nào
+						- đề cho PNJ, FPT
+						- nó là cái reporting, có báo cáo
+							- thường niên, thường sẽ có
+								- mô hình tổ chức công ty kinh doanh
+								- phòng ban
+									- người tổ chức
+					- => họ là ai, pain point họ là gì, có phản ánh pain point công ty không, từ đó link rằng sản phẩm đó ngoài thị trường đang thiếu hụt
+					- => sẽ có phòng ban nào đó incharge ESG, title họ có giống công ty khác không, nếu có thì nó là cái role => tìm cách xây persona cái role đó
+			- Đọc báo cáo hàng năm
+				- ESG thường được thể hiện trong báo cáo tài chính và báo cáo hàng năm
+					- đầu năm tới cuối năm có phòng ban nào đó đứng giữa để ghi nhận lại việc giải quyết vấn đề môi trường, giải quyết vấn đề quản trị công ty
+				- Tiểu ban ESG
+					- Có role, có người, có hội đồng quản trị, tiểu ban
+					- Có khối vận hành
+						- under tổng giám đốc
+					- Công ty đủ lớn và quan tâm ESG sẽ có một khối riêng như vậy
+						- hỗ trợ mọi người, đốc thúc mọi người reporting cái ESG
+				- Thắc mắc của anh
+					- Làm sao họ đo được chính xác từng kWh
+						- có một ai
+						- có một dữ liệu
+						- có một nơi
+						- một phiên
+						- có một quy trình và một phiên ghi nhận
+					- => năm vừa rồi sử dụng bao nhiêu năng lượng, bao nhiêu nước
+						- so với benchmark thị trường
+							- có tốt hơn
+							- thấp hơn
+							- hiệu quả hơn không
+				- => có sản phẩm nào trên thị trường giúp ghi nhận chưa?
+				- => đối với các công ty khác trên thị trường, họ làm tốt việc đó chưa
+					- report hữu ích, dễ hiểu chưa
+					- => quay lại competitive audit
+						- vào từng trang của brand một xem ai cung cấp solution gì
+							- phải biết tại sao
+								- nó cố gắng đẻ ra feature
+								- ai trong hội đồng, ban đó cần thì họ mới đẻ ra
+									- mường tượng qua các hình nó chia sẻ, để đoán ai sẽ xem
+								- nắm được reporting không phải chỉ cuối năm
+			- => chia role ra tìm hiểu
+				- brand mình được giao giải quyết reporting của một hay nhiều ban (stackholders)
+					- giải quyết cái gì
+					- như nào
+		- Thực tế những thằng lớn đã có giải pháp rồi, nó rất rộng
+			- chúng ta không compete là giải quyết tất cả bài toán của nó
+			- => chọn một bài toán nó yếu nhất, đang mơ hồ nhất mà mình có thể giải quyết tốt hơn
+			- => persona
+				- những người trong phòng ban có concern nào mà
+					- các sản phẩm giải quyết được
+					- và chưa giải quyết được
+			- kết hợp competitive audit xem thị trường xung quanh
+				- điểm nào mọi brand cố gắng tập trung
+					- đâu là đại dương xanh
+					- đâu là đại dương đỏ
+	- ## Giải pháp
+		- hoàn toàn có thể đưa ra giải pháp thay thế diligent
+			- diligent thứ 2 cho Việt Nam
+		- nhưng câu chuyện đó rộng, ta có ít thời gian
+			- giám khảo sẽ biết ta không nắm sâu
+		- => nên đi vào ngách
+	- ## Chia sẻ của anh Phú
+		- Khi làm Product Manager/Product Owner
+			- Có 2 phase
+				- Product Discovery
+					- thời điểm apply Design Thinking
+						- không chỉ đi giải quyết từng vấn đề bằng sản phẩm
+						- xung quanh sản phẩm đó có gì xảy ra
+							- mình build ra có ai dùng hay không
+							- mình có giải quyết thực tế nhu cầu họ hay không
+							- với B2B là giải quyết vấn đề của một doanh nghiệp ở thị trường cụ thể nào đó
+				- Product Delivery
+		- Nếu anh thi chương trình nào chỉ có 7 ngày thì
+			- anh sẽ phân phối
+				- tài nguyên
+				- thời gian cho các thời điểm khác nhau
+			- anh sẽ spend 1-2 ngày cho 1 bước
+				- chọn ra bước nào focus nhiều nhất
+					- cảm thấy team mình thiếu cái gì thì dành focus vào bao lâu
+				- phải có goal là sau bao nhiêu ngày là biết được gì
+					- ví dụ 3 ngày empathy
+						- biết được thị trường
+						- biết được solution
+					- phải đặt ra vì
+						- nhiều team dành 3-4 ngày empathy
+							- phát hiện ra nhiều thứ
+						- càng làm càng bị hăng
+							- sẽ ra một thứ rất bự
+					- => mất 4 ngày để research và settle down giải pháp nhìn lại sẽ lãng phí, phải cuốn chiếu các ngày sau
+						- mấy ngày sau còn nghĩ thêm define, ideate, rồi làm slide nữa
+			- tuyệt đối không nên
+				- empathy 1 người
+				- define 1 người,...
+				- design thinking có điểm mạnh là yêu cầu tất cả cùng nghĩ một stage
+					- ở trong môi trường thực tế, sẽ có nhiều role khác nhau
+						- mỗi role có 1 perception, mindset
+						- đi chung thì mới không bị bỏ sót
+	- ## Câu hỏi về B2B Persona
+		- Khó reach out để phỏng vấn
+		- Reach out được thì tốt
+		- Công ty anh Phú làm có phase out reach - reach out
+			- đi tìm hiểu các bên xung quanh
+			- hẹn người ta, nói chuyện người ta xem giải pháp thế này thế kia, có bị vấn đề này kia không
+		- 7 ngày thì khó kiếm
+		- Decision making cũng bận cuối năm
+		- => cách tốt nhất là assumption/giả thuyết
+			- phải có hypothesis base, data dữ liệu nào đó chứng minh tại sao lại có chuyện này xảy ra, có pain point này
+				- ví dụ
+					- phòng ban ESG đang không có bộ framework sẵn có trong ngành công nghiệp
+						- sẽ cần bài báo hoặc nguồn chứng minh nào đó
+			- đừng nên theo đúng concept B2C, có thể hỏi để hiểu operation nhưng nếu người được hỏi không phải decision maker, họ không hiểu được sự thiếu hụt thì thông tin họ đưa sẽ sai
+			- hãy nghĩ như decision makers
+				- họ đang phải nghĩ tới gì
+				- đối mặt chuyện đó như nào
+				- role họ ra sao
+	- ## Sản phẩm
+		- Hình thức dự án
+			- Landing page, website hơi khó khả thi
+				- Vì các công ty khác biết câu chuyện này rồi, họ gặp trắc trở thực thi như nào, báo cáo làm sao
+				- => cần cái đủ native, đủ integrate sâu vào mô hình công ty đó
+		- Xây dựng Business Model Canvas
+			- gồm segment khác nhau
+			- khi mình phân tích ra các yếu tố đó rồi thì kết luận rút ra như nào để ban giám khảo hiểu được nhất về mô hình đó?
+			- anh Phú đáp:
+				- nó là gợi ý của bên ra đề
+					- để ta biết mô hình mình suy nghĩ đấy đã có người khác làm chưa
+					- nếu chưa thì mình thấy được gì trong đó
+					- giải quyết bài toán đó như nào
+			- nó là một công cụ tốt để structural lại cái gì đã tìm hiểu
+				- tất cả những gì liên quan đến công ty
+				- tất cả những dòng chảy nào đó liên quan đến cơ hội phát triển của bất kì công ty nào liên quan đến lĩnh vực này
+			- nó là thời điểm để gom lại với nhau
+				- xem những thành viên trong công ty có clear về giải pháp hoạt động ra sao chưa
+			- Giả dụ {{youtube-timestamp 3375}}
+				- chia theo ngành nghề
+					- ESG tài chính
+					- ESG sản xuất
+				- người làm ngành này sẽ có cái nhìn rất to nhưng ngành người khác nhận sẽ có thêm những điểm thiếu khác
+				- => Mình cùng ngồi xuống, cung cấp gì, cái gì quá to để làm
+				- => Define, Ideate, Prototype
+		- Tại sao Business Model Canvas có chấm điểm ở đây
+			- kinh nghiệm làm giám khảo rồi
+			- nó là cái để loại nhanh hơn
+				- làm cùng nhau rồi mà Business Model Canvas valuable position 15 cái, key partnership có 20 người, activity 25 người
+				- => không có nắm gì về thị trường, không có rõ về concept này
+				- => Business Model Canvas gọn gàng sạch sẽ, đúng trọng tâm
+		- Chú ý bắt đầu từ đâu, từ điểm nào
+			- value là cái cuối cùng để fit với nhau, align với nhau
+				- thằng này chung segment
+				- thằng này chung key partnership
+			- đầu tiên là customer segment
+			- sau là key partnership
+			- đi từ trái sang phải, 2 cục trên trái và 2 cục trên phải
+			- => sẽ thấy hai cái đối nghịch nhau
+				- một bên là demand, một bên là supply
+				- giữa supply với demand thiếu value
+					- giải quyết được cái thiếu là value
+					- để bên cần, thiếu bằng nhau
+					- cái mình tốn effort (khối trên trái)ra là chi phí, rồi cùng value tính ra tiền, rồi cuối cùng thu tiền người đó ra sao
+						- subscription
+			- cost + revenue = profit
+				- đáng lẽ có thêm cục nữa
+				- người dùng của mình happy như nào là cái này
+		- Có Business Model Canvas rồi thì khi present
+			- điểm cộng lớn là sẽ clear khi present
+				- customer là ai
+				- key partner, creative của team mình là ai
+				- nói giống như đi kể chuyện về công ty
+					- một người không có mặt được
+					- presenter không đóng góp được thì người khác thay được vì tất cả đều rõ

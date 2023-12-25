@@ -1,6 +1,7 @@
 # Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế Chính trị Mác - Lênin
 	- ## 1.1 Sản xuất xã hội
 		- ### Một số khái niệm cơ bản
+		  collapsed:: true
 			- ***Sản xuất xã hội***
 				- Sản xuất vật chất là cơ sở, nền tảng của đời sống xã hội.
 				  collapsed:: true
@@ -291,6 +292,7 @@
 					- Việc thực hiện trôi chảy từng khâu là điều kiện đảm bảo cho quá trình tái sản xuất có thể tiến hành một cách liên tục.
 	- ## 1.1.2. Vai trò của sản xuất xã hội
 		- ### Thỏa mãn các nhu cầu vật chất của con người
+		  collapsed:: true
 			- Để tồn tại, trước hết con người cần được thỏa mãn các nhu cầu cơ bản, thiết yếu
 				- ăn
 				  logseq.order-list-type:: number
@@ -321,4 +323,24 @@
 				- quân sự
 				- thể dục thể thao,...
 				- Mỗi lĩnh vực hoạt động có tính độc lập tương đối nhưng đều có quan hệ chặt chẽ với sự phát triển của nền sản xuất xã hội.
-				- Sản
+					- Sản xuất xã hội cung cấp các phương tiện vật chất cho con người để phát triển các lĩnh vực hoạt động khác.
+					- Do đó, quy mô và trình độ phát triển của nền sản xuất trở thành điều kiện cho sự phát triển các lĩnh vực khác của đời sống kinh tế - xã hội.
+					- Từ những phân tích trên, có thể rút ra kết luận
+						- Sản xuất của cải vật chất là cơ sở, nền tảng của đời sống xã hội;
+						- Sự phát triển của sản xuất xã hội là cơ sở phát triển tất cả các mặt của đời sống kinh tế - xã hội.
+						- Phát triển sản xuất xã hội phải là mối quan tâm hàng đầu của nhân loại.
+				- Ngày nay, phát triển bền vững nền sản xuất xã hội đang trở thành mục tiêu quan trọng hàng đầu của các quốc gia.
+					- Đó là “sự phát triển đáp ứng các nhu cầu hiện tại mà không làm nguy hại đến khả năng đáp ứng nhu cầu của các thế hệ tương lai".
+						- Các nhu cầu được hiểu theo nghĩa rộng
+							- bao gồm cả nhu cầu vật chất và nhu cầu tinh thần
+						- Việc đáp ứng các nhu cầu hiện tại mà không làm nguy hại đến khả năng đáp ứng nhu cầu của các thế hệ tương lai đòi hỏi phải chuyển giao các nguồn lực sẵn có từ thế hệ này sang thế hệ khác
+							- các nguồn tài nguyên thiên nhiên
+							- kết cấu hạ tầng kinh tế - xã hội
+							- các nguồn vốn
+							- các năng lực của con người...
+					- Khái niệm “phát triển bền vững” tiếp tục được hoàn thiện.
+						- Đến Hội nghị Thượng đỉnh thế giới về phát triển bền vững ở Johannesburg (Cộng hoà Nam Phi) năm 2002, khái niệm “phát triển bền vững” được làm rõ hơn.
+							- Phát triển bền vững là quá trình phát triển có sự kết hợp chặt chẽ, hài hoà giữa tăng trưởng kinh tế, cải thiện các vấn đề xã hội và bảo vệ môi trường.
+								- {{cloze không nên xuống dòng ở đây vì sẽ đứt câu, đặc biệt là câu định nghĩa, còn ở trên thì được vì nó chỉ là một trong số những nguồn}}
+	- ## 1.1.3. Các yếu tố cơ bản của quá trình lao động sản xuất
+		- Quá trình lao động sản xuất là quá trình con người tác động (trực tiếp hoặc gián tiếp) vào tự nhiên nhằm biến đổi các dạng vật chất của tự nhiên thành sản phẩm thoả mãn các nhu cầu của mình. Để tiến hành
