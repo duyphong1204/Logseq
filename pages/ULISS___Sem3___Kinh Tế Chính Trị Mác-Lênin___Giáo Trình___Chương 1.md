@@ -447,7 +447,10 @@
 				- Tư liệu lao động là một
 				- vật hay hệ thống những vật làm nhiệm vụ truyền dẫn sự tác động của con người vào đối tượng lao động nhằm biến đổi chúng thành sản phẩm để thoả mãn các nhu cầu của con người.
 				- Tư liệu lao động bao gồm:
-					- Công cụ lao động là những tư liệu lao động trực tiếp tác động làm biến đổi đối tượng lao động, chẳng hạn như: cái cây, cái cuộc tay đấy, máy gặt. Công cụ lao động là sự kết tinh tri thức và kinh nghiệm của con người, trực tiếp quyết định năng suất lao động và chất lượng sản phẩm. Vì vậy, công cụ lao động thể hiện năng lực, hiểu biết của con người, đo lường trình độ phát triển của nền sản xuất.
+					- Công cụ lao động là những tư liệu lao động trực tiếp tác động làm biến đổi đối tượng lao động
+						- cái cày
+						- cái cuộc
+						- tay đấy, máy gặt. Công cụ lao động là sự kết tinh tri thức và kinh nghiệm của con người, trực tiếp quyết định năng suất lao động và chất lượng sản phẩm. Vì vậy, công cụ lao động thể hiện năng lực, hiểu biết của con người, đo lường trình độ phát triển của nền sản xuất.
 					- Tư liệu lao động dùng để bảo quản những đối tượng và sản phẩm lao động
 						- gọi chung là hệ thống bình chứa của sản xuất
 							- như là nhà kho chứa vật tư, hàng hóa
@@ -463,5 +466,9 @@
 						  logseq.order-list-type:: number
 						- phương tiện thông tin liên lạc... 
 						  logseq.order-list-type:: number
-						- Trong nền kinh tế thị trường, kết cấu hạ tầng được coi là hàng hoá công cộng, rất cần thiết cho hoạt động của doanh nghiệp, ảnh hưởng trực tiếp đến năng suất, chất lượng, hiệu quả hoạt động của doanh nghiệp và của nền kinh tế Từ năm 2011 đến nay, đất nước ta đã và đang thực hiện ba đột phá chiến lược, trong đó có đột phá phát triển kết cấu hạ tầng. “Tiếp tục đẩy mạnh thực hiện đột phá chiến lược về xây dựng hệ thống kết cấu hạ tầng đồng bộ với một số công trình hiện đại. Tập trung ưu tiên đầu tư, sớm đưa vào sử dụng các công trình, dự án hạ tầng trọng điểm về giao thông đường bộ, đường sắt, đường biển, đường không kết nối các vùng, khu vực, các trung tâm kinh tế trong nước và quốc tế.
+						- Trong nền kinh tế thị trường, kết cấu hạ tầng được coi là hàng hoá công cộng
+							- rất cần thiết cho hoạt động của doanh nghiệp
+							- ảnh hưởng trực tiếp đến năng suất, chất lượng, hiệu quả hoạt động của doanh nghiệp và của nền kinh tế
+							- Từ năm 2011 đến nay, đất nước ta đã và đang thực hiện ba đột phá chiến lược, trong đó có đột phá phát triển kết cấu hạ tầng.
+								- “Tiếp tục đẩy mạnh thực hiện đột phá chiến lược về xây dựng hệ thống kết cấu hạ tầng đồng bộ với một số công trình hiện đại. Tập trung ưu tiên đầu tư, sớm đưa vào sử dụng các công trình, dự án hạ tầng trọng điểm về giao thông đường bộ, đường sắt, đường biển, đường không kết nối các vùng, khu vực, các trung tâm kinh tế trong nước và quốc tế.
 		-
