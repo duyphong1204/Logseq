@@ -502,5 +502,10 @@
 				- đối tượng lao động
 				- tư liệu lao động.
 				- Trong tư liệu sản xuất, công cụ lao động có vị trí đặc biệt.
-					- Công cụ lao động, theo Friedrich Engels, là "khí quan của bộ óc con người”, “là sức mạnh của tri thức đã được vật thể hoá” có tác dụng “nối dài bàn tay” và nhân lên sức mạnh trí tuệ của con người. Trong nền kinh tế hiện đại, các loại máy công nghiệp, máy tính, máy fax... là những công cụ lao động tạo ra sức mạnh thần kỳ cho con người trong việc chính phục, chế ngự tự nhiên.
+					- Công cụ lao động, theo Friedrich Engels
+						- là "khí quan của bộ óc con người”
+						- “là sức mạnh của tri thức đã được vật thể hoá”
+						- có tác dụng “nối dài bàn tay”
+						- nhân lên sức mạnh trí tuệ của con người.
+					- Trong nền kinh tế hiện đại, các loại máy công nghiệp, máy tính, máy fax... là những công cụ lao động tạo ra sức mạnh thần kỳ cho con người trong việc chính phục, chế ngự tự nhiên.
 		- Trình độ của lực lượng sản xuất thể hiện khả năng của con người trong việc chiếm lĩnh tự nhiên, giải quyết quan hệ của mình với tự nhiên. Lực lượng sản xuất phát triển cảng cao cũng có nghĩa là năng
