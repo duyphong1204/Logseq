@@ -384,11 +384,18 @@
 				- Đối tượng lao động là tất cả những dạng vật chất của tự nhiên mà lao động của con người tác động vào có thể biến đổi thành sản phẩm, đáp ứng các nhu cầu của con người.
 				- Đối tượng lao động có hai loại
 					- thứ nhất là những vật liệu có sẵn trong tự nhiên
-						- quặng trong lòng đất, cả dưới biển, gỗ trong rừng nguyên thuỷ...; thứ hai là những vật liệu đã qua chế biến như gang trong lò luyện thép, sợi trong nhà máy dệt, bột gỗ trong nhà máy giấy... Đối tượng lao động đã qua chế biến gọi là nguyên liệu.
-						  
-						  Trong nền kinh tế hiện đại, đối tượng lao động có những đặc điểm sau:
-						  
-						  Nhiều loại nguyên liệu mới xuất hiện thay thế nguyên liệu truyền thống: tơ, sợi hóa học; gỗ công nghiệp; chất dẻo, các vật liệu nhẹ, không thấm nước, chống cháy nổ...
+						- quặng trong lòng đất
+						- cá dưới biển
+						- gỗ trong rừng nguyên thuỷ...
+					- thứ hai là những vật liệu đã qua chế biến
+						- gang trong lò luyện thép
+						- sợi trong nhà máy dệt
+						- bột gỗ trong nhà máy giấy...
+					- Đối tượng lao động đã qua chế biến gọi là nguyên liệu.
+					  
+					  Trong nền kinh tế hiện đại, đối tượng lao động có những đặc điểm sau:
+					  
+					  Nhiều loại nguyên liệu mới xuất hiện thay thế nguyên liệu truyền thống: tơ, sợi hóa học; gỗ công nghiệp; chất dẻo, các vật liệu nhẹ, không thấm nước, chống cháy nổ...
 				- Việc khai thác các nguồn tài nguyên thiên nhiên hiệu quả hơn: năng suất cây trồng, vật nuôi trên một đơn vị diện tích đất đai tăng lên; hiệu suất khai thác các mỏ than, mỏ dầu... tăng lên.
 				- Nhu cầu khai thác và sử dụng tài nguyên càng lớn do quy mô của nền sản xuất không ngừng mở rộng. Hậu quả là: giới hạn của tài nguyên thiên nhiên xuất hiện; môi trường sinh thái mất cân bằng, ô nhiễm...
 				- Các nguồn năng lượng mới, sạch được quan tâm khai thác: năng lượng gió, năng lượng sinh học, năng lượng mặt trời, địa nhiệt...
