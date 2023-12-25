@@ -353,9 +353,9 @@
 					- Như vậy, sức lao động là tiềm năng lao động, là khả năng tạo ra sản phẩm của con người.
 				- Là toàn bộ thể lực, tâm lực của con người có thể sử dụng để tiến hành hoạt động lao động
 				  logseq.order-list-type:: number
-					- Để tiến hành hoạt động lao động sản xuất, người lao động phải có khả năng về thể lực, trí lực và tâm lực. Các yếu tố thuộc về thể lực của người lao động bao gồm chiều cao, cân nặng, sức bền, sức đề kháng bệnh tật... Trị lực của người lao động gồm có khả năng tư duy, tri thức, kỹ năng, kinh nghiệm lao động. Tinh thần, thái độ lao động, ý thức tổ chức kỷ luật trong lao động thuộc về tâm lực của người lao động. Vì thế, để phát triển sản xuất, người lao động phải được quan tâm cả đời sống vật chất và tinh thần.
+					- Để tiến hành hoạt động lao động sản xuất, người lao động phải có khả năng về thể lực, trí lực và tâm lực. Các yếu tố thuộc về thể lực của người lao động bao gồm chiều cao, cân nặng, sức bền, sức đề kháng bệnh tật... Trí lực của người lao động gồm có khả năng tư duy, tri thức, kỹ năng, kinh nghiệm lao động. Tinh thần, thái độ lao động, ý thức tổ chức kỷ luật trong lao động thuộc về tâm lực của người lao động. Vì thế, để phát triển sản xuất, người lao động phải được quan tâm cả đời sống vật chất và tinh thần.
 					  Như vậy, con người vừa là mục tiêu, vừa là nguồn lực để phát triển. Muốn phát triển sản xuất xã hội cần có nguồn nhân lực chất lượng cao. Do đó, phát triển giáo dục - đào tạo, phát triển y tế, bảo vệ môi trường trở thành điều kiện phát triển nền sản xuất.
-				- Sức lao động là yếu tố quan trọng nhất của hoạt động lao động sản xuất vì sức lao động thuộc về con người - vừa là khách thể, vừa là chủ thể của quá trình lao động sản xuất. trí lực và
+				- Sức lao động là yếu tố quan trọng nhất của hoạt động lao động sản xuất vì sức lao động thuộc về con người - vừa là khách thể, vừa là chủ thể của quá trình lao động sản xuất.
 			- đối tượng lao động
 			- tư liệu lao động
 		- Đối tượng lao động
