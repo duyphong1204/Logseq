@@ -344,11 +344,9 @@
 							- Phát triển bền vững là quá trình phát triển có sự kết hợp chặt chẽ, hài hoà giữa tăng trưởng kinh tế, cải thiện các vấn đề xã hội và bảo vệ môi trường.
 								- {{cloze không nên xuống dòng ở đây vì sẽ đứt câu, đặc biệt là câu định nghĩa, còn ở trên thì được vì nó chỉ là một trong số những nguồn}}
 	- ## 1.1.3. Các yếu tố cơ bản của quá trình lao động sản xuất
-	  collapsed:: true
 		- Quá trình lao động sản xuất là quá trình con người tác động (trực tiếp hoặc gián tiếp) vào tự nhiên nhằm biến đổi các dạng vật chất của tự nhiên thành sản phẩm thoả mãn các nhu cầu của mình
 		- Để tiến hành hoạt động lao động sản xuất, cần có những yếu tố cơ bản
 			- Sức lao động
-			  collapsed:: true
 				- Là khả năng lao động của con người
 				  logseq.order-list-type:: number
 				  collapsed:: true
@@ -507,5 +505,12 @@
 						- “là sức mạnh của tri thức đã được vật thể hoá”
 						- có tác dụng “nối dài bàn tay”
 						- nhân lên sức mạnh trí tuệ của con người.
-					- Trong nền kinh tế hiện đại, các loại máy công nghiệp, máy tính, máy fax... là những công cụ lao động tạo ra sức mạnh thần kỳ cho con người trong việc chính phục, chế ngự tự nhiên.
+					- Trong nền kinh tế hiện đại
+						- các loại máy công nghiệp
+						  logseq.order-list-type:: number
+						- máy tính
+						  logseq.order-list-type:: number
+						- máy fax...
+						  logseq.order-list-type:: number
+						- là những công cụ lao động tạo ra sức mạnh thần kỳ cho con người trong việc chính phục, chế ngự tự nhiên.
 		- Trình độ của lực lượng sản xuất thể hiện khả năng của con người trong việc chiếm lĩnh tự nhiên, giải quyết quan hệ của mình với tự nhiên. Lực lượng sản xuất phát triển cảng cao cũng có nghĩa là năng
