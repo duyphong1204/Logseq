@@ -375,7 +375,9 @@
 								- ý thức tổ chức kỷ luật trong lao động
 					- Vì thế, để phát triển sản xuất, người lao động phải được quan tâm cả đời sống vật chất và tinh thần.
 				- Sức lao động là yếu tố quan trọng nhất của hoạt động lao động sản xuất vì sức lao động thuộc về con người - vừa là khách thể, vừa là chủ thể của quá trình lao động sản xuất.
-				- Con người vừa là mục tiêu, vừa là nguồn lực để phát triển. Muốn phát triển sản xuất xã hội cần có nguồn nhân lực chất lượng cao. Do đó, phát triển giáo dục - đào tạo, phát triển y tế, bảo vệ môi trường trở thành điều kiện phát triển nền sản xuất.
+				- Con người vừa là mục tiêu, vừa là nguồn lực để phát triển.
+					- Muốn phát triển sản xuất xã hội cần có nguồn nhân lực chất lượng cao.
+					- Do đó, phát triển giáo dục - đào tạo, phát triển y tế, bảo vệ môi trường trở thành điều kiện phát triển nền sản xuất.
 			- Đối tượng lao động
 			  collapsed:: true
 				- Quá trình sản xuất của cải vật chất
@@ -439,6 +441,7 @@
 							- tình trạng ô nhiễm môi trường xuất hiện và ngày càng nghiêm trọng...
 						- Đây là những vấn đề được nhân loại quan tâm và đang tìm ra nhiều giải pháp để khắc phục các vấn đề đó.
 			- Tư liệu lao động
+			  collapsed:: true
 				- Con người muốn biến đổi đối tượng lao động thành sản phẩm nhằm thỏa mãn các nhu cầu của mình cần phải sử dụng các phương tiện truyền dẫn
 				  collapsed:: true
 					- tức là những tư liệu lao động
