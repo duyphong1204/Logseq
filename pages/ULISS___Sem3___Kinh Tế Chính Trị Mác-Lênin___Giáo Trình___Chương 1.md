@@ -521,6 +521,7 @@
 				- Cũng vì vậy, trong cơ chế thị trường, trình độ phát triển của lực lượng sản xuất được thể hiện ở quy mô và hiệu quả sử dụng các nguồn lực
 					- Vốn
 					  logseq.order-list-type:: number
+					  collapsed:: true
 						- Trong cơ chế thị trường, vốn là nguồn lực rất quan trọng
 							- vốn có thể chuyển hóa thành (mua được) sức lao động, tài nguyên, công nghệ
 								- từ đó có thể tiến hành các hoạt động kinh tế.
@@ -529,6 +530,7 @@
 					  logseq.order-list-type:: number
 					- Tài nguyên
 					  logseq.order-list-type:: number
+					  collapsed:: true
 						- là nguồn lực quan trọng để tăng trưởng, phát triển kinh tế
 						- Bao gồm
 							- Tài nguyên thiên nhiên
