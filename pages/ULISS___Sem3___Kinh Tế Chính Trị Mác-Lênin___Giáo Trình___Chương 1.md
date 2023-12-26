@@ -550,5 +550,16 @@
 											- các lễ hội
 											- các di sản văn hóa vật thể
 											- các di sản văn hóa phi vật thể....
-					- Khoa học - công nghệ.
+					- Khoa học - công nghệ
+					  logseq.order-list-type:: number
+						- Khoa học - công nghệ là nguồn lực có vai trò ngày càng to lớn với sản xuất.
+							- Với sự phát triển nhanh chóng mang tính cách mạng trong những thập niên gần đây, khoa học - công nghệ đã trở thành lực lượng sản xuất trực tiếp.
+							- Những thành tựu to lớn của cuộc cách mạng khoa học - công nghệ là cơ sở cho sự xuất hiện nền kinh tế mới, nền kinh tế tri thức.
+							- Đảng Cộng sản Việt Nam chủ trương:
+								- “Giáo dục và đào tạo cùng với khoa học và công nghệ là quốc sách hàng đầu, là nền tảng và động lực thúc đẩy công nghiệp hoá, hiện đại hoá đất nước".
+					- Nguồn lực con người giữ vai trò quyết định trong các hoạt động kinh tế vì con người là chủ thể của các hoạt động kinh tế. Việc huy động và sử dụng các nguồn lực khác như thế nào, có hiệu quả hay không là do con người quyết định. Do đó, đáp ứng nhu cầu của nền kinh tế về số lượng và cơ cấu, nâng cao chất lượng nguồn nhân lực chính là góp phần quyết định vào sự phát triển của lực lượng sản xuất.
+					  logseq.order-list-type:: number
+					- Quan hệ sản xuất
+					  logseq.order-list-type:: number
+					- Trong quá trình sản xuất của cải vật chất, con người không chỉ phải quan hệ với tự nhiên, mà còn phải quan hệ với nhau. Karl Marx viết: “Trong sản xuất, người ta không chỉ quan hệ với tự nhiên. Người ta không thể sản xuất được nếu không kết hợp với nhau theo một cách nào đó để hoạt động chung và để trao đổi hoạt động với nhau. Muốn sản xuất được, người ta phải có những mối liên hệ và quan hệ nhất định với nhau và quan hệ của họ với giới tự nhiên, tức là việc sản xuất. Như vậy, quan hệ giữa con người với nhau trong quá trình sản xuất là khách quan, không phụ thuộc vào ý chí, nguyện vọng của chính con người. Đó chính là một mặt của quá trình sản xuất.
 					  logseq.order-list-type:: number
