@@ -565,4 +565,6 @@
 					- Do đó, đáp ứng nhu cầu của nền kinh tế về số lượng và cơ cấu, nâng cao chất lượng nguồn nhân lực chính là góp phần quyết định vào sự phát triển của lực lượng sản xuất.
 		- Quan hệ sản xuất
 		  logseq.order-list-type:: number
-			- Trong quá trình sản xuất của cải vật chất, con người không chỉ phải quan hệ với tự nhiên, mà còn phải quan hệ với nhau. Karl Marx viết: “Trong sản xuất, người ta không chỉ quan hệ với tự nhiên. Người ta không thể sản xuất được nếu không kết hợp với nhau theo một cách nào đó để hoạt động chung và để trao đổi hoạt động với nhau. Muốn sản xuất được, người ta phải có những mối liên hệ và quan hệ nhất định với nhau và quan hệ của họ với giới tự nhiên, tức là việc sản xuất. Như vậy, quan hệ giữa con người với nhau trong quá trình sản xuất là khách quan, không phụ thuộc vào ý chí, nguyện vọng của chính con người. Đó chính là một mặt của quá trình sản xuất.
+			- Trong quá trình sản xuất của cải vật chất, con người không chỉ phải quan hệ với tự nhiên, mà còn phải quan hệ với nhau.
+				- Karl Marx viết:
+					- “Trong sản xuất, người ta không chỉ quan hệ với tự nhiên. Người ta không thể sản xuất được nếu không kết hợp với nhau theo một cách nào đó để hoạt động chung và để trao đổi hoạt động với nhau. Muốn sản xuất được, người ta phải có những mối liên hệ và quan hệ nhất định với nhau và quan hệ của họ với giới tự nhiên, tức là việc sản xuất. Như vậy, quan hệ giữa con người với nhau trong quá trình sản xuất là khách quan, không phụ thuộc vào ý chí, nguyện vọng của chính con người. Đó chính là một mặt của quá trình sản xuất.
