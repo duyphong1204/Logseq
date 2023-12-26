@@ -475,7 +475,7 @@
 							- Từ năm 2011 đến nay, đất nước ta đã và đang thực hiện ba đột phá chiến lược, trong đó có đột phá phát triển kết cấu hạ tầng.
 								- “Tiếp tục đẩy mạnh thực hiện đột phá chiến lược về xây dựng hệ thống kết cấu hạ tầng đồng bộ với một số công trình hiện đại. Tập trung ưu tiên đầu tư, sớm đưa vào sử dụng các công trình, dự án hạ tầng trọng điểm về giao thông đường bộ, đường sắt, đường biển, đường không kết nối các vùng, khu vực, các trung tâm kinh tế trong nước và quốc tế.
 	- ## 1.1.4. Hai mặt của sản xuất xã hội
-		- Lực lượng sản xuất
+		- **Lực lượng sản xuất**
 			- Trong quá trình sản xuất của cải vật chất, con người phải khai thác, sử dụng các yếu tố tự nhiên
 				- tức là phải quan hệ với tự nhiên.
 				- nguyên liệu
@@ -488,78 +488,77 @@
 				  logseq.order-list-type:: number
 				- đất đai... 
 				  logseq.order-list-type:: number
-			- Năng lực của con người trong việc thích ứng với tự nhiên, biến đổi những yếu tố tự nhiên thành sản phẩm được gọi là lực lượng sản xuất.
-		- Lực lượng sản xuất là toàn bộ những năng lực sản xuất của một xã hội nhất định, ở một thời điểm nhất định.
-		- Lực lượng sản xuất bao gồm
-			- người lao động với những khả năng nhất định
-				- sức khoẻ
-				- thể lực
-				- tri thức
-				- kỹ năng lao động.
-				- Với sức lực và trí tuệ của mình, con người sử dụng các tư liệu lao động để khai thác và làm biến đổi những vật liệu của tự nhiên thành những sản phẩm phù hợp với nhu cầu của mình.
-				- Trong lực lượng sản xuất, nhân tố con người là quan trọng nhất.
-					- “Lực lượng sản xuất hàng đầu của toàn thể nhân loại là công nhân, là người lao động.
-			- tư liệu sản xuất
-				- đối tượng lao động
-				- tư liệu lao động.
-				- Trong tư liệu sản xuất, công cụ lao động có vị trí đặc biệt.
-					- Công cụ lao động, theo Friedrich Engels
-						- là "khí quan của bộ óc con người”
-						- “là sức mạnh của tri thức đã được vật thể hoá”
-						- có tác dụng “nối dài bàn tay”
-						- nhân lên sức mạnh trí tuệ của con người.
-					- Trong nền kinh tế hiện đại
-						- các loại máy công nghiệp
+				- Năng lực của con người trong việc thích ứng với tự nhiên, biến đổi những yếu tố tự nhiên thành sản phẩm được gọi là lực lượng sản xuất.
+			- Lực lượng sản xuất là toàn bộ những năng lực sản xuất của một xã hội nhất định, ở một thời điểm nhất định.
+			- Lực lượng sản xuất bao gồm
+				- người lao động với những khả năng nhất định
+					- sức khoẻ
+					- thể lực
+					- tri thức
+					- kỹ năng lao động.
+					- Với sức lực và trí tuệ của mình, con người sử dụng các tư liệu lao động để khai thác và làm biến đổi những vật liệu của tự nhiên thành những sản phẩm phù hợp với nhu cầu của mình.
+					- Trong lực lượng sản xuất, nhân tố con người là quan trọng nhất.
+						- “Lực lượng sản xuất hàng đầu của toàn thể nhân loại là công nhân, là người lao động.
+				- tư liệu sản xuất
+					- đối tượng lao động
+					- tư liệu lao động.
+					- Trong tư liệu sản xuất, công cụ lao động có vị trí đặc biệt.
+						- Công cụ lao động, theo Friedrich Engels
+							- là "khí quan của bộ óc con người”
+							- “là sức mạnh của tri thức đã được vật thể hoá”
+							- có tác dụng “nối dài bàn tay”
+							- nhân lên sức mạnh trí tuệ của con người.
+						- Trong nền kinh tế hiện đại
+							- các loại máy công nghiệp
+							  logseq.order-list-type:: number
+							- máy tính
+							  logseq.order-list-type:: number
+							- máy fax...
+							  logseq.order-list-type:: number
+							- là những công cụ lao động tạo ra sức mạnh thần kỳ cho con người trong việc chính phục, chế ngự tự nhiên.
+				- Trình độ của lực lượng sản xuất thể hiện khả năng của con người trong việc chiếm lĩnh tự nhiên, giải quyết quan hệ của mình với tự nhiên.
+					- Lực lượng sản xuất phát triển cảng cao cũng có nghĩa là năng lực sản xuất ra của cải vật chất càng to lớn.
+					- Cũng vì vậy, trong cơ chế thị trường, trình độ phát triển của lực lượng sản xuất được thể hiện ở quy mô và hiệu quả sử dụng các nguồn lực
+						- Vốn
 						  logseq.order-list-type:: number
-						- máy tính
+						  collapsed:: true
+							- Trong cơ chế thị trường, vốn là nguồn lực rất quan trọng
+								- vốn có thể chuyển hóa thành (mua được) sức lao động, tài nguyên, công nghệ
+									- từ đó có thể tiến hành các hoạt động kinh tế.
+							- Do đó, thực hiện tích lũy vốn, mở rộng quy mô và nâng cao hiệu quả sử dụng vốn chính là phát triển lực lượng sản xuất.
+						- Lao động
 						  logseq.order-list-type:: number
-						- máy fax...
+						- Tài nguyên
 						  logseq.order-list-type:: number
-						- là những công cụ lao động tạo ra sức mạnh thần kỳ cho con người trong việc chính phục, chế ngự tự nhiên.
-			- Trình độ của lực lượng sản xuất thể hiện khả năng của con người trong việc chiếm lĩnh tự nhiên, giải quyết quan hệ của mình với tự nhiên.
-				- Lực lượng sản xuất phát triển cảng cao cũng có nghĩa là năng lực sản xuất ra của cải vật chất càng to lớn.
-				- Cũng vì vậy, trong cơ chế thị trường, trình độ phát triển của lực lượng sản xuất được thể hiện ở quy mô và hiệu quả sử dụng các nguồn lực
-					- Vốn
-					  logseq.order-list-type:: number
-					  collapsed:: true
-						- Trong cơ chế thị trường, vốn là nguồn lực rất quan trọng
-							- vốn có thể chuyển hóa thành (mua được) sức lao động, tài nguyên, công nghệ
-								- từ đó có thể tiến hành các hoạt động kinh tế.
-						- Do đó, thực hiện tích lũy vốn, mở rộng quy mô và nâng cao hiệu quả sử dụng vốn chính là phát triển lực lượng sản xuất.
-					- Lao động
-					  logseq.order-list-type:: number
-					- Tài nguyên
-					  logseq.order-list-type:: number
-					  collapsed:: true
-						- là nguồn lực quan trọng để tăng trưởng, phát triển kinh tế
-						- Bao gồm
-							- Tài nguyên thiên nhiên
-								- Trong nền kinh tế tự nhiên, tài nguyên thiên nhiên là nguồn lực quan trọng nhất.
-									- Vì thế, những quốc gia có điều kiện tự nhiên khắc nghiệt, tài nguyên thiên nhiên nghèo nàn sẽ gặp nhiều khó khăn trong quá trình tăng trưởng, phát triển kinh tế.
-									- Ngược lại, những quốc gia có các nguồn tài nguyên thiên nhiên phong phú sẽ thuận lợi hơn trong quá trình tăng trưởng, phát triển kinh tế.
-									- Vì vậy, khai thác sử dụng tài nguyên thiên nhiên tiết kiệm, hiệu quả; bảo vệ tài nguyên và môi trưởng là một trong những trụ cột của phát triển bền vững.
-							- Tài nguyên nhân tạo
-								- Khi nền kinh tế phát triển dựa vào tri thức thì tài nguyên nhân tạo ngày càng có vai trò quan trọng hơn.
-									- Việc sáng tạo và ứng dụng trí thức trong các hoạt động kinh tế và trong đời sống đều phải dựa vào nguồn dữ liệu
-										- Nguồn dữ liệu càng đầy đủ, phong phú thì khả năng sáng tạo và ứng dụng tri thức càng cao.
-									- Vì vậy, xây dựng, kết nối, chia sẻ cơ sở dữ liệu (Bigdata) đang trở thành nội dung quan trọng trong thực hiện Cách mạng công nghiệp lần thứ tư.
-								- Tài nguyên nhân tạo còn bao gồm cả những giá trị vật chất và tinh thần mà con người đã sáng tạo ra
-									- có thể khai thác để phát triển du lịch và các ngành kinh tế liên quan.
-										- Đó là
-											- các công trình kiến trúc
-											- các lễ hội
-											- các di sản văn hóa vật thể
-											- các di sản văn hóa phi vật thể....
-					- Khoa học - công nghệ
-					  logseq.order-list-type:: number
-						- Khoa học - công nghệ là nguồn lực có vai trò ngày càng to lớn với sản xuất.
-							- Với sự phát triển nhanh chóng mang tính cách mạng trong những thập niên gần đây, khoa học - công nghệ đã trở thành lực lượng sản xuất trực tiếp.
-							- Những thành tựu to lớn của cuộc cách mạng khoa học - công nghệ là cơ sở cho sự xuất hiện nền kinh tế mới, nền kinh tế tri thức.
-							- Đảng Cộng sản Việt Nam chủ trương:
-								- “Giáo dục và đào tạo cùng với khoa học và công nghệ là quốc sách hàng đầu, là nền tảng và động lực thúc đẩy công nghiệp hoá, hiện đại hoá đất nước".
-					- Nguồn lực con người giữ vai trò quyết định trong các hoạt động kinh tế vì con người là chủ thể của các hoạt động kinh tế. Việc huy động và sử dụng các nguồn lực khác như thế nào, có hiệu quả hay không là do con người quyết định. Do đó, đáp ứng nhu cầu của nền kinh tế về số lượng và cơ cấu, nâng cao chất lượng nguồn nhân lực chính là góp phần quyết định vào sự phát triển của lực lượng sản xuất.
-					  logseq.order-list-type:: number
-					- Quan hệ sản xuất
-					  logseq.order-list-type:: number
-					- Trong quá trình sản xuất của cải vật chất, con người không chỉ phải quan hệ với tự nhiên, mà còn phải quan hệ với nhau. Karl Marx viết: “Trong sản xuất, người ta không chỉ quan hệ với tự nhiên. Người ta không thể sản xuất được nếu không kết hợp với nhau theo một cách nào đó để hoạt động chung và để trao đổi hoạt động với nhau. Muốn sản xuất được, người ta phải có những mối liên hệ và quan hệ nhất định với nhau và quan hệ của họ với giới tự nhiên, tức là việc sản xuất. Như vậy, quan hệ giữa con người với nhau trong quá trình sản xuất là khách quan, không phụ thuộc vào ý chí, nguyện vọng của chính con người. Đó chính là một mặt của quá trình sản xuất.
-					  logseq.order-list-type:: number
+						  collapsed:: true
+							- là nguồn lực quan trọng để tăng trưởng, phát triển kinh tế
+							- Bao gồm
+								- Tài nguyên thiên nhiên
+									- Trong nền kinh tế tự nhiên, tài nguyên thiên nhiên là nguồn lực quan trọng nhất.
+										- Vì thế, những quốc gia có điều kiện tự nhiên khắc nghiệt, tài nguyên thiên nhiên nghèo nàn sẽ gặp nhiều khó khăn trong quá trình tăng trưởng, phát triển kinh tế.
+										- Ngược lại, những quốc gia có các nguồn tài nguyên thiên nhiên phong phú sẽ thuận lợi hơn trong quá trình tăng trưởng, phát triển kinh tế.
+										- Vì vậy, khai thác sử dụng tài nguyên thiên nhiên tiết kiệm, hiệu quả; bảo vệ tài nguyên và môi trưởng là một trong những trụ cột của phát triển bền vững.
+								- Tài nguyên nhân tạo
+									- Khi nền kinh tế phát triển dựa vào tri thức thì tài nguyên nhân tạo ngày càng có vai trò quan trọng hơn.
+										- Việc sáng tạo và ứng dụng trí thức trong các hoạt động kinh tế và trong đời sống đều phải dựa vào nguồn dữ liệu
+											- Nguồn dữ liệu càng đầy đủ, phong phú thì khả năng sáng tạo và ứng dụng tri thức càng cao.
+										- Vì vậy, xây dựng, kết nối, chia sẻ cơ sở dữ liệu (Bigdata) đang trở thành nội dung quan trọng trong thực hiện Cách mạng công nghiệp lần thứ tư.
+									- Tài nguyên nhân tạo còn bao gồm cả những giá trị vật chất và tinh thần mà con người đã sáng tạo ra
+										- có thể khai thác để phát triển du lịch và các ngành kinh tế liên quan.
+											- Đó là
+												- các công trình kiến trúc
+												- các lễ hội
+												- các di sản văn hóa vật thể
+												- các di sản văn hóa phi vật thể....
+						- Khoa học - công nghệ
+						  logseq.order-list-type:: number
+							- Khoa học - công nghệ là nguồn lực có vai trò ngày càng to lớn với sản xuất.
+								- Với sự phát triển nhanh chóng mang tính cách mạng trong những thập niên gần đây, khoa học - công nghệ đã trở thành lực lượng sản xuất trực tiếp.
+								- Những thành tựu to lớn của cuộc cách mạng khoa học - công nghệ
+									- là cơ sở cho sự xuất hiện nền kinh tế mới, nền kinh tế tri thức.
+								- Đảng Cộng sản Việt Nam chủ trương:
+									- “Giáo dục và đào tạo cùng với khoa học và công nghệ là quốc sách hàng đầu, là nền tảng và động lực thúc đẩy công nghiệp hoá, hiện đại hoá đất nước".Nguồn lực con người giữ vai trò quyết định trong các hoạt động kinh tế vì con người là chủ thể của các hoạt động kinh tế. Việc huy động và sử dụng các nguồn lực khác như thế nào, có hiệu quả hay không là do con người quyết định. Do đó, đáp ứng nhu cầu của nền kinh tế về số lượng và cơ cấu, nâng cao chất lượng nguồn nhân lực chính là góp phần quyết định vào sự phát triển của lực lượng sản xuất.
+		- Quan hệ sản xuất
+		  logseq.order-list-type:: number
+			- Trong quá trình sản xuất của cải vật chất, con người không chỉ phải quan hệ với tự nhiên, mà còn phải quan hệ với nhau. Karl Marx viết: “Trong sản xuất, người ta không chỉ quan hệ với tự nhiên. Người ta không thể sản xuất được nếu không kết hợp với nhau theo một cách nào đó để hoạt động chung và để trao đổi hoạt động với nhau. Muốn sản xuất được, người ta phải có những mối liên hệ và quan hệ nhất định với nhau và quan hệ của họ với giới tự nhiên, tức là việc sản xuất. Như vậy, quan hệ giữa con người với nhau trong quá trình sản xuất là khách quan, không phụ thuộc vào ý chí, nguyện vọng của chính con người. Đó chính là một mặt của quá trình sản xuất.
+			  logseq.order-list-type:: number
