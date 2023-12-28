@@ -454,3 +454,4 @@
 - exiger: to require
 - conférer: to confer
 - construire: to build
+- valoir: worth
