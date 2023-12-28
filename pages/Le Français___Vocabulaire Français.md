@@ -353,3 +353,4 @@ filters:: {}
 - à temps plein/à plein temps: full-time
 - cursus (m): degree course
 - autour (adv): around
+- épreuve (f): test, sport event
