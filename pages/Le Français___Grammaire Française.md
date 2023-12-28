@@ -455,3 +455,6 @@
 - conférer: to confer
 - construire: to build
 - valoir: worth
+	- ça vaudrait tout de même le coup: it's still worth it
+	- ça vaut le coup: it's worth it
+	-
