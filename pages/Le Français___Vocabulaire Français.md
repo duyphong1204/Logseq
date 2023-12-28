@@ -354,4 +354,4 @@ filters:: {}
 - cursus (m): degree course
 - autour (adv): around
 - épreuve (f): test, sport event
--
+- en dehoirs: outside
