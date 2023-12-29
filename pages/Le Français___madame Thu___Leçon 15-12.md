@@ -1,2 +1,2 @@
 - information - anciens, déformées >< récentes
-- y-a-t-il; as-tu
+- y-a-t-il, as-tu, avez-vous + ach
