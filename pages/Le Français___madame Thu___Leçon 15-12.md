@@ -14,4 +14,5 @@
 	- cách dùng này đi với noun
 - fréquenter q1, qch: go regularly
 	- je fréquente le lycée CVQ
-- rendre qch + adj, q1 + adj: đem lại cho ai cái gì
+- rendre q1 + adj: đem lại cho ai cái gì
+	- se film me rendre trè
