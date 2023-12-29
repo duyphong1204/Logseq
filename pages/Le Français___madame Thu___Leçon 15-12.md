@@ -3,4 +3,5 @@
 - la filière
 - qch convenir à q1
 - ça te va: it looks
-- les frais d'études
+- les frais d'études: registeration fee
+- j'attends le retour de Mr Trung
