@@ -12,4 +12,4 @@
 		- cách dùng này đi với verb
 - enseigner qch  à q1
 	- cách dùng này đi với noun
--
+- fréquenter q1, qch:
