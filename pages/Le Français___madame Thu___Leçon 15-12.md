@@ -23,4 +23,4 @@
 - épaule: shoulder
 - au cas: in case
 - à part: của riêng
-	- cette maison à part?
+	- cette maison à part: nhà riêng của tôi
