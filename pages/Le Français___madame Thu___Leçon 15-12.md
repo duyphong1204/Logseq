@@ -8,5 +8,8 @@
 - apprendre
 	- apprendre qch
 	- apprendre qch à q1: báo tin cho ai cái gì
-	- à q1 à faire qch (+ Verb): dạy ai làm gì
-- enseign
+	- à q1 à faire qch : dạy ai làm gì
+		- cách dùng này đi với verb
+- enseigner qch  à q1
+	- cách dùng này đi với noun
+-
