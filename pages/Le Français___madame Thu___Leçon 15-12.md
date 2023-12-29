@@ -5,3 +5,6 @@
 - ça te va: it looks
 - les frais d'études: registeration fee
 - j'attends le retour de Mr Trung pour avoir qch de nouveau, plus difficile, plus approfondi
+- apprendre
+	- apprendre qch
+	- apprendre qch à q1: báo tin cho
