@@ -13,4 +13,5 @@
 - enseigner qch  à q1
 	- cách dùng này đi với noun
 - fréquenter q1, qch: go regularly
-	- je fré
+	- je fréquente le lycée CVQ
+- rendre qch + adj, q1 + adj: đem lại cho ai cái gì
