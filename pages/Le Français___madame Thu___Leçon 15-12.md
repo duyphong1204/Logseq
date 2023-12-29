@@ -19,4 +19,7 @@
 		- thay vì dùng faire
 - setuer qch/q1: kill sth/sb
 - à haute voix: cao giọng
-- par dessus:
+- par dessus: up above
+- épaule: shoulder
+- au cas: in case
+-
