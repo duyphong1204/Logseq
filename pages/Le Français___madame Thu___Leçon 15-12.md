@@ -1,4 +1,5 @@
 - information - anciens, déformées >< récentes
 - y-a-t-il, as-tu, avez-vous + qch de nouveau?
 - la filière
-- ça te va
+-
+- ça te va: it looks
