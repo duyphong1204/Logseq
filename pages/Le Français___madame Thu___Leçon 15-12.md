@@ -1,1 +1,2 @@
-- information - anciens, đ
+- information - anciens, déformées >< récentes
+- y-a-t-il; as-tu
