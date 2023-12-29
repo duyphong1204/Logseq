@@ -24,6 +24,6 @@ title:: Français/madame Thu
 	- [[Le Français/madame Thu/Leçon 29-9]]
 	- [[Le Français/madame Thu/Leçon 3-11]]
 	- [[Le Français/madame Thu/Leçon 15-12]]
-	- [[Le Français/madame Thu/Leçon 3-11]]
+	- [[Le Français/madame Thu/Leçon 22-12]]
 - Compréhension écrite
 	- [[Le Français/madame Thu/Papier 1]]
