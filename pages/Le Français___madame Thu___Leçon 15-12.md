@@ -15,4 +15,6 @@
 - fréquenter q1, qch: go regularly
 	- je fréquente le lycée CVQ
 - rendre q1 + adj: đem lại cho ai cái gì
-	- se film me rendre trè
+	- se film me rendre très gaie
+		- thay vì dùng faire
+- setuer qch/q1: kill sth/
