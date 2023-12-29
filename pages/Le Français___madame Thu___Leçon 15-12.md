@@ -22,4 +22,5 @@
 - par dessus: up above
 - épaule: shoulder
 - au cas: in case
--
+- à part: của riêng
+	- cette maison à part?
