@@ -48,4 +48,5 @@
 	-
 - ---
 - Kết hợp Easy and Simple Footnotes để tổng hợp thông tin trên mạng lại, làm một cái wikipedia phức tạp hơn với Archive Webpage để archive về máy và Waybackmachine, quá đỉnh dù trình bày chưa được đẹp mắt lắm, cũng chưa biết sửa kiểu gì, chắc sau này tự sửa bằng json
-- Có một cái vấn đề là ta phải đặt ký hiệu ở footnote, nó không nên theo thứ tự, mà theo chữ cái thể hiện độ đáng tin cậy của thông tin (thông tin có thể chính xác nhưng chất lượng không cao do người sản xuất ra nó thì cũng vô nghĩa), rồi ta phải index ở từng dòng thông tin à, hay cứ đính link vào footnote theo từng dòng footnotes ở dưới, ừ oke
+- Có một cái vấn đề là ta phải đặt ký hiệu ở footnote, nó không nên theo thứ tự, mà theo chữ cái thể hiện độ đáng tin cậy của thông tin (thông tin có thể chính xác nhưng chất lượng không cao do người sản xuất ra nó thì cũng vô nghĩa), rồi ta phải index ở từng dòng thông tin à, hay cứ đính link vào 1 footnote theo từng dòng footnotes ở dưới (nếu 10 cái câu trích ra đều thuộc về một trang nội dung), ừ oke
+- cái khó bây giờ là có nên extract cái webpage kia thành một page riêng để link sang cho dễ không? vì một
