@@ -1,6 +1,6 @@
 # Tình hình các nước
 	- Việt Nam
-		- Là thời cơ[^1]
+		- Là thời cơ[^1a]
 			- 7 triệu học viên và 600.000 bài giảng online
 			- thị trường EdTech tại Việt Nam bắt đầu hình thành từ khoảng năm 2006 - 2007, song song thời kỳ đầu tiên của nền kinh tế Internet Việt Nam
 			- chỉ từ năm 2016 đến nay, đặc biệt trong giai đoạn 2020 - 2021, phần lớn do sự thúc đẩy bức bách bởi dịch COVID-19, nhu cầu dạy và học trực tuyến tăng cao, thị trường EdTech mới bắt đầu được xã hội quan tâm rộng rãi
@@ -13,6 +13,6 @@
 			- Educa
 - ---
 - # Footnotes
-	- [^1]: {{renderer archive https://tuoitre.vn/thoi-co-cho-edtech-tai-viet-nam-2023013109023582.htm}}
+	- [^1a]: {{renderer archive https://tuoitre.vn/thoi-co-cho-edtech-tai-viet-nam-2023013109023582.htm}}
 	-
 	-
