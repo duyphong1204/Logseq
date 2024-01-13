@@ -46,3 +46,6 @@
 	- Cách toogle number list để phân biệt hành phần mà không cần phải tạo mục lớn riêng gồm 2 chữ kiểu đặc điểm, bàn luận này đỉnh ghê
 	- ![image.png](../assets/image_1703018976141_0.png)
 	-
+- ---
+- Kết hợp Easy and Simple Footnotes để tổng hợp thông tin trên mạng lại, làm một cái wikipedia phức tạp hơn
+	-
