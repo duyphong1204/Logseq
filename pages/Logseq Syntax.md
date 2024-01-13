@@ -47,4 +47,5 @@
 	- ![image.png](../assets/image_1703018976141_0.png)
 	-
 - ---
-- Kết hợp Easy and Simple Footnotes để tổng hợp thông tin trên mạng lại, làm một cái wikipedia phức tạp hơn với Archive Webpage để archive về máy và Waybackmachine, quá đỉnh dù trình bày chưa được đẹp mắt lắm, cũng chưa biết sửa kiểu gì
+- Kết hợp Easy and Simple Footnotes để tổng hợp thông tin trên mạng lại, làm một cái wikipedia phức tạp hơn với Archive Webpage để archive về máy và Waybackmachine, quá đỉnh dù trình bày chưa được đẹp mắt lắm, cũng chưa biết sửa kiểu gì, chắc sau này tự sửa bằng json
+- Có một cái vấn đề là ta phải đặt ký hiệu ở
