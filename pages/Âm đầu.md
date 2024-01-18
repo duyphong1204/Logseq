@@ -2,7 +2,6 @@
   collapsed:: true
 	- tiếng Việt có 22 phụ âm đầu
 		- /b, m, f, v, t, t’, d, n, z, ʐ, s, ş, c, ʈ, ɲ, l, k, χ, ŋ, ɣ, h, ʔ/
-		  collapsed:: true
 			- tại sao xếp theo thứ tự này?
 			- lấy từ page ngonngu.net nhưng thứ tự giống phết, nguồn người ta là **Mai Ngọc Chừ **(vc). *Cơ sở ngôn ngữ học và tiếng Việt*, Nxb Giáo dục, H. 1997, trang 91–105
 				- chắc cùng chung một nguồn hoặc nếu không mà trùng thì sẽ dễ tìm ra cái pattern đặt tên hơn là nghĩ ờ xếp đại ấy mà
