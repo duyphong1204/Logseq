@@ -30,7 +30,7 @@
 - `code để ghi code`
 - ---
 - Evergreen Note: Loại note đẳng cấp nhất ngang trình giáo trình được nghiên cứu tổng hợp
-- Note 3: ... chưa biết có nên chia 2 là lọc từ và tái cấu trúc không, vì tham khảo [[Jun 19th, 2023]] thấy còn đề cập nhập suy nghĩ đánh giá sơ sài sau khi đọc và search thêm từ khóa #data
+- Note 3: ... chưa biết có nên chia 2 là lọc từ và tái cấu trúc không, vì tham khảo [[Jun 19th, 2023]] thấy còn đề cập "nhập suy nghĩ đánh giá sơ sài sau khi đọc" và sẽ search thêm từ khóa #data để tổng hợp các suy ngẫm về việc xử lý dữ liệu.
 - Note 2: Có lọc từ không cần thiết và tái cấu trúc
 - Note 1.5: là 1 nhưng có phân cấp ở cấp độ câu, đôi khi có những chỗ chối quá thì có chỗ phải 1.5, còn lại là 1, quan trọng là có cần và có cách nào để nhận biết không? lúc nào cũng tra lại bản gốc thì mệt
 - Note 1: chép y nguyên câu chữ, chỉ phân cấp ở mức độ heading
