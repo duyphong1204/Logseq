@@ -22,10 +22,10 @@ ULISS:: University Of Linguistic And International Studies Subjects
 	- [[ULISS/Sem3/English For Science And Technology]]
 	- [[ULISS/Sem3/Phương Pháp Luận Nghiên Cứu Khoa Học]]
 - # Semester 4
-	- [[ULISS/Sem4/General Geography Of The UK & The US]]
 	- [[ULISS/Sem4/Silk Road]]
-	- [[ULISS/Sem4/Intercultural Communication]]
+	- [[ULISS/Sem4/Linguistic 1]]
 	- [[ULISS/Sem4/Lịch sử Đảng Việt Nam]]
 	- [[ULISS/Sem4/Chủ Nghĩa Xã Hội Khoa Học]]
-	-
+	- [[ULISS/Sem4/Intercultural Communication]]
+	- [[ULISS/Sem4/General Geography Of The UK & The US]]
 -
