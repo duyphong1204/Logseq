@@ -1,3 +1,4 @@
 ## Lead-in
 	- Reflect on what you have learnt in Unit 1 to fill in each blank with ONE suitable word.
 	- The British Isles is the geographical term for a group of about 5,000 islands off the western coast of mainland Europe between the latitudes of 50°N and 61°N. The largest island is Britain or (2) which is also the largest island in (3) It consists of England, Wales and Scotland. The next largest island is Ireland, which is made up of (4) (or Ulster) and the (5) (also known as Eire). Britain and Northern Ireland, together with a small number of islands, form the United Kingdom of Britain and Northern Ireland, more commonly (6) as the United Kingdom (which is almost 20% smaller than Italy). In everyday usage, however, Britain is used to mean the (7)
+- 53 - 83
