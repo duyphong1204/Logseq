@@ -53,4 +53,4 @@
 - Về đẹp và tiện thì kết hợp TOC và Url Hyperlink hoặc Automatically Format Url Title
 - 01:51 22/1/2023
 	- Nếu 1 mẩu thông tin trong sách không chỉ có trong sách mà nó còn liên quan đến nhiều page, thì ta làm như nào, như trong [[ULISS/Sem4/General Geography Of The UK & The US/Unit 2]], tốt nhất là đừng động đến nó, nếu có page về British Isles thì hãy link nhiều nguồn vào, mà thay vì số lượng, nguồn uy tín là đủ
-	- 1 thông tin có thể có ở nhiều nguồn, mỗi nguồn lại có lượng thông tin khác nhau, ta nên để số ở footnote đại diện cho mỗi nguồn hay nó sẽ đại diện cho số thông tin trong bài
+	- 1 thông tin có thể có ở nhiều nguồn, mỗi nguồn lại có lượng thông tin khác nhau, ta nên để số ở footnote đại diện cho mỗi nguồn hay nó sẽ đại diện cho số thông tin trong bài, còn nếu đại diện cho số thông tin trong bài thì sao? ta note như nào?
