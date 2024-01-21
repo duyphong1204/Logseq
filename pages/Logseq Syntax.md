@@ -51,3 +51,5 @@
 	- Có một cái vấn đề là ta phải đặt ký hiệu ở footnote, nó không nên theo thứ tự, mà theo chữ cái thể hiện độ đáng tin cậy của thông tin (thông tin có thể chính xác nhưng chất lượng không cao do người sản xuất ra nó thì cũng vô nghĩa), rồi ta phải index ở từng dòng thông tin à, hay cứ đính link vào 1 footnote theo từng dòng footnotes ở dưới (nếu 10 cái câu trích ra đều thuộc về một trang nội dung), ừ oke
 	- cái khó bây giờ là có nên extract cái webpage kia thành một page riêng để link sang cho dễ không? vì một webpage nó sẽ có nhiều thứ nó đề cập, nếu ta dùng footnote thì chỉ link được trong nội bộ bài, ta biết nó thuộc về bài nào chứ ta không nhìn rõ được từng block link đến đâu, dù hiện tại nhìn qua graph cũng chẳng thấy, yeah cũng được, xong ta trích lại cái archive của nó vào là xong mà, hoặc để archive gốc ở đó? vì nhìn cái link dài với xấu vl.
 - Về đẹp và tiện thì kết hợp TOC và Url Hyperlink hoặc Automatically Format Url Title
+- 01:51 22/1/2023
+	-
