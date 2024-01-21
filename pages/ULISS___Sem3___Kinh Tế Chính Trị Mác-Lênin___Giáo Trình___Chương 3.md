@@ -125,10 +125,8 @@
 				- =>Như vậy, để sức lao động trở thành hàng hoá thì *“người có tiền phải tìm được người lao động tự do trên thị trường, tự do theo hai nghĩa: theo nghĩa là một con người tự do chi phối được sức lao động của mình với tư cách là một hàng hoá và mặt khác, anh ta không còn có một hàng hoá nào khác để bán, nói một cách khác là trần như nhộng, hoàn toàn không có những vật cần thiết để thực hiện sức lao động của mình”*.
 					- Đây là điểm khởi đầu xuất hiện hàng hóa sức lao động, báo hiệu một giai đoạn mới của sự phát triển xã hội, giai đoạn sản xuất hàng hóa
 		- ### 3.2.2. Hai thuộc tính của hàng hóa - sức lao động
-		  collapsed:: true
 			- Cũng như các hàng hoá khác, hàng hoá - sức lao động có hai thuộc tỉnh: giá trị và giá trị sử dụng
 				- Giá trị của hàng hoá - sức lao động
-				  collapsed:: true
 					- Do lượng lao động xã hội cần thiết để sản xuất và tái sản xuất ra nó quyết định
 						- sản xuất và tái sản xuất sức lao động được thực hiện thông qua sự tiêu dùng cá nhân của người lao động.
 						- bởi vậy, giá trị sức lao động ngang bằng:
@@ -172,6 +170,7 @@
 								- sự chênh lệch giữa hai đại lượng đó là tiền đề của sự bóc lột TBCN, là nguồn gốc của giá trị thặng dư.
 							- Như vậy, hàng hoá sức lao động là nguồn gốc sinh ra giá trị thặng dư là chiếc chìa khoá để giải quyết mâu thuẫn của công thức chung của tư bản.
 		- ### 3.2.3. Tiền lương trong nền kinh tế thị trường
+		  collapsed:: true
 			- **Bản chất của tiền lương** {{cloze vấn đề khi dùng đến tận nhan đề thứ 4 là chữ nó còn nhỏ hơn cả nội dung, dùng Bold cũng được nhưng thế sau này bold nội dung để đọc nhanh thì có lẫn không. Cách cũ ở những bài đầu tiên làm theo kiểu này là bold, bold cả tiêu đề lớn, nó sẽ tạo nhiều lựa chọn hơn: nhan đề bold và không bold, tức gấp đôi số lựa chọn để không bao giờ gặp vấn đề nếu tài liệu chia quá nhỏ các ý. Một cách sai lầm hồi xưa là mình đã tách những phần này thành page riêng, không nên, vì dù thế tiện để giảm tiêu đề, nó lại mang ý nghĩa sánh ngang với các evergreen note trong khi nó chỉ là idea, data từ một tài liệu - kể cả nó có tổng hợp từ nhiều tài liệu, evergreen vẫn có tính chất rộng lớn hơn là page không bao giờ bị đóng băng, có thể liên tục sửa đổi để ăn thêm data theo thời gian. Chỉ sợ có ngày nó quá dài quá phức tạp :))) một bách khoa về chính một khái niệm}}
 				- Trong nền kinh tế thị trường và trong CNTB, sau một thời gian lao động cho chủ doanh nghiệp, người công nhân được nhận một số tiền nhất định, gọi là tiền lương
 					- từ đó, các nhà kinh tế cho rằng, số tiền lương đó là do chủ doanh nghiệp trả công cho lao động của công nhân, hay nói cách khác, tiền lương là giá cả của lao động.
