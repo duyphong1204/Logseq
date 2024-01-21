@@ -26,5 +26,6 @@ ULISS:: University Of Linguistic And International Studies Subjects
 	- [[ULISS/Sem4/Silk Road]]
 	- [[ULISS/Sem4/Intercultural Communication]]
 	- [[ULISS/Sem4/Lịch sử Đảng Việt Nam]]
+	- [[ULISS/Sem4/Chủ Nghĩa Xã Hội Khoa Học]]
 	-
 -
