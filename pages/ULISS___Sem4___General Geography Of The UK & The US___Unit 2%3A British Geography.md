@@ -77,8 +77,23 @@
 			  logseq.order-list-type:: number
 	- ## Languages
 		- The Celts spoke Celtic [3] which survives today in the form of Welsh, Scottish Gaelic and Irish Gaelic. Less than a quarter of all Welsh people speak Welsh. Scottish Gaelic and Irish Gaelic are still spoken, although they have suffered more than Welsh from the spread of English. However, all three languages are now officially encouraged and taught in schools.
+			- [3 ] Celtic: a group of languages that includes Irish, Scottish Gaelic, Welsh, and Breton. Part of the Indo-European family of languages, it has Brythonic and Goldelic subgroups. About 1.5 million people speak a Celtic language.
 		- English is the official language of the United Kingdom and is the first language of the vast majonty of its citizens. English developed from Anglo-Saxon and is a Germanic language. However, all the invading peoples, particularly the Norman French, influenced the English Language. During the Norman occupation, about 10,000 French words were adopted into English, some three-fourths of which are still in use today. This French vocabulary is found in every domain, from government and law to art and literature.
-		- [3 ] Celtic: a group of languages that includes Irish, Scottish Gaelic, Welsh, and Breton. Part of the Indo-European family of languages, it has Brythonic and Goldelic subgroups. About 1.5 million people speak a Celtic language.
+		- Nowadays all Welsh, Scottish and Irish people speak English (even if they speak their own language as well), but all the countries have their own special accents and dialects. and their people are easily recognizable as soon as they speak. Occasionally, people from the four countries in the UK have difficulty in understanding one another because of these different accents. A southern English accent is generally accepted to be the most easily understood, and is the accent usually taught to foreigners.
+	- English spoken in Britain is called 'British English British English is not the same as American or Australian English. "Hi mate is not the correct and appreciated way to approach someone in the street. Neither is 'G'day", "Howdy' or 'Hey Mister. The British way to greet someone is 'Good morning, good afternoon or good evening and, if you want to ask something, "Excuse me".
+	- The use of language is extremely important to Britain's class structure. Some educated English people, regardless of their class origin, strive to free themselves of regional or local accents in order to sound like educated English-speaking people. Some people in England regard regional accents and slang as substandard. On the other hand, many local people, such as Cockneys in East London and people in northern England, enjoy their particular way of speaking, regarding it as warmer and friendlier than standard English, Scottish people appreciate the Scottish accent so much they insist the BBC carry programs with Scottish-accented speakers.
+	- EXERCISE
+	- Decide whether these statements are true (T) or false (F) based on the above text.
+	- 1. Less than a quarter of all British people speak Welsh.
+	- 2. Welsh and Gaelic are two dialects of English.
+	- 3. The accent of northern England is usually taught to foreigners.
+	- 4. 'Hi mate' or 'Howdy' is the common way to greet someone in British English.
+	- 5. Scottish people appreciate the Scottish accent.
+	- Follow-up
+	- Discuss the following questions in
+	- group.
+	- 1. Which English accent do you prefer?
+	- 2. Do you think it is important for a non-native speaker to learn an accent?
 - ## Footnotes
   collapsed:: true
 	- [^1]: {{renderer archive https://studfile.net/preview/5663494/page:32/}}
