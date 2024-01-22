@@ -109,13 +109,12 @@
 			- 23rd April, St. George's Day, is the national day of England. A story dating back to the 6th century tells that St George rescued a maiden by slaying a fearsome fire-breathing dragon. The Saint's name was shouted as a battle cry by English knights who fought beneath the red-cross banner of St George during the Hundred Years War (1338- 1453).
 			- 30th November, St. Andrew's Day, is the national day of Scotland. St. Andrew was one of Christ's twelve apostles. Some of his bones are said to have been brought to what is now St. Andrews in Fife during the 4th century. Since medieval times the X- shaped saltire cross upon which St. Andrew was supposedly crucified has been the Scottish national symbol.
 		- **Public holidays**
-		- There are only six public holidays a year in the UK: Christmas Day, Boxing Day January. Good Friday. Easter Monday, Spring Bank Holiday and Late Summer Bank Holiday. In
-			- Scotland, the New Year's Day is also a public holiday Christmas Day is observed on December 25th, Boxing Day on December 26th Good Friday and Easter Monday depend on Easter Sunday which fall son the first
-		- Sunday after a full moon or after March 21st The Spring Bank Holiday falls on the last Monday of May or on the first Monday of June
-	- The Late Summer Bank Holiday comes on the last Monday of June in August or on the first Monday in September, depending on which of the Mondays is nearer to June 1st and September 1st respectively.
-	- Besides public holidays, there are other testivals, anniversaries and simply days (e.g. Pancake Day and Bonfire Night) on which certain traditions are observed but unless they fall on a Sunday, they are ordinary working days.
-	- JUSTINE PASTISON SSC FOOD
-	- EXERCISE
+		- There are only six public holidays a year in the UK: Christmas Day, Boxing Day January. Good Friday. Easter Monday, Spring Bank Holiday and Late Summer Bank Holiday. In Scotland, the New Year's Day is also a public holiday
+			- Christmas Day is observed on December 25th, Boxing Day on December 26th Good Friday and Easter Monday depend on Easter Sunday which fall son the first
+			- Sunday after a full moon or after March 21st The Spring Bank Holiday falls on the last Monday of May or on the first Monday of June
+			- The Late Summer Bank Holiday comes on the last Monday of June in August or on the first Monday in September, depending on which of the Mondays is nearer to June 1st and September 1st respectively.
+		- Besides public holidays, there are other testivals, anniversaries and simply days (e.g. Pancake Day and Bonfire Night) on which certain traditions are observed but unless they fall on a Sunday, they are ordinary working days.
+	- Exercise
 	- Complete the following table about the national days of the countries in the UK.
 	- Country
 	- Patron saint
