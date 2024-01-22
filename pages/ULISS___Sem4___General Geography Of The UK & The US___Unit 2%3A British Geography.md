@@ -50,14 +50,13 @@
 		- Do you think there is any correlation between climate and the culture of a country? Support your answer, taking Britain as an example.
 - # British Human Geography
 - ## Lead-in
-- Search for the following information about the population of the United Kingdom and Vietnam according to WorldoMeters [1].
-- The United Kingdom
-- Vietnam
-- Total population
-- Land area (sq km)
-- Fertility rate
-- Urban population
-- World share
+	- Search for the following information about the population of the United Kingdom and Vietnam according to WorldoMeters [1].
+- | | The United Kingdom | Vietnam |
+  | Total population | | |
+  Land area (sq km)
+  Fertility rate
+  Urban population
+  | World share
 - ## Footnotes
 	- [^1]: {{renderer archive https://studfile.net/preview/5663494/page:32/}}
 	-
