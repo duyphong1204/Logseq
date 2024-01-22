@@ -26,10 +26,12 @@
 	  | Longest river | Severn and Thames |
 - ### Exercise 2
 	- Choose the correct statements based on the above text.
-	- Brintain is bordered to the east by the Atlantic Ocean **F**
+	- Brintain is bordered to the east by the Atlantic Ocean. **F**
 	  logseq.order-list-type:: number
-- The south and the east of Britain are considered mountainous areas.
-- 2. 3. Rivers in Britain are short but easy to navigate.
+	- The south and the east of Britain are considered mountainous areas. **F**
+	  logseq.order-list-type:: number
+	- Rivers in Britain are short but easy to navigate.
+	  logseq.order-list-type:: number
 - 4. The land and climate in Britain lack extremes.
 - 5. Britain has a humid continental climate with hot summers and cold winters
 - 6. London usually receives more rain than other European cities.
