@@ -65,7 +65,7 @@
 	- ### Exercise
 	- Complete the table based on the above text.
 	- | Rank | Population (million people) | Population density (people per sq km) |
-	  | Largest | England | 434 |
+	  | Largest | 56,536,000 | 434 |
 	  | 2nd largest | Scotland | 
 	  | 3rd largest |
 	  | Smallest |
