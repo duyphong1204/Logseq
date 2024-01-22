@@ -118,7 +118,7 @@
 		- Complete the following table about the national days of the countries in the UK.
 			- | Country | Patron saint | Date |
 			  | England | George | 23rd April |
-			  | Wales
+			  | Wales | David | 1st March |
 	- Scotland
 	- Northern Ireland
 	- Follow-up
