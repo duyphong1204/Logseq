@@ -119,10 +119,10 @@
 			- | Country | Patron saint | Date |
 			  | England | George | 23rd April |
 			  | Wales | David | 1st March |
-	- Scotland
-	- Northern Ireland
-	- Follow-up
-	- Look up information about the ways the national days and public holidays in the UK are celebrated and share it with your friends.
+			  | Scotland | Andrew | 30th November |
+			  | Northern Ireland | Pattrick | 17th March |
+	- ### Follow-up
+		- Look up information about the ways the national days and public holidays in the UK are celebrated and share it with your friends.
 - ## Footnotes
   collapsed:: true
 	- [^1]: {{renderer archive https://studfile.net/preview/5663494/page:32/}}
