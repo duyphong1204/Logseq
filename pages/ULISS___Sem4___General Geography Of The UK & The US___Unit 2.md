@@ -44,7 +44,8 @@
 	  logseq.order-list-type:: number
 	- In summer, southern Britain is warmer than northern Britain. **T**
 	  logseq.order-list-type:: number
-- 10. In winter, the west of Britain is milder than the east.
+	- In winter, the west of Britain is milder than the east.
+	  logseq.order-list-type:: number
 - Follow-up
 - Do you think there is any correlation between climate and the culture of a country? Support your answer, taking Britain as an example.
 - BRITISH HUMAN GEOGRAPHY
