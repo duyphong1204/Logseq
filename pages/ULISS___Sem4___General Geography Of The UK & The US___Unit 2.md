@@ -17,14 +17,14 @@
 	- The amount of rain that falls on a town in Britain depends on where it is. Generally speaking, the further west you go, the more rain you get. The mild winters mean that snow is a regular feature of the higher areas only. Occasionally, a whole winter goes by in lower-lying parts without any snow at all. The winters are in general a bit colder in the east of the country than they are in the west, while in summer, the south is slightly warmer and sunnier than the north.
 	- Why has Britain's climate got such a bad reputation? Perhaps it is for the same reason that British people always seem to be talking about the weather. This is its changeability. There is a saying that Britain doesn't have a climate, it only has weather. It may not rain very much altogether, but you can never be sure of a dry day; there can be cool (even cold) days in July and some quite warm days in January.
 	- The lack of extremes is the reason why, on the few occasions when it gets genuinely hot or freezing cold, the country seems to be totally unprepared for it. A bit of snow and a few days of frost and the trains stop working and the roads are blocked; if the thermometer goes above 27°C, people behave as if they were in Sahara and the temperature makes front-page headlines. These things happen so rarely that it is not worth organizing life to be ready for them.
-- ## EXERCISE 1
+- ### Exercise 1
 	- Complete the table based on the above text.
 	- | | |
 	  | Highest mountain | Ben Nevis |
 	  | Longest mountain range | Pennine Range - 224km | 
 	  | Flatest area | East Anglia |
-	  | Longest river | Thames |
-- EXERCISE 2
+	  | Longest river | Severn and Thames |
+- ### Exercise 2
 - Choose the correct statements based on the above text.
 - 1. Bntain is bordered to the east by the Atlantic Ocean.
 - The south and the east of Britain are considered mountainous areas.
