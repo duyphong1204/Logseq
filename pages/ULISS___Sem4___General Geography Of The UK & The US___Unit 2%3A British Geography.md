@@ -75,12 +75,10 @@
 			  logseq.order-list-type:: number
 			- What do you there are the reasons for their high population density?
 			  logseq.order-list-type:: number
-	- London
-	- RESEARCHREMONA TWITTER
-	- Languages
-	- The Celts spoke Celtic [3] which survives today in the form of Welsh, Scottish Gaelic and Irish Gaelic Less than a quarter of all Welsh people speak Welsh. Scottish Gaelic and bish Gaelic are still spoken, although they have suffered more than Welsh from the spread of English. However, all three languages are now officially encouraged and taught in schools
-	- English is the official language of the United Kingdom and is the first language of the vast majonty of its citizens. English developed from Anglo-Saxon and is a Germanic language. However, all the invading peoples, particularly the Norman French, influenced the English Language. During the Norman occupation, about 10,000 French words were adopted into English, some three-fourths of which are still in use today. This French vocabulary is found in every domain, from government and law to art and literature.
-	- Cure a group of languages that includes Irish, Scottish Gaelic, Welsh, and Breton. Part of the punk Cely of languages, it has Brythonic and Goldelic subgroups. About 1.5 million people speak a Celtic language.
+	- ## Languages
+		- The Celts spoke Celtic [3] which survives today in the form of Welsh, Scottish Gaelic and Irish Gaelic Less than a quarter of all Welsh people speak Welsh. Scottish Gaelic and bish Gaelic are still spoken, although they have suffered more than Welsh from the spread of English. However, all three languages are now officially encouraged and taught in schools
+		- English is the official language of the United Kingdom and is the first language of the vast majonty of its citizens. English developed from Anglo-Saxon and is a Germanic language. However, all the invading peoples, particularly the Norman French, influenced the English Language. During the Norman occupation, about 10,000 French words were adopted into English, some three-fourths of which are still in use today. This French vocabulary is found in every domain, from government and law to art and literature.
+		- Cure a group of languages that includes Irish, Scottish Gaelic, Welsh, and Breton. Part of the punk Cely of languages, it has Brythonic and Goldelic subgroups. About 1.5 million people speak a Celtic language.
 - ## Footnotes
   collapsed:: true
 	- [^1]: {{renderer archive https://studfile.net/preview/5663494/page:32/}}
