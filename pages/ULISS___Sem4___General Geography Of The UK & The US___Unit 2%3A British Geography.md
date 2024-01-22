@@ -114,13 +114,11 @@
 			- Sunday after a full moon or after March 21st The Spring Bank Holiday falls on the last Monday of May or on the first Monday of June
 			- The Late Summer Bank Holiday comes on the last Monday of June in August or on the first Monday in September, depending on which of the Mondays is nearer to June 1st and September 1st respectively.
 		- Besides public holidays, there are other testivals, anniversaries and simply days (e.g. Pancake Day and Bonfire Night) on which certain traditions are observed but unless they fall on a Sunday, they are ordinary working days.
-	- Exercise
-	- Complete the following table about the national days of the countries in the UK.
-	- Country
-	- Patron saint
-	- Date
-	- England
-	- Wales
+	- ### Exercise
+		- Complete the following table about the national days of the countries in the UK.
+			- | Country | Patron saint | Date |
+			  | England | George | 23rd April |
+			  | Wales
 	- Scotland
 	- Northern Ireland
 	- Follow-up
