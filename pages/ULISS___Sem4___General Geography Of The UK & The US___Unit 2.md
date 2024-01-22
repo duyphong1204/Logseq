@@ -21,9 +21,9 @@
 	- Complete the table based on the above text.
 	- | | |
 	  | Highest mountain | Ben Nevis |
-	  | Longest mountain range |  | 
-	  | Flatest area | |
-	  | Longest river | |
+	  | Longest mountain range | Pennine Range - 224km | 
+	  | Flatest area | East Anglia |
+	  | Longest river | Thames |
 - EXERCISE 2
 - Choose the correct statements based on the above text.
 - 1. Bntain is bordered to the east by the Atlantic Ocean.
