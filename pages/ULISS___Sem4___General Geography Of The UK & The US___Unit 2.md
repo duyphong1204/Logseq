@@ -32,10 +32,12 @@
 	  logseq.order-list-type:: number
 	- Rivers in Britain are short but easy to navigate. **T**
 	  logseq.order-list-type:: number
-	- The land and climate in Britain lack extremes.
+	- The land and climate in Britain lack extremes. **T**
 	  logseq.order-list-type:: number
-- 5. Britain has a humid continental climate with hot summers and cold winters
-- 6. London usually receives more rain than other European cities.
+	- Britain has a humid continental climate with hot summers and cold winters. **F**
+	  logseq.order-list-type:: number
+	- London usually receives more rain than other European cities. **F**
+	  logseq.order-list-type:: number
 - 7. The amount of rain that falls on a town in Britain depends on where it is.
 - 8. The weather in Britain tends to be very changeable.
 - 9.In summer, southern Britain is warmer than northern Britain.
