@@ -25,8 +25,9 @@
 	  | Flatest area | East Anglia |
 	  | Longest river | Severn and Thames |
 - ### Exercise 2
-- Choose the correct statements based on the above text.
-- 1. Bntain is bordered to the east by the Atlantic Ocean.
+	- Choose the correct statements based on the above text.
+	- Brintain is bordered to the east by the Atlantic Ocean **F**
+	  logseq.order-list-type:: number
 - The south and the east of Britain are considered mountainous areas.
 - 2. 3. Rivers in Britain are short but easy to navigate.
 - 4. The land and climate in Britain lack extremes.
