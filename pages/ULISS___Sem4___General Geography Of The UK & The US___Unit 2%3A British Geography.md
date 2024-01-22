@@ -19,56 +19,56 @@
 		- The lack of extremes is the reason why, on the few occasions when it gets genuinely hot or freezing cold, the country seems to be totally unprepared for it. A bit of snow and a few days of frost and the trains stop working and the roads are blocked; if the thermometer goes above 27°C, people behave as if they were in Sahara and the temperature makes front-page headlines. These things happen so rarely that it is not worth organizing life to be ready for them.
 	- ### Exercise 1
 		- Complete the table based on the above text.
-		- | | |
-		  | Highest mountain | Ben Nevis |
-		  | Longest mountain range | Pennine Range - 224km | 
-		  | Flatest area | East Anglia |
-		  | Longest river | Severn and Thames |
+			- | | |
+			  | Highest mountain | Ben Nevis |
+			  | Longest mountain range | Pennine Range - 224km | 
+			  | Flatest area | East Anglia |
+			  | Longest river | Severn and Thames |
 	- ### Exercise 2
 		- Choose the correct statements based on the above text.
-		- Brintain is bordered to the east by the Atlantic Ocean. **F**
-		  logseq.order-list-type:: number
-		- The south and the east of Britain are considered mountainous areas. **F**
-		  logseq.order-list-type:: number
-		- Rivers in Britain are short but easy to navigate. **T**
-		  logseq.order-list-type:: number
-		- The land and climate in Britain lack extremes. **T**
-		  logseq.order-list-type:: number
-		- Britain has a humid continental climate with hot summers and cold winters. **F**
-		  logseq.order-list-type:: number
-		- London usually receives more rain than other European cities. **F**
-		  logseq.order-list-type:: number
-		- The amount of rain that falls on a town in Britain depends on where it is. **T**
-		  logseq.order-list-type:: number
-		- The weather in Britain tends to be very changeable. **T**
-		  logseq.order-list-type:: number
-		- In summer, southern Britain is warmer than northern Britain. **T**
-		  logseq.order-list-type:: number
-		- In winter, the west of Britain is milder than the east. **T**
-		  logseq.order-list-type:: number
+			- Brintain is bordered to the east by the Atlantic Ocean. **F**
+			  logseq.order-list-type:: number
+			- The south and the east of Britain are considered mountainous areas. **F**
+			  logseq.order-list-type:: number
+			- Rivers in Britain are short but easy to navigate. **T**
+			  logseq.order-list-type:: number
+			- The land and climate in Britain lack extremes. **T**
+			  logseq.order-list-type:: number
+			- Britain has a humid continental climate with hot summers and cold winters. **F**
+			  logseq.order-list-type:: number
+			- London usually receives more rain than other European cities. **F**
+			  logseq.order-list-type:: number
+			- The amount of rain that falls on a town in Britain depends on where it is. **T**
+			  logseq.order-list-type:: number
+			- The weather in Britain tends to be very changeable. **T**
+			  logseq.order-list-type:: number
+			- In summer, southern Britain is warmer than northern Britain. **T**
+			  logseq.order-list-type:: number
+			- In winter, the west of Britain is milder than the east. **T**
+			  logseq.order-list-type:: number
 	- ### Follow-up
 		- Do you think there is any correlation between climate and the culture of a country? Support your answer, taking Britain as an example.
 - # British Human Geography
 	- ## Lead-in
 		- Search for the following information about the population of the United Kingdom and Vietnam according to WorldoMeters [1].
-		- | | The United Kingdom | Vietnam |
-		  | Total population | | |
-		  | Land area (sq km) | | | 
-		  | Fertility rate | | | 
-		  | Urban population | | |
-		  | World share | | |
-			- [1] https://www.worldometers.info/world-population/population-by-country/
-			  id:: 65aea377-3741-4b86-9f7b-c1e73d6bd252
+			- | | The United Kingdom | Vietnam |
+			  | Total population | | |
+			  | Land area (sq km) | | | 
+			  | Fertility rate | | | 
+			  | Urban population | | |
+			  | World share | | |
+				- [1] https://www.worldometers.info/world-population/population-by-country/
+				  id:: 65aea377-3741-4b86-9f7b-c1e73d6bd252
 	- ## Population
 		- With over 67 million people, the United Kingdom ranks about 21st in the world in terms of population. The average population growth rate is 0.53% (2023 est). Despite its relatively small size, Britain is highly populated, with an estimated population density of 281 persons per sq km in 2023, according to Worldometers. Based on the statistics of the Office for National Statistics [2], England is the most populated part of the United Kingdom, with 56,536,000 (mid-2021), which means more than 80% of the United Kingdom's population, resides in England. It is also the most densely populated portion of the United Kingdom, with a population density of 434 persons per sq km. Scotland possesses 5,480,000 people, and a population density of 70 persons per sq km. Wales has 3,105,000 people, with a population density of 150 persons per sq km. Northern Ireland's population is 1,814,000, and it has 141 persons per sq km.
 			- [2] https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/ populationestimates/bulletins/annualmidyearpopulationestimates/mid2021
 	- ### Exercise
 		- Complete the table based on the above text.
-		- | Rank | Population (million people) | Population density (people per sq km) |
-		  | Largest | 56,536,000 | 434 |
-		  | 2nd largest | 5,480,000 | 70 |
-		  | 3rd largest | 3,105,000 | 150 |
-		  | Smallest | 1,814,000 | 141 |
+			- | Rank | Population (million people) | Population density (people per sq km) |
+			  | Largest | 56,536,000 | 434 |
+			  | 2nd largest | 5,480,000 | 70 |
+			  | 3rd largest | 3,105,000 | 150 |
+			  | Smallest | 1,814,000 | 141 |
 	- ### Follow-up
 		- Look at the map of the population density of United Kingdom (2020).
 			- Identify the regions that are densely populated
@@ -96,11 +96,17 @@
 		- Scottish people appreciate the Scottish accent. **T**
 		  logseq.order-list-type:: number
 	- ### Follow-up
-	- Discuss the following questions in group.
-		- Which English accent do you prefer?
-		  logseq.order-list-type:: number
-		- Do you think it is important for a non-native speaker to learn an accent?
-		  logseq.order-list-type:: number
+		- Discuss the following questions in group.
+			- Which English accent do you prefer?
+			  logseq.order-list-type:: number
+			- Do you think it is important for a non-native speaker to learn an accent?
+			  logseq.order-list-type:: number
+	- ## Holidays and festivals
+	- National de Countries that make up the United Kingdom has their own National Day, days named after their respective patron saint:
+	- 1st March, St. David's Day, is the national day of Wales. St. David (c.520-588) was the founder and first abbot-bishop of Menevia, now St. David's in Dyfed, South Wales The day is commemorated by the wearing of daffodils or leeks. Both plants are traditionally regarded as national emblems.
+	- 17th March. St. Patrick's Day, is the national day of Northern Ireland. The work of St. Patrick (c.389-c.461) was a vital factor in the spread of Christianity in Ireland. Born in Britain, he was carried off by pirates and spent six years in slavery before escaping and training as a missionary. The day is marked by the wearing of shamrocks (a clover-like plant), the national emblem of both Northern Ireland and the Republic of Ireland.
+	  23rd April, St. George's Day, is the national day of England. A story dating back to the 6th century tells that St George rescued a maiden by slaying a fearsome fire-breathing dragon. The Saint's name was shouted as a battle cry by English knights who fought beneath the red-cross banner of St George during the Hundred Years War (1338- 1453).
+	  30th November, St. Andrew's Day, is the national day of Scotland. St. Andrew was one of Christ's twelve apostles. Some of his bones are said to have been brought to what is now St. Andrews in Fife during the 4th century. Since medieval times the X- shaped saltire cross upon which St. Andrew was supposedly crucified has been the Scottish national symbol.
 - ## Footnotes
   collapsed:: true
 	- [^1]: {{renderer archive https://studfile.net/preview/5663494/page:32/}}
