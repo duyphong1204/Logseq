@@ -19,8 +19,9 @@
 	- The lack of extremes is the reason why, on the few occasions when it gets genuinely hot or freezing cold, the country seems to be totally unprepared for it. A bit of snow and a few days of frost and the trains stop working and the roads are blocked; if the thermometer goes above 27°C, people behave as if they were in Sahara and the temperature makes front-page headlines. These things happen so rarely that it is not worth organizing life to be ready for them.
 - ## EXERCISE 1
 	- Complete the table based on the above text.
-	- Highest mountain
-	  | Longest mountain range | 
+	- | | |
+	  | Highest mountain | Ben Nevis |
+	  | Longest mountain range |  | 
 	  | Flatest area | |
 	  | Longest river | |
 - EXERCISE 2
