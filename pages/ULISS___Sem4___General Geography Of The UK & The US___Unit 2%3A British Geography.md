@@ -66,9 +66,9 @@
 	- Complete the table based on the above text.
 	- | Rank | Population (million people) | Population density (people per sq km) |
 	  | Largest | 56,536,000 | 434 |
-	  | 2nd largest | Scotland | 
-	  | 3rd largest |
-	  | Smallest |
+	  | 2nd largest | 5,480,000 | 70 |
+	  | 3rd largest | 3,105,000 | 150 |
+	  | Smallest | 1,814,000 | 141 |
 - ## Footnotes
   collapsed:: true
 	- [^1]: {{renderer archive https://studfile.net/preview/5663494/page:32/}}
