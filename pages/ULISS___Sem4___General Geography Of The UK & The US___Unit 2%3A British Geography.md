@@ -57,6 +57,8 @@
   | Fertility rate | | | 
   | Urban population | | |
   | World share | | |
+-
 - ## Footnotes
+  collapsed:: true
 	- [^1]: {{renderer archive https://studfile.net/preview/5663494/page:32/}}
 	-
