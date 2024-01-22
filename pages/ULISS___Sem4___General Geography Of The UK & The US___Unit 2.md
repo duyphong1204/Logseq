@@ -48,8 +48,8 @@
 		  logseq.order-list-type:: number
 	- ### Follow-up
 		- Do you think there is any correlation between climate and the culture of a country? Support your answer, taking Britain as an example.
-- # British Hu Geography
-- Lead-in
+- # British Human Geography
+- ## Lead-in
 - Search for the following information about the population of the United Kingdom and Vietnam according to WorldoMeters [1].
 - The United Kingdom
 - Vietnam
