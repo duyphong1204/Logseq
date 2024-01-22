@@ -49,28 +49,25 @@
 	- ### Follow-up
 		- Do you think there is any correlation between climate and the culture of a country? Support your answer, taking Britain as an example.
 - # British Human Geography
-- ## Lead-in
-	- Search for the following information about the population of the United Kingdom and Vietnam according to WorldoMeters [1].
-	- | | The United Kingdom | Vietnam |
-	  | Total population | | |
-	  | Land area (sq km) | | | 
-	  | Fertility rate | | | 
-	  | Urban population | | |
-	  | World share | | |
-		- [1] https://www.worldometers.info/world-population/population-by-country/
-		  id:: 65aea377-3741-4b86-9f7b-c1e73d6bd252
-- ## Population
-	- With over 67 million people, the United Kingdom ranks about 21st in the world in terms of population. The average population growth rate is 0.53% (2023 est). Despite its relatively small size, Britain is highly populated, with an estimated population density of 281 persons per sq km in 2023, according to Worldometers. Based on the statistics of the Office for National Statistics [2], England is the most populated part of the United Kingdom, with 56,536,000 (mid-2021), which means more than 80% of the United Kingdom's population, resides in England. It is also the most densely populated portion of the United Kingdom, with a population density of 434 persons per sq km. Scotland possesses 5,480,000 people, and a population density of 70 persons per sq km. Wales has 3,105,000 people, with a population density of 150 persons per sq km. Northern Ireland's population is 1,814,000, and it has 141 persons per sq km.
-		- [2] https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/ populationestimates/bulletins/annualmidyearpopulationestimates/mid2021
-- Exercise
-- Complete the table based on the above text.
-- Rank
-- Population (million people)
-- Population density (people per sq km)
-- Largest
-- 2nd largest
-- 3rd largest
-- Smallest
+	- ## Lead-in
+		- Search for the following information about the population of the United Kingdom and Vietnam according to WorldoMeters [1].
+		- | | The United Kingdom | Vietnam |
+		  | Total population | | |
+		  | Land area (sq km) | | | 
+		  | Fertility rate | | | 
+		  | Urban population | | |
+		  | World share | | |
+			- [1] https://www.worldometers.info/world-population/population-by-country/
+			  id:: 65aea377-3741-4b86-9f7b-c1e73d6bd252
+	- ## Population
+		- With over 67 million people, the United Kingdom ranks about 21st in the world in terms of population. The average population growth rate is 0.53% (2023 est). Despite its relatively small size, Britain is highly populated, with an estimated population density of 281 persons per sq km in 2023, according to Worldometers. Based on the statistics of the Office for National Statistics [2], England is the most populated part of the United Kingdom, with 56,536,000 (mid-2021), which means more than 80% of the United Kingdom's population, resides in England. It is also the most densely populated portion of the United Kingdom, with a population density of 434 persons per sq km. Scotland possesses 5,480,000 people, and a population density of 70 persons per sq km. Wales has 3,105,000 people, with a population density of 150 persons per sq km. Northern Ireland's population is 1,814,000, and it has 141 persons per sq km.
+			- [2] https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/ populationestimates/bulletins/annualmidyearpopulationestimates/mid2021
+	- ### Exercise
+	- Complete the table based on the above text.
+	- | Rank | Population (million people) | Population density (people per sq km) |
+	  | Largest |
+	  | 2nd largest |
+	  | 3rd largest |Smallest
 - ## Footnotes
   collapsed:: true
 	- [^1]: {{renderer archive https://studfile.net/preview/5663494/page:32/}}
