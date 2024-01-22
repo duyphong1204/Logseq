@@ -53,10 +53,10 @@
 	- Search for the following information about the population of the United Kingdom and Vietnam according to WorldoMeters [1].
 - | | The United Kingdom | Vietnam |
   | Total population | | |
-  Land area (sq km)
-  Fertility rate
-  Urban population
-  | World share
+  | Land area (sq km) | | | 
+  | Fertility rate | | | 
+  | Urban population | | |
+  | World share | | |
 - ## Footnotes
 	- [^1]: {{renderer archive https://studfile.net/preview/5663494/page:32/}}
 	-
