@@ -84,12 +84,12 @@
 		- The use of language is extremely important to Britain's class structure. Some educated English people, regardless of their class origin, strive to free themselves of regional or local accents in order to sound like educated English-speaking people. Some people in England regard regional accents and slang as substandard. On the other hand, many local people, such as Cockneys in East London and people in northern England, enjoy their particular way of speaking, regarding it as warmer and friendlier than standard English, Scottish people appreciate the Scottish accent so much they insist the BBC carry programs with Scottish-accented speakers.
 	- ### Exercise
 		- Decide whether these statements are true (T) or false (F) based on the above text.
-		- 1. Less than a quarter of all British people speak Welsh. **F**
-		- 2. Welsh and Gaelic are two dialects of English.
-	- 3. The accent of northern England is usually taught to foreigners.
-	- 4. 'Hi mate' or 'Howdy' is the common way to greet someone in British English.
-	- 5. Scottish people appreciate the Scottish accent.
-	- Follow-up
+		- Less than a quarter of all British people speak Welsh. **F**
+		- Welsh and Gaelic are two dialects of English. **F-+**
+		- The accent of northern England is usually taught to foreigners. **T**
+		- 'Hi mate' or 'Howdy' is the common way to greet someone in British English. **F**
+		- Scottish people appreciate the Scottish accent. **T**
+	- ### Follow-up
 	- Discuss the following questions in
 	- group.
 	- 1. Which English accent do you prefer?
