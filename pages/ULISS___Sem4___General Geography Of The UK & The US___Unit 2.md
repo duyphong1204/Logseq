@@ -30,9 +30,10 @@
 	  logseq.order-list-type:: number
 	- The south and the east of Britain are considered mountainous areas. **F**
 	  logseq.order-list-type:: number
-	- Rivers in Britain are short but easy to navigate.
+	- Rivers in Britain are short but easy to navigate. **T**
 	  logseq.order-list-type:: number
-- 4. The land and climate in Britain lack extremes.
+	- The land and climate in Britain lack extremes.
+	  logseq.order-list-type:: number
 - 5. Britain has a humid continental climate with hot summers and cold winters
 - 6. London usually receives more rain than other European cities.
 - 7. The amount of rain that falls on a town in Britain depends on where it is.
