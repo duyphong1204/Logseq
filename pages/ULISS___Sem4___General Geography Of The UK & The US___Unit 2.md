@@ -17,7 +17,36 @@
 	- The amount of rain that falls on a town in Britain depends on where it is. Generally speaking, the further west you go, the more rain you get. The mild winters mean that snow is a regular feature of the higher areas only. Occasionally, a whole winter goes by in lower-lying parts without any snow at all. The winters are in general a bit colder in the east of the country than they are in the west, while in summer, the south is slightly warmer and sunnier than the north.
 	- Why has Britain's climate got such a bad reputation? Perhaps it is for the same reason that British people always seem to be talking about the weather. This is its changeability. There is a saying that Britain doesn't have a climate, it only has weather. It may not rain very much altogether, but you can never be sure of a dry day; there can be cool (even cold) days in July and some quite warm days in January.
 	- The lack of extremes is the reason why, on the few occasions when it gets genuinely hot or freezing cold, the country seems to be totally unprepared for it. A bit of snow and a few days of frost and the trains stop working and the roads are blocked; if the thermometer goes above 27°C, people behave as if they were in Sahara and the temperature makes front-page headlines. These things happen so rarely that it is not worth organizing life to be ready for them.
--
+- ## EXERCISE 1
+	- Complete the table based on the above text.
+	- Highest mountain
+	  | Longest mountain range | 
+	  | Flatest area | |
+	  | Longest river | |
+- EXERCISE 2
+- Choose the correct statements based on the above text.
+- 1. Bntain is bordered to the east by the Atlantic Ocean.
+- The south and the east of Britain are considered mountainous areas.
+- 2. 3. Rivers in Britain are short but easy to navigate.
+- 4. The land and climate in Britain lack extremes.
+- 5. Britain has a humid continental climate with hot summers and cold winters
+- 6. London usually receives more rain than other European cities.
+- 7. The amount of rain that falls on a town in Britain depends on where it is.
+- 8. The weather in Britain tends to be very changeable.
+- 9.In summer, southern Britain is warmer than northern Britain.
+- 10. In winter, the west of Britain is milder than the east.
+- Follow-up
+- Do you think there is any correlation between climate and the culture of a country? Support your answer, taking Britain as an example.
+- BRITISH HUMAN GEOGRAPHY
+- Lead-in
+- Search for the following information about the population of the United Kingdom and Vietnam according to WorldoMeters [1].
+- The United Kingdom
+- Vietnam
+- Total population
+- Land area (sq km)
+- Fertility rate
+- Urban population
+- World share
 - ## Footnotes
 	- [^1]: {{renderer archive https://studfile.net/preview/5663494/page:32/}}
 	-
