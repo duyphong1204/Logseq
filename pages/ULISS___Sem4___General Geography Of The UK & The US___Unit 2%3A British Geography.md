@@ -63,12 +63,24 @@
 		- With over 67 million people, the United Kingdom ranks about 21st in the world in terms of population. The average population growth rate is 0.53% (2023 est). Despite its relatively small size, Britain is highly populated, with an estimated population density of 281 persons per sq km in 2023, according to Worldometers. Based on the statistics of the Office for National Statistics [2], England is the most populated part of the United Kingdom, with 56,536,000 (mid-2021), which means more than 80% of the United Kingdom's population, resides in England. It is also the most densely populated portion of the United Kingdom, with a population density of 434 persons per sq km. Scotland possesses 5,480,000 people, and a population density of 70 persons per sq km. Wales has 3,105,000 people, with a population density of 150 persons per sq km. Northern Ireland's population is 1,814,000, and it has 141 persons per sq km.
 			- [2] https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/ populationestimates/bulletins/annualmidyearpopulationestimates/mid2021
 	- ### Exercise
-	- Complete the table based on the above text.
-	- | Rank | Population (million people) | Population density (people per sq km) |
-	  | Largest | 56,536,000 | 434 |
-	  | 2nd largest | 5,480,000 | 70 |
-	  | 3rd largest | 3,105,000 | 150 |
-	  | Smallest | 1,814,000 | 141 |
+		- Complete the table based on the above text.
+		- | Rank | Population (million people) | Population density (people per sq km) |
+		  | Largest | 56,536,000 | 434 |
+		  | 2nd largest | 5,480,000 | 70 |
+		  | 3rd largest | 3,105,000 | 150 |
+		  | Smallest | 1,814,000 | 141 |
+	- ### Follow-up
+		- Look at the map of the population density of United Kingdom (2020).
+			- Identify the regions that are densely populated
+			  logseq.order-list-type:: number
+			- What do you there are the reasons for their high population density?
+			  logseq.order-list-type:: number
+	- London
+	- RESEARCHREMONA TWITTER
+	- Languages
+	- The Celts spoke Celtic [3] which survives today in the form of Welsh, Scottish Gaelic and Irish Gaelic Less than a quarter of all Welsh people speak Welsh. Scottish Gaelic and bish Gaelic are still spoken, although they have suffered more than Welsh from the spread of English. However, all three languages are now officially encouraged and taught in schools
+	- English is the official language of the United Kingdom and is the first language of the vast majonty of its citizens. English developed from Anglo-Saxon and is a Germanic language. However, all the invading peoples, particularly the Norman French, influenced the English Language. During the Norman occupation, about 10,000 French words were adopted into English, some three-fourths of which are still in use today. This French vocabulary is found in every domain, from government and law to art and literature.
+	- Cure a group of languages that includes Irish, Scottish Gaelic, Welsh, and Breton. Part of the punk Cely of languages, it has Brythonic and Goldelic subgroups. About 1.5 million people speak a Celtic language.
 - ## Footnotes
   collapsed:: true
 	- [^1]: {{renderer archive https://studfile.net/preview/5663494/page:32/}}
