@@ -35,20 +35,26 @@
 			- In describing the place of articulation for consonants, it is traditional to list the active 
 			  and then the passive articulator.
 			- Consonants involve a rather large number of discrete places of articulation (see Figure 2.3):
-				- bilabial: the lips are brought together (the lower lip is active); the tongue is not involved 
-				  but remains in the “rest position” (its position when you say ah for the doctor) – e.g. 
-				  the sound of “b” in English;
-				  2. labiodental: the lower lip is brought up against the upper front teeth; again the tongue 
-				  is in rest position – e.g. the sound of “f ” in English;
-				  3. dental: the tip of the tongue (or apex) protrudes between the teeth or touches the back 
-				  of the upper teeth – e.g. the sound of “t” in Spanish or “th” in English;
-				  4. alveolar: the tip of the tongue makes contact with or is in close approximation to the 
-				  alveolar ridge – e.g. the sound of “d” in English;
-				  5. alveolopalatal: the front, or blade, of the tongue is raised to an area between the 
-				  alveolar ridge and the palate – e.g. the sound of “sh” in English;
-				  6. palatal: the front of the tongue is brought up against the palate – e.g. the sound of “y” 
-				  in English;
-				  7. velar: the back, or dorsum, of the tongue is brought into contact with the velum – e.g. 
+				- bilabial
+					- the lips are brought together (the lower lip is active); the tongue is not involved 
+					  but remains in the “rest position” (its position when you say ah for the doctor) – e.g. 
+					  the sound of “b” in English;
+				- labiodental
+					- the lower lip is brought up against the upper front teeth; again the tongue 
+					  is in rest position – e.g. the sound of “f ” in English;
+				- dental
+					- the tip of the tongue (or apex) protrudes between the teeth or touches the back 
+					  of the upper teeth – e.g. the sound of “t” in Spanish or “th” in English;
+				- alveolar
+					- the tip of the tongue makes contact with or is in close approximation to the 
+					  alveolar ridge – e.g. the sound of “d” in English;
+				- alveolopalatal
+					- the front, or blade, of the tongue is raised to an area between the 
+					  alveolar ridge and the palate – e.g. the sound of “sh” in English;
+				- palatal
+					- the front of the tongue is brought up against the palate – e.g. the sound of “y” 
+					  in English;
+				- velar: the back, or dorsum, of the tongue is brought into contact with the velum – e.g. 
 				  the sound of “g” in English;
 				  8. uvular: the back of the tongue touches the uvula;
 				  9. pharyngeal: the root of the tongue (specifically, the epiglottis) is moved backwards 
