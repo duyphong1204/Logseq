@@ -155,13 +155,7 @@
 				- You must also try to say words with a natural and relaxed pronunciation.
 					- There is a strong tendency when reading words or saying them in isolation to give them an overly formal and even distorted pronunciation.
 				- Try to speak as you do naturally in casual conversation
-				- Do not whisper the words, either, as you cannot distinguish between 
-				  voiced and voiceless sounds when whispering.
-				  This section, in addition to surveying the consonant inventory of English, will teach 
-				  you the phonetic alphabet symbol used to transcribe each of the consonants. We will use 
-				  the modified version of the IPA used in North America. For the most part, you will be 
-				  asked to give what is called broad transcription rather than narrow transcription. As the 
-				  names imply, broad transcription merely records the grosser features of sound, whereas 
-				  narrow transcription records all the nuances and finer aspects of sound, though not performance factors such as drunken slurs, loudness, and so on. The convention is to enclose 
-				  broad transcription between slashes, such as /kæt/ for cat, and to use square brackets for 
-				  narrow transcription, such as [khætÐ].
+				- Do not whisper the words, either, as you cannot distinguish between voiced and voiceless sounds when whispering.
+				- This section, in addition to surveying the consonant inventory of English, will teach 
+				  you the phonetic alphabet symbol used to transcribe each of the consonants. We will use the modified version of the IPA used in North America. For the most part, you will be asked to give what is called broad transcription rather than narrow transcription.
+					- As the names imply, broad transcription merely records the grosser features of sound, whereas narrow transcription records all the nuances and finer aspects of sound, though not performance factors such as drunken slurs, loudness, and so on. The convention is to enclose broad transcription between slashes, such as /kæt/ for cat, and to use square brackets for narrow transcription, such as [khætÐ].
