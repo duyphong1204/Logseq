@@ -36,7 +36,6 @@
 			- In describing the place of articulation for consonants, it is traditional to list the active 
 			  and then the passive articulator.
 				- Consonants involve a rather large number of discrete places of articulation (see Figure 2.3)
-				  collapsed:: true
 					- bilabial
 					  logseq.order-list-type:: number
 					  collapsed:: true
@@ -87,13 +86,12 @@
 					  collapsed:: true
 						- the vocal cords, functioning as articulators, make a brief closure.
 				- ![image.png](../assets/image_1706153665213_0.png)
-			- While the uvular and pharyngeal places are not used for the articulation of English 
-			  consonants, they are used in other languages
-				- e.g.
-					- the uvular for German “r”
-					- a French fricative
-					- the pharyngeal for a fricative in Arabic
-				- Two places of articulation may also be used at the same time – what is called “coarticulation” – as in the case of labiovelars, which involve the lips, on one hand, and the tongue and velum, on 
-				  the other.
-				- Each of the various places of articulation just examined may combine with a number 
-				  of different manners of articulation to produce consonant sounds:
+				- While the uvular and pharyngeal places are not used for the articulation of English 
+				  consonants, they are used in other languages
+					- e.g.
+						- the uvular for German “r”
+						- a French fricative
+						- the pharyngeal for a fricative in Arabic
+					- Two places of articulation may also be used at the same time – what is called “coarticulation” – as in the case of labiovelars, which involve the lips, on one hand, and the tongue and velum, on the other.
+			- Each of the various places of articulation just examined may combine with a number 
+			  of different manners of articulation to produce consonant sounds:
