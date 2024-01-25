@@ -139,9 +139,11 @@
 			- We will now consider what combinations of voicing, place of articulation, and manner of 
 			  articulation are utilized in the articulation of consonants in English.
 				- Remember that not all possible combinations are used in all languages
+				  collapsed:: true
 					- though certain combinations (such as, perhaps, a velar trill) might be physiologically impossible.
 				- As you read the following section, you should consult the consonant chart in Table 2.1.
 			- On the consonant chart, following common practice
+			  collapsed:: true
 				- the places of articulation are listed across the horizontal axis (roughly corresponding to a cross-section of the mouth viewed from the left, with the front of the mouth on the left and the back of the mouth on the right)
 				- the manners of articulation are listed along the vertical axis, moving in a rough way from greatest stricture at the top to lesser amounts of stricture as one moves down.
 				- Voiceless consonant are listed above voiced ones, where applicable.
@@ -166,4 +168,4 @@
 					- narrow transcription
 						- records all the nuances and finer aspects of sound, though not performance factors such as drunken slurs, loudness, and so on.
 				- The convention is to enclose broad transcription between slashes, such as /kæt/ for cat, and to use square brackets for narrow transcription, such as [khætÐ].
-				- ![image.png](../assets/image_1706155375227_0.png)
+				- ![image.png](../assets/image_1706155401228_0.png)
