@@ -31,8 +31,7 @@
 						- whether it is complete
 						- partial - “close approximation”
 						- or relatively open - “open approximation”
-					- The term “approximation” refers to the two articulators approaching (or approximating) 
-					  one another.
-					  In describing the place of articulation for consonants, it is traditional to list the active 
-					  and then the passive articulator. Consonants involve a rather large number of discrete 
-					  places of articulation (see Figure 2.3):
+						- The term “approximation” refers to the two articulators approaching (or approximating) one another.
+			- In describing the place of articulation for consonants, it is traditional to list the active 
+			  and then the passive articulator.
+			- Consonants involve a rather large number of discrete places of articulation (see Figure 2.3):
