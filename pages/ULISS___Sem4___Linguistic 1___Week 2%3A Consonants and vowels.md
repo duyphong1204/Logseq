@@ -93,5 +93,7 @@
 					- the uvular for German “r”
 					- a French fricative
 					- the pharyngeal for a fricative in Arabic
-					  Each of the various places of articulation just examined may combine with a number 
-					  of different manners of articulation to produce consonant sounds:
+				- Two places of articulation may also be used at the same time – what is called “coarticulation” – as in the case of labiovelars, which involve the lips, on one hand, and the tongue and velum, on 
+				  the other.
+				- Each of the various places of articulation just examined may combine with a number 
+				  of different manners of articulation to produce consonant sounds:
