@@ -12,7 +12,7 @@
 		- ### 3.1 Classification of consonants
 			- A consonant is defined as a speech sound which is articulated with some kind of stricture, 
 			  or closure, of the air stream.
-			- Consonants are classified according to four features:
+			- Consonants are classified according to four features
 			  collapsed:: true
 				- the state of the glottis
 				  logseq.order-list-type:: number
@@ -35,7 +35,7 @@
 						- The term “approximation” refers to the two articulators approaching (or approximating) one another.
 			- In describing the place of articulation for consonants, it is traditional to list the active 
 			  and then the passive articulator.
-				- Consonants involve a rather large number of discrete places of articulation (see Figure 2.3):
+				- Consonants involve a rather large number of discrete places of articulation (see Figure 2.3)
 				  collapsed:: true
 					- bilabial
 					  logseq.order-list-type:: number
@@ -88,7 +88,10 @@
 						- the vocal cords, functioning as articulators, make a brief closure.
 				- ![image.png](../assets/image_1706153665213_0.png)
 			- While the uvular and pharyngeal places are not used for the articulation of English 
-			  consonants, they are used in other languages: e.g. the uvular for German “r” and a French 
-			  fricative and the pharyngeal for a fricative in Arabic.2
-			  Each of the various places of articulation just examined may combine with a number 
-			  of different manners of articulation to produce consonant sounds:
+			  consonants, they are used in other languages
+				- e.g.
+					- the uvular for German “r”
+					- a French fricative
+					- the pharyngeal for a fricative in Arabic
+					  Each of the various places of articulation just examined may combine with a number 
+					  of different manners of articulation to produce consonant sounds:
