@@ -147,13 +147,15 @@
 				- Voiceless consonant are listed above voiced ones, where applicable.
 				- It is not necessary to specify the state of the velum since all consonants are oral except the nasals
 			- Note that in giving a technical description of a consonant sound, it is traditional to list voicing, then place, then manner; get into the habit of describing the consonants in this order from the very beginning.
-			- HINT: In learning the sounds of English and, especially, in transcribing English words, you 
-			  must not allow yourself to be influenced by the written form.
-				- Because of the imperfect correspondence between sound and spelling in English mentioned above, the spelling will often lead you astray or confuse you. You must try to function entirely in an oral 
-				  context. You must also try to say words with a natural and relaxed pronunciation. There 
-				  is a strong tendency when reading words or saying them in isolation to give them an 
-				  overly formal and even distorted pronunciation. Try to speak as you do naturally in casual 
-				  conversation. Do not whisper the words, either, as you cannot distinguish between 
+			- HINT:
+				- In learning the sounds of English and, especially, in transcribing English words, you 
+				  must not allow yourself to be influenced by the written form.
+					- Because of the imperfect correspondence between sound and spelling in English mentioned above, the spelling will often lead you astray or confuse you.
+				- You must try to function entirely in an oral context.
+				- You must also try to say words with a natural and relaxed pronunciation.
+					- There is a strong tendency when reading words or saying them in isolation to give them an overly formal and even distorted pronunciation.
+				- Try to speak as you do naturally in casual conversation
+				- Do not whisper the words, either, as you cannot distinguish between 
 				  voiced and voiceless sounds when whispering.
 				  This section, in addition to surveying the consonant inventory of English, will teach 
 				  you the phonetic alphabet symbol used to transcribe each of the consonants. We will use 
