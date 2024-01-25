@@ -147,7 +147,8 @@
 				- Voiceless consonant are listed above voiced ones, where applicable.
 				- It is not necessary to specify the state of the velum since all consonants are oral except the nasals
 			- Note that in giving a technical description of a consonant sound, it is traditional to list voicing, then place, then manner; get into the habit of describing the consonants in this order from the very beginning.
-			- HINT:
+			- *HINT:*
+			  collapsed:: true
 				- In learning the sounds of English and, especially, in transcribing English words, you 
 				  must not allow yourself to be influenced by the written form.
 					- Because of the imperfect correspondence between sound and spelling in English mentioned above, the spelling will often lead you astray or confuse you.
@@ -156,12 +157,12 @@
 					- There is a strong tendency when reading words or saying them in isolation to give them an overly formal and even distorted pronunciation.
 				- Try to speak as you do naturally in casual conversation
 				- Do not whisper the words, either, as you cannot distinguish between voiced and voiceless sounds when whispering.
-				- This section, in addition to surveying the consonant inventory of English, will teach 
-				  you the phonetic alphabet symbol used to transcribe each of the consonants.
-					- We will use the modified version of the IPA used in North America.
-					- For the most part, you will be asked to give what is called broad transcription rather than narrow transcription.
-						- broad transcription
-							- merely records the grosser features of sound
-						- narrow transcription
-							- records all the nuances and finer aspects of sound, though not performance factors such as drunken slurs, loudness, and so on.
-					- The convention is to enclose broad transcription between slashes, such as /kæt/ for cat, and to use square brackets for narrow transcription, such as [khætÐ].
+			- This section, in addition to surveying the consonant inventory of English, will teach 
+			  you the phonetic alphabet symbol used to transcribe each of the consonants.
+				- We will use the modified version of the IPA used in North America.
+				- For the most part, you will be asked to give what is called broad transcription rather than narrow transcription.
+					- broad transcription
+						- merely records the grosser features of sound
+					- narrow transcription
+						- records all the nuances and finer aspects of sound, though not performance factors such as drunken slurs, loudness, and so on.
+				- The convention is to enclose broad transcription between slashes, such as /kæt/ for cat, and to use square brackets for narrow transcription, such as [khætÐ].
