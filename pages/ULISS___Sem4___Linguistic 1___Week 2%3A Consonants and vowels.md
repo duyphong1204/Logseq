@@ -13,3 +13,15 @@
 			- A consonant is defined as a speech sound which is articulated with some kind of stricture, 
 			  or closure, of the air stream.
 			- Consonants are classified according to four features
+				- the state of the glottis
+				  logseq.order-list-type:: number
+					- in vibration (voiced)
+					- open (voiceless);
+				- the state of the velum
+				  logseq.order-list-type:: number
+					- lowered (nasal) or raised (oral);
+				- the place of articulation: the location where the stricture or place of maximum interference occurs and what articulators are involved; and
+				  logseq.order-list-type:: number
+				- the manner of articulation: the amount of stricture, whether it is complete, partial 
+				  logseq.order-list-type:: number
+				  (called “close approximation”), or relatively open (“open approximation”).
