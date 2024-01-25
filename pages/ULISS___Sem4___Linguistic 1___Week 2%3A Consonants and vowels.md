@@ -141,28 +141,26 @@
 				- Remember that not all possible combinations are used in all languages
 					- though certain combinations (such as, perhaps, a velar trill) might be physiologically impossible.
 				- As you read the following section, you should consult the consonant chart in Table 2.1.
-				- On the consonant chart, following common practice, the places of articulation are listed across the horizontal axis (roughly corresponding to a cross-section of the mouth viewed from the left, with the front of the mouth on the left and the back of the mouth on the 
-				  right); the manners of articulation are listed along the vertical axis, moving in a rough 
-				  way from greatest stricture at the top to lesser amounts of stricture as one moves down. 
-				  Voiceless consonant are listed above voiced ones, where applicable. It is not necessary to 
-				  specify the state of the velum since all consonants are oral except the nasals. Note that in 
-				  giving a technical description of a consonant sound, it is traditional to list voicing, then 
-				  place, then manner; get into the habit of describing the consonants in this order from the 
-				  very beginning.
-				  HINT: In learning the sounds of English and, especially, in transcribing English words, you 
-				  must not allow yourself to be influenced by the written form. Because of the imperfect 
-				  correspondence between sound and spelling in English mentioned above, the spelling 
-				  will often lead you astray or confuse you. You must try to function entirely in an oral 
-				  context. You must also try to say words with a natural and relaxed pronunciation. There 
-				  is a strong tendency when reading words or saying them in isolation to give them an 
-				  overly formal and even distorted pronunciation. Try to speak as you do naturally in casual 
-				  conversation. Do not whisper the words, either, as you cannot distinguish between 
-				  voiced and voiceless sounds when whispering.
-				  This section, in addition to surveying the consonant inventory of English, will teach 
-				  you the phonetic alphabet symbol used to transcribe each of the consonants. We will use 
-				  the modified version of the IPA used in North America. For the most part, you will be 
-				  asked to give what is called broad transcription rather than narrow transcription. As the 
-				  names imply, broad transcription merely records the grosser features of sound, whereas 
-				  narrow transcription records all the nuances and finer aspects of sound, though not performance factors such as drunken slurs, loudness, and so on. The convention is to enclose 
-				  broad transcription between slashes, such as /kæt/ for cat, and to use square brackets for 
-				  narrow transcription, such as [khætÐ].
+			- On the consonant chart, following common practice, the places of articulation are listed across the horizontal axis (roughly corresponding to a cross-section of the mouth viewed from the left, with the front of the mouth on the left and the back of the mouth on the right); the manners of articulation are listed along the vertical axis, moving in a rough way from greatest stricture at the top to lesser amounts of stricture as one moves down.
+			- Voiceless consonant are listed above voiced ones, where applicable.
+			- It is not necessary to specify the state of the velum since all consonants are oral except the nasals. Note that in 
+			  giving a technical description of a consonant sound, it is traditional to list voicing, then 
+			  place, then manner; get into the habit of describing the consonants in this order from the 
+			  very beginning.
+			  HINT: In learning the sounds of English and, especially, in transcribing English words, you 
+			  must not allow yourself to be influenced by the written form. Because of the imperfect 
+			  correspondence between sound and spelling in English mentioned above, the spelling 
+			  will often lead you astray or confuse you. You must try to function entirely in an oral 
+			  context. You must also try to say words with a natural and relaxed pronunciation. There 
+			  is a strong tendency when reading words or saying them in isolation to give them an 
+			  overly formal and even distorted pronunciation. Try to speak as you do naturally in casual 
+			  conversation. Do not whisper the words, either, as you cannot distinguish between 
+			  voiced and voiceless sounds when whispering.
+			  This section, in addition to surveying the consonant inventory of English, will teach 
+			  you the phonetic alphabet symbol used to transcribe each of the consonants. We will use 
+			  the modified version of the IPA used in North America. For the most part, you will be 
+			  asked to give what is called broad transcription rather than narrow transcription. As the 
+			  names imply, broad transcription merely records the grosser features of sound, whereas 
+			  narrow transcription records all the nuances and finer aspects of sound, though not performance factors such as drunken slurs, loudness, and so on. The convention is to enclose 
+			  broad transcription between slashes, such as /kæt/ for cat, and to use square brackets for 
+			  narrow transcription, such as [khætÐ].
