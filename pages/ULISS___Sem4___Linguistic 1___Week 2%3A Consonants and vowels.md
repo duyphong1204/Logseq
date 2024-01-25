@@ -84,4 +84,5 @@
 				  logseq.order-list-type:: number
 				  collapsed:: true
 					- the vocal cords, functioning as articulators, make a brief closure.
-			-
+			- ![image.png](../assets/image_1706153665213_0.png)
+		-
