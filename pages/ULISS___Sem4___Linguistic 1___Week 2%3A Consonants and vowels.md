@@ -95,3 +95,30 @@
 					- Two places of articulation may also be used at the same time – what is called “coarticulation” – as in the case of labiovelars, which involve the lips, on one hand, and the tongue and velum, on the other.
 			- Each of the various places of articulation just examined may combine with a number 
 			  of different manners of articulation to produce consonant sounds:
+				- stop: (“oral stop”) involving complete closure of two articulators with the velum raised 
+				  (velic closure) – e.g. the sound of “p” in English;
+				  2. nasal: (“nasal stop”) involving complete closure of two articulators with the velum 
+				  lowered (“velic opening”) – e.g. the sound of “n” in English; for every stop position in 
+				  English, there is a nasal articulated in the same position (homorganic);
+				  3. fricative: (or “spirant”) involving close approximation of two articulators; the air 
+				  stream is partially obstructed so that a turbulent airflow is produced, resulting in a 
+				  hissing or rubbing sound – e.g. the sound of “s” in English;
+				  4. affricate: consisting of a stop released into a homorganic fricative – e.g. the sound of 
+				  “ch” in English; this sound is analyzed either as a complex or a simple sound;
+				  5. trill: (or “roll”) involving complete closure alternating intermittently with open 
+				  approximation, that is, a rapid vibration of the active articulator against the passive 
+				  articulator (this sound in not common in English except for the Scottish “r” made 
+				  with an apical trill);
+				  6. flap: (or “tap”) involving momentary complete closure in which the active articulator 
+				  strikes the passive articulator only once; it is one strike of a trill and similar to a stop 
+				  except that the tongue is more tense and controlled than in a stop; and
+				  7. approximant: one articulator approaches another but generally not to the extent that 
+				  a turbulent air stream is produced; there is usually open approximation in the three 
+				  different types of approximants:
+				  a. lateral: involving complete closure of the central portion of the vocal tract, with 
+				  the lateral passage of air; the air may pass around the sides with no stricture (open 
+				  approximation) – e.g. the sound of “l” in English – or, in languages other than 
+				  English, with some stricture (close approximation);
+				  b. retroflex: involving the underside of the tongue curling back behind the alveolar 
+				  ridge towards the palate – e.g. the sound of “r” in English; laterals and retroflexes 
+				  are called “liquids”;
