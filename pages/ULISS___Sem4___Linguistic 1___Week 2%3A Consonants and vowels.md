@@ -10,6 +10,7 @@
 		- We begin our study of speech sounds with consonants, since they are somewhat easier to describe.
 			- We will look first – in abstract – at how consonants are articulated before examining in detail the specific consonants of English.
 		- ### 3.1 Classification of consonants
+		  collapsed:: true
 			- A consonant is defined as a speech sound which is articulated with some kind of stricture, 
 			  or closure, of the air stream.
 			- Consonants are classified according to four features
@@ -134,3 +135,5 @@
 					- **glide** (or semivowel): involving a glide to or from a vowel; this sound is articulated like a vowel (with no stricture) but functions as a consonant to begin or 
 					  logseq.order-list-type:: number
 					  end syllables – e.g. the sound of “w” in English.
+		- ### 3.2 Consonants of English and their phonetic notation
+			-
