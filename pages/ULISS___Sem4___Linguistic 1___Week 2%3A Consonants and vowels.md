@@ -131,3 +131,6 @@
 					  logseq.order-list-type:: number
 					  ridge towards the palate – e.g. the sound of “r” in English; laterals and retroflexes 
 					  are called “liquids”;
+					- **glide** (or semivowel): involving a glide to or from a vowel; this sound is articulated like a vowel (with no stricture) but functions as a consonant to begin or 
+					  logseq.order-list-type:: number
+					  end syllables – e.g. the sound of “w” in English.
