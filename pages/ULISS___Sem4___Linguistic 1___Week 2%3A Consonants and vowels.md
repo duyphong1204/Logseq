@@ -166,3 +166,4 @@
 					- narrow transcription
 						- records all the nuances and finer aspects of sound, though not performance factors such as drunken slurs, loudness, and so on.
 				- The convention is to enclose broad transcription between slashes, such as /kæt/ for cat, and to use square brackets for narrow transcription, such as [khætÐ].
+				- ![image.png](../assets/image_1706155375227_0.png)
