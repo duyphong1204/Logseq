@@ -169,3 +169,18 @@
 						- records all the nuances and finer aspects of sound, though not performance factors such as drunken slurs, loudness, and so on.
 				- The convention is to enclose broad transcription between slashes, such as /kæt/ for cat, and to use square brackets for narrow transcription, such as [khætÐ].
 				- ![image.png](../assets/image_1706155401228_0.png)
+			- In the stop series of English, there are paired voiced and voiceless stops produced in 
+			  three locations:
+			  1. bilabial: the voiced bilabial stop /b/ (as in band, ember, mob) and the voiceless bilabial 
+			  stop /p/ (as in pound, open, coop);
+			  2. alveolar: the voiced alveolar stop /d/ (as in danger, eddy, loud) and the voiceless alveolar stop /t/ (as in tangle, otter, moat); and
+			  3. velar: the voiced velar stop /:/ (as in grass, rugged, rug) and the voiceless velar stop /k/ 
+			  (as in carrot, election, luck).
+			  As you can see, all stop sounds are represented in the IPA with Roman alphabet symbols. 
+			  The bilabial stop is made by bringing the lips together, the alveolar by bringing the tip of 
+			  the tongue up against the alveolar ridge, and the velar by bringing the back of the tongue 
+			  up against the soft palate. Because the air stream is completely blocked, you cannot actually hear stops until you open your mouth to release them into a vowel. Released stops are 
+			  called “plosives”. Furthermore, the articulation of stops cannot be maintained; their articulation is instantaneous. Practice saying all of these sounds.
+			  The stops share certain features. First, the voiced stops are articulated for a shorter 
+			  period than the corresponding voiceless stops. Compare the final voiced stops in 
+			  Column 1 with the voiceless stops in Column 2:
