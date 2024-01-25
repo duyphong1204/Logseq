@@ -117,7 +117,7 @@
 				- **flap**: (or “tap”) involving momentary complete closure in which the active articulator 
 				  logseq.order-list-type:: number
 				  strikes the passive articulator only once; it is one strike of a trill and similar to a stop 
-				  except that the tongue is more tense and controlled than in a stop; and
+				  except that the tongue is more tense and controlled than in a stop
 				- **approximant**: one articulator approaches another but generally not to the extent that 
 				  logseq.order-list-type:: number
 				  a turbulent air stream is produced; there is usually open approximation in the three 
