@@ -19,9 +19,15 @@
 					- open (voiceless);
 				- the state of the velum
 				  logseq.order-list-type:: number
-					- lowered (nasal) or raised (oral);
-				- the place of articulation: the location where the stricture or place of maximum interference occurs and what articulators are involved; and
+					- lowered (nasal)
+					- raised (oral);
+				- the place of articulation
 				  logseq.order-list-type:: number
-				- the manner of articulation: the amount of stricture, whether it is complete, partial 
+					- the location where the stricture or place of maximum interference occurs
+					- what articulators are involved
+				- the manner of articulation
 				  logseq.order-list-type:: number
-				  (called “close approximation”), or relatively open (“open approximation”).
+					- the amount of stricture
+						- whether it is complete
+						- partial - “close approximation”
+						- or relatively open - “open approximation”
