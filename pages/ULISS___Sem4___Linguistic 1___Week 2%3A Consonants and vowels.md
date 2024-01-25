@@ -96,29 +96,38 @@
 			- Each of the various places of articulation just examined may combine with a number 
 			  of different manners of articulation to produce consonant sounds:
 				- **stop**: (“oral stop”) involving complete closure of two articulators with the velum raised 
+				  logseq.order-list-type:: number
 				  (velic closure) – e.g. the sound of “p” in English;
 				- **nasal**: (“nasal stop”) involving complete closure of two articulators with the velum 
+				  logseq.order-list-type:: number
 				  lowered (“velic opening”) – e.g. the sound of “n” in English; for every stop position in 
 				  English, there is a nasal articulated in the same position (homorganic);
 				- **fricative**: (or “spirant”) involving close approximation of two articulators; the air 
+				  logseq.order-list-type:: number
 				  stream is partially obstructed so that a turbulent airflow is produced, resulting in a 
 				  hissing or rubbing sound – e.g. the sound of “s” in English;
 				- **affricate**: consisting of a stop released into a homorganic fricative – e.g. the sound of 
+				  logseq.order-list-type:: number
 				  “ch” in English; this sound is analyzed either as a complex or a simple sound;
 				- **trill**: (or “roll”) involving complete closure alternating intermittently with open 
+				  logseq.order-list-type:: number
 				  approximation, that is, a rapid vibration of the active articulator against the passive 
 				  articulator (this sound in not common in English except for the Scottish “r” made 
 				  with an apical trill);
 				- **flap**: (or “tap”) involving momentary complete closure in which the active articulator 
+				  logseq.order-list-type:: number
 				  strikes the passive articulator only once; it is one strike of a trill and similar to a stop 
 				  except that the tongue is more tense and controlled than in a stop; and
 				- **approximant**: one articulator approaches another but generally not to the extent that 
+				  logseq.order-list-type:: number
 				  a turbulent air stream is produced; there is usually open approximation in the three 
 				  different types of approximants:
 					- **lateral**: involving complete closure of the central portion of the vocal tract, with 
+					  logseq.order-list-type:: number
 					  the lateral passage of air; the air may pass around the sides with no stricture (open 
 					  approximation) – e.g. the sound of “l” in English – or, in languages other than 
 					  English, with some stricture (close approximation);
 					- **retroflex**: involving the underside of the tongue curling back behind the alveolar 
+					  logseq.order-list-type:: number
 					  ridge towards the palate – e.g. the sound of “r” in English; laterals and retroflexes 
 					  are called “liquids”;
