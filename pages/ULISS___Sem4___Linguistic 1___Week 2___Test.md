@@ -49,6 +49,13 @@
 	- How can you describle the initial sound of the word "shepherd"? #card
 	  collapsed:: true
 		- voiceless alveolo-palatal fricative
+	- Which sound is described as the following: voiced palatal glide? #card 
+	  collapsed:: true
+	  A. /w/
+	  B. /l/
+	  C. /r/
+	  D. /j/
+		- /j/
 	- Choose the description for the initial consonant of the word "psychometric". #card 
 	  card-last-interval:: 4
 	  card-repeats:: 1
@@ -74,14 +81,7 @@
 	- Write TWO words which contain the sound described as "voiced alveolar retroflex". #card
 	  collapsed:: true
 		- red, right
-- 10.Which sound is described as the following: voiced palatal glide?
-- /w/
-- /l/
-- /r/
-- D. /j/
-- **Incorrect**
-- 0/1 Points
-- 11.Point out the voiceless sound of the word "Dental" #card
+- Point out the voiceless sound of the word "Dental" #card
 	- /t/
 - **Correct**
 - 1/1 Points
