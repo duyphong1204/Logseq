@@ -2,11 +2,15 @@
 	- Write a word which contain the sound described as "voiceless glottal fricative". #card
 	  collapsed:: true
 		- how
-	-
-	- 12.Which word contains the sound described as "voiceless velar stop" in the sentence "I scream, you scream, we all scream for ice cream"? #card
+	- Which word below contain the sound described as "voiced alveolar lateral"? #card
+		- linen
+		- women
+		- yet
+		- refer
+	- Which word contains the sound described as "voiceless velar stop" in the sentence "I scream, you scream, we all scream for ice cream"? #card
 	  collapsed:: true
 		- scream, cream
-	- 14.Choose the description for the initial consonant of the word "psychometric". #card 
+	- Choose the description for the initial consonant of the word "psychometric". #card 
 	  card-last-interval:: 4
 	  card-repeats:: 1
 	  card-ease-factor:: 2.36
@@ -19,26 +23,18 @@
 	  C. voiceless bilabial stop
 	  D. voiceless velar stop
 		- voiceless alveolar fricative
-	- 15.How can you describe the medial consonant of the word "manner"? #card
-	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T05:17:15.837Z
-	  card-last-reviewed:: 2024-01-29T05:17:15.837Z
+	- How can you describe the medial consonant of the word "manner"? #card
 	  card-last-score:: 5
+	  card-repeats:: 1
+	  card-next-schedule:: 2024-02-02T05:17:15.837Z
+	  card-last-interval:: 4
+	  card-ease-factor:: 2.6
+	  card-last-reviewed:: 2024-01-29T05:17:15.837Z
 	  collapsed:: true
 		- voiced alveolar nasal
-	- 13.Write TWO words which contain the sound described as "voiced alveolar retroflex". #card
+	- Write TWO words which contain the sound described as "voiced alveolar retroflex". #card
 	  collapsed:: true
 		- red, right
-- Write a word which contain the sound described as "voiceless glottal fricative".
-- **Correct**
-- 1/1 Points
-- 2.Which word below contain the sound described as "voiced alveolar lateral"?
-- linen
-- women
-- yet
-- refer
 - **Incorrect**
 - 0/1 Points
 - 3.Choose the description for the initial consonant of the word "generosity".
