@@ -62,6 +62,7 @@
 	- /t/
 - **Correct**
 - 1/1 Points
+- {{cards [[English Linguistic]] }}
 - Subject 1: [[English Linguistic]]
 	- 12.Which word contains the sound described as "voiceless velar stop" in the sentence "I scream, you scream, we all scream for ice cream"? #card
 	  collapsed:: true
