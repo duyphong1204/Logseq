@@ -63,8 +63,9 @@
 - /t/
 - **Correct**
 - 1/1 Points
-- 12.Which word contains the sound described as "voiceless velar stop" in the sentence "I scream, you scream, we all scream for ice cream"? #card
-	- scream, cream
+- Subject 1: [[English Linguistic]]
+	- 12.Which word contains the sound described as "voiceless velar stop" in the sentence "I scream, you scream, we all scream for ice cream"? #card
+		- scream, cream
 - 13.Write TWO words which contain the sound described as "voiced alveolar retroflex".
 - 14.Choose the description for the initial consonant of the word "psychometric". #card 
   card-last-interval:: 4
