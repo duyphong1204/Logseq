@@ -16,6 +16,13 @@
 	  C. voiced velar stop
 	  D. voiced alveolo-palatal affricate
 		- voiced alveolo-palatal affricate
+	- Which word below contain the sound described as "voiced dental fricative"? #card 
+	  collapsed:: true
+	  A. ethnic
+	  B. athlete
+	  C. either
+	  D. anthem
+		- either
 	- Which word contains the sound described as "voiceless velar stop" in the sentence "I scream, you scream, we all scream for ice cream"? #card
 	  collapsed:: true
 		- scream, cream
@@ -44,19 +51,12 @@
 	- Write TWO words which contain the sound described as "voiced alveolar retroflex". #card
 	  collapsed:: true
 		- red, right
-- 4.Which word below contain the sound described as "voiced dental fricative"? #card 
-  A. ethnic
-  B. athlete
-  C. either
-  D. anthem
-	- either
-- 5.Choose the word which does NOT contain the sound described as "voiceless bilabial stop".
-- pepper
-- pinpoint
-- Billy
-- backdrop
-- **Incorrect**
-- 0/1 Points
+- Choose the word which does NOT contain the sound described as "voiceless bilabial stop".
+  A. pepper
+  B. pinpoint
+  C. Billy
+  D. backdrop
+	- Billy
 - 6.Choose the description for the final consonant of the word "comb".
 - voiced bilabial stop
 - voiced bilabial nasal
