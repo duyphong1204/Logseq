@@ -173,7 +173,7 @@
 :italic false
 :text "Consonant"}}
 :block/updated-at 1706500243949} 
-{:block/created-at 1706500250480
+{:block/created-at 1706500705361
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -194,14 +194,14 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [632 352]
+:point [632 392]
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706500245492
+:nonce 1706500245510
 :italic false
 :text "Vowel"}}
-:block/updated-at 1706500250480} 
+:block/updated-at 1706500705361} 
 {:block/created-at 1706500255745
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -243,7 +243,7 @@
 :nonce 1
 :assets []
 :shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230")}}
-:block/updated-at 1706500258745
+:block/updated-at 1706500705360
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "65b72044-4165-4068-9e4b-356496d97330"
