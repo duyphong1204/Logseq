@@ -1,4 +1,5 @@
 - [[English Linguistic]]
+  collapsed:: true
 	- Write a word which contain the sound described as "voiceless glottal fricative". #card
 	  collapsed:: true
 		- how
@@ -56,6 +57,9 @@
 	  C. /r/
 	  D. /j/
 		- /j/
+	- Point out the voiceless sound of the word "Dental" #card
+	  collapsed:: true
+		- /t/
 	- Choose the description for the initial consonant of the word "psychometric". #card 
 	  card-last-interval:: 4
 	  card-repeats:: 1
@@ -81,9 +85,5 @@
 	- Write TWO words which contain the sound described as "voiced alveolar retroflex". #card
 	  collapsed:: true
 		- red, right
-- Point out the voiceless sound of the word "Dental" #card
-	- /t/
-- **Correct**
-- 1/1 Points
 - {{cards [[English Linguistic]] }}
 -
