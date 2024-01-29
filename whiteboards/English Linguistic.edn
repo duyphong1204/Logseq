@@ -289,7 +289,7 @@
 :italic false
 :text "Coda"}}
 :block/updated-at 1706500749585} 
-{:block/created-at 1706502002997
+{:block/created-at 1706503508430
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -302,7 +302,7 @@
 :scaleLevel "md"
 :fill ""
 :type "text"
-:size [1583 154]
+:size [1617 178]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -315,10 +315,10 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706500948773
+:nonce 1706500949209
 :italic false
-:text "Cô có các trò chơi như dịch từ, dịch passage từ kí âm\n\nHóa ra thứ cô dạy trên lớp là tổng hợp của nhiều giáo trình chứ không chỉ từ một cuốn sách\n=> Nếu ai không đọc trước để mà nhớ hoặc đã có sự tổng hợp lại để access về sau khi nghe cô giảng mà nhìn lại bài học (nhớ dễ hơn, nhanh hơn), thì cũng khó học lắm\n\nNhưng mà dạy về âm, ngoài giải thích"}}
-:block/updated-at 1706502002997} 
+:text "Cô có các trò chơi như dịch từ, dịch passage từ kí âm\n\nHóa ra thứ cô dạy trên lớp là tổng hợp của nhiều giáo trình chứ không chỉ từ một cuốn sách\n=> Nếu ai không đọc trước để mà nhớ hoặc đã có sự tổng hợp lại để access về sau khi nghe cô giảng mà nhìn lại bài học (nhớ dễ hơn, nhanh hơn), thì cũng khó học lắm\n\nNhưng mà dạy về âm, ngoài giải thích logic + bảo cảm nhận xúc giác + nhìn trên bảng\n=> để nhớ thì không phải học thuộc mà nên có thêm cả phần nhìn từng âm được phát âm như nào qua hình ảnh giải phẫu (để correct lại những đứa còn sai hoặc chưa hiểu)"}}
+:block/updated-at 1706503508430} 
 {:block/created-at 1706501010604
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -412,7 +412,64 @@
 {:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"}
 :block/parent 
 {:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"}
-:block/uuid #uuid "65b725e2-44f4-4995-9be8-5a2c5b743c2e"})
+:block/uuid #uuid "65b725e2-44f4-4995-9be8-5a2c5b743c2e"} 
+{:block/created-at 1706503562018
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 14
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [1137 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2ed37820-be61-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [-392 -8]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706503510422
+:italic false
+:text "Tại sao mồm ở vị trí nào đó lại khiến 1 luồng hơi phát thành một loại thanh riêng rồi mồm vận động, nó ra một âm nào đó"}}
+:block/updated-at 1706503562018} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 15
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [372 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "45b41900-be61-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [-368 152]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706503548636
+:italic false
+:text "Nhớ trình tự cấu âm: từ ngoài -> trong"}}
+:block/updated-at 1706503562019})
 :pages (
 {:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"
 :block/properties 
@@ -424,8 +481,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230")}}
-:block/updated-at 1706502002997
+:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230" "2ed37820-be61-11ee-8755-2beed5fa2230" "45b41900-be61-11ee-8755-2beed5fa2230")}}
+:block/updated-at 1706503562018
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "english linguistic"
