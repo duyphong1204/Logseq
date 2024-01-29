@@ -23,12 +23,6 @@
 	  C. either
 	  D. anthem
 		- either
-	- Choose the description for the final consonant of the word "comb". #card 
-	  A. voiced bilabial stop
-	  B.voiced bilabial nasal
-	  C. voiced alveolar nasal
-	  D. voiced velar nasal
-		- voiced bilabial nasal
 	- Choose the word which does NOT contain the sound described as "voiceless bilabial stop". #card 
 	  collapsed:: true
 	  A. pepper
@@ -36,6 +30,16 @@
 	  C. Billy
 	  D. backdrop
 		- Billy
+	- Choose the description for the final consonant of the word "comb". #card 
+	  collapsed:: true
+	  A. voiced bilabial stop
+	  B.voiced bilabial nasal
+	  C. voiced alveolar nasal
+	  D. voiced velar nasal
+		- voiced bilabial nasal
+	- How can you describe the final consonant of the word "tough"? #card
+	  collapsed:: true
+		- voiceless labio-dental fricative
 	- Which word contains the sound described as "voiceless velar stop" in the sentence "I scream, you scream, we all scream for ice cream"? #card
 	  collapsed:: true
 		- scream, cream
@@ -64,7 +68,6 @@
 	- Write TWO words which contain the sound described as "voiced alveolar retroflex". #card
 	  collapsed:: true
 		- red, right
-- 7.How can you describe the final consonant of the word "tough"?
 - Correct answers:
 - voiceless labio-dental fricative
 - **Incorrect**
