@@ -289,7 +289,7 @@
 :italic false
 :text "Coda"}}
 :block/updated-at 1706500749585} 
-{:block/created-at 1706501579436
+{:block/created-at 1706501639566
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -311,14 +311,14 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-432 136]
+:point [-152 -208]
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706500947658
+:nonce 1706500948154
 :italic false
 :text "Cô có các trò chơi như dịch từ, dịch passage từ kí âm\n\nHóa ra thứ cô dạy trên lớp là tổng hợp của nhiều giáo trình chứ không chỉ từ một cuốn sách"}}
-:block/updated-at 1706501579436} 
+:block/updated-at 1706501639566} 
 {:block/created-at 1706501010604
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -405,7 +405,14 @@
 :nonce 1706501030013
 :italic false
 :text "Medial"}}
-:block/updated-at 1706501034352})
+:block/updated-at 1706501034352} 
+{:block/content "Cô có các trò chơi như dịch từ, dịch passage từ kí âm\r\n\r\nHóa ra thứ cô dạy trên lớp là tổng hợp của nhiều giáo trình chứ không chỉ từ một cuốn sách"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"}
+:block/parent 
+{:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"}
+:block/uuid #uuid "65b725e2-44f4-4995-9be8-5a2c5b743c2e"})
 :pages (
 {:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"
 :block/properties 
@@ -418,7 +425,7 @@
 :nonce 1
 :assets []
 :shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230")}}
-:block/updated-at 1706501579436
+:block/updated-at 1706501641719
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "65b72044-4165-4068-9e4b-356496d97330"
