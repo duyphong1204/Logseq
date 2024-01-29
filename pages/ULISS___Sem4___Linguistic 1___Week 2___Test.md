@@ -66,13 +66,13 @@
 - 12.Which word contains the sound described as "voiceless velar stop" in the sentence "I scream, you scream, we all scream for ice cream"?
 - **Will be reviewed**
 - 13.Write TWO words which contain the sound described as "voiced alveolar retroflex".
-- **Incorrect**
-- 0/1 Points
-- 14.Choose the description for the initial consonant of the word "psychometric".
+- 14.Choose the description for the initial consonant of the word "psychometric". #card 
+  collapsed:: true
   A. voiceless alveolar fricative
   B. voicless alveolar stop
-- C. voiceless bilabial stop
-- voiceless velar stop
+  C. voiceless bilabial stop
+  D. voiceless velar stop
+	- voiceless alveolar fricative
 - 15.How can you describe the medial consonant of the word "manner"? #card
   collapsed:: true
 	- voiced alveolar nasal
