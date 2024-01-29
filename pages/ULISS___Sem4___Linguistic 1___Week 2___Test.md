@@ -1,0 +1,77 @@
+- Write a word which contain the sound described as "voiceless glottal fricative".
+- **Correct**
+- 1/1 Points
+- 2.Which word below contain the sound described as "voiced alveolar lateral"?
+- linen
+- women
+- yet
+- refer
+- **Incorrect**
+- 0/1 Points
+- 3.Choose the description for the initial consonant of the word "generosity".
+- voiced alveolo-palatal fricative
+- voiced palatal glide
+- voiced velar stop
+- voiced alveolo-palatal affricate
+- **Incorrect**
+- 0/1 Points
+- 4.Which word below contain the sound described as "voiced dental fricative"?
+- ethnic
+- athlete
+- either
+- anthem
+- **Correct**
+- 1/1 Points
+- 5.Choose the word which does NOT contain the sound described as "voiceless bilabial stop".
+- pepper
+- pinpoint
+- Billy
+- backdrop
+- **Incorrect**
+- 0/1 Points
+- 6.Choose the description for the final consonant of the word "comb".
+- voiced bilabial stop
+- voiced bilabial nasal
+- voiced alveolar nasal
+- voiced velar nasal
+- **Incorrect**
+- 0/1 Points
+- 7.How can you describe the final consonant of the word "tough"?
+- Correct answers:
+- voiceless labio-dental fricative
+- **Incorrect**
+- 0/1 Points
+- 8.Which word contains the sound described as "voiceless alveolo-palatal affricate" in the sentence "I saw a kitten eating chicken in the kitchen"?
+- Correct answers:
+- chicken, kitchen
+- **Incorrect**
+- 0/1 Points
+- 9.How can you describle the initial sound of the word "shepherd"?
+- Correct answers:
+- voiceless alveolo-palatal fricative
+- **Correct**
+- 1/1 Points
+- 10.Which sound is described as the following: voiced palatal glide?
+- /w/
+- /l/
+- /r/
+- /j/
+- **Incorrect**
+- 0/1 Points
+- 11.Point out the voiceless sound of the word "Dental"
+- Correct answers:
+- /t/
+- **Correct**
+- 1/1 Points
+- 12.Which word contains the sound described as "voiceless velar stop" in the sentence "I scream, you scream, we all scream for ice cream"?
+- **Will be reviewed**
+- 13.Write TWO words which contain the sound described as "voiced alveolar retroflex".
+- **Incorrect**
+- 0/1 Points
+- 14.Choose the description for the initial consonant of the word "psychometric".
+- voiceless alveolar fricative
+- voicless alveolar stop
+- voiceless bilabial stop
+- voiceless velar stop
+- 15.How can you describe the medial consonant of the word "manner"?
+	- voiced alveolar nasal
