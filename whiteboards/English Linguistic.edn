@@ -289,7 +289,7 @@
 :italic false
 :text "Coda"}}
 :block/updated-at 1706500749585} 
-{:block/created-at 1706501639566
+{:block/created-at 1706501667921
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -311,14 +311,14 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-152 -208]
+:point [-296 -152]
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706500948154
+:nonce 1706500948169
 :italic false
 :text "Cô có các trò chơi như dịch từ, dịch passage từ kí âm\n\nHóa ra thứ cô dạy trên lớp là tổng hợp của nhiều giáo trình chứ không chỉ từ một cuốn sách"}}
-:block/updated-at 1706501639566} 
+:block/updated-at 1706501667921} 
 {:block/created-at 1706501010604
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -419,14 +419,14 @@
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "65b72044-4165-4068-9e4b-356496d97330"
-:name "65b72044-4165-4068-9e4b-356496d97330"
+:name "english linguistic"
 :bindings 
 {}
 :nonce 1
 :assets []
 :shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230")}}
-:block/updated-at 1706501641719
+:block/updated-at 1706501670760
 :block/created-at 1706500164836
 :block/type "whiteboard"
-:block/name "65b72044-4165-4068-9e4b-356496d97330"
-:block/original-name "65b72044-4165-4068-9e4b-356496d97330"})}
+:block/name "english linguistic"
+:block/original-name "English Linguistic"})}
