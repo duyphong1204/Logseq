@@ -202,7 +202,7 @@
 :italic false
 :text "Vowel"}}
 :block/updated-at 1706500705361} 
-{:block/created-at 1706500255745
+{:block/created-at 1706501010604
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -223,14 +223,14 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [800 320]
+:point [984 216]
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706500251951
+:nonce 1706500251991
 :italic false
 :text "Onset"}}
-:block/updated-at 1706500255745} 
+:block/updated-at 1706501010604} 
 {:block/created-at 1706500749579
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -317,7 +317,94 @@
 :nonce 1706500947279
 :italic false
 :text "Cô có các trò chơi như dịch từ, dịch passage từ kí âm"}}
-:block/updated-at 1706500976768})
+:block/updated-at 1706500976768} 
+{:block/created-at 1706501010604
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [75 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "59de0d10-be5b-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [944 344]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706501005419
+:italic false
+:text "Rhyme"}}
+:block/updated-at 1706501010604} 
+{:block/created-at 1706501017203
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [61 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5da12f90-be5b-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1064 200]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706501011733
+:italic false
+:text "Initial"}}
+:block/updated-at 1706501017203} 
+{:block/created-at 1706501034352
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [74 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "68821140-be5b-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1064 232]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706501030013
+:italic false
+:text "Medial"}}
+:block/updated-at 1706501034352})
 :pages (
 {:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"
 :block/properties 
@@ -329,8 +416,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230")}}
-:block/updated-at 1706500976768
+:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230")}}
+:block/updated-at 1706501034352
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "65b72044-4165-4068-9e4b-356496d97330"
