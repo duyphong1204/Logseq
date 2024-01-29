@@ -38,19 +38,16 @@
 	  collapsed:: true
 		- red, right
 - 3.Choose the description for the initial consonant of the word "generosity".
-  voiced alveolo-palatal fricative
-- voiced palatal glide
-- voiced velar stop
-- voiced alveolo-palatal affricate
-- **Incorrect**
-- 0/1 Points
+  A. voiced alveolo-palatal fricative
+  B. voiced palatal glide
+  C. voiced velar stop
+  D. voiced alveolo-palatal affricate
+	- voiced alveolo-palatal affricate
 - 4.Which word below contain the sound described as "voiced dental fricative"?
 - ethnic
 - athlete
-- either
-- anthem
-- **Correct**
-- 1/1 Points
+  C. either
+  D. anthem
 - 5.Choose the word which does NOT contain the sound described as "voiceless bilabial stop".
 - pepper
 - pinpoint
