@@ -230,7 +230,65 @@
 :nonce 1706500251951
 :italic false
 :text "Onset"}}
-:block/updated-at 1706500255745})
+:block/updated-at 1706500255745} 
+{:block/created-at 1706500749579
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [87 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bb6b4e90-be5a-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [800 368]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706500739605
+:italic false
+:text "Nucleus"}}
+:block/updated-at 1706500749579} 
+{:block/created-at 1706500749585
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [61 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bfd5d4a0-be5a-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [808 416]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706500747000
+:italic false
+:text "Coda"}}
+:block/updated-at 1706500749585})
 :pages (
 {:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"
 :block/properties 
@@ -242,8 +300,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230")}}
-:block/updated-at 1706500705360
+:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230")}}
+:block/updated-at 1706500749585
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "65b72044-4165-4068-9e4b-356496d97330"
