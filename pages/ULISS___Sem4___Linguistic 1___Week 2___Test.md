@@ -3,10 +3,12 @@
 	  collapsed:: true
 		- how
 	- Which word below contain the sound described as "voiced alveolar lateral"? #card
+	  collapsed:: true
+	  A. linen
+	  B. women
+	  C. yet 
+	  D. refer
 		- linen
-		- women
-		- yet
-		- refer
 	- Which word contains the sound described as "voiceless velar stop" in the sentence "I scream, you scream, we all scream for ice cream"? #card
 	  collapsed:: true
 		- scream, cream
@@ -35,10 +37,8 @@
 	- Write TWO words which contain the sound described as "voiced alveolar retroflex". #card
 	  collapsed:: true
 		- red, right
-- **Incorrect**
-- 0/1 Points
 - 3.Choose the description for the initial consonant of the word "generosity".
-- voiced alveolo-palatal fricative
+  voiced alveolo-palatal fricative
 - voiced palatal glide
 - voiced velar stop
 - voiced alveolo-palatal affricate
