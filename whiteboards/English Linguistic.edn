@@ -289,7 +289,7 @@
 :italic false
 :text "Coda"}}
 :block/updated-at 1706500749585} 
-{:block/created-at 1706545353732
+{:block/created-at 1706545403699
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -311,14 +311,14 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-392 -264]
+:point [-392 -312]
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706500949496
+:nonce 1706500949514
 :italic false
 :text "Cô có các trò chơi như dịch từ, dịch passage từ kí âm\n\nHóa ra thứ cô dạy trên lớp là tổng hợp của nhiều giáo trình chứ không chỉ từ một cuốn sách\n=> Nếu ai không đọc trước để mà nhớ hoặc đã có sự tổng hợp lại để access về sau khi nghe cô giảng mà nhìn lại bài học (nhớ dễ hơn, nhanh hơn), thì cũng khó học lắm\n\nNhưng mà dạy về âm, ngoài giải thích logic + bảo cảm nhận xúc giác + nhìn trên bảng\n=> để nhớ thì không phải học thuộc mà nên có thêm cả phần nhìn từng âm được phát âm như nào qua hình ảnh giải phẫu (để correct lại những đứa còn sai hoặc chưa hiểu)\n\nCô không dạy về cách khái niệm từ nguyên về vị trí của bộ phận cấu âm được hình thành lên -> cách nhớ nó"}}
-:block/updated-at 1706545353732} 
+:block/updated-at 1706545403699} 
 {:block/created-at 1706501010604
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -483,7 +483,7 @@
 :assets []
 :shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230" "2ed37820-be61-11ee-8755-2beed5fa2230" "45b41900-be61-11ee-8755-2beed5fa2230")}}
 :block/journal? false
-:block/updated-at 1706545353731
+:block/updated-at 1706545403699
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "english linguistic"
