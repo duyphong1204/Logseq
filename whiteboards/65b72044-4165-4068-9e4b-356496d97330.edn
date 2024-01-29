@@ -1,0 +1,250 @@
+{:blocks (
+{:block/created-at 1706500187552
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [174 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "69f78520-be59-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [480 64]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706500173583
+:italic false
+:text "English Linguistic"}}
+:block/updated-at 1706500187552} 
+{:block/created-at 1706500205005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [141 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7865d350-be59-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [312 152]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706500197662
+:italic false
+:text "Voiced Sound"}}
+:block/updated-at 1706500205005} 
+{:block/created-at 1706500213803
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [166 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7df8d3d0-be59-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [352 256]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706500207021
+:italic false
+:text "Voiceless Sound"}}
+:block/updated-at 1706500213803} 
+{:block/created-at 1706500220957
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [130 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "837f2a20-be59-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [712 192]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706500216280
+:italic false
+:text "Nasal Sound"}}
+:block/updated-at 1706500220957} 
+{:block/created-at 1706500226720
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [116 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "87693590-be59-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [712 224]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706500222847
+:italic false
+:text "Oral Sound"}}
+:block/updated-at 1706500226720} 
+{:block/created-at 1706500243949
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [113 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8ffea0a0-be59-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [632 328]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706500237260
+:italic false
+:text "Consonant"}}
+:block/updated-at 1706500243949} 
+{:block/created-at 1706500250480
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [67 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "94e97a40-be59-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [632 352]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706500245492
+:italic false
+:text "Vowel"}}
+:block/updated-at 1706500250480} 
+{:block/created-at 1706500255745
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [67 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "98c1f980-be59-11ee-8755-2beed5fa2230"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [800 320]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706500251951
+:italic false
+:text "Onset"}}
+:block/updated-at 1706500255745})
+:pages (
+{:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "65b72044-4165-4068-9e4b-356496d97330"
+:name "65b72044-4165-4068-9e4b-356496d97330"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230")}}
+:block/updated-at 1706500258745
+:block/created-at 1706500164836
+:block/type "whiteboard"
+:block/name "65b72044-4165-4068-9e4b-356496d97330"
+:block/original-name "65b72044-4165-4068-9e4b-356496d97330"})}
