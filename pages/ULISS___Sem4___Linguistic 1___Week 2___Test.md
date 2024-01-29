@@ -43,6 +43,12 @@
 	- Which word contains the sound described as "voiceless velar stop" in the sentence "I scream, you scream, we all scream for ice cream"? #card
 	  collapsed:: true
 		- scream, cream
+	- Which word contains the sound described as "voiceless alveolo-palatal affricate" in the sentence "I saw a kitten eating chicken in the kitchen"? #card
+	  collapsed:: true
+		- chicken, kitchen
+	- How can you describle the initial sound of the word "shepherd"? #card
+	  collapsed:: true
+		- voiceless alveolo-palatal fricative
 	- Choose the description for the initial consonant of the word "psychometric". #card 
 	  card-last-interval:: 4
 	  card-repeats:: 1
@@ -68,25 +74,11 @@
 	- Write TWO words which contain the sound described as "voiced alveolar retroflex". #card
 	  collapsed:: true
 		- red, right
-- Correct answers:
-- voiceless labio-dental fricative
-- **Incorrect**
-- 0/1 Points
-- 8.Which word contains the sound described as "voiceless alveolo-palatal affricate" in the sentence "I saw a kitten eating chicken in the kitchen"?
-- Correct answers:
-- chicken, kitchen
-- **Incorrect**
-- 0/1 Points
-- 9.How can you describle the initial sound of the word "shepherd"?
-- Correct answers:
-- voiceless alveolo-palatal fricative
-- **Correct**
-- 1/1 Points
 - 10.Which sound is described as the following: voiced palatal glide?
 - /w/
 - /l/
 - /r/
-- /j/
+- D. /j/
 - **Incorrect**
 - 0/1 Points
 - 11.Point out the voiceless sound of the word "Dental" #card
