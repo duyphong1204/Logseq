@@ -9,6 +9,13 @@
 	  C. yet 
 	  D. refer
 		- linen
+	- Choose the description for the initial consonant of the word "generosity". #card 
+	  collapsed:: true
+	  A. voiced alveolo-palatal fricative
+	  B. voiced palatal glide
+	  C. voiced velar stop
+	  D. voiced alveolo-palatal affricate
+		- voiced alveolo-palatal affricate
 	- Which word contains the sound described as "voiceless velar stop" in the sentence "I scream, you scream, we all scream for ice cream"? #card
 	  collapsed:: true
 		- scream, cream
@@ -37,17 +44,12 @@
 	- Write TWO words which contain the sound described as "voiced alveolar retroflex". #card
 	  collapsed:: true
 		- red, right
-- 3.Choose the description for the initial consonant of the word "generosity".
-  A. voiced alveolo-palatal fricative
-  B. voiced palatal glide
-  C. voiced velar stop
-  D. voiced alveolo-palatal affricate
-	- voiced alveolo-palatal affricate
-- 4.Which word below contain the sound described as "voiced dental fricative"?
-- ethnic
-- athlete
+- 4.Which word below contain the sound described as "voiced dental fricative"? #card 
+  A. ethnic
+  B. athlete
   C. either
   D. anthem
+	- either
 - 5.Choose the word which does NOT contain the sound described as "voiceless bilabial stop".
 - pepper
 - pinpoint
