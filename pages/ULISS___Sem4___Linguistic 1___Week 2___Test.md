@@ -69,9 +69,11 @@
 - **Incorrect**
 - 0/1 Points
 - 14.Choose the description for the initial consonant of the word "psychometric".
-- voiceless alveolar fricative
-- voicless alveolar stop
-- voiceless bilabial stop
+  A. voiceless alveolar fricative
+  B. voicless alveolar stop
+- C. voiceless bilabial stop
 - voiceless velar stop
-- 15.How can you describe the medial consonant of the word "manner"?
+- 15.How can you describe the medial consonant of the word "manner"? #card
+  collapsed:: true
 	- voiced alveolar nasal
+-
