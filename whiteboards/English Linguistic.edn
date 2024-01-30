@@ -1094,7 +1094,7 @@
 :italic false
 :text "vocal cords"}}
 :block/updated-at 1706634163777} 
-{:block/created-at 1706634821366
+{:block/created-at 1706634886345
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1106,7 +1106,7 @@
 :scaleLevel "md"
 :fill ""
 :type "text"
-:size [325 34]
+:size [574 58]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -1115,14 +1115,14 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-1402.756617693568 -814.9505055309365]
+:point [-1310.8745376469692 -1298.7377510412223]
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706634798172
+:nonce 1706634798562
 :italic false
-:text "có một cách nhớ để phát âm là ŋ"}}
-:block/updated-at 1706634821366})
+:text "có một cách nhớ để phát âm là ŋ ở trong từ đại diện là si-ng\ndo đó cũng dễ nhớ hơn là nhớ ŋ trực tiếp là ng?"}}
+:block/updated-at 1706634886345})
 :pages (
 {:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"
 :block/properties 
@@ -1243,7 +1243,7 @@
 :size [819 292]}]
 :shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230" "2ed37820-be61-11ee-8755-2beed5fa2230" "45b41900-be61-11ee-8755-2beed5fa2230" "52182ee0-bf8b-11ee-a6ef-431a67f8e15f" "e4563b80-bf8b-11ee-a6ef-431a67f8e15f" "e8b15840-bf8b-11ee-a6ef-431a67f8e15f" "62649670-bf8c-11ee-a6ef-431a67f8e15f" "1071c710-bf8d-11ee-a6ef-431a67f8e15f" "11f97881-bf8d-11ee-a6ef-431a67f8e15f" "1447ae42-bf8d-11ee-a6ef-431a67f8e15f" "287934b2-bf8d-11ee-a6ef-431a67f8e15f" "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f" "477d44f2-bf8d-11ee-a6ef-431a67f8e15f" "6f6f8ea0-bf8d-11ee-a6ef-431a67f8e15f" "a7f5c5a0-bf8d-11ee-a6ef-431a67f8e15f" "ce3ad480-bf8d-11ee-a6ef-431a67f8e15f" "837e5560-bf8e-11ee-a6ef-431a67f8e15f" "07ad23c0-bf8f-11ee-a6ef-431a67f8e15f" "3bf22ea0-bf8f-11ee-a6ef-431a67f8e15f" "693da420-bf8f-11ee-a6ef-431a67f8e15f" "f6e33ce0-bf8f-11ee-a6ef-431a67f8e15f" "93467c50-bf90-11ee-a6ef-431a67f8e15f" "3656ded0-bf91-11ee-a6ef-431a67f8e15f" "51e1cde0-bf91-11ee-a6ef-431a67f8e15f" "5958a990-bf91-11ee-a6ef-431a67f8e15f" "dc872980-bf92-11ee-a6ef-431a67f8e15f")}}
 :block/journal? false
-:block/updated-at 1706634821366
+:block/updated-at 1706634886345
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "english linguistic"
