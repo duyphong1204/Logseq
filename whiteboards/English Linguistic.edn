@@ -483,7 +483,7 @@
 :assets []
 :shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230" "2ed37820-be61-11ee-8755-2beed5fa2230" "45b41900-be61-11ee-8755-2beed5fa2230")}}
 :block/journal? false
-:block/updated-at 1706546494388
+:block/updated-at 1706631068941
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "english linguistic"
