@@ -800,7 +800,26 @@
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
 :nonce 1706632400686
 :italic false}}
-:block/updated-at 1706632404800})
+:block/updated-at 1706632404800} 
+{:block/created-at 1706632473193
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 26
+:scale [1 1]
+:type "image"
+:assetId "6f6e0800-bf8d-11ee-a6ef-431a67f8e15f"
+:size [400 517.5]
+:opacity 1
+:id "6f6f8ea0-bf8d-11ee-a6ef-431a67f8e15f"
+:isAspectRatioLocked true
+:isLocked false
+:objectFit "fill"
+:point [-126.51634821689879 667.3837162455532]
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706632467703
+:clipping 0}}
+:block/updated-at 1706632473193})
 :pages (
 {:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"
 :block/properties 
@@ -898,10 +917,14 @@
 :point [0.38 0.45]
 :distance 4}}
 :nonce 1
-:assets []
-:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230" "2ed37820-be61-11ee-8755-2beed5fa2230" "45b41900-be61-11ee-8755-2beed5fa2230" "52182ee0-bf8b-11ee-a6ef-431a67f8e15f" "e4563b80-bf8b-11ee-a6ef-431a67f8e15f" "e8b15840-bf8b-11ee-a6ef-431a67f8e15f" "62649670-bf8c-11ee-a6ef-431a67f8e15f" "1071c710-bf8d-11ee-a6ef-431a67f8e15f" "11f97881-bf8d-11ee-a6ef-431a67f8e15f" "1447ae42-bf8d-11ee-a6ef-431a67f8e15f" "287934b2-bf8d-11ee-a6ef-431a67f8e15f" "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f" "477d44f2-bf8d-11ee-a6ef-431a67f8e15f")}}
+:assets [
+{:id "6f6e0800-bf8d-11ee-a6ef-431a67f8e15f"
+:type "image"
+:src "../assets/image_1706632467517_0.png"
+:size [800 1035]}]
+:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230" "2ed37820-be61-11ee-8755-2beed5fa2230" "45b41900-be61-11ee-8755-2beed5fa2230" "52182ee0-bf8b-11ee-a6ef-431a67f8e15f" "e4563b80-bf8b-11ee-a6ef-431a67f8e15f" "e8b15840-bf8b-11ee-a6ef-431a67f8e15f" "62649670-bf8c-11ee-a6ef-431a67f8e15f" "1071c710-bf8d-11ee-a6ef-431a67f8e15f" "11f97881-bf8d-11ee-a6ef-431a67f8e15f" "1447ae42-bf8d-11ee-a6ef-431a67f8e15f" "287934b2-bf8d-11ee-a6ef-431a67f8e15f" "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f" "477d44f2-bf8d-11ee-a6ef-431a67f8e15f" "6f6f8ea0-bf8d-11ee-a6ef-431a67f8e15f")}}
 :block/journal? false
-:block/updated-at 1706632407735
+:block/updated-at 1706632473193
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "english linguistic"
