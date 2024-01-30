@@ -499,7 +499,7 @@
 :italic false
 :text "Pronoun"}}
 :block/updated-at 1706631761634} 
-{:block/created-at 1706631810328
+{:block/created-at 1706632044473
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -520,14 +520,14 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-264 608]
+:point [-264 616]
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706631804829
+:nonce 1706631804991
 :italic false
 :text "Word"}}
-:block/updated-at 1706631810328} 
+:block/updated-at 1706632044473} 
 {:block/created-at 1706631823767
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -556,7 +556,36 @@
 :nonce 1706631812060
 :italic false
 :text "Sound (IPA)"}}
-:block/updated-at 1706631823767})
+:block/updated-at 1706631823767} 
+{:block/created-at 1706632026281
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 19
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [110 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "62649670-bf8c-11ee-a6ef-431a67f8e15f"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [128 608]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706632016261
+:italic false
+:text "Articulator"}}
+:block/updated-at 1706632026281})
 :pages (
 {:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"
 :block/properties 
@@ -568,9 +597,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230" "2ed37820-be61-11ee-8755-2beed5fa2230" "45b41900-be61-11ee-8755-2beed5fa2230" "52182ee0-bf8b-11ee-a6ef-431a67f8e15f" "e4563b80-bf8b-11ee-a6ef-431a67f8e15f" "e8b15840-bf8b-11ee-a6ef-431a67f8e15f")}}
+:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230" "2ed37820-be61-11ee-8755-2beed5fa2230" "45b41900-be61-11ee-8755-2beed5fa2230" "52182ee0-bf8b-11ee-a6ef-431a67f8e15f" "e4563b80-bf8b-11ee-a6ef-431a67f8e15f" "e8b15840-bf8b-11ee-a6ef-431a67f8e15f" "62649670-bf8c-11ee-a6ef-431a67f8e15f")}}
 :block/journal? false
-:block/updated-at 1706631823767
+:block/updated-at 1706632044473
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "english linguistic"
