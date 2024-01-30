@@ -586,7 +586,7 @@
 :italic false
 :text "Articulator"}}
 :block/updated-at 1706632164406} 
-{:block/created-at 1706632311844
+{:block/created-at 1706632407674
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -603,25 +603,26 @@
 :id "1071c710-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-200.76 424.37]
+:point [-196.96 430]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 190.63]
+:point [0 184.34]
 :bindingId "1071a000-bf8d-11ee-a6ef-431a67f8e15f"}
 :end 
 {:id "end"
 :canBind true
-:point [319.8 0]
-:bindingId "1071a001-bf8d-11ee-a6ef-431a67f8e15f"}}
+:point [335.88 0]
+:bindingId "4b140041-bf8d-11ee-a6ef-431a67f8e15f"}}
 :decorations 
-{:end "arrow"}
+{:start "arrow"
+:end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632308287
+:nonce 1706632308329
 :italic false}}
-:block/updated-at 1706632311844} 
+:block/updated-at 1706632407674} 
 {:block/created-at 1706632316228
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -693,7 +694,7 @@
 :nonce 1706632314805
 :italic false}}
 :block/updated-at 1706632320489} 
-{:block/created-at 1706632350967
+{:block/created-at 1706632377418
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -705,7 +706,7 @@
 :type "line"
 :strokeType "line"
 :strokeWidth 1
-:opacity 1
+:opacity 0.3
 :label ""
 :id "287934b2-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
@@ -725,10 +726,11 @@
 :decorations 
 {:end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632348708
+:nonce 1706632348709
 :italic false}}
-:block/updated-at 1706632350967} 
-{:block/properties 
+:block/updated-at 1706632377418} 
+{:block/created-at 1706632377417
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -762,7 +764,43 @@
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
 :nonce 1706632353169
 :italic false}}
-:block/updated-at 1706632357185})
+:block/updated-at 1706632377417} 
+{:block/created-at 1706632404800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 25
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "477d44f2-bf8d-11ee-a6ef-431a67f8e15f"
+:fontWeight 400
+:noFill true
+:point [-176.08 430]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [333.34 185]
+:bindingId "477d44f0-bf8d-11ee-a6ef-431a67f8e15f"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "4965b401-bf8d-11ee-a6ef-431a67f8e15f"}}
+:decorations 
+{:end "arrow"}
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:nonce 1706632400686
+:italic false}}
+:block/updated-at 1706632404800})
 :pages (
 {:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"
 :block/properties 
@@ -771,11 +809,75 @@
 {:id "65b72044-4165-4068-9e4b-356496d97330"
 :name "english linguistic"
 :bindings 
-{:1071a000-bf8d-11ee-a6ef-431a67f8e15f 
+{:4b140041-bf8d-11ee-a6ef-431a67f8e15f 
+{:id "4b140041-bf8d-11ee-a6ef-431a67f8e15f"
+:type "line"
+:fromId "1071c710-bf8d-11ee-a6ef-431a67f8e15f"
+:toId "e8b15840-bf8b-11ee-a6ef-431a67f8e15f"
+:handleId "end"
+:point [0.51 0.4]
+:distance 4}
+:4965b401-bf8d-11ee-a6ef-431a67f8e15f 
+{:id "4965b401-bf8d-11ee-a6ef-431a67f8e15f"
+:type "line"
+:fromId "477d44f2-bf8d-11ee-a6ef-431a67f8e15f"
+:toId "52182ee0-bf8b-11ee-a6ef-431a67f8e15f"
+:handleId "end"
+:point [0.39 0.48]
+:distance 4}
+:1071a000-bf8d-11ee-a6ef-431a67f8e15f 
 {:id "1071a000-bf8d-11ee-a6ef-431a67f8e15f"
 :type "line"
 :fromId "1071c710-bf8d-11ee-a6ef-431a67f8e15f"
 :toId "e4563b80-bf8b-11ee-a6ef-431a67f8e15f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:477d44f1-bf8d-11ee-a6ef-431a67f8e15f 
+{:id "477d44f1-bf8d-11ee-a6ef-431a67f8e15f"
+:type "line"
+:fromId "477d44f2-bf8d-11ee-a6ef-431a67f8e15f"
+:toId "52182ee0-bf8b-11ee-a6ef-431a67f8e15f"
+:handleId "end"
+:point [0.59 0.39]
+:distance 4}
+:2b1deee0-bf8d-11ee-a6ef-431a67f8e15f 
+{:id "2b1deee0-bf8d-11ee-a6ef-431a67f8e15f"
+:type "line"
+:fromId "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f"
+:toId "e8b15840-bf8b-11ee-a6ef-431a67f8e15f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:287934b1-bf8d-11ee-a6ef-431a67f8e15f 
+{:id "287934b1-bf8d-11ee-a6ef-431a67f8e15f"
+:type "line"
+:fromId "287934b2-bf8d-11ee-a6ef-431a67f8e15f"
+:toId "62649670-bf8c-11ee-a6ef-431a67f8e15f"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:2b1deee1-bf8d-11ee-a6ef-431a67f8e15f 
+{:id "2b1deee1-bf8d-11ee-a6ef-431a67f8e15f"
+:type "line"
+:fromId "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f"
+:toId "62649670-bf8c-11ee-a6ef-431a67f8e15f"
+:handleId "end"
+:point [0.45 0.57]
+:distance 4}
+:477d44f0-bf8d-11ee-a6ef-431a67f8e15f 
+{:id "477d44f0-bf8d-11ee-a6ef-431a67f8e15f"
+:type "line"
+:fromId "477d44f2-bf8d-11ee-a6ef-431a67f8e15f"
+:toId "62649670-bf8c-11ee-a6ef-431a67f8e15f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:1447ae40-bf8d-11ee-a6ef-431a67f8e15f 
+{:id "1447ae40-bf8d-11ee-a6ef-431a67f8e15f"
+:type "line"
+:fromId "1447ae42-bf8d-11ee-a6ef-431a67f8e15f"
+:toId "52182ee0-bf8b-11ee-a6ef-431a67f8e15f"
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
@@ -787,14 +889,6 @@
 :handleId "end"
 :point [0.32 0.28]
 :distance 4}
-:1447ae40-bf8d-11ee-a6ef-431a67f8e15f 
-{:id "1447ae40-bf8d-11ee-a6ef-431a67f8e15f"
-:type "line"
-:fromId "1447ae42-bf8d-11ee-a6ef-431a67f8e15f"
-:toId "52182ee0-bf8b-11ee-a6ef-431a67f8e15f"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
 :16631431-bf8d-11ee-a6ef-431a67f8e15f 
 {:id "16631431-bf8d-11ee-a6ef-431a67f8e15f"
 :type "line"
@@ -802,36 +896,12 @@
 :toId "52182ee0-bf8b-11ee-a6ef-431a67f8e15f"
 :handleId "start"
 :point [0.38 0.45]
-:distance 4}
-:287934b1-bf8d-11ee-a6ef-431a67f8e15f 
-{:id "287934b1-bf8d-11ee-a6ef-431a67f8e15f"
-:type "line"
-:fromId "287934b2-bf8d-11ee-a6ef-431a67f8e15f"
-:toId "62649670-bf8c-11ee-a6ef-431a67f8e15f"
-:handleId "end"
-:point [0.5 0.5]
-:distance 4}
-:2b1deee0-bf8d-11ee-a6ef-431a67f8e15f 
-{:id "2b1deee0-bf8d-11ee-a6ef-431a67f8e15f"
-:type "line"
-:fromId "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f"
-:toId "e8b15840-bf8b-11ee-a6ef-431a67f8e15f"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
-:2b1deee1-bf8d-11ee-a6ef-431a67f8e15f 
-{:id "2b1deee1-bf8d-11ee-a6ef-431a67f8e15f"
-:type "line"
-:fromId "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f"
-:toId "62649670-bf8c-11ee-a6ef-431a67f8e15f"
-:handleId "end"
-:point [0.45 0.57]
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230" "2ed37820-be61-11ee-8755-2beed5fa2230" "45b41900-be61-11ee-8755-2beed5fa2230" "52182ee0-bf8b-11ee-a6ef-431a67f8e15f" "e4563b80-bf8b-11ee-a6ef-431a67f8e15f" "e8b15840-bf8b-11ee-a6ef-431a67f8e15f" "62649670-bf8c-11ee-a6ef-431a67f8e15f" "1071c710-bf8d-11ee-a6ef-431a67f8e15f" "11f97881-bf8d-11ee-a6ef-431a67f8e15f" "1447ae42-bf8d-11ee-a6ef-431a67f8e15f" "287934b2-bf8d-11ee-a6ef-431a67f8e15f" "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f")}}
+:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230" "2ed37820-be61-11ee-8755-2beed5fa2230" "45b41900-be61-11ee-8755-2beed5fa2230" "52182ee0-bf8b-11ee-a6ef-431a67f8e15f" "e4563b80-bf8b-11ee-a6ef-431a67f8e15f" "e8b15840-bf8b-11ee-a6ef-431a67f8e15f" "62649670-bf8c-11ee-a6ef-431a67f8e15f" "1071c710-bf8d-11ee-a6ef-431a67f8e15f" "11f97881-bf8d-11ee-a6ef-431a67f8e15f" "1447ae42-bf8d-11ee-a6ef-431a67f8e15f" "287934b2-bf8d-11ee-a6ef-431a67f8e15f" "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f" "477d44f2-bf8d-11ee-a6ef-431a67f8e15f")}}
 :block/journal? false
-:block/updated-at 1706632357184
+:block/updated-at 1706632407735
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "english linguistic"
