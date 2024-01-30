@@ -470,7 +470,7 @@
 :italic false
 :text "Nhớ trình tự cấu âm: từ ngoài -> trong"}}
 :block/updated-at 1706503562019} 
-{:block/created-at 1706635870258
+{:block/created-at 1706635935010
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -491,15 +491,15 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-1556.05380985142 -1054.4784712390647]
+:point [-1151.3910534637835 -1062.870060098745]
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706631559749
+:nonce 1706631559797
 :italic false
 :text "Articulation"}}
-:block/updated-at 1706635870258} 
-{:block/created-at 1706635879096
+:block/updated-at 1706635935010} 
+{:block/created-at 1706635935011
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -520,15 +520,15 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-1295.9135265739544 -943.2991630461147]
+:point [-891.2507701863178 -951.6907519057951]
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706631805221
+:nonce 1706631805269
 :italic false
 :text "Word"}}
-:block/updated-at 1706635879096} 
-{:block/created-at 1706635872539
+:block/updated-at 1706635935011} 
+{:block/created-at 1706635935011
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -549,15 +549,15 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-1321.2383027479634 -1143.989157625833]
+:point [-916.5755463603268 -1152.3807464855136]
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706631812402
+:nonce 1706631812450
 :italic false
 :text "Sound (IPA)"}}
-:block/updated-at 1706635872539} 
-{:block/created-at 1706635867736
+:block/updated-at 1706635935011} 
+{:block/created-at 1706635935011
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -578,15 +578,15 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-1922.3865151442524 -1066.3763217610785]
+:point [-1517.7237587566158 -1074.7679106207588]
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632016921
+:nonce 1706632016969
 :italic false
 :text "Articulator"}}
-:block/updated-at 1706635867736} 
-{:block/created-at 1706635879096
+:block/updated-at 1706635935011} 
+{:block/created-at 1706635935010
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -603,7 +603,7 @@
 :id "1071c710-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1265.25 -1105.99]
+:point [-860.5872436123634 -1114.3815888596805]
 :fontSize 20
 :handles 
 {:start 
@@ -620,10 +620,10 @@
 {:start "arrow"
 :end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632308592
+:nonce 1706632308640
 :italic false}}
-:block/updated-at 1706635879096} 
-{:block/created-at 1706635875327
+:block/updated-at 1706635935010} 
+{:block/created-at 1706635935011
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -640,7 +640,7 @@
 :id "11f97881-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1449.13 -1105.99]
+:point [-1044.4672436123635 -1114.3815888596805]
 :fontSize 20
 :handles 
 {:start 
@@ -656,10 +656,10 @@
 :decorations 
 {:end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632311192
+:nonce 1706632311240
 :italic false}}
-:block/updated-at 1706635875327} 
-{:block/created-at 1706635905046
+:block/updated-at 1706635935011} 
+{:block/created-at 1706635935011
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -676,7 +676,7 @@
 :id "1447ae42-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1466.4 -1019.48]
+:point [-1061.7372436123635 -1027.8715888596803]
 :fontSize 20
 :handles 
 {:start 
@@ -692,10 +692,10 @@
 :decorations 
 {:end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632315156
+:nonce 1706632315204
 :italic false}}
-:block/updated-at 1706635905046} 
-{:block/created-at 1706635879096
+:block/updated-at 1706635935011} 
+{:block/created-at 1706635935011
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -712,7 +712,7 @@
 :id "287934b2-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1808.39 -1036.39]
+:point [-1403.7272436123635 -1044.7815888596806]
 :fontSize 20
 :handles 
 {:start 
@@ -729,10 +729,10 @@
 {:start "arrow"
 :end nil}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632349073
+:nonce 1706632349121
 :italic false}}
-:block/updated-at 1706635879096} 
-{:block/created-at 1706635895275
+:block/updated-at 1706635935011} 
+{:block/created-at 1706635935011
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -749,7 +749,7 @@
 :id "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1808.39 -1118.51]
+:point [-1403.7272436123635 -1126.9015888596805]
 :fontSize 20
 :handles 
 {:start 
@@ -766,10 +766,10 @@
 {:start "arrow"
 :end nil}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632353554
+:nonce 1706632353602
 :italic false}}
-:block/updated-at 1706635895275} 
-{:block/created-at 1706635870258
+:block/updated-at 1706635935011} 
+{:block/created-at 1706635935011
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -786,7 +786,7 @@
 :id "477d44f2-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1811.39 -1047.64]
+:point [-1406.7272436123635 -1056.0315888596806]
 :fontSize 20
 :handles 
 {:start 
@@ -802,9 +802,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632401061
+:nonce 1706632401109
 :italic false}}
-:block/updated-at 1706635870258} 
+:block/updated-at 1706635935011} 
 {:block/created-at 1706633167703
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -962,11 +962,12 @@
 :italic false
 :text "for ppl who dont know"}}
 :block/updated-at 1706633405438} 
-{:block/created-at 1706633555391
+{:block/created-at 1706635963148
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:index 33
+{:rotation 4.707203052050504
+:index 33
 :scale [1 1]
 :type "image"
 :assetId "f6dde5b0-bf8f-11ee-a6ef-431a67f8e15f"
@@ -978,9 +979,9 @@
 :objectFit "fill"
 :point [-719.6044002393726 -751.729673817394]
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706633553884
+:nonce 1706633553924
 :clipping 0}}
-:block/updated-at 1706633555391} 
+:block/updated-at 1706635963148} 
 {:block/created-at 1706634147011
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1301,7 +1302,7 @@
 :size [819 292]}]
 :shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230" "2ed37820-be61-11ee-8755-2beed5fa2230" "45b41900-be61-11ee-8755-2beed5fa2230" "52182ee0-bf8b-11ee-a6ef-431a67f8e15f" "e4563b80-bf8b-11ee-a6ef-431a67f8e15f" "e8b15840-bf8b-11ee-a6ef-431a67f8e15f" "62649670-bf8c-11ee-a6ef-431a67f8e15f" "1071c710-bf8d-11ee-a6ef-431a67f8e15f" "11f97881-bf8d-11ee-a6ef-431a67f8e15f" "1447ae42-bf8d-11ee-a6ef-431a67f8e15f" "287934b2-bf8d-11ee-a6ef-431a67f8e15f" "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f" "477d44f2-bf8d-11ee-a6ef-431a67f8e15f" "6f6f8ea0-bf8d-11ee-a6ef-431a67f8e15f" "a7f5c5a0-bf8d-11ee-a6ef-431a67f8e15f" "ce3ad480-bf8d-11ee-a6ef-431a67f8e15f" "837e5560-bf8e-11ee-a6ef-431a67f8e15f" "07ad23c0-bf8f-11ee-a6ef-431a67f8e15f" "3bf22ea0-bf8f-11ee-a6ef-431a67f8e15f" "693da420-bf8f-11ee-a6ef-431a67f8e15f" "f6e33ce0-bf8f-11ee-a6ef-431a67f8e15f" "93467c50-bf90-11ee-a6ef-431a67f8e15f" "3656ded0-bf91-11ee-a6ef-431a67f8e15f" "51e1cde0-bf91-11ee-a6ef-431a67f8e15f" "5958a990-bf91-11ee-a6ef-431a67f8e15f" "dc872980-bf92-11ee-a6ef-431a67f8e15f" "db08f880-bf93-11ee-a6ef-431a67f8e15f")}}
 :block/journal? false
-:block/updated-at 1706635905059
+:block/updated-at 1706635963148
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "english linguistic"
