@@ -1,4 +1,4 @@
-- [[English Linguistic]]
+- [[English Linguistic Map]]
   collapsed:: true
 	- Write a word which contain the sound described as "voiceless glottal fricative". #card
 	  card-last-interval:: 4
