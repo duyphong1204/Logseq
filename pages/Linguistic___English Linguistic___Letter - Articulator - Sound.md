@@ -1,6 +1,6 @@
 - t - voiceless glottal stop - /ʔ/ (usually the replacement of /t/)
   id:: 65bac992-3292-48ad-badc-3f21a6b3e337
-	- e.g. late, what, don't, can't
+	- e.g. late, what, don't, can't, difficult
 - b - voiced bilabial stop /b/
   id:: 65bac9d8-7c1f-4f38-8795-7c06f5dac338
 	- e.g. but
