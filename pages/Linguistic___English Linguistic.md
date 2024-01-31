@@ -1,3 +1,4 @@
 - [[Linguistic/English Linguistic/Letter - Articulator - Sound]]
 - [[Linguistic/English Linguistic/Articulators]]
-- Linguistic/English Linguistic/Sounds
+- [[Linguistic/English Linguistic/Sounds]]
+-
