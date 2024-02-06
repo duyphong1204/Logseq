@@ -2,6 +2,7 @@
 	- ## 3. Consonant sounds
 		- Speech is a phonetic continuum, a continuous, smoothly flowing set of movements
 			- not a set of discrete and isolated movements.
+			- Speech
 		- It is convenient, however, to segment the speech chain into syllables, and to divide these in turn into consonants and vowels.
 		- A syllable consists necessarily of a vowel; optionally, it may begin and/or end with a consonant.
 		- A vowel is the nucleus or acoustic high point of a syllable; it is articulated for a longer time than 
