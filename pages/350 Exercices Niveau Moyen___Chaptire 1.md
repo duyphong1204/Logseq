@@ -1,5 +1,6 @@
 # Chapitre 1
 	- ### 1. Compléter les phrases suivantes par
+	  collapsed:: true
 		- **A. L'article indéfini**
 			- Ils ont deux enfants: *un* garçon et une fille
 			  logseq.order-list-type:: number
@@ -46,6 +47,7 @@
 			- J'ai préparé *des* épinards à la crème pour ce soir
 			  logseq.order-list-type:: number
 	- ### 2. Compléter par l'article défini (contracté ou non)
+	  collapsed:: true
 		- **A.**
 			- Le livre *du* professeur
 			  logseq.order-list-type:: number
@@ -77,6 +79,7 @@
 			- Soyez à *l'*heure
 			  logseq.order-list-type:: number
 	- ### 3. Mettre les noms en caractères gras au singulier et faire les accords nécessaires
+	  collapsed:: true
 		- M. et Mme Leroy ont parlé *à le professeur* de leur fils
 		  logseq.order-list-type:: number
 		- Le chef du Personnel a demandé l'avis *de la syndicat*
@@ -92,6 +95,7 @@
 		- Elle n'a pas besoin *d'autre dictionnaire*
 		  logseq.order-list-type:: number
 	- ### 4. Compléter les phrases suivantes par l'article qui convient
+	  collapsed:: true
 		- "Pour la table 6, *un* thé au lait et *un* chocolat chaud!" a crié le serveur
 		  logseq.order-list-type:: number
 		- J'ai acheté *du* thé de Chine
@@ -105,6 +109,7 @@
 		- Veux-tu encore du chou-fleur
 		  logseq.order-list-type:: number
 	- ### 5. Compléter les phrases suivantes par l'article qui convient
+	  collapsed:: true
 		- Il y a une station de métro tout près d'ici; c'est la station Concorde
 		  logseq.order-list-type:: number
 		- Le café m'empêche de dormir
@@ -127,12 +132,14 @@
 		- En général, des villes de province offrent moins d'activités culturelles que Paris; cependant, il y a des villes très vivantes qui organisent des concerts, des expositions, des représentations théâtrales et des festivals en été
 		  logseq.order-list-type:: number
 	- ### 6. Compléter les phrases suivantes par l'article qui convient
+	  collapsed:: true
 		- A.
 			- - *Le* soleil éclaire la Terre
 			- - Hier, il y a eu *du* soleil presque toute la journée
 			- - Ce jour-là, il faisait *du* soleil magnifique
 		- B. Imiter les phrases de l'exercice 6. A en employant les noms suivants
 	- ### 7. Indiquer la nature des mots en caractères gras (article indéfini, défini contracté, partitif ou préposition + article défini)
+	  collapsed:: true
 		- Example
 			- Il s'est servi du magnétoscope
 				- du = article contracté
@@ -166,9 +173,11 @@
 		  logseq.order-list-type:: number
 			- du = article partitif
 	- ### 8. Compléter le texte suivant par les articles qui conviennent
+	  collapsed:: true
 		- Alexis et Genevière ont un très jolie salon. Sur le sol, ils ont fait poser de la moquette et, sur les murs, du papier peint. Dans un angle de la pièce, ils ont installé un canapé et, en face, des fauteuils. Entre le canapé, et les fauteuilles, sur la/une table basse, ils ont disposé les/des bibelots qu'ils ont rapportés de leurs voyages.
 	- ### 9. Mettre les phrases suivantes à la forme négative
 	- ### 14. Relier les éléments de la colonne de gauche aux éléments de la colonne de droite en inscrivant les lettres correspondants dans les cases
+	  collapsed:: true
 		- A. Un paquet de cigarettes
 		- B. Un bol de café au lait
 		- C. Un bouquet de tulipes
@@ -181,6 +190,7 @@
 		- J. Un morceau de pain
 		- K. Un tube de dentifrice
 	- ### 15. Relier les éléments de la colonne de gauche aux éléments de la colonne de droite en inscrivant les lettres correspondants dans les cases
+	  collapsed:: true
 		- Un verre de/**en** cristal
 		  logseq.order-list-type:: number
 		- B. Une robe de/**en** soie
