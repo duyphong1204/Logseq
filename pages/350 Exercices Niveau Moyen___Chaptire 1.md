@@ -198,7 +198,8 @@
 		- D. Un chapeau de/**en** paille
 		- Une veste de/**en** cuir
 		- Des couverts de/**en** métal argenté
-	-
+	- ### 16
+		-
 	- ### 19
 		-
 	- ### 20
