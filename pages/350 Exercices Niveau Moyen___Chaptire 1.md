@@ -198,7 +198,9 @@
 		- D. Un chapeau de/**en** paille
 		- Une veste de/**en** cuir
 		- Des couverts de/**en** métal argenté
+	-
 	- ### 19
+		-
 	- ### 20
 -
 - {{cloze mình chỉ ### cho các tiêu đề nhỏ hơn vì một số cái nhiều chữ quá, cũng chẳng biết viết lại tên như nào, để to thì bị chướng mắt}}
