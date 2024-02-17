@@ -204,7 +204,7 @@
 			- Les clefs de la voiture de Jean-Bap-tiste sont dans le tiroir.
 			-
 	- ### 19
-		-
+		- tiroir
 	- ### 20
 -
 - {{cloze mình chỉ ### cho các tiêu đề nhỏ hơn vì một số cái nhiều chữ quá, cũng chẳng biết viết lại tên như nào, để to thì bị chướng mắt}}
