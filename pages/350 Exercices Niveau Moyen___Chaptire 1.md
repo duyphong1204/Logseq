@@ -201,7 +201,7 @@
 	- ### 16
 		- #### Compléter les phrases suivantes par un article défini si néces aire
 			- Il y a des clefs de *la* voiture sur la table! A qui sont-elles?
-			- Les clefs de la voiture de Jean-Bap
+			- Les clefs de la voiture de Jean-Bap-tiste sont dans le tiroir
 	- ### 19
 		-
 	- ### 20
