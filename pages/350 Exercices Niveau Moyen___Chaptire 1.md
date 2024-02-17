@@ -200,7 +200,7 @@
 		- Des couverts de/**en** métal argenté
 	- ### 16
 		- #### Compléter les phrases suivantes par un article défini si néces aire
-			- Il y a des clefs de la voiture sur la table! A qui sont-elles?
+			- Il y a des clefs de *la* voiture sur la table! A qui sont-elles?
 	- ### 19
 		-
 	- ### 20
