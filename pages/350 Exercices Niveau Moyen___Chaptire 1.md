@@ -199,7 +199,7 @@
 		- Une veste de/**en** cuir
 		- Des couverts de/**en** métal argenté
 	- ### 16
-		-
+		- Compléter les phrases suivantes par un article défini si nécesaire
 	- ### 19
 		-
 	- ### 20
