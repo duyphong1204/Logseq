@@ -2,7 +2,7 @@
 	- How to pronounce the Voiceless Glottal St [^1]
 		-
 		- {{video https://www.youtube.com/watch?v=chcjHwWwVxQ}}
-		- {{youtube-timestamp 95}} -
+		- {{youtube-timestamp 95}} - {{youtube-timestamp 180}}
 	- When it is used[^1]
 		- + t
 			- vowel
