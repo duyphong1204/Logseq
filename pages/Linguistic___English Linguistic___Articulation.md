@@ -1,0 +1,1 @@
+- Là một quá trình các articulators chuyển động
