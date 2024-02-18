@@ -1,4 +1,12 @@
--
+- |   | [Bilabial](javascript:void(0);) | [Labiodental](javascript:void(0);) | [Dental](javascript:void(0);) | [Alveolar](javascript:void(0);) | [Postalveolar](javascript:void(0);) | [Palatal](javascript:void(0);) | [Velar](javascript:void(0);) | [Glotal](javascript:void(0);) |
+  | [(Oral) Stop](javascript:void(0);) | [p](javascript:viewSymbol('symbols/p.html');) | [b](javascript:viewSymbol('symbols/b.html');) |   |   |   |   | [t](javascript:viewSymbol('symbols/t.html');) | [d](javascript:viewSymbol('symbols/d.html');) |   |   |   |   | [k](javascript:viewSymbol('symbols/k.html');) | [g](javascript:viewSymbol('symbols/g.html');) | [ʔ](javascript:viewSymbol('symbols/0294.html');) |   |
+  | [(Nasal) Stop](javascript:void(0);) |   | [m](javascript:viewSymbol('symbols/m.html');) |   |   |   |   |   | [n](javascript:viewSymbol('symbols/n.html');) |   |   |   |   |   | [ŋ](javascript:viewSymbol('symbols/014B.html');) |   |   |
+  | [Tap or Flap](javascript:void(0);) |   |   |   |   |   |   |   | [ɾ](javascript:viewSymbol('symbols/027E.html');) |   |   |   |   |   |   |   |   |
+  | [Affricate](javascript:void(0);) |   |   |   |   |   |   |   |   | [tʃ](javascript:viewSymbol('symbols/02A7.html');) | [dʒ](javascript:viewSymbol('symbols/02A4.html');) |   |   |   |   |   |   |
+  | [Fricative](javascript:void(0);) |   |   | [f](javascript:viewSymbol('symbols/f.html');) | [v](javascript:viewSymbol('symbols/v.html');) | [θ](javascript:viewSymbol('symbols/03B8.html');) | [ð](javascript:viewSymbol('symbols/00F0.html');) | [s](javascript:viewSymbol('symbols/s.html');) | [z](javascript:viewSymbol('symbols/z.html');) | [](javascript:viewSymbol('symbols/0283.html');)[ʃ](javascript:viewSymbol('symbols/0283.html');) | [ʒ](javascript:viewSymbol('symbols/0292.html');) |   |   |   |   | [h](javascript:viewSymbol('symbols/h.html');) |   |
+  | [Approximant](javascript:void(0);) |   | [w](javascript:viewSymbol('symbols/w.html');) |   |   |   |   |   | [ɹ](javascript:viewSymbol('symbols/0279.html');) |   |   |   | [j](javascript:viewSymbol('symbols/j.html');) |   | [w](javascript:viewSymbol('symbols/w.html');) |   |   |
+  | [Lateral
+  approximant](javascript:void(0);) |   |   |   |   |   |   |   | [l](javascript:viewSymbol('symbols/l.html');) |   |   |   |   |   |   |   |   |
 - Voiceless Glottal Stop
   collapsed:: true
 	- How to pronounce the Voiceless Glottal St [^1]
