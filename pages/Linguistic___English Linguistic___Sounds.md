@@ -4,10 +4,11 @@
 		- {{video https://www.youtube.com/watch?v=chcjHwWwVxQ}}
 		- {{youtube-timestamp 95}} - {{youtube-timestamp 180}}
 	- When it is used[^1]
-		- + t
+		- when we have a
 			- vowel
 			- /l/
 			- /m/
 			- /n/
+			-
 - ## Footnotes
 	- [^1]: [How to Pronounce the Glottal Stop/Glottal T and When is it Used - Pronunciation with Emma](https://www.youtube.com/watch?v=chcjHwWwVxQ)
