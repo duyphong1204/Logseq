@@ -1,0 +1,1 @@
+- Ở đây sẽ tổng hợp quá trình âm được phát ra dưới góc độ giải phẫu học

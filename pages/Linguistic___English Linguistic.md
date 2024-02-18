@@ -1,5 +1,6 @@
+- Mặc dù map thể hiện các mối liên hệ giữa các thành tố,
 - [[Linguistic/English Linguistic/Letter - Articulator - Sound]]
 - [[Linguistic/English Linguistic/Articulators]]
 - [[Linguistic/English Linguistic/Sounds]]
 - [[Linguistic/English Linguistic/Articulation]]
--
+- [[Linguistic/English Linguistic/Sounds - Articulation]]
