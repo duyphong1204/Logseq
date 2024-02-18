@@ -1,6 +1,5 @@
 - Voiceless Glottal Stop
-	- How to pronounce [^1]
-	  collapsed:: true
+	- How to pronounce the Voiceless Glottal Stop [^1]
 		- {{video https://www.youtube.com/watch?v=chcjHwWwVxQ}}
 	- When it is used[^1]
 		- collapsed:: true
