@@ -1,4 +1,4 @@
 - Board
-	- [[English Linguistic Map]]
+	- [[Linguistic/English Linguistic Map]]
 - [[Linguistic/English Linguistic]]
 -
