@@ -499,7 +499,7 @@
 :italic false
 :text "Articulation"}}
 :block/updated-at 1706635979880} 
-{:block/created-at 1706740349150
+{:block/created-at 1708289303685
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -511,7 +511,7 @@
 :scaleLevel "md"
 :fill ""
 :type "text"
-:size [67 34]
+:size [78 34]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -520,15 +520,15 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-885.6563464426712 -950.758301192731]
+:point [-880 -952]
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706631805325
+:nonce 1706631805374
 :italic false
-:text "Letter"}}
-:block/updated-at 1706740349150} 
-{:block/created-at 1706635935011
+:text "Letters"}}
+:block/updated-at 1708289303685} 
+{:block/created-at 1708289280499
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -540,7 +540,7 @@
 :scaleLevel "md"
 :fill ""
 :type "text"
-:size [121 34]
+:size [132 34]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -553,11 +553,11 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706631812450
+:nonce 1706631812453
 :italic false
-:text "Sound (IPA)"}}
-:block/updated-at 1706635935011} 
-{:block/created-at 1706635935011
+:text "Sounds (IPA)"}}
+:block/updated-at 1708289280499} 
+{:block/created-at 1708289290936
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -569,7 +569,7 @@
 :scaleLevel "md"
 :fill ""
 :type "text"
-:size [110 34]
+:size [120 34]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -582,11 +582,11 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632016969
+:nonce 1706632016978
 :italic false
-:text "Articulator"}}
-:block/updated-at 1706635935011} 
-{:block/created-at 1706740346899
+:text "Articulators"}}
+:block/updated-at 1708289290936} 
+{:block/created-at 1708289303685
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -603,13 +603,13 @@
 :id "1071c710-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-859.82 -1114.38]
+:point [-854.06 -1114.38]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0.81 159.62]
+:point [4.7 158.38]
 :bindingId "9c0df631-c088-11ee-aaa2-b770857cef08"}
 :end 
 {:id "end"
@@ -620,10 +620,10 @@
 {:start "arrow"
 :end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632308728
+:nonce 1706632308735
 :italic false}}
-:block/updated-at 1706740346899} 
-{:block/created-at 1706635979881
+:block/updated-at 1708289303685} 
+{:block/created-at 1708289279780
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -640,13 +640,13 @@
 :id "11f97881-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1145.14 -1119.04]
+:point [-1145.14 -1117.92]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 56.91]
+:point [0 56.02]
 :bindingId "34766231-bf95-11ee-a6ef-431a67f8e15f"}
 :end 
 {:id "end"
@@ -656,10 +656,10 @@
 :decorations 
 {:end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632311285
+:nonce 1706632311286
 :italic false}}
-:block/updated-at 1706635979881} 
-{:block/created-at 1706740343706
+:block/updated-at 1708289279780} 
+{:block/created-at 1708289303684
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -676,7 +676,7 @@
 :id "1447ae42-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1154.95 -1028.8]
+:point [-1151.88 -1028.8]
 :fontSize 20
 :handles 
 {:start 
@@ -687,15 +687,15 @@
 :end 
 {:id "end"
 :canBind true
-:point [265.29 80.87]
+:point [267.88 78.03]
 :bindingId "a8927e00-bf91-11ee-a6ef-431a67f8e15f"}}
 :decorations 
 {:end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632315275
+:nonce 1706632315281
 :italic false}}
-:block/updated-at 1706740343706} 
-{:block/created-at 1706740343706
+:block/updated-at 1708289303684} 
+{:block/created-at 1708289303685
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -712,13 +712,13 @@
 :id "287934b2-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1403.72 -1044.89]
+:point [-1393.72 -1044.08]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [514.06 112.21]
+:point [509.72 109.04]
 :bindingId "5facda61-bf95-11ee-a6ef-431a67f8e15f"}
 :end 
 {:id "end"
@@ -729,10 +729,10 @@
 {:start "arrow"
 :end nil}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632349148
+:nonce 1706632349155
 :italic false}}
-:block/updated-at 1706740343706} 
-{:block/created-at 1706635935011
+:block/updated-at 1708289303685} 
+{:block/created-at 1708289289267
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -749,27 +749,27 @@
 :id "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1403.7272436123635 -1126.9015888596805]
+:point [-1393.72 -1126.19]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [483.15 0]
+:point [473.14 0]
 :bindingId "2b1deee0-bf8d-11ee-a6ef-431a67f8e15f"}
 :end 
 {:id "end"
 :canBind true
-:point [0 63.54]
+:point [0 62.12]
 :bindingId "2b1deee1-bf8d-11ee-a6ef-431a67f8e15f"}}
 :decorations 
 {:start "arrow"
 :end nil}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632353602
+:nonce 1706632353605
 :italic false}}
-:block/updated-at 1706635935011} 
-{:block/created-at 1706635979881
+:block/updated-at 1708289289267} 
+{:block/created-at 1708289289267
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -786,7 +786,7 @@
 :id "477d44f2-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1406.72 -1055.44]
+:point [-1396.72 -1055.17]
 :fontSize 20
 :handles 
 {:start 
@@ -797,14 +797,14 @@
 :end 
 {:id "end"
 :canBind true
-:point [137.58 5.73]
+:point [127.58 5.42]
 :bindingId "4965b401-bf8d-11ee-a6ef-431a67f8e15f"}}
 :decorations 
 {:end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632401153
+:nonce 1706632401154
 :italic false}}
-:block/updated-at 1706635979881} 
+:block/updated-at 1708289289267} 
 {:block/created-at 1706633167703
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1349,7 +1349,7 @@
 :block/journal? false
 :block/namespace 
 {:db/id 20890}
-:block/updated-at 1708289230881
+:block/updated-at 1708289303684
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "linguistic/english linguistic map"
