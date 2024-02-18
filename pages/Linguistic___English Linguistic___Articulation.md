@@ -1,1 +1,1 @@
-- Là một quá trình các articulators chuyển động
+- Là một quá trình các articulators chuyển động => cái đó sẽ được minh họa ở đây
