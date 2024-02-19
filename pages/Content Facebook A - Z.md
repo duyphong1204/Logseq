@@ -487,7 +487,7 @@ collapsed:: true
 						- CMT
 		- Bước 7: Phát triển ý tưởng Content chi tiết cho từng Pillars (Content Angle)
 			- Content Angle là góc nhìn về 1 ý tưởng nào đó
-		- Bước 8: Làm bảng kế hoạch Content Marketing thật đẹp, thật tối ưu & dễ nhìn
+		- [Bước 8: Làm bảng kế hoạch Content Marketing thật đẹp, thật tối ưu & dễ nhìn](https://docs.google.com/spreadsheets/d/1k0HtE8HXpB-SS4FfJdvUexAvHpaEHZHOq7WNbwwq8js/edit#gid=407965413)
 		- Bước 9: Triển khai & đăng nội dung theo kế hoạch
 		- Bước 10: Đăng bài, đo lường & tối ưu
 			- Tần suất đăng?
