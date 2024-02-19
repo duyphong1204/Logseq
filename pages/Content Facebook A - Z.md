@@ -403,7 +403,7 @@ collapsed:: true
 						- Đặt box quảng cáo
 						- Làm hết landing page giới thiệu khóa học
 				- Đăng bài trên nhóm
-		- [Bước 5: Xây dựng Brief tóm tắt dự án và Creative Brief tóm tắt yêu cầu sáng tạo](https://docs.google.com/spreadsheets/d/1JGN8kKCdiUIjRCJ61-jYiuT1Nt8dBfk0dl-dDM7k4ww/copy?id=1JGN8kKCdiUIjRCJ61-jYiuT1Nt8dBfk0dl-dDM7k4ww&copyCollaborators=false&copyComments=false&includeResolvedCommentsOnCopy=false&title=Copy%20of%20%5BCF%5D%20-%20K%E1%BA%BF%20ho%E1%BA%A1ch%20Content%20Marketing%20Demo%20c%E1%BB%A7a%20Kind%20Content&token=AC4w5Viic-GJKJYDFPVDhRf4ZJbSjdpKPQ%3A1708357670208&usp=sheets_web)
+		- [Bước 5: Xây dựng Brief tóm tắt dự án và Creative Brief tóm tắt yêu cầu sáng tạo](https://docs.google.com/spreadsheets/d/1kh2oy_um1KDGYOOY5TAzDSPCmi0--VbeNPdvHWAK3ZY/edit#gid=407965413)
 		- Bước 6: Đưa ra Big Idea, Content Pillar & Lọc ra những chủ đề hot nhất
 			- Big Idea là ý tưởng chủ đạo cho 1 chiến dịch
 				- Kiến thức Content Marketing cho người mới
@@ -413,16 +413,16 @@ collapsed:: true
 			- Content Pillar
 				- Branding
 					- Tuyến bài xoay quanh brand
-					- Sự kiện mới
-					- Đối tác mới
-					- Khai trương
+						- Sự kiện mới
+						- Đối tác mới
+						- Khai trương
 					- hữu ích
-					- Tài liệu
-					- Tài liệu Content SEO
-					- Tài liệu Content Facebook
-					- Tài liệu về mẫu kế hoạch nội dung
-					- Ebook Reels
-					- Chủ đề HOT
+						- Tài liệu
+							- Tài liệu Content SEO
+							- Tài liệu Content Facebook
+							- Tài liệu về mẫu kế hoạch nội dung
+							- Ebook Reels
+						- Chủ đề HOT
 					- Sai lầm khi viết
 					- Tự học Content
 					- Quy trình viết
