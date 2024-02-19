@@ -338,8 +338,8 @@ collapsed:: true
 						- Kiến thức kinh doanh, quản lý tài chính, nhân sự, quy trình, bộ máy....
 						- Động lực kinh doanh
 						- Lời khuyên từ tỉ phú, người thành công...
-					- Kỷ luật bản thân
-					- Triết lý cuộc sống
+						- Kỷ luật bản thân
+						- Triết lý cuộc sống
 			- Rủi ro khi đẩy Content Viral
 				- Rất dễ bị lệch tệp
 				- Nhiều khi Viral không ngon bằng cái việc cứ duy trì giai đoạn 1 & 2 đâu.
@@ -353,7 +353,7 @@ collapsed:: true
 				- Phải phát triển ra được nhiều sản phẩm hơn để phù hợp với cái tệp mới.
 			- Đẩy content Viral có liên quan tới mối quan tâm của khách hàng, đặc biệt là Reels & Watch
 				- Ví dụ page kinh doanh
-					- Động lực kinh doanh
+					- [Động lực kinh doanh](https://www.tiktok.com/search?q=%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20kinh%20doanh&t=1705744645816)
 					- Lời khuyên từ tỉ phú, người thành công...
 					- Kỷ luật bản thân
 					- Triết lý cuộc sống
