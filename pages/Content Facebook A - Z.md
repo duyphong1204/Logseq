@@ -602,7 +602,7 @@ collapsed:: true
 			- Tham khảo, lấy mẫu từ chính Canva
 			- Sử dụng AI để thiết kế hình ảnh
 		- Seeding như thế nào để có LIKE hoặc có đơn hàng?
-			- Tài liệu Seeding cho hơn 40 ngành hàng
+			- [Tài liệu Seeding cho hơn 40 ngành hàng](https://drive.google.com/file/d/1zdFkB6abp9mSuXPt5K7LYjZnbupvpB3t/view)
 			- Chia sẻ vào nhóm, cộng đồng
 		- Một fanpage mới bắt đầu thì phải làm gì để được tăng reach tự nhiên?
 			- Set up đầy đủ info
