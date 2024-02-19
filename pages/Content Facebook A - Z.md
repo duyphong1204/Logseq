@@ -378,6 +378,7 @@ collapsed:: true
 				- Kinh Doanh Online, Kiếm tiền
 			- Phát triển ra nhiều sản phẩm khác nhau phù hợp với cái tệp của bạn.
 	- IV. Tứ diện nghiên cứu Khách hàng - Đối thủ - Thương hiệu - Sản phẩm
+	  collapsed:: true
 		- Tại sao lại cần nghiên cứu?
 		  collapsed:: true
 			- [Cùng xem qua thử một bảng kế hoạch](https://docs.google.com/spreadsheets/d/171evnMQuRTKGIRhGCIZJq6QgVcmGWvz4B7qKKr5hyuo/edit#gid=0)
@@ -629,7 +630,7 @@ collapsed:: true
 		- 3 Cách chính để làm content
 			- [Content Re-up hoặc rất dễ tái chế](https://www.facebook.com/duhocsinh/)
 				- Liệt kê ra 10 nguồn để lấy thông tin: Fanpage, Group
-			- Content sáng tạo dễ dàng
+			- [Content sáng tạo dễ dàng](https://www.instagram.com/kindcontentagency/)
 				- Mình có thể dễ dàng tham khảo ý và viết lại
 				- Thời gian làm ít, không tốn quá nhiều công sức & tiền bạc
 				- Mình có thể dễ dàng sử dụng ChatGPT để làm
