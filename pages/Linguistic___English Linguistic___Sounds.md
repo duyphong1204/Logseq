@@ -1,5 +1,5 @@
 - |   | [Bilabial]([[Bilabial/IPA]]) | [Labiodental] | [Dental](javascript:void(0);) | [Alveolar](javascript:void(0);) | [Postalveolar](javascript:void(0);) | [Palatal](javascript:void(0);) | [Velar](javascript:void(0);) | [Glotal](javascript:void(0);) | | | | | | | | 
-  | [(Oral Stop]([[(Oral) Stop/IPA]]) | [p](javascript:viewSymbol('symbols/p.html');) | [b](javascript:viewSymbol('symbols/b.html');) |   |   |   |   | [t](javascript:viewSymbol('symbols/t.html');) | [d](javascript:viewSymbol('symbols/d.html');) |   |   |   |   | [k](https://www.cambridge.org/features/IPAchart/symbols/k.html);) | [g](javascript:viewSymbol('symbols/g.html');) | [ʔ](javascript:viewSymbol('symbols/0294.html');) |   |
+  | [(Oral Stop]([[(Oral) Stop/IPA]]) | [p](javascript:viewSymbol('symbols/p.html');) | [b](javascript:viewSymbol('symbols/b.html');) |   |   |   |   | [t](javascript:viewSymbol('symbols/t.html') | [d](javascript:viewSymbol('symbols/d.html');) |   |   |   |   | [k](https://www.cambridge.org/features/IPAchart/symbols/k.html) | [g](javascript:viewSymbol('symbols/g.html');) | [ʔ](javascript:viewSymbol('symbols/0294.html');) |   |
   | [(Nasal) Stop](javascript:void(0);) |   | [m](javascript:viewSymbol('symbols/m.html');) |   |   |   |   |   | [n](javascript:viewSymbol('symbols/n.html');) |   |   |   |   |   | [ŋ](javascript:viewSymbol('symbols/014B.html');) |   |   |
   | [Tap or Flap](javascript:void(0);) |   |   |   |   |   |   |   | [ɾ](javascript:viewSymbol('symbols/027E.html');) |   |   |   |   |   |   |   |   |
   | [Affricate](javascript:void(0);) |   |   |   |   |   |   |   |   | [tʃ](javascript:viewSymbol('symbols/02A7.html');) | [dʒ](javascript:viewSymbol('symbols/02A4.html');) |   |   |   |   |   |   |
@@ -19,6 +19,5 @@
 			- /m/
 			- /n/
 			-
--
 - ## Footnotes
 	- [^1]: [How to Pronounce the Glottal Stop/Glottal T and When is it Used - Pronunciation with Emma](https://www.youtube.com/watch?v=chcjHwWwVxQ)
