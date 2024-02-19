@@ -23,35 +23,35 @@
 	- Nghiên cứu đối thủ đăng giờ nào, content gì hay và không hay
 	- Nghiên cứu, định vị thương hiệu, tính cách
 	- Nghiên cứu tính năng, lợi ích của sản phẩm
-- ####
-- Xác định mục tiêu, nguồn lực cần thiết
-- Xây dựng bảng Brief tóm tắt dự án
-- Xây dựng Key Message, thống nhất Mood & Tone cho thương hiệu
-- Xây dựng Creative Brief chi tiết cho thương hiệu
-- Xác định những chủ đề chính (Content Pillar)
-- Phát triển hàng loạt ý tưởng nội dung, Angle Content.
-- Chọn lọc những ý tưởng nội dung phù hợp theo từng giai đoạn của kênh Social
-- Lập lịch nội dung chuyên nghiệp cho 1 tháng
-- Ứng dụng AI làm kế hoạch nội dung thế nào là đúng cách?
-- Set lịch đăng bài, đo lường & tối ưu như thế nào?
-- ####
-- Hiểu những nguyên tắc viết nội dung cơ bản nhất
-- Chuẩn bị những gì để sáng tạo nội dung bán hàng
-- Cấu trúc một bài quảng cáo/ bán hàng trên Facebook
-- Hướng dẫn viết tiêu đề & 200 mẫu tiêu đề chuyên quảng cáo
-- Top 12 công thức viết content hiệu quả nhất
-- Tiến hành viết nội dung chi tiết sao cho thuyết phục từ đầu tới đuôi
-- Tối ưu CTA & phần ký tên
-- Bonus: Thiết kế hình ảnh, đẹp, nhanh chóng với Canva & AI
-- ####
-- Content hữu ích không chỉ tăng trust mà còn có thể ra ngay đơn hàng giá trị lớn
-- Quy trình sáng tạo nội dung hữu ích
-- Chuẩn bị những gì để sáng tạo nội dung hữu ích
-- Công thức viết tiêu đề dễ ăn đề xuất nhất
-- Tiến hành viết nội dung hữu ích ai cũng muốn đọc
-- Thể hiện dưới dạng Album hình ảnh (Carousels) chuyên nghiệp đăng lên mọi nền tảng Social
-- Thể hiện dưới dạng Reels kiến thức, không cần lộ mặt
-- ####
+- #### VI. Chiến lược, kế hoạch Content ngắn & dài hạn cho Fanpage
+	- Xác định mục tiêu, nguồn lực cần thiết
+	- Xây dựng bảng Brief tóm tắt dự án
+	- Xây dựng Key Message, thống nhất Mood & Tone cho thương hiệu
+	- Xây dựng Creative Brief chi tiết cho thương hiệu
+	- Xác định những chủ đề chính (Content Pillar)
+	- Phát triển hàng loạt ý tưởng nội dung, Angle Content.
+	- Chọn lọc những ý tưởng nội dung phù hợp theo từng giai đoạn của kênh Social
+	- Lập lịch nội dung chuyên nghiệp cho 1 tháng
+	- Ứng dụng AI làm kế hoạch nội dung thế nào là đúng cách?
+	- Set lịch đăng bài, đo lường & tối ưu như thế nào?
+- #### VII. Sáng tạo Content chuyên quảng cáo/ bán hàng
+	- Hiểu những nguyên tắc viết nội dung cơ bản nhất
+	- Chuẩn bị những gì để sáng tạo nội dung bán hàng
+	- Cấu trúc một bài quảng cáo/ bán hàng trên Facebook
+	- Hướng dẫn viết tiêu đề & 200 mẫu tiêu đề chuyên quảng cáo
+	- Top 12 công thức viết content hiệu quả nhất
+	- Tiến hành viết nội dung chi tiết sao cho thuyết phục từ đầu tới đuôi
+	- Tối ưu CTA & phần ký tên
+	- Bonus: Thiết kế hình ảnh, đẹp, nhanh chóng với Canva & AI
+- #### VIII. Sáng tạo Content hữu ích ngàn likes trên cộng đồng, nhóm
+	- Content hữu ích không chỉ tăng trust mà còn có thể ra ngay đơn hàng giá trị lớn
+	- Quy trình sáng tạo nội dung hữu ích
+	- Chuẩn bị những gì để sáng tạo nội dung hữu ích
+	- Công thức viết tiêu đề dễ ăn đề xuất nhất
+	- Tiến hành viết nội dung hữu ích ai cũng muốn đọc
+	- Thể hiện dưới dạng Album hình ảnh (Carousels) chuyên nghiệp đăng lên mọi nền tảng Social
+	- Thể hiện dưới dạng Reels kiến thức, không cần lộ mặt
+- #### IX. Nâng cao trong Content Facebook
 - Một Fanpage mới tinh thì phải làm gì để phát triển?
 - Làm thế nào để có Reach khi mới bắt đầu mà không chạy quảng cáo?
 - Seeding là gì? Tại sao phải seeding?
