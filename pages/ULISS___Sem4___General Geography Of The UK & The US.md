@@ -12,11 +12,11 @@ id:: 65ad51f0-b171-4c83-a6f5-7c65ffcb2df6
 - ## Quick facts
 	- **Area:** 78 789 sq km Population: 5.500.000 (2021 est)
 	- **Population density:** 70 persons per sq km (2021 est)
-	- Capital city: Edinburgh
-- Major cities: Aberdeen Dundee.
-- Glasgow, Edinburgh, Inverness Stirling
-- Official language: English (Scottish Gaelic is spoken by 1.45% of the population)
-- Currency: Pound Sterling (E)
-- Highest point: Ben Nevis (1.343 m)
-- Longest river: Tay (188 km)
-- Largest lake: Loch Lomond (60 sq km!
+	- **Capital city:** Edinburgh
+	- **Major cities:** Aberdeen, Dundeen, Glasgow, Edinburgh, Inverness Stirling
+	- **Official language:** English (Scottish Gaelic is spoken by 1.45% of the population)
+	- **Currency:** Pound Sterling (E)
+	- **Highest point:** Ben Nevis (1.343 m)
+	- **Longest river:** Tay (188 km)
+	- **Largest lake:** Loch Lomond (60 sq km)
+-
