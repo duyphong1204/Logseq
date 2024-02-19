@@ -597,35 +597,6 @@ collapsed:: true
 					- 300-500 Evergreen Content cho 1 lĩnh vực là coi như xong. Những năm sau chỉ cần re-up, thay đổi định dạng.
 			- Thời gian đăng lại tốt nhất?
 				- 3-5 tháng
-	- VII. Kiến thức nâng cao, định hướng & tổng kết khóa học
-		- Sáng tạo hình ảnh
-			- Tham khảo, lấy mẫu từ chính Canva
-			- Sử dụng AI để thiết kế hình ảnh
-		- Seeding như thế nào để có LIKE hoặc có đơn hàng?
-			- [Tài liệu Seeding cho hơn 40 ngành hàng](https://drive.google.com/file/d/1zdFkB6abp9mSuXPt5K7LYjZnbupvpB3t/view)
-			- Chia sẻ vào nhóm, cộng đồng
-		- Một fanpage mới bắt đầu thì phải làm gì để được tăng reach tự nhiên?
-			- Set up đầy đủ info
-			- Tạo ra tuyến bài tài sản lớn và đặt điều kiện để nhận, ví dụ: Like thì tui mới tặng
-			- Seeding, chia sẻ vào nhóm
-			- Tương tác với người khác: Comments dạo
-			- Đăng bài giờ vàng
-			- Đăng đúng tần suất
-			- Nuôi nhiều nick clone đi kết bạn với đối tượng khách hàng rồi kéo vào like page
-			- Tham khảo thêm 11 mẹo tăng reach
-		- Phễu là gì, tại sao lại cần phễu?
-			- Các nhóm Zalo của Kind Content
-			- Đơn giản là tạo ra tuyến bài tài sản lớn, thu hút họ vào phễu
-			- Ghim các bài thu phễu lên trang chủ, trang website
-		- Tìm ngách xây kênh
-		- Làm CV, Portfolio
-		- Bài tập
-			- 1. Xây dựng một bảng kế hoạch hoàn chỉnh cho một kênh bất kỳ, bao gồm đầy đủ 10 bước như đã hướng dẫn
-			- 2. Làm kế hoạch cho kênh Du học sinh tại Úc hoặc kênh giải trí bất kỳ.
-			- 3. Sáng tạo, re-up hoặc tái chế ra 10 Content cho kênh Du Học Sinh tại Úc
-			- 4. Viết bài quảng cáo cho 1 chủ đề bất kỳ. Khuyến khích viết bài quảng cáo khóa học cho Kind Content (Tức là sẽ phải tự làm lại khâu nghiên cứu tính năng - lợi ích & insights để có thể viết cho bài này)
-			- 5. Sáng tạo xong 2 post hữu ích chia sẻ về Content Marketing với 3 định dạng Chữ - Reels - Carousels (hoặc chia sẻ về cái gì cung được)
-		- Hẹn gặp lại
 	- VI. Cách sản xuất nội dung social
 	  collapsed:: true
 		- 3 Cách chính để làm content
@@ -752,33 +723,34 @@ collapsed:: true
 				- Slide 10: CTA
 				- Sử dụng mẫu có sẵn Kind Content tặng bạn
 			- Sáng tạo Reels
-	- I. Tổng quan về Content Facebook
-		- Content, Content Marketing là gì?
-			- Phải phục vụ mục tiêu Marketing
-			- Phải chia giai đoạn cụ thể
-				- Thu hút, nhận biết
-				- Tạo niềm tin, brand love
-				- Chốt đơn, bán hàng
-				- Chăm sóc & up-sale
-			- Mối quan hệ lâu dài. Khác với quảng cáo ngắn hạn
-		- 2 dạng Content phổ biến nhất trên Facebook
-			- Always-on Content (Mục tiêu Branding: Nhận diện, tin yêu)
-				- Hữu ích
-				- Giải trí
-				- Động lực
-				- Hoạt động xoay quanh thương hiệu
-					- Sự kiện mới
-					- Khách hàng
-					- Feedback
-			- Performance Content (Mục tiêu chuyển đổi)
-		- Những thuật ngữ cơ bản trên Content Social nói chung
-			- Brief
-			- Creative Brief
-			- Target Audience
-			- Key Message
-			- Buyer Persona
-			- Big Idea
-			- Insight
-			- Content Calendar
-			- CTA (Call to action)
+	- VII. Kiến thức nâng cao, định hướng & tổng kết khóa học
+	  collapsed:: true
+		- Sáng tạo hình ảnh
+			- Tham khảo, lấy mẫu từ chính Canva
+			- Sử dụng AI để thiết kế hình ảnh
+		- Seeding như thế nào để có LIKE hoặc có đơn hàng?
+			- [Tài liệu Seeding cho hơn 40 ngành hàng](https://drive.google.com/file/d/1zdFkB6abp9mSuXPt5K7LYjZnbupvpB3t/view)
+			- Chia sẻ vào nhóm, cộng đồng
+		- Một fanpage mới bắt đầu thì phải làm gì để được tăng reach tự nhiên?
+			- Set up đầy đủ info
+			- Tạo ra tuyến bài tài sản lớn và đặt điều kiện để nhận, ví dụ: Like thì tui mới tặng
+			- Seeding, chia sẻ vào nhóm
+			- Tương tác với người khác: Comments dạo
+			- Đăng bài giờ vàng
+			- Đăng đúng tần suất
+			- Nuôi nhiều nick clone đi kết bạn với đối tượng khách hàng rồi kéo vào like page
+			- [Tham khảo thêm 11 mẹo tăng reach](https://kindcontent.net/meo-tang-tiep-can-facebook/)
+		- Phễu là gì, tại sao lại cần phễu?
+			- Các nhóm Zalo của Kind Content
+			- Đơn giản là tạo ra tuyến bài tài sản lớn, thu hút họ vào phễu
+			- Ghim các bài thu phễu lên trang chủ, trang website
+		- Tìm ngách xây kênh
+		- Làm CV, Portfolio
+		- Bài tập
+			- 1. Xây dựng một bảng kế hoạch hoàn chỉnh cho một kênh bất kỳ, bao gồm đầy đủ 10 bước như đã hướng dẫn
+			- 2. Làm kế hoạch cho kênh Du học sinh tại Úc hoặc kênh giải trí bất kỳ.
+			- 3. Sáng tạo, re-up hoặc tái chế ra 10 Content cho kênh Du Học Sinh tại Úc
+			- 4. Viết bài quảng cáo cho 1 chủ đề bất kỳ. Khuyến khích viết bài quảng cáo khóa học cho Kind Content (Tức là sẽ phải tự làm lại khâu nghiên cứu tính năng - lợi ích & insights để có thể viết cho bài này)
+			- 5. Sáng tạo xong 2 post hữu ích chia sẻ về Content Marketing với 3 định dạng Chữ - Reels - Carousels (hoặc chia sẻ về cái gì cung được)
+		- Hẹn gặp lại
 	- 🔥 Đây là mind map tóm tắt "khóa học Content Facebook A - Z" của Kind Content. Bạn đăng ký học trong tháng này để nhận ưu đãi 500K nhé ^^.
