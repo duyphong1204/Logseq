@@ -57,7 +57,7 @@
 - Seeding là gì? Tại sao phải seeding?
 - Chiến lược Seeding đơn giản nhưng hiệu quả: Đơn hàng & reach
 - Phễu (sales funnel) là gì? Chiến lược thu hút phễu tại Kind Content
-- ####
+- #### X. Tổng kết khóa học
 - Hướng đi sắp tới: Xây kênh hay là làm CV?
 - Định hướng lộ trình phát triển của một dân chuyên sáng tạo nội dung Facebook.
 - Giải quyết câu hỏi làm gì tiếp bây giờ?
