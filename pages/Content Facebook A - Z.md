@@ -636,7 +636,7 @@ collapsed:: true
 				- Mình có thể dễ dàng sử dụng ChatGPT để làm
 					- Đưa thông tin đầy đủ cho ChatGPT và nhờ nó viết
 				- Cũng đòi hỏi 1 tí chuyên môn
-			- Content sáng tạo UNIQUE/ USP (Sử dụng khi muốn chuyển đổi)
+			- [Content sáng tạo UNIQUE/ USP (Sử dụng khi muốn chuyển đổi)](https://www.facebook.com/KindContentAgency/posts/pfbid026be8qV2k4if5i4D7bSDyVktX7XpKQ4sJHRdahKTZd4uwyrgbuNvP8kqx2meZra1Zl)
 				- Chuyên gia mới có: Tài liệu, casestudy, kiến thức ít người biết,...
 				- Phải hiểu rõ sản phẩm mới có thể làm, hoặc yêu cầu tính chuyên môn cao
 				- Phải tốn nhiều thời gian tinh chỉnh sửa
