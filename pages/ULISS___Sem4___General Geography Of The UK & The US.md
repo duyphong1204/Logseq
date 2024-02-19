@@ -1,0 +1,24 @@
+- Lead-in
+- 1. The highest peak in the UK is located in Scotland. What's its name and height? Compare it with Fan
+- Si Panthe highest point in Vietnam.
+- 2. Is English the official language in Scotland?
+- 3. Do you know the name of a well-known lake in Scotland where a monster is supposed to live?
+- 4. What is the Scottish highland dress for men?
+- A. saffron robe
+- B. kilt
+- C. sarong
+- D. cloak
+- 5.Look at the men in the picture. Do you know the name of the musical instrument they are playing?
+- 35
+- Quick facts
+- Area: 78 789 sq km Population: 5.500.000 (2021 est)
+- Population density: 70 persons per sq
+- km (2021 est)
+- Capital city: Edinburgh
+- Major cities: Aberdeen Dundee.
+- Glasgow, Edinburgh, Inverness Stirling
+- Official language: English (Scottish Gaelic is spoken by 1.45% of the population)
+- Currency: Pound Sterling (E)
+- Highest point: Ben Nevis (1.343 m)
+- Longest river: Tay (188 km)
+- Largest lake: Loch Lomond (60 sq km!
