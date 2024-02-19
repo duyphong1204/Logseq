@@ -5,9 +5,9 @@
 	- 4. What is the Scottish highland dress for men?
 		- A. saffron robe
 		- B. kilt
-	- C. sarong
-- D. cloak
-- 5.Look at the men in the picture. Do you know the name of the musical instrument they are playing?
+		- C. sarong
+		- D. cloak
+	- 5.Look at the men in the picture. Do you know the name of the musical instrument they are playing?
 - 35
 - Quick facts
 - Area: 78 789 sq km Population: 5.500.000 (2021 est)
