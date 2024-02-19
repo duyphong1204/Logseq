@@ -92,6 +92,7 @@ collapsed:: true
 							  | Rughadh Shuas's a'mhoch mhaduinn | With a rosy sky at dawn |
 							  | Dheanadh Fionn an ath-chadal. | He would take another sleep. |
 	- ## Major Cities
+	  collapsed:: true
 		- Scotland's two major cities have different reputations.
 			- Glasgow is the third largest city in Britain.
 				- It is associated with heavy industry and some of the worst housing conditions in Britain
@@ -122,3 +123,29 @@ collapsed:: true
 						- (there is a rock in the middle of the city on which stands the castle)
 					-
 				- The annual Edinburgh Festival of the arts is internationally famous.
+	- ## Exx 1
+- Fill each of the gaps below with a suitable word or phrase.
+- 1. Scotland is in the and is only smaller than of Great Britain. It is the in area. biggest country
+- 2. Scotland has three main regions:
+- 3. The economy of the Southern Uplands depends largely on
+- 4. The highlands. consists of small islands off the west coast.
+- and and a number of
+- 5. 80% of Scottish people live in the
+- 6. Tourism and the production of whisky play an important role in the local economy of the
+- 7. Two major cities in Scotland are the size of the latter. and The former is half
+- 8. Outstanding climatic features of Scotland are summer. winter and
+- 9
+- . In the western coastal region, conditions are somewhat than in the east.
+- 10. The Scottish weather include both climatic forecasts and weather forecasts.
+- EXERCISE 2
+- Write E for Edinburgh, G for Glasgow in the space after each of the descriptions below.
+- 1. The capital city of Scotland
+- 2. The third largest city in Britain
+- 3. Has a comparative middle-class image.
+- 4. Associated with scholarship, the law and administration.
+- 5. Associated with heavy industry and bad housing conditions.
+- 6. Has a strong artistic heritage.
+- 7. Sometimes called 'Athens of the North.
+- 8. Was the European City of Culture in 1990
+- 9. Has received many immigrants from Ireland.
+- 10. ts two rival football teams are Celtic and Rangers.
