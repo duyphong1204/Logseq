@@ -584,7 +584,7 @@ collapsed:: true
 			- Tham khảo đối thủ
 				- Có cái nhìn mở rộng phân khúc khách hàng
 				- Ví dụ phòng IT, nhân sự sẽ gần tương đồng phòng Marketing, có thể tham khảo được
-			- Đặc biệt phải tham khảo 10K+ Mẫu ads hàng tỉ - chục tỉ đồng này
+			- [Đặc biệt phải tham khảo 10K+ Mẫu ads hàng tỉ - chục tỉ đồng này](https://docs.google.com/spreadsheets/d/1ulGgLhd_eQs-xn2lCjBfYZC46JZDJnv3N0olSh2njEQ/edit#gid=0)
 			- 5 tiêu chí cần có trong bài quảng cáo
 				- Đúng mục tiêu
 				- Mở đầu thu hút
