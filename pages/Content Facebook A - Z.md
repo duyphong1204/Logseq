@@ -1,28 +1,28 @@
 ## Nội dung   khóa học
-- #### Tổng quan khóa học
+- #### I. Tổng quan khóa học
 	- Giới thiệu mục tiêu, lợi ích khóa học, lời đầu tiên của giảng viên
 	- Học thế nào để ra kết quả nhanh nhất có thể?
-- #### Tổng quan về Content Facebook
-- Content là gì? Content Marketing là gì?
-- Content trên Facebook là gì, bao gồm những loại nào?
-- Always-on Content & Performance Content là gì?
-- Creative Brief, Content Plan là gì? Nó trông như thế nào?
-- Buyer Persona, Big Idea, Insight là gì?
-- Những thuật ngữ thường gặp khi làm Content Facebook
-- Bạn sẽ là ai khi làm Content Facebook?
-- ####
-- Phân biệt 4 loại Fanpage phổ biến nhất & đặc điểm của từng kênh
-- Hiểu chiến lược Kinh doanh và Marketing chính của Fanpage
-- Một Fanpage thì sẽ trải qua những giai đoạn nào?
-- Lộ trình để phát triển nội dung cho từng loại Fanpage.
-- Những định dạng nào hiện đang được đề xuất tốt nhất?
-- Quy trình xây dựng kế hoạch Content trên Facebook phục vụ từng mục tiêu
-- ####
-- Tại sao cần phải nghiên cứu, nghiên cứu & nghiên cứu?
-- Nghiên cứu khách hàng, nhân khẩu học & 3 loại Insights chính
-- Nghiên cứu đối thủ đăng giờ nào, content gì hay và không hay
-- Nghiên cứu, định vị thương hiệu, tính cách
-- Nghiên cứu tính năng, lợi ích của sản phẩm
+- #### II. Tổng quan về Content Facebook
+	- Content là gì? Content Marketing là gì?
+	- Content trên Facebook là gì, bao gồm những loại nào?
+	- Always-on Content & Performance Content là gì?
+	- Creative Brief, Content Plan là gì? Nó trông như thế nào?
+	- Buyer Persona, Big Idea, Insight là gì?
+	- Những thuật ngữ thường gặp khi làm Content Facebook
+	- Bạn sẽ là ai khi làm Content Facebook?
+- #### III. Hiểu nền tảng Facebook cần nội dung như thế nào?
+	- Phân biệt 4 loại Fanpage phổ biến nhất & đặc điểm của từng kênh
+	- Hiểu chiến lược Kinh doanh và Marketing chính của Fanpage
+	- Một Fanpage thì sẽ trải qua những giai đoạn nào?
+	- Lộ trình để phát triển nội dung cho từng loại Fanpage.
+	- Những định dạng nào hiện đang được đề xuất tốt nhất?
+	- Quy trình xây dựng kế hoạch Content trên Facebook phục vụ từng mục tiêu
+- #### IV. Tứ diện nghiên cứu & từng bước lập kế hoạch content Social
+	- Tại sao cần phải nghiên cứu, nghiên cứu & nghiên cứu?
+	- Nghiên cứu khách hàng, nhân khẩu học & 3 loại Insights chính
+	- Nghiên cứu đối thủ đăng giờ nào, content gì hay và không hay
+	- Nghiên cứu, định vị thương hiệu, tính cách
+	- Nghiên cứu tính năng, lợi ích của sản phẩm
 - ####
 - Xác định mục tiêu, nguồn lực cần thiết
 - Xây dựng bảng Brief tóm tắt dự án
