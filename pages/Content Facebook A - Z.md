@@ -381,7 +381,7 @@ collapsed:: true
 				- Chăm sóc, up-sale
 					- Chương trình khuyến mãi
 					- Khách hàng thân thiết
-			- Attention - Trust - Buy
+			- [Attention - Trust - Buy](https://docs.google.com/spreadsheets/d/1T1ZFogvrwTqS8-p0u50ELs6ovhrURyzDAFNtXxxLnOg/edit#gid=835901517)
 			- Phủ Branding + Performance
 				- Branding
 					- Nhắc về sản phẩm, pain point, lợi ích, FAQs xoay quanh...
@@ -392,18 +392,18 @@ collapsed:: true
 			- Marketing 0đ?
 				- Trên các trang truyền thông của công ty
 					- Facebook
-					- Chữ + ảnh
+						- Chữ + ảnh
 					- Toptop
-					- Ảnh
-					- Video/ Reels
+						- Ảnh
+						- Video/ Reels
 					- IG
-					- Ảnh
-					- Reels
+						- Ảnh
+						- Reels
 					- Website
-					- Đặt box quảng cáo
-					- Làm hết landing page giới thiệu khóa học
+						- Đặt box quảng cáo
+						- Làm hết landing page giới thiệu khóa học
 				- Đăng bài trên nhóm
-		- Bước 5: Xây dựng Brief tóm tắt dự án và Creative Brief tóm tắt yêu cầu sáng tạo
+		- [Bước 5: Xây dựng Brief tóm tắt dự án và Creative Brief tóm tắt yêu cầu sáng tạo](https://docs.google.com/spreadsheets/d/1JGN8kKCdiUIjRCJ61-jYiuT1Nt8dBfk0dl-dDM7k4ww/copy?id=1JGN8kKCdiUIjRCJ61-jYiuT1Nt8dBfk0dl-dDM7k4ww&copyCollaborators=false&copyComments=false&includeResolvedCommentsOnCopy=false&title=Copy%20of%20%5BCF%5D%20-%20K%E1%BA%BF%20ho%E1%BA%A1ch%20Content%20Marketing%20Demo%20c%E1%BB%A7a%20Kind%20Content&token=AC4w5Viic-GJKJYDFPVDhRf4ZJbSjdpKPQ%3A1708357670208&usp=sheets_web)
 		- Bước 6: Đưa ra Big Idea, Content Pillar & Lọc ra những chủ đề hot nhất
 			- Big Idea là ý tưởng chủ đạo cho 1 chiến dịch
 				- Kiến thức Content Marketing cho người mới
