@@ -31,3 +31,4 @@ collapsed:: true
 		- which eventually became the United Kingdom of Great Britain and Northern Ireland
 			- though some aspects, notably Scotland's legal system, did remain separate
 	- In 1999, Scotland received its own devolved home rule parliament to govern the country on purely domestic matters.
+-
