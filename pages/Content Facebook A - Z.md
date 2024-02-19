@@ -357,7 +357,7 @@ collapsed:: true
 					- [Lời khuyên từ tỉ phú, người thành công...](https://www.tiktok.com/search?q=l%E1%BB%9Di%20khuy%C3%AAn%20t%E1%BB%AB%20ng%C6%B0%E1%BB%9Di%20th%C3%A0nh%20c%C3%B4ng&t=1705744938323)
 					- [Kỷ luật bản thân](https://www.tiktok.com/search?q=k%E1%BB%B7%20lu%E1%BA%ADt%20b%E1%BA%A3n%20th%C3%A2n&t=1705744863489)
 					- [Triết lý cuộc sống](https://www.facebook.com/reel/225460566771500)
-			- Ép mọi người phải like/ cmt/ share càng nhiều càng tốt Mục đích: Để Facebook đánh giá tốt về Page, từ đó nó mới đề xuất cho Viral
+			- [Ép mọi người phải like/ cmt/ share càng nhiều càng tốt Mục đích: Để Facebook đánh giá tốt về Page, từ đó nó mới đề xuất cho Viral](https://www.facebook.com/KindContentAgency/posts/pfbid02kCRep6vDKy5AEyE1xhfmK3MMLqXbz7UypgQDKtypED34RdY53fLr2TCGKHtREL4l)
 				- Tặng tài liệu, hỏi/ đáp, tranh cãi
 				- Minigame. Give a way
 				- Tích cực tương tác với mọi người
