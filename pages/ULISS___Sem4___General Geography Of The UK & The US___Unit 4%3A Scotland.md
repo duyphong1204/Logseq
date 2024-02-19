@@ -102,4 +102,11 @@ collapsed:: true
 			- Edinburgh, which is half the size of Glasgow, has a comparatively middle-class image
 				- (although class differences between the two cities are not really very great).
 				- It is the capital of Scotland
-				- associated with scholarship, the law and administration. This reputation, together with its many fine historic buildings, and also perhaps its topography (there is a rock in the middle of the city on which stands the castle) has led to its being called 'Athens of the North. The annual Edinburgh Festival of the arts is internationally famous.
+					- associated with
+						- scholarship
+						- the law
+						- administration.
+				- This reputation, has led to its being called 'Athens of the North
+					- together with its many fine historic buildings, and also perhaps its topography
+					- (there is a rock in the middle of the city on which stands the castle)
+				- The annual Edinburgh Festival of the arts is internationally famous.
