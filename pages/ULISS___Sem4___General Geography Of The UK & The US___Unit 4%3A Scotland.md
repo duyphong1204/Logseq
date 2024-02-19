@@ -89,5 +89,4 @@ collapsed:: true
 							  | Dh' eireadh Unionn moch's a mhaduinn: | Fingla would rise early |
 							  | Rughadh Shuas's a'mhoch mhaduinn | With a rosy sky at dawn |
 							  | Dheanadh Fionn an ath-chadal. | He would take another sleep. |
-						-
-						-
+		-
