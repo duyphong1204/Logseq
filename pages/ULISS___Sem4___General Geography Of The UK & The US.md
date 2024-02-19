@@ -19,4 +19,5 @@ id:: 65ad51f0-b171-4c83-a6f5-7c65ffcb2df6
 	- **Highest point:** Ben Nevis (1.343 m)
 	- **Longest river:** Tay (188 km)
 	- **Largest lake:** Loch Lomond (60 sq km)
--
+	- Scotland, or in Gaelic, Alba, is a country (formerly an independent kingdom) of northwest Europe, occupying the northern third of the island of Great Britain. In the United Kingdom, Scotland is the second-largest nation (after England).
+	- Scotland was first united with England in 1603, when the Scottish King James the Sixth became James the First of England and Scotland. On March 26, 1707, the Scottish and English parliaments merged to form the Kingdom of Great Britain, which eventually became the United Kingdom of Great Britain and Northern Ireland, though some aspects. notably Scotland's legal system, did remain separate. In 1999, Scotland received its own devolved home rule parliament to govern the country on purely domestic matters.
