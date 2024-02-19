@@ -64,6 +64,7 @@ collapsed:: true
 	- Giải quyết câu hỏi làm gì tiếp bây giờ?
 - Mindmap
 	- I. Tổng quan về Content Facebook
+	  collapsed:: true
 		- Content, Content Marketing là gì?
 			- Phải phục vụ Marketing
 			- Phải chia giai đoạn cụ thể
@@ -97,9 +98,9 @@ collapsed:: true
 				- Tại sao họ lại tạo ra nhiều Fanpage như vậy?
 					- Nhiều trang đại lý khác nhau quảng cáo cho sản phẩm này
 					- Họ muốn chia nhỏ tập khách, chia nhỏ phân khúc để quảng cáo chính xác hơn
-					- Một tệp họ sẽ nhắm vào phụ nữ đã có gia đình để quảng cáo
-					- Một tệp họ sẽ nhắm vào phụ nữ thu nhập cao
-					- Hoặc target đến người đàn ông
+						- Một tệp họ sẽ nhắm vào phụ nữ đã có gia đình để quảng cáo
+						- Một tệp họ sẽ nhắm vào phụ nữ thu nhập cao
+						- Hoặc target đến người đàn ông
 					- Để tập trung vào 1 sản phẩm duy nhất, khiến khách hàng đọc tên brand hiểu luôn
 					- Mỗi một nhóm sẽ có một cái thông điệp khác nhau.
 				- Tại sao trên page chẳng thấy like gì nhưng doanh thu vẫn đạt hàng tỉ đồng?
@@ -162,6 +163,7 @@ collapsed:: true
 							- ![🏠](https://static.xx.fbcdn.net/images/emoji.php/v9/t4f/1.5/16/1f3e0.png) 793A Ba Đình, phường 10, quận 8
 							- ![☎️](https://static.xx.fbcdn.net/images/emoji.php/v9/ta9/1.5/16/260e.png) 0377 399 000
 						- LET'T ENHANCE YOUR FUTURE
+						  collapsed:: true
 							- - Hôm nay, cảm ơn tất cả mọi người đến tham gia sự kiện WORKSHOP "LET'T ENHANCE YOUR FUTURE WITH HECTOR KIM TUYẾN"
 							  - Đây cũng là tập mở đầu trong chuỗi sự kiện "LET'T ENHANCE YOUR FUTURE" làm rõ nét bản thân cho từng đại lý của Hector Kim Tuyến trong năm 2023. Trong năm này, Hector Kim Tuyến sẽ hỗ trợ đào tạo một cách tốt nhất về các kỹ năng bán hàng cũng như các kiến thức phát triển bản thân, giúp cho mọi người làm rõ nét bản thân mình hơn và tự khẳng định thương hiệu cá nhân của mình tốt hơn.
 							  - Cuối cùng, đây là sự kiện WORKSHOP đầu tiên mà Hector Kim Tuyến tổ chức nên không tránh khỏi những thiếu xót và bất cập. Rút kinh nghiệm từ chương trình lần này và sự góp ý của mọi người thì chắc chắn những sự kiện sau sẽ càng hoàn thiện hơn.
@@ -169,6 +171,7 @@ collapsed:: true
 							  - Chúc mọi người cuối tuần vui vẻ ^^
 							- ![image.png](../assets/image_1708357215955_0.png)
 						- Hector Tour
+						  collapsed:: true
 							- - NGÀY HẸN CỦA GIA TỘC HECTOR - HECTOR TOUR NĂM 2023
 							    
 							    [#Hectortour], ngày hội truyền thống của Hector, ngày mà các nhà bán hàng Hector khắp nơi trên toàn quốc (năm nay có quốc tế luôn) cùng sum vầy, chia sẻ, vinh danh và cùng gắn kết.   
