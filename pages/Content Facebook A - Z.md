@@ -141,7 +141,8 @@ collapsed:: true
 							  Lưu ý: Mọi người sẽ đi xe chung với đoàn và về trong ngày.
 							  Hotline: 0377 399 000
 							- ![image.png](../assets/image_1708357106009_0.png)
-						- [Đua xe đạp]
+						- [Đua xe đạp](https://www.facebook.com/watch/?v=783733283342811)
+						  collapsed:: true
 							- HECTOR - VINH DỰ LÀ NHÀ "HỖ TRỢ SỨC BỀN" ĐỒNG HÀNH CÙNG CUỘC ĐUA XE ĐẠP CÚP HTV LẦN THỨ 35 NĂM 2023
 							- 🚴🏻‍ Từ 2/4 đến 30/4/2023🚴🏻‍
 							- Bên cạnh hỗ trợ về tài chính, bằng kinh nghiệm lâu năm phát triển các sản phẩm chăm sóc sức khỏe, Hector tự hào hỗ trợ sức bền cho các VĐV, BTC (đội mô tô, hậu cần, phóng viên và tình nguyện viên) thông qua 2 dòng sản phẩm Hector Sâm và Hector Collagen, giúp nâng cao thể lực, sức bền và bổ sung dinh dưỡng.
@@ -161,6 +162,11 @@ collapsed:: true
 							- ![🏠](https://static.xx.fbcdn.net/images/emoji.php/v9/t4f/1.5/16/1f3e0.png) 793A Ba Đình, phường 10, quận 8
 							- ![☎️](https://static.xx.fbcdn.net/images/emoji.php/v9/ta9/1.5/16/260e.png) 0377 399 000
 						- LET'T ENHANCE YOUR FUTURE
+							- Hôm nay, cảm ơn tất cả mọi người đến tham gia sự kiện WORKSHOP "LET'T ENHANCE YOUR FUTURE WITH HECTOR KIM TUYẾN"
+							- Đây cũng là tập mở đầu trong chuỗi sự kiện "LET'T ENHANCE YOUR FUTURE" làm rõ nét bản thân cho từng đại lý của Hector Kim Tuyến trong năm 2023. Trong năm này, Hector Kim Tuyến sẽ hỗ trợ đào tạo một cách tốt nhất về các kỹ năng bán hàng cũng như các kiến thức phát triển bản thân, giúp cho mọi người làm rõ nét bản thân mình hơn và tự khẳng định thương hiệu cá nhân của mình tốt hơn.
+							- Cuối cùng, đây là sự kiện WORKSHOP đầu tiên mà Hector Kim Tuyến tổ chức nên không tránh khỏi những thiếu xót và bất cập. Rút kinh nghiệm từ chương trình lần này và sự góp ý của mọi người thì chắc chắn những sự kiện sau sẽ càng hoàn thiện hơn.
+							- Hẹn mọi người ở các sự kiện làn sau nhé !!!
+							- Chúc mọi người cuối tuần vui vẻ ^^
 						- Hector Tour
 				- Chuyển đổi, quảng cáo
 					- Minigame
