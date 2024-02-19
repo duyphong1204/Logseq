@@ -551,7 +551,7 @@ collapsed:: true
 				- Phải hiểu rõ sản phẩm mới có thể làm, hoặc yêu cầu tính chuyên môn cao
 				- Phải tốn nhiều thời gian tinh chỉnh sửa
 				- Dạng Content này có thể cài cắm chuyển đổi rất tốt
-		- Sáng tạo Content giải trí
+		- [Sáng tạo Content giải trí](https://docs.google.com/spreadsheets/d/1_mREUVDsblImSuaHtUMw6BFvx_DSVj7AARF2HMfES1w/edit#gid=1905038788)
 			- Đa phần là Re-up
 			- Hoặc sáng tạo gần tương tự, viết lại & chế lại ảnh
 			- Có cái nhìn rộng ra trong phân khúc khách hàng
