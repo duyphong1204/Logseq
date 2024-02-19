@@ -313,7 +313,7 @@ collapsed:: true
 		- Giai đoạn 2: 10K - 30K - 50K: Attention + Trust & Buy
 			- Mục tiêu giai đoạn này: Làm khán giả tin yêu thương hiệu và chuyển đổi mạnh
 			- Duy trì các hoạt động bên trên, đặc biệt là những dạng content chỉ bên mình có
-				- Ví dụ Casestudy 108tr, lộ trình trở thành Content Freelancer,...
+				- [Ví dụ Casestudy 108tr, lộ trình trở thành Content Freelancer,...](https://www.facebook.com/groups/tamsu.content/posts/745381563240927/)
 			- Đăng những tuyến bài để tăng sự uy tín
 				- Giới thiệu giảng viên, thành tích
 				- Feedback học viên
@@ -335,9 +335,9 @@ collapsed:: true
 			- Đẩy những Content Viral
 				- Content Viral là content có thể lan truyền với tốc độ chóng mặt, như Virus. Tức là nó sẽ phù hợp với nhiều tệp đối tượng khác nhau.
 					- Ví dụ 1 Fanpage về kinh doanh
-					- Kiến thức kinh doanh, quản lý tài chính, nhân sự, quy trình, bộ máy....
-					- Động lực kinh doanh
-					- Lời khuyên từ tỉ phú, người thành công...
+						- Kiến thức kinh doanh, quản lý tài chính, nhân sự, quy trình, bộ máy....
+						- Động lực kinh doanh
+						- Lời khuyên từ tỉ phú, người thành công...
 					- Kỷ luật bản thân
 					- Triết lý cuộc sống
 			- Rủi ro khi đẩy Content Viral
