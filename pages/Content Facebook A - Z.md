@@ -1,63 +1,611 @@
-## Nội dung   khóa học
-- #### I. Tổng quan khóa học
-	- Giới thiệu mục tiêu, lợi ích khóa học, lời đầu tiên của giảng viên
-	- Học thế nào để ra kết quả nhanh nhất có thể?
-- #### II. Tổng quan về Content Facebook
-	- Content là gì? Content Marketing là gì?
-	- Content trên Facebook là gì, bao gồm những loại nào?
-	- Always-on Content & Performance Content là gì?
-	- Creative Brief, Content Plan là gì? Nó trông như thế nào?
-	- Buyer Persona, Big Idea, Insight là gì?
-	- Những thuật ngữ thường gặp khi làm Content Facebook
-	- Bạn sẽ là ai khi làm Content Facebook?
-- #### III. Hiểu nền tảng Facebook cần nội dung như thế nào?
-	- Phân biệt 4 loại Fanpage phổ biến nhất & đặc điểm của từng kênh
-	- Hiểu chiến lược Kinh doanh và Marketing chính của Fanpage
-	- Một Fanpage thì sẽ trải qua những giai đoạn nào?
-	- Lộ trình để phát triển nội dung cho từng loại Fanpage.
-	- Những định dạng nào hiện đang được đề xuất tốt nhất?
-	- Quy trình xây dựng kế hoạch Content trên Facebook phục vụ từng mục tiêu
-- #### IV. Tứ diện nghiên cứu & từng bước lập kế hoạch content Social
-	- Tại sao cần phải nghiên cứu, nghiên cứu & nghiên cứu?
-	- Nghiên cứu khách hàng, nhân khẩu học & 3 loại Insights chính
-	- Nghiên cứu đối thủ đăng giờ nào, content gì hay và không hay
-	- Nghiên cứu, định vị thương hiệu, tính cách
-	- Nghiên cứu tính năng, lợi ích của sản phẩm
-- #### VI. Chiến lược, kế hoạch Content ngắn & dài hạn cho Fanpage
-	- Xác định mục tiêu, nguồn lực cần thiết
-	- Xây dựng bảng Brief tóm tắt dự án
-	- Xây dựng Key Message, thống nhất Mood & Tone cho thương hiệu
-	- Xây dựng Creative Brief chi tiết cho thương hiệu
-	- Xác định những chủ đề chính (Content Pillar)
-	- Phát triển hàng loạt ý tưởng nội dung, Angle Content.
-	- Chọn lọc những ý tưởng nội dung phù hợp theo từng giai đoạn của kênh Social
-	- Lập lịch nội dung chuyên nghiệp cho 1 tháng
-	- Ứng dụng AI làm kế hoạch nội dung thế nào là đúng cách?
-	- Set lịch đăng bài, đo lường & tối ưu như thế nào?
-- #### VII. Sáng tạo Content chuyên quảng cáo/ bán hàng
-	- Hiểu những nguyên tắc viết nội dung cơ bản nhất
-	- Chuẩn bị những gì để sáng tạo nội dung bán hàng
-	- Cấu trúc một bài quảng cáo/ bán hàng trên Facebook
-	- Hướng dẫn viết tiêu đề & 200 mẫu tiêu đề chuyên quảng cáo
-	- Top 12 công thức viết content hiệu quả nhất
-	- Tiến hành viết nội dung chi tiết sao cho thuyết phục từ đầu tới đuôi
-	- Tối ưu CTA & phần ký tên
-	- Bonus: Thiết kế hình ảnh, đẹp, nhanh chóng với Canva & AI
-- #### VIII. Sáng tạo Content hữu ích ngàn likes trên cộng đồng, nhóm
-	- Content hữu ích không chỉ tăng trust mà còn có thể ra ngay đơn hàng giá trị lớn
-	- Quy trình sáng tạo nội dung hữu ích
-	- Chuẩn bị những gì để sáng tạo nội dung hữu ích
-	- Công thức viết tiêu đề dễ ăn đề xuất nhất
-	- Tiến hành viết nội dung hữu ích ai cũng muốn đọc
-	- Thể hiện dưới dạng Album hình ảnh (Carousels) chuyên nghiệp đăng lên mọi nền tảng Social
-	- Thể hiện dưới dạng Reels kiến thức, không cần lộ mặt
-- #### IX. Nâng cao trong Content Facebook
-- Một Fanpage mới tinh thì phải làm gì để phát triển?
-- Làm thế nào để có Reach khi mới bắt đầu mà không chạy quảng cáo?
-- Seeding là gì? Tại sao phải seeding?
-- Chiến lược Seeding đơn giản nhưng hiệu quả: Đơn hàng & reach
-- Phễu (sales funnel) là gì? Chiến lược thu hút phễu tại Kind Content
-- #### X. Tổng kết khóa học
-- Hướng đi sắp tới: Xây kênh hay là làm CV?
-- Định hướng lộ trình phát triển của một dân chuyên sáng tạo nội dung Facebook.
-- Giải quyết câu hỏi làm gì tiếp bây giờ?
+## Nội dung khóa học
+collapsed:: true
+	- #### I. Tổng quan khóa học
+		- Giới thiệu mục tiêu, lợi ích khóa học, lời đầu tiên của giảng viên
+		- Học thế nào để ra kết quả nhanh nhất có thể?
+	- #### II. Tổng quan về Content Facebook
+		- Content là gì? Content Marketing là gì?
+		- Content trên Facebook là gì, bao gồm những loại nào?
+		- Always-on Content & Performance Content là gì?
+		- Creative Brief, Content Plan là gì? Nó trông như thế nào?
+		- Buyer Persona, Big Idea, Insight là gì?
+		- Những thuật ngữ thường gặp khi làm Content Facebook
+		- Bạn sẽ là ai khi làm Content Facebook?
+	- #### III. Hiểu nền tảng Facebook cần nội dung như thế nào?
+		- Phân biệt 4 loại Fanpage phổ biến nhất & đặc điểm của từng kênh
+		- Hiểu chiến lược Kinh doanh và Marketing chính của Fanpage
+		- Một Fanpage thì sẽ trải qua những giai đoạn nào?
+		- Lộ trình để phát triển nội dung cho từng loại Fanpage.
+		- Những định dạng nào hiện đang được đề xuất tốt nhất?
+		- Quy trình xây dựng kế hoạch Content trên Facebook phục vụ từng mục tiêu
+	- #### IV. Tứ diện nghiên cứu & từng bước lập kế hoạch content Social
+		- Tại sao cần phải nghiên cứu, nghiên cứu & nghiên cứu?
+		- Nghiên cứu khách hàng, nhân khẩu học & 3 loại Insights chính
+		- Nghiên cứu đối thủ đăng giờ nào, content gì hay và không hay
+		- Nghiên cứu, định vị thương hiệu, tính cách
+		- Nghiên cứu tính năng, lợi ích của sản phẩm
+	- #### VI. Chiến lược, kế hoạch Content ngắn & dài hạn cho Fanpage
+		- Xác định mục tiêu, nguồn lực cần thiết
+		- Xây dựng bảng Brief tóm tắt dự án
+		- Xây dựng Key Message, thống nhất Mood & Tone cho thương hiệu
+		- Xây dựng Creative Brief chi tiết cho thương hiệu
+		- Xác định những chủ đề chính (Content Pillar)
+		- Phát triển hàng loạt ý tưởng nội dung, Angle Content.
+		- Chọn lọc những ý tưởng nội dung phù hợp theo từng giai đoạn của kênh Social
+		- Lập lịch nội dung chuyên nghiệp cho 1 tháng
+		- Ứng dụng AI làm kế hoạch nội dung thế nào là đúng cách?
+		- Set lịch đăng bài, đo lường & tối ưu như thế nào?
+	- #### VII. Sáng tạo Content chuyên quảng cáo/ bán hàng
+		- Hiểu những nguyên tắc viết nội dung cơ bản nhất
+		- Chuẩn bị những gì để sáng tạo nội dung bán hàng
+		- Cấu trúc một bài quảng cáo/ bán hàng trên Facebook
+		- Hướng dẫn viết tiêu đề & 200 mẫu tiêu đề chuyên quảng cáo
+		- Top 12 công thức viết content hiệu quả nhất
+		- Tiến hành viết nội dung chi tiết sao cho thuyết phục từ đầu tới đuôi
+		- Tối ưu CTA & phần ký tên
+		- Bonus: Thiết kế hình ảnh, đẹp, nhanh chóng với Canva & AI
+	- #### VIII. Sáng tạo Content hữu ích ngàn likes trên cộng đồng, nhóm
+		- Content hữu ích không chỉ tăng trust mà còn có thể ra ngay đơn hàng giá trị lớn
+		- Quy trình sáng tạo nội dung hữu ích
+		- Chuẩn bị những gì để sáng tạo nội dung hữu ích
+		- Công thức viết tiêu đề dễ ăn đề xuất nhất
+		- Tiến hành viết nội dung hữu ích ai cũng muốn đọc
+		- Thể hiện dưới dạng Album hình ảnh (Carousels) chuyên nghiệp đăng lên mọi nền tảng Social
+		- Thể hiện dưới dạng Reels kiến thức, không cần lộ mặt
+	- #### IX. Nâng cao trong Content Facebook
+	- Một Fanpage mới tinh thì phải làm gì để phát triển?
+	- Làm thế nào để có Reach khi mới bắt đầu mà không chạy quảng cáo?
+	- Seeding là gì? Tại sao phải seeding?
+	- Chiến lược Seeding đơn giản nhưng hiệu quả: Đơn hàng & reach
+	- Phễu (sales funnel) là gì? Chiến lược thu hút phễu tại Kind Content
+	- #### X. Tổng kết khóa học
+	- Hướng đi sắp tới: Xây kênh hay là làm CV?
+	- Định hướng lộ trình phát triển của một dân chuyên sáng tạo nội dung Facebook.
+	- Giải quyết câu hỏi làm gì tiếp bây giờ?
+- Mindmap
+	- II. 3 cách chính để làm kinh doanh & marketing với Fanpage.
+		- 1. Tập trung Quảng cáo/ Bán hàng
+			- Nước lau sàn An An, Nhang An An
+				- Tại sao họ lại tạo ra nhiều Fanpage như vậy?
+					- Nhiều trang đại lý khác nhau quảng cáo cho sản phẩm này
+					- Họ muốn chia nhỏ tập khách, chia nhỏ phân khúc để quảng cáo chính xác hơn
+					- Một tệp họ sẽ nhắm vào phụ nữ đã có gia đình để quảng cáo
+					- Một tệp họ sẽ nhắm vào phụ nữ thu nhập cao
+					- Hoặc target đến người đàn ông
+					- Để tập trung vào 1 sản phẩm duy nhất, khiến khách hàng đọc tên brand hiểu luôn
+					- Mỗi một nhóm sẽ có một cái thông điệp khác nhau.
+				- Tại sao trên page chẳng thấy like gì nhưng doanh thu vẫn đạt hàng tỉ đồng?
+					- Họ chỉ tập trung vào quảng cáo, không cần tương tác
+					- Họ chạy quảng cáo chuyển đổi, khách hàng sẽ comment số điện thoại để tư vấn
+					- Đội ngũ Sales hùng hậu chờ số điện thoại và gọi điện chốt
+				- Tuyến bài chính cả 2 page này
+					- 95% là tuyến bài quảng cáo
+					- Tính năng/ lợi ích
+					- Ưu đãi/ khuyến mãi/ giá hời
+					- USP
+					- Inisghts (Động lực/ khó khăn/ rào cản)
+					- Tuyến bài xoay quanh brand
+					- Làm brand trông uy tín, đáng tin hơn
+					- User thấy ADS vẫn chưa tin, họ sẽ vào fanpage xem thương hiệu có uy tín ko rồi mới quyết định
+			- Một số đặc điểm khác
+				- Nhiều khi chỉ là những sản phẩm trend, theo vụ mùa
+				- Lượng like thường buff ảo để "nhìn có vẻ uy tín" vì xác định làm Không lâu dài
+			- Hector - Tìm đại lý kinh doanh
+				- Hoạt động xoay quanh Brand
+					- Thông báo đào tạo kinh doanh, workshop
+					- Thông báo hợp tác với NPP, Đại lý mới
+					- Vinh danh NPP
+					- Feedback từ khách hàng
+					- Thông báo giải thưởng
+					- KOL Kim Tuyến
+					- Sự kiện
+					- Thiện nguyện
+					- Đua xe đạp
+					- LET'T ENHANCE YOUR FUTURE
+					- Hector Tour
+				- Chuyển đổi, quảng cáo
+					- Minigame
+					- Giới thiệu sản phẩm/ dịch vụ
+					- Ưu đãi/ khuyến mãi
+					- USP thương hiệu
+					- Insights painpoint/ động lực/ rào cản
+		- 2. Marketing giá trị
+			- Ví dụ
+				- 90% hữu ích - giải trí - động lực... 10% bán hàng
+			- Chiến lược dài hạn
+				- Chất lượng sản phẩm tốt
+				- Có chuyên môn về lĩnh vực
+				- Tạo nội dung hữu ích để thu hút
+					- Chia sẻ kiến thức về những chủ đề hot, hữu ích
+					- Tổ chức Webinar/ workshop
+					- Tổng hợp, checklist, ebook, mindmap, từ a - Z
+					- Chia sẻ tài liệu lớn, biểu mẫu
+					- Thấu hiểu nỗi đau khách hàng & giải quyết chúng 1 cách dễ hiểu
+					- Nên đầu tư thêm SEO Website, để có thể bóc tách các bài viết lớn để đăng nhỏ
+				- Giáo dục & cảm hóa
+					- Định hình tư duy, giúp user hiểu về ngành, vừa định hướng họ theo hướng có lợi cho brand
+					- Tuyến bài tạo niềm tin, uy tín cho brand.
+					- Liên tục hỗ trợ để tạo brand love. Phát sinh nhu cầu là nhớ tới thương hiệu
+					- Kết hợp giữa SEO, xây dựng các group riêng tư và công khai giữa brand và user.
+				- Chuyển đổi hành động
+					- Chốt sales bán hàng
+				- Chăm sóc để up và cross sales
+					- Truyền miệng
+					- Muốn học và làm Content chuẩn phải tới Kind Content
+					- Chương trình khách hàng thân quen
+		- 3. Marketing Giải trí
+			- Du học sinh
+				- 90% giải trí, 10% Còn lại có thể định hướng bán hàng, PR
+					- Bạn đang có đang gặp vấn đề gì Visa k?
+					- Comments nhắc tới thương hiệu chính
+			- Diêm thông nhất
+				- Tập trung vào mối quan tâm của khách hàng
+					- Trending
+					- Bóng đá
+					- Gaming
+					- Anime, Wibu
+				- Tập trung vào Nhận diện thương hiệu, in sâu vào tâm trí khách hàng chứ không cần chuyển đổi ngay
+		- Khi nào mình làm Page bán hàng/ khi nào làm giải trí & khi nào làm hữu ích?
+			- Tùy vào tính chất sản phẩm
+			- Tùy vào ngân sách, nguồn lực, nhân sự
+			- Tùy vào khách hàng muốn xem cái gì, có muốn xem không?
+			- Tuy vào độ tuổi khách hàng
+			- Xem đối thủ đang làm gì/ marketing kiểu gì rồi học hỏi
+	- IV. Tứ diện nghiên cứu Khách hàng - Đối thủ - Thương hiệu - Sản phẩm
+		- Tại sao lại cần nghiên cứu?
+			- Cùng xem qua thử một bảng kế hoạch
+			- Để làm 1 bài Ads thời gian nghiên cứu chiếm tới 80%
+		- Nghiên cứu khách hàng và 3 loại Insights
+			- Insights mong muốn
+			- Insights động lực
+			- Insights rào cản
+			- 3 loại Insights
+			- Cách nghiên cứu
+				- Phỏng vấn trực tiếp khách hàng
+				- Khảo sát bằng Form (tặng cái gì đó cho họ để họ vào điền Form)
+				- Đặt mình vào vị trí khách hàng
+				- Theo dõi các cuộc đánh giá, thảo luận trên mạng xã hội, hội nhóm,...
+				- Quan sát hành vi của khách hàng
+				- A/B Testing
+				- Sử dụng ChatGPT
+				- Nghiên cứu các kênh truyền thông của đối thủ. Facebook, TikTok, Google,...
+				- Nghiên cứu các bài quảng cáo trên Ads Library
+		- Nghiên cứu đối thủ
+			- Thể loại nội dung
+			- Định dạng nội dung
+			- Thời gian đăng
+			- Tần suất đăng
+			- Mood and tone?
+			- Top & Flop Content?
+			- Tương tác?
+			- Tập trung insight, key gì?
+			- Chiến lược, kế hoạch?
+			- Tools nghiên cứu
+				- Fanpage Karma
+				- Ads Library
+				- Simple UID
+				- IG Export
+				- Tiktokviewcount.com
+		- Nghiên cứu sản phẩm
+			- Tính năng
+			- Lợi ích
+			- Lý do tin
+			- Xuất sứ, giải thưởng, chính sách, thị phần, có KOLs nào sử dụng, giá cả cách sử dụng, độ khan hiếm,...
+			- Feedback
+			- Khuyến mãi
+		- Nghiên cứu brand/ USP
+		- Liệt kê hết tất cả vào Brief để lưu trữ
+	- V. Lập kế hoạch Content Marketing cho các kênh social
+		- Bước 1: Xác định bối cảnh, nguồn lực, thực trạng của thương hiệu
+			- Thực trạng brand như thế nào?
+				- Sắp tới dịp lễ, tết, sinh nhật công ty,....
+				- Đang ở giai đoạn 1, 2, 3 khi xây kênh?
+				- Đang bị cạnh tranh, đang gặp những vấn đề...
+				- Không có gì đặc sắc
+					- Lựa 1 sản phẩm nào đó để đẩy doanh số
+			- Ngân sách
+				- 20tr để marketing/ content/ thiết kế
+					- 50 nội dung
+			- Xác định kế hoạch, mục tiêu kinh doanh, marketing, content của brand hiện tại
+		- Bước 2: Xác định mục tiêu và thông điệp truyền thông (Key Message) cụ thể
+			- Xác định mục tiêu Content dựa vào mục tiêu marketing, kinh doanh
+				- Bàn kỹ với bộ phận kinh doanh, marketing, founder
+			- Một số mục tiêu phổ biến
+				- Branding
+					- 95% tập trung vào tăng like Page & Duy trì/ chăm sóc Fanpage
+					- Chỉ đăng hữu ích, giải trí, động lực, không kỳ vọng về chuyển đổi
+					- Chỉ 5% bán hàng rất nhẹ nhàng
+				- Performance
+					- 95% Tập trung ads sản phẩm An An
+					- 5% vào Branding
+					- Sản phẩm lên VTV
+					- Top 50 sản phẩm Hot
+					- Giấy chứng nhận...
+				- Branding & Performance
+					- Kind Content
+					- 90% tập trung vào nhận diện, 10% chuyển đổi: Khóa học Content Marketing cho người mới bắt đầu
+					- Hector Kim Tuyến
+					- Hector Kim Tuyến 50% thu hút, tạo niềm tin.
+					- Vinh danh NPP
+					- Sự kiện
+					- Hoạt động xoay quanh brand
+					- 50% còn lại là tuyến bài chuyển đổi.
+					- Giới thiệu sản phẩm
+					- Mời làm đại lý
+			- Ví dụ về thông điệp truyền thông
+				- Kangaroo
+					- Máy lọc nước hàng đầu việt nam
+				- Chỉ một chất men, mở năm thành tựu
+			- In sâu thông điệp này trong đầu khách hàng để họ nhớ tới là muốn mua hàng của mình
+				- Ví dụ Kind Content bán khóa học Content cho người mới bắt đầu
+					- Cái thông điệp gì mình đưa ra sẽ làm cho mọi người muốn mua khóa học C4B hơn?
+					- Nắm vững nền tảng Content Marketing thì mới phát triển được.
+					- Nếu không hiểu bản chất đừng mơ làm được Content hiệu quả.
+			- Không cần quá hay, nhưng sẽ cần đáp ứng đủ tiêu chí sau
+				- Một thông điệp nhất quán, không thể bị nhầm lẫn, dễ nhớ.
+				- Có sự khác biệt, tốt nhất là không trùng với bất cứ ai.
+				- Sử dụng ngôn ngữ dễ hiểu, quen thuộc.
+				- Liên quan trực tiếp tới khán giả, đúng insights, phải làm cho họ quan tâm.
+				- Cụ thể, đi thẳng vào vấn đề.
+		- Bước 3: Nghiên cứu tứ diện
+			- Nghiên cứu sản phẩm
+			- Nghiên cứu thương hiệu
+			- Nghiên cứu khách hàng, insights
+			- Nghiên cứu đối thủ
+		- Bước 4: Xác định chiến lược & kế hoạch truyền thông
+			- Theo hành trình khách hàng
+				- Biết
+					- Minigame, tài liệu, hữu ích, giải trí
+				- Hiểu
+					- Câu chuyện thương hiệu
+					- Hoạt động xoay quanh brand
+					- Giới thiệu chi tiết về brand
+				- Tin
+					- Feedback
+					- Casestudy
+					- Giọng nói, cách nói chuyện
+				- Yêu
+					- Giá trị đem lại quá lớn, quá hài, và quá nhiều
+				- Mua
+					- Ưu đãi, voucher
+					- Livestream
+					- Bán hàng/ quảng cáo
+				- Chăm sóc, up-sale
+					- Chương trình khuyến mãi
+					- Khách hàng thân thiết
+			- Attention - Trust - Buy
+			- Phủ Branding + Performance
+				- Branding
+					- Nhắc về sản phẩm, pain point, lợi ích, FAQs xoay quanh...
+				- Performance
+					- Ưu đãi, voucher
+					- Livestream chốt đơn
+			- Follow theo cái lộ trình xây kênh
+			- Marketing 0đ?
+				- Trên các trang truyền thông của công ty
+					- Facebook
+					- Chữ + ảnh
+					- Toptop
+					- Ảnh
+					- Video/ Reels
+					- IG
+					- Ảnh
+					- Reels
+					- Website
+					- Đặt box quảng cáo
+					- Làm hết landing page giới thiệu khóa học
+				- Đăng bài trên nhóm
+		- Bước 5: Xây dựng Brief tóm tắt dự án và Creative Brief tóm tắt yêu cầu sáng tạo
+		- Bước 6: Đưa ra Big Idea, Content Pillar & Lọc ra những chủ đề hot nhất
+			- Big Idea là ý tưởng chủ đạo cho 1 chiến dịch
+				- Kiến thức Content Marketing cho người mới
+					- Kiến thức nền tảng, gốc rễ vấn đề, kỹ năng cần thiết, người mới cần làm gì, việc làm content, sai lầm khi viết, quy trình...
+					- Giai đoạn này chưa focus vào xây kênh, chiến lược, đo lường, hay những kiến thức nâng cao khác
+			- Content Pillar là chủ đề chính của 1 chiến dịch, từ chủ đề chính ta sẽ ra được nhiều ý tưởng con
+			- Content Pillar
+				- Branding
+					- Tuyến bài xoay quanh brand
+					- Sự kiện mới
+					- Đối tác mới
+					- Khai trương
+					- hữu ích
+					- Tài liệu
+					- Tài liệu Content SEO
+					- Tài liệu Content Facebook
+					- Tài liệu về mẫu kế hoạch nội dung
+					- Ebook Reels
+					- Chủ đề HOT
+					- Sai lầm khi viết
+					- Tự học Content
+					- Quy trình viết
+					- Insight động lực
+					- cải thiện được khả năng viết
+					- Biết được quy tắc viết content cơ bản
+					- Cách viết một bài quảng cáo trên facebook
+					- Insigh khó khăn
+					- Đôi lúc không tìm ra ý tưởng viết bài.
+					- Phong cách viết chưa chuyên nghiệp.
+					- Chưa viết nhiều lĩnh vực, sản phẩm.
+					- giải trí
+					- Engage
+					- động lực
+				- Tăng niềm tin/ tăng trust
+					- Feedback học viên
+					- Casestudy
+					- Video chứa mặt, giọng nói
+				- Performance
+					- Tính năng/ lợi ích
+					- Insights đau đớn
+					- Insights động lực
+					- USP thương hiệu/ khóa học
+					- Ưu đãi, khuyến mãi, voucher
+					- Thông báo
+					- Pre-order
+					- Ngày cuối cùng của ưu đãi
+					- CMT
+		- Bước 7: Phát triển ý tưởng Content chi tiết cho từng Pillars (Content Angle)
+			- Content Angle là góc nhìn về 1 ý tưởng nào đó
+		- Bước 8: Làm bảng kế hoạch Content Marketing thật đẹp, thật tối ưu & dễ nhìn
+		- Bước 9: Triển khai & đăng nội dung theo kế hoạch
+		- Bước 10: Đăng bài, đo lường & tối ưu
+			- Tần suất đăng?
+				- 2-3 bài/ ngày
+				- Tối thiểu 60 bài/ tháng
+			- Nội dung của họ chủ yếu đăng gì?
+				- 10h hữu ích
+					- 60% là post hữu ích
+				- 20h đăng giải trí và những post kiểu engage
+					- 30% là post
+				- 10h chuyển đổi
+					- 5%-10%
+			- Thời gian đăng?
+				- Dùng Fanpage Karma xác định
+			- Tái chế Content thế nào?
+				- Evergreen Content
+					- 300-500 Evergreen Content cho 1 lĩnh vực là coi như xong. Những năm sau chỉ cần re-up, thay đổi định dạng.
+			- Thời gian đăng lại tốt nhất?
+				- 3-5 tháng
+	- VII. Kiến thức nâng cao, định hướng & tổng kết khóa học
+		- Sáng tạo hình ảnh
+			- Tham khảo, lấy mẫu từ chính Canva
+			- Sử dụng AI để thiết kế hình ảnh
+		- Seeding như thế nào để có LIKE hoặc có đơn hàng?
+			- Tài liệu Seeding cho hơn 40 ngành hàng
+			- Chia sẻ vào nhóm, cộng đồng
+		- Một fanpage mới bắt đầu thì phải làm gì để được tăng reach tự nhiên?
+			- Set up đầy đủ info
+			- Tạo ra tuyến bài tài sản lớn và đặt điều kiện để nhận, ví dụ: Like thì tui mới tặng
+			- Seeding, chia sẻ vào nhóm
+			- Tương tác với người khác: Comments dạo
+			- Đăng bài giờ vàng
+			- Đăng đúng tần suất
+			- Nuôi nhiều nick clone đi kết bạn với đối tượng khách hàng rồi kéo vào like page
+			- Tham khảo thêm 11 mẹo tăng reach
+		- Phễu là gì, tại sao lại cần phễu?
+			- Các nhóm Zalo của Kind Content
+			- Đơn giản là tạo ra tuyến bài tài sản lớn, thu hút họ vào phễu
+			- Ghim các bài thu phễu lên trang chủ, trang website
+		- Tìm ngách xây kênh
+		- Làm CV, Portfolio
+		- Bài tập
+			- 1. Xây dựng một bảng kế hoạch hoàn chỉnh cho một kênh bất kỳ, bao gồm đầy đủ 10 bước như đã hướng dẫn
+			- 2. Làm kế hoạch cho kênh Du học sinh tại Úc hoặc kênh giải trí bất kỳ.
+			- 3. Sáng tạo, re-up hoặc tái chế ra 10 Content cho kênh Du Học Sinh tại Úc
+			- 4. Viết bài quảng cáo cho 1 chủ đề bất kỳ. Khuyến khích viết bài quảng cáo khóa học cho Kind Content (Tức là sẽ phải tự làm lại khâu nghiên cứu tính năng - lợi ích & insights để có thể viết cho bài này)
+			- 5. Sáng tạo xong 2 post hữu ích chia sẻ về Content Marketing với 3 định dạng Chữ - Reels - Carousels (hoặc chia sẻ về cái gì cung được)
+		- Hẹn gặp lại
+	- VI. Cách sản xuất nội dung social
+		- 3 Cách chính để làm content
+			- Content Re-up hoặc rất dễ tái chế
+				- Liệt kê ra 10 nguồn để lấy thông tin: Fanpage, Group
+			- Content sáng tạo dễ dàng
+				- Mình có thể dễ dàng tham khảo ý và viết lại
+				- Thời gian làm ít, không tốn quá nhiều công sức & tiền bạc
+				- Mình có thể dễ dàng sử dụng ChatGPT để làm
+					- Đưa thông tin đầy đủ cho ChatGPT và nhờ nó viết
+				- Cũng đòi hỏi 1 tí chuyên môn
+			- Content sáng tạo UNIQUE/ USP (Sử dụng khi muốn chuyển đổi)
+				- Chuyên gia mới có: Tài liệu, casestudy, kiến thức ít người biết,...
+				- Phải hiểu rõ sản phẩm mới có thể làm, hoặc yêu cầu tính chuyên môn cao
+				- Phải tốn nhiều thời gian tinh chỉnh sửa
+				- Dạng Content này có thể cài cắm chuyển đổi rất tốt
+		- Sáng tạo Content giải trí
+			- Đa phần là Re-up
+			- Hoặc sáng tạo gần tương tự, viết lại & chế lại ảnh
+			- Có cái nhìn rộng ra trong phân khúc khách hàng
+		- Sáng tạo Content bán hàng
+			- Cấu trúc của một content bán hàng
+				- Tiêu đề chính, phụ
+					- Không thể thiếu ưu đãi shock, từ 50% đổ lên
+					- Không thể thiếu Insights động lực hoặc khó khăn của user
+					- USP mà chỉ brand có, không ai có được
+					- Tính khan hiếm sản phẩm
+					- Nghiên cứu đối thủ đang tập trung vào thông điệp thế nào (Ads Library)
+				- Insight (mong muốn, khó khăn, rào cản)
+				- Lợi ích/ tính năng sản phẩm/ dịch vụ
+					- Cam kết kiếm được công việc luôn
+					- Đảm bảo đầu ra
+				- Lý do tin sản phẩm/ thương hiệu/ cho những gì mình đang nói
+					- Feedback từ NPP
+					- Em là Agency chuyên về CM, em có hàng trăm khách 1 năm
+				- USP. Điểm khác biệt của thương hiệu/sản phẩm.
+				- Thông tin khác về sản phẩm
+					- - Giá cả
+					- - Khuyến mãi.
+					- - Feedback.
+					- - Sự khan hiếm của sản phẩm.
+					- - Có KOLs? Bằng chứng? Thành tựu?
+					- - Cách sử dụng
+					- - Chính sách
+				- Kêu gọi hành động
+			- Áp dụng công thức viết Content tối ưu
+			- Tham khảo đối thủ
+				- Có cái nhìn mở rộng phân khúc khách hàng
+				- Ví dụ phòng IT, nhân sự sẽ gần tương đồng phòng Marketing, có thể tham khảo được
+			- Đặc biệt phải tham khảo 10K+ Mẫu ads hàng tỉ - chục tỉ đồng này
+			- 5 tiêu chí cần có trong bài quảng cáo
+				- Đúng mục tiêu
+				- Mở đầu thu hút
+				- Ngắn gọn, súc tích
+				- Đúng đối tượng
+				- Thuyết phục
+		- Sáng tạo Content hữu ích
+			- Lời khuyên khi Marketing giá trị, làm content hữu ích
+				- Phải phát triển Website nếu ko thì rất phí và tăng độ khó cho game
+				- Hướng đến mục tiêu phủ ngành: Target 500 Evergreen Content
+				- Khóa học Content SEO Mastery sẽ rất phù hợp để bạn đạt được 2 mục tiêu này
+			- Cấu trúc của Content hữu ích
+				- Phần mở đầu
+					- Cách viết tiêu đề & 2-3 dòng mở đầu hay (Tham khảo bên anh Đức Dương)
+					- Công thức: Concept truyền thông + Insight + Đối tượng khách hàng + Tiêu đề phụ
+					- 9 công thức viết content dễ dàng dành cho người mới bắt đầu 2023 (Dành cho tất tần tật các loại content bán hàng/ hữu ích/, giải trí,...)
+					- Càng nhiều concept truyền thông càng tốt
+					- Số. 8 tips/ 9 mẹo/ 5 cách,...
+					- Tài sản lớn: 100 triệu, 1 tỷ, tài liệu TẤT TẦN TẬT,...
+					- Thúc dục: Xem ngay, Khai trương,
+					- Chuyện lạ/ chưa từng thấy/
+					- Đúng Insight
+					- Keyword
+					- Đối tượng khách hàng
+					- Bài viết dành cho Người mới bắt đầu
+					- Newbie
+					- Người mới vào nghề
+					- Dành cho MẸ BỈM SỮA
+					- Tham khảo thêm 500+ Mẫu tiêu đề đỉnh chóp (Đã được kiểm chứng nhiều lần)
+					- Đăng ký khóa học sẽ được những tài nguyên này
+					- Phần hình ảnh (nếu có)
+					- Tiêu đề trên ảnh khác cái tiêu đề trên Caption để có thể truyền tải nhiều thông điệp hơn, không bị lãng phí vị trí vàng.
+				- Phần thân bài
+					- Viết theo câu từ, kinh nghiệm có sẵn của mình
+					- Mình đi học, đọc sách
+					- Viết bằng cách lọc ra 3 đối thủ & tham khảo
+					- Viết bằng ChatGPT
+					- Kết hợp cả 3 lại
+				- Phần kết bài
+					- Truyền tải thông điệp
+					- CTA like, cmt, share hoặc CTA mua hàng luôn
+			- Sáng tạo Carousels
+				- Slide 1: Title
+				- Slide 2-8: Nội dung chính
+				- Slide 10: CTA
+				- Sử dụng mẫu có sẵn Kind Content tặng bạn
+			- Sáng tạo Reels
+	- III. Lộ trình để phát triển 1 fanpage thành công? Những việc cần làm cho từng giai đoạn
+		- Giai đoạn 1: 0 - 10K like. Set-up và Attention, hút Like Page
+			- Mục tiêu: Setup & Thu hút khán giả like page
+			- Set-up đầy đủ Avatar, ảnh bìa, mô tả, thông tin, chatbox, checkin, likes khoảng 10 fanpage liên quan tới lĩnh vực của bạn...
+			- Đăng giới thiệu đầy đủ tất cả các sản phẩm/ dịch vụ + những trang thu leads và ghim lên đầu trang
+				- Để Facebook biết bạn là trang về cái gì, để còn phân phối cho đúng tệp
+				- Để có thể dễ dàng có khách hàng đầu tiên luôn
+				- Sau này các bạn đăng mà user thấy thì họ tò mò vào trang và thấy ngay các bài đang ghim > phát sinh đơn hàng hoặc leads
+			- Đẩy những Content HOT, siêu thu hút, tài liệu lớn, Minigame, những quà tặng,... Liên quan tới sản phẩm/ dịch vụ của mình.
+				- Ví dụ chủ đề HOT, rồi mời like page
+					- Bài của Mind Mesh
+				- Tài liệu lớn, siêu khủng
+					- Để nhận được tài liệu bạn phải LIKE FANPAGE
+				- Minigame
+				- Hợp tác với các thương hiệu khác, và nhờ họ giới thiệu hộ
+				- Bắt buộc phải kêu gọi hành động họ LIKE PAGE. Cho họ 1 lý do, cho họ cái "Mồi" để họ Like Page.
+			- Đẩy dịch vụ thật khéo léo (Performance Content)
+				- Kết hợp email
+				- Các nhóm zalo
+				- Kết hợp thông điệp trên Website
+				- Để nhận được tài liệu khủng thì cần vào nhóm kín, trong đây sẽ có quảng cáo về dịch vụ
+			- Tích cực seeding, chạy quảng cáo, chia sẻ vào nhóm, nhờ các đối tác giới thiệu, booking KOL/ KOC review page,...
+		- Giai đoạn 2: 10K - 30K - 50K: Attention + Trust & Buy
+			- Mục tiêu giai đoạn này: Làm khán giả tin yêu thương hiệu và chuyển đổi mạnh
+			- Duy trì các hoạt động bên trên, đặc biệt là những dạng content chỉ bên mình có
+				- Ví dụ Casestudy 108tr, lộ trình trở thành Content Freelancer,...
+			- Đăng những tuyến bài để tăng sự uy tín
+				- Giới thiệu giảng viên, thành tích
+				- Feedback học viên
+				- Workshop/ Webinar/ Tổ chức sự kiện
+				- Kết hợp với nhiều người nổi tiếng trong ngành
+			- Tuyến bài Hỗ trợ chuyển đổi, liên quan tới chuyên môn về dịch vụ/ sản phẩm của bạn
+				- Đăng những chủ đề chuyên sâu về dịch vụ/ sản phẩm
+				- Cố gắng viết theo chiều hướng hữu ích chứ không đơn thuần là bán hàng
+				- Giải quyết Insights Pain point và nhấn mạnh những gì là mong muốn/ lợi ích khách hàng
+				- Ví dụ khi mình bán khóa học
+					- Content SEO Mastery: Thì chỉ đăng những chủ đề về như checklist Content SEO, tiêu chí đánh giá, sai lầm khi viết Content SEO
+					- Khi bán khóa Content Facebook: Viết bài quảng cáo, chiến lược, kế hoạch Fanpage
+				- Ở các bình luận
+				- Đăng 9 bài hữu ích/ giải trí thì có 1 bài quảng cáo/ bán hàng.
+			- Ngoài ra, bạn cũng có thể kết hợp luôn với Giai đoạn 3, giai đoạn Scale
+		- Giai đoạn 3: 30K - 50K - 100K. Scale bằng cách đẩy Content Viral
+			- Mục tiêu: Scale, mở rộng tệp follower hơn với Viral Content
+			- Vẫn duy trì tốt tuyến bài Attention và Trust x Buy bên trên
+			- Đẩy những Content Viral
+				- Content Viral là content có thể lan truyền với tốc độ chóng mặt, như Virus. Tức là nó sẽ phù hợp với nhiều tệp đối tượng khác nhau.
+					- Ví dụ 1 Fanpage về kinh doanh
+					- Kiến thức kinh doanh, quản lý tài chính, nhân sự, quy trình, bộ máy....
+					- Động lực kinh doanh
+					- Lời khuyên từ tỉ phú, người thành công...
+					- Kỷ luật bản thân
+					- Triết lý cuộc sống
+			- Rủi ro khi đẩy Content Viral
+				- Rất dễ bị lệch tệp
+				- Nhiều khi Viral không ngon bằng cái việc cứ duy trì giai đoạn 1 & 2 đâu.
+				- Ví dụ case Tâm Sự Con Sen
+					- 100K-200K thành viên ae chia sẻ Content toàn 1k 2k tương tác là bình thường.
+					- Giờ 500k member thì các bài về Content Flop. 500 tương tác đã nhiều. Vì quá nhiều người vào Group, quá nhiều nhu cầu khác nhau
+			- Lời khuyên khi triển Khai Content Viral
+				- Tốt nhất tuyến bài Viral liên quan trực tiếp tới dịch vụ của mình. Càng liên quan càng tốt
+				- An toàn nhất là phát triển ra thêm 1 fanpage khác để đỡ bị lệch tệp
+				- Giai đoạn Page ít like < 50K likes tốt nhất đừng mở rộng tệp với Viral Content vội
+				- Phải phát triển ra được nhiều sản phẩm hơn để phù hợp với cái tệp mới.
+			- Đẩy content Viral có liên quan tới mối quan tâm của khách hàng, đặc biệt là Reels & Watch
+				- Ví dụ page kinh doanh
+					- Động lực kinh doanh
+					- Lời khuyên từ tỉ phú, người thành công...
+					- Kỷ luật bản thân
+					- Triết lý cuộc sống
+			- Ép mọi người phải like/ cmt/ share càng nhiều càng tốt Mục đích: Để Facebook đánh giá tốt về Page, từ đó nó mới đề xuất cho Viral
+				- Tặng tài liệu, hỏi/ đáp, tranh cãi
+				- Minigame. Give a way
+				- Tích cực tương tác với mọi người
+				- Seeding liên tục
+		- Giai đoạn 4: 100K>. Tiếp tục mở rộng tệp
+			- Duy trì các giai đoạn trên thật đều đặn
+			- Cũng nội dung đó nhưng đa dạng hình thức thế hiện Content hơn
+				- Chữ
+				- Chữ + Ảnh
+				- Album ảnh
+				- Reels
+				- Watch
+			- Vẫn tiếp tục đẩy mạnh Viral Content để mở rộng tệp
+			- Mở rộng tệp. Thay vì chỉ chia sẻ về Content thì có thể tập trung vào
+				- SEO
+				- Về Marketing
+				- Xây kênh
+				- Kinh Doanh Online, Kiếm tiền
+			- Phát triển ra nhiều sản phẩm khác nhau phù hợp với cái tệp của bạn.
+	- I. Tổng quan về Content Facebook
+		- Content, Content Marketing là gì?
+			- Phải phục vụ mục tiêu Marketing
+			- Phải chia giai đoạn cụ thể
+				- Thu hút, nhận biết
+				- Tạo niềm tin, brand love
+				- Chốt đơn, bán hàng
+				- Chăm sóc & up-sale
+			- Mối quan hệ lâu dài. Khác với quảng cáo ngắn hạn
+		- 2 dạng Content phổ biến nhất trên Facebook
+			- Always-on Content (Mục tiêu Branding: Nhận diện, tin yêu)
+				- Hữu ích
+				- Giải trí
+				- Động lực
+				- Hoạt động xoay quanh thương hiệu
+					- Sự kiện mới
+					- Khách hàng
+					- Feedback
+			- Performance Content (Mục tiêu chuyển đổi)
+		- Những thuật ngữ cơ bản trên Content Social nói chung
+			- Brief
+			- Creative Brief
+			- Target Audience
+			- Key Message
+			- Buyer Persona
+			- Big Idea
+			- Insight
+			- Content Calendar
+			- CTA (Call to action)
+	- 🔥 Đây là mind map tóm tắt "khóa học Content Facebook A - Z" của Kind Content. Bạn đăng ký học trong tháng này để nhận ưu đãi 500K nhé ^^.
