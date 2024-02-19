@@ -1,0 +1,63 @@
+## Nội dung   khóa học
+- #### Tổng quan khóa học
+	- Giới thiệu mục tiêu, lợi ích khóa học, lời đầu tiên của giảng viên
+	- Học thế nào để ra kết quả nhanh nhất có thể?
+- #### Tổng quan về Content Facebook
+- Content là gì? Content Marketing là gì?
+- Content trên Facebook là gì, bao gồm những loại nào?
+- Always-on Content & Performance Content là gì?
+- Creative Brief, Content Plan là gì? Nó trông như thế nào?
+- Buyer Persona, Big Idea, Insight là gì?
+- Những thuật ngữ thường gặp khi làm Content Facebook
+- Bạn sẽ là ai khi làm Content Facebook?
+- ####
+- Phân biệt 4 loại Fanpage phổ biến nhất & đặc điểm của từng kênh
+- Hiểu chiến lược Kinh doanh và Marketing chính của Fanpage
+- Một Fanpage thì sẽ trải qua những giai đoạn nào?
+- Lộ trình để phát triển nội dung cho từng loại Fanpage.
+- Những định dạng nào hiện đang được đề xuất tốt nhất?
+- Quy trình xây dựng kế hoạch Content trên Facebook phục vụ từng mục tiêu
+- ####
+- Tại sao cần phải nghiên cứu, nghiên cứu & nghiên cứu?
+- Nghiên cứu khách hàng, nhân khẩu học & 3 loại Insights chính
+- Nghiên cứu đối thủ đăng giờ nào, content gì hay và không hay
+- Nghiên cứu, định vị thương hiệu, tính cách
+- Nghiên cứu tính năng, lợi ích của sản phẩm
+- ####
+- Xác định mục tiêu, nguồn lực cần thiết
+- Xây dựng bảng Brief tóm tắt dự án
+- Xây dựng Key Message, thống nhất Mood & Tone cho thương hiệu
+- Xây dựng Creative Brief chi tiết cho thương hiệu
+- Xác định những chủ đề chính (Content Pillar)
+- Phát triển hàng loạt ý tưởng nội dung, Angle Content.
+- Chọn lọc những ý tưởng nội dung phù hợp theo từng giai đoạn của kênh Social
+- Lập lịch nội dung chuyên nghiệp cho 1 tháng
+- Ứng dụng AI làm kế hoạch nội dung thế nào là đúng cách?
+- Set lịch đăng bài, đo lường & tối ưu như thế nào?
+- ####
+- Hiểu những nguyên tắc viết nội dung cơ bản nhất
+- Chuẩn bị những gì để sáng tạo nội dung bán hàng
+- Cấu trúc một bài quảng cáo/ bán hàng trên Facebook
+- Hướng dẫn viết tiêu đề & 200 mẫu tiêu đề chuyên quảng cáo
+- Top 12 công thức viết content hiệu quả nhất
+- Tiến hành viết nội dung chi tiết sao cho thuyết phục từ đầu tới đuôi
+- Tối ưu CTA & phần ký tên
+- Bonus: Thiết kế hình ảnh, đẹp, nhanh chóng với Canva & AI
+- ####
+- Content hữu ích không chỉ tăng trust mà còn có thể ra ngay đơn hàng giá trị lớn
+- Quy trình sáng tạo nội dung hữu ích
+- Chuẩn bị những gì để sáng tạo nội dung hữu ích
+- Công thức viết tiêu đề dễ ăn đề xuất nhất
+- Tiến hành viết nội dung hữu ích ai cũng muốn đọc
+- Thể hiện dưới dạng Album hình ảnh (Carousels) chuyên nghiệp đăng lên mọi nền tảng Social
+- Thể hiện dưới dạng Reels kiến thức, không cần lộ mặt
+- ####
+- Một Fanpage mới tinh thì phải làm gì để phát triển?
+- Làm thế nào để có Reach khi mới bắt đầu mà không chạy quảng cáo?
+- Seeding là gì? Tại sao phải seeding?
+- Chiến lược Seeding đơn giản nhưng hiệu quả: Đơn hàng & reach
+- Phễu (sales funnel) là gì? Chiến lược thu hút phễu tại Kind Content
+- ####
+- Hướng đi sắp tới: Xây kênh hay là làm CV?
+- Định hướng lộ trình phát triển của một dân chuyên sáng tạo nội dung Facebook.
+- Giải quyết câu hỏi làm gì tiếp bây giờ?
