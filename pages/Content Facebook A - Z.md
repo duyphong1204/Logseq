@@ -62,27 +62,33 @@ collapsed:: true
 	- Hướng đi sắp tới: Xây kênh hay là làm CV?
 	- Định hướng lộ trình phát triển của một dân chuyên sáng tạo nội dung Facebook.
 	- Giải quyết câu hỏi làm gì tiếp bây giờ?
-- Mindmap
+- ## Mindmap
 	- I. Tổng quan về Content Facebook
 	  collapsed:: true
 		- Content, Content Marketing là gì?
+		  collapsed:: true
 			- Phải phục vụ Marketing
 			- Phải chia giai đoạn cụ thể
+			  collapsed:: true
 				- Thu hút, nhận biết
 				- Tạo niềm tin, brand love
 				- Chốt đơn, bán hàng
 				- Chăm sóc & up-sale
 			- Mối quan hệ lâu dài, khác với quảng cáo ngắn hạn
 		- 2 dạng Content phổ biến nhất Facebook
+		  collapsed:: true
 			- Always-on Content
+			  collapsed:: true
 				- Hữu ích
 				- Giải trí
 				- Động lực
 				- Hoạt động xoay quanh thương hiệu
+				  collapsed:: true
 					- Sự kiện mới
 					- Khách hàng
 					- Feedback
 			- Performance Content (Mục tiêu chuyển đổi)
+			  collapsed:: true
 				- Brief
 				- Creative Brief
 				- Target Audience
@@ -242,11 +248,14 @@ collapsed:: true
 		- collapsed:: true
 		  2. Marketing giá trị
 			- Ví dụ
+			  collapsed:: true
 				- 90% hữu ích - giải trí - động lực... 10% bán hàng
 			- Chiến lược dài hạn
+			  collapsed:: true
 				- Chất lượng sản phẩm tốt
 				- Có chuyên môn về lĩnh vực
 				- Tạo nội dung hữu ích để thu hút
+				  collapsed:: true
 					- Chia sẻ kiến thức về những chủ đề hot, hữu ích
 					- Tổ chức Webinar/ workshop
 					- Tổng hợp, checklist, ebook, mindmap, từ a - Z
@@ -270,11 +279,15 @@ collapsed:: true
 		- collapsed:: true
 		  3. Marketing Giải trí
 			- Du học sinh
+			  collapsed:: true
 				- 90% giải trí, 10% Còn lại có thể định hướng bán hàng, PR
+				  collapsed:: true
 					- Bạn đang có đang gặp vấn đề gì Visa k?
 					- [Comments nhắc tới thương hiệu chính](https://www.facebook.com/duhocsinh/posts/pfbid0HJcdHkcCoT3hesR7dCERtcNgv8hEPyWB9Anbu67bBEBgoK1Gmaq8UFhnNTuntufSl?comment_id=1515295465932246)
 			- Diêm thống nhất
+			  collapsed:: true
 				- Tập trung vào mối quan tâm của khách hàng
+				  collapsed:: true
 					- Trending
 					- Bóng đá
 					- Gaming
@@ -288,83 +301,107 @@ collapsed:: true
 			- Tuy vào độ tuổi khách hàng
 			- Xem đối thủ đang làm gì/ marketing kiểu gì rồi học hỏi
 	- III. Lộ trình để phát triển 1 fanpage thành công? Những việc cần làm cho từng giai đoạn
+	  collapsed:: true
 		- Giai đoạn 1: 0 - 10K like. Set-up và Attention, hút Like Page
+		  collapsed:: true
 			- Mục tiêu: Setup & Thu hút khán giả like page
 			- Set-up đầy đủ Avatar, ảnh bìa, mô tả, thông tin, chatbox, checkin, likes khoảng 10 fanpage liên quan tới lĩnh vực của bạn...
 			- Đăng giới thiệu đầy đủ tất cả các sản phẩm/ dịch vụ + những trang thu leads và ghim lên đầu trang
+			  collapsed:: true
 				- Để Facebook biết bạn là trang về cái gì, để còn phân phối cho đúng tệp
 				- Để có thể dễ dàng có khách hàng đầu tiên luôn
 				- Sau này các bạn đăng mà user thấy thì họ tò mò vào trang và thấy ngay các bài đang ghim > phát sinh đơn hàng hoặc leads
 			- Đẩy những Content HOT, siêu thu hút, tài liệu lớn, Minigame, những quà tặng,... Liên quan tới sản phẩm/ dịch vụ của mình.
+			  collapsed:: true
 				- [Ví dụ chủ đề HOT, rồi mời like page](https://www.facebook.com/mindmesh.net)
+				  collapsed:: true
 					- [Bài của Mind Mesh](https://www.facebook.com/groups/tamsu.content/posts/886825052429910/)
 					-
 				- Tài liệu lớn, siêu khủng
+				  collapsed:: true
 					- [Để nhận được tài liệu bạn phải LIKE FANPAGE](https://www.facebook.com/groups/tamsu.content/posts/937238980721850/)
 				- Minigame
 				- Hợp tác với các thương hiệu khác, và nhờ họ giới thiệu hộ
 				- Bắt buộc phải kêu gọi hành động họ LIKE PAGE. Cho họ 1 lý do, cho họ cái "Mồi" để họ Like Page.
 			- Đẩy dịch vụ thật khéo léo (Performance Content)
+			  collapsed:: true
 				- Kết hợp email
 				- Các nhóm zalo
 				- Kết hợp thông điệp trên Website
 				- Để nhận được tài liệu khủng thì cần vào nhóm kín, trong đây sẽ có quảng cáo về dịch vụ
 			- Tích cực seeding, chạy quảng cáo, chia sẻ vào nhóm, nhờ các đối tác giới thiệu, booking KOL/ KOC review page,...
 		- Giai đoạn 2: 10K - 30K - 50K: Attention + Trust & Buy
+		  collapsed:: true
 			- Mục tiêu giai đoạn này: Làm khán giả tin yêu thương hiệu và chuyển đổi mạnh
 			- Duy trì các hoạt động bên trên, đặc biệt là những dạng content chỉ bên mình có
+			  collapsed:: true
 				- [Ví dụ Casestudy 108tr, lộ trình trở thành Content Freelancer,...](https://www.facebook.com/groups/tamsu.content/posts/745381563240927/)
 			- Đăng những tuyến bài để tăng sự uy tín
+			  collapsed:: true
 				- Giới thiệu giảng viên, thành tích
 				- Feedback học viên
 				- Workshop/ Webinar/ Tổ chức sự kiện
 				- Kết hợp với nhiều người nổi tiếng trong ngành
 			- Tuyến bài Hỗ trợ chuyển đổi, liên quan tới chuyên môn về dịch vụ/ sản phẩm của bạn
+			  collapsed:: true
 				- Đăng những chủ đề chuyên sâu về dịch vụ/ sản phẩm
 				- Cố gắng viết theo chiều hướng hữu ích chứ không đơn thuần là bán hàng
 				- Giải quyết Insights Pain point và nhấn mạnh những gì là mong muốn/ lợi ích khách hàng
 				- Ví dụ khi mình bán khóa học
+				  collapsed:: true
 					- Content SEO Mastery: Thì chỉ đăng những chủ đề về như checklist Content SEO, tiêu chí đánh giá, sai lầm khi viết Content SEO
 					- Khi bán khóa Content Facebook: Viết bài quảng cáo, chiến lược, kế hoạch Fanpage
 				- Ở các bình luận
 				- Đăng 9 bài hữu ích/ giải trí thì có 1 bài quảng cáo/ bán hàng.
 			- Ngoài ra, bạn cũng có thể kết hợp luôn với Giai đoạn 3, giai đoạn Scale
 		- Giai đoạn 3: 30K - 50K - 100K. Scale bằng cách đẩy Content Viral
+		  collapsed:: true
 			- Mục tiêu: Scale, mở rộng tệp follower hơn với Viral Content
 			- Vẫn duy trì tốt tuyến bài Attention và Trust x Buy bên trên
 			- Đẩy những Content Viral
+			  collapsed:: true
 				- Content Viral là content có thể lan truyền với tốc độ chóng mặt, như Virus. Tức là nó sẽ phù hợp với nhiều tệp đối tượng khác nhau.
+				  collapsed:: true
 					- Ví dụ 1 Fanpage về kinh doanh
+					  collapsed:: true
 						- Kiến thức kinh doanh, quản lý tài chính, nhân sự, quy trình, bộ máy....
 						- Động lực kinh doanh
 						- Lời khuyên từ tỉ phú, người thành công...
 						- Kỷ luật bản thân
 						- Triết lý cuộc sống
 			- Rủi ro khi đẩy Content Viral
+			  collapsed:: true
 				- Rất dễ bị lệch tệp
 				- Nhiều khi Viral không ngon bằng cái việc cứ duy trì giai đoạn 1 & 2 đâu.
 				- Ví dụ case Tâm Sự Con Sen
+				  collapsed:: true
 					- 100K-200K thành viên ae chia sẻ Content toàn 1k 2k tương tác là bình thường.
 					- Giờ 500k member thì các bài về Content Flop. 500 tương tác đã nhiều. Vì quá nhiều người vào Group, quá nhiều nhu cầu khác nhau
 			- Lời khuyên khi triển Khai Content Viral
+			  collapsed:: true
 				- Tốt nhất tuyến bài Viral liên quan trực tiếp tới dịch vụ của mình. Càng liên quan càng tốt
 				- An toàn nhất là phát triển ra thêm 1 fanpage khác để đỡ bị lệch tệp
 				- Giai đoạn Page ít like < 50K likes tốt nhất đừng mở rộng tệp với Viral Content vội
 				- Phải phát triển ra được nhiều sản phẩm hơn để phù hợp với cái tệp mới.
 			- Đẩy content Viral có liên quan tới mối quan tâm của khách hàng, đặc biệt là Reels & Watch
+			  collapsed:: true
 				- Ví dụ page kinh doanh
+				  collapsed:: true
 					- [Động lực kinh doanh](https://www.tiktok.com/search?q=%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20kinh%20doanh&t=1705744645816)
 					- [Lời khuyên từ tỉ phú, người thành công...](https://www.tiktok.com/search?q=l%E1%BB%9Di%20khuy%C3%AAn%20t%E1%BB%AB%20ng%C6%B0%E1%BB%9Di%20th%C3%A0nh%20c%C3%B4ng&t=1705744938323)
 					- [Kỷ luật bản thân](https://www.tiktok.com/search?q=k%E1%BB%B7%20lu%E1%BA%ADt%20b%E1%BA%A3n%20th%C3%A2n&t=1705744863489)
 					- [Triết lý cuộc sống](https://www.facebook.com/reel/225460566771500)
 			- [Ép mọi người phải like/ cmt/ share càng nhiều càng tốt Mục đích: Để Facebook đánh giá tốt về Page, từ đó nó mới đề xuất cho Viral](https://www.facebook.com/KindContentAgency/posts/pfbid02kCRep6vDKy5AEyE1xhfmK3MMLqXbz7UypgQDKtypED34RdY53fLr2TCGKHtREL4l)
+			  collapsed:: true
 				- Tặng tài liệu, hỏi/ đáp, tranh cãi
 				- Minigame. Give a way
 				- Tích cực tương tác với mọi người
 				- Seeding liên tục
 		- Giai đoạn 4: 100K>. Tiếp tục mở rộng tệp
+		  collapsed:: true
 			- Duy trì các giai đoạn trên thật đều đặn
 			- Cũng nội dung đó nhưng đa dạng hình thức thế hiện Content hơn
+			  collapsed:: true
 				- Chữ
 				- Chữ + Ảnh
 				- Album ảnh
@@ -372,6 +409,7 @@ collapsed:: true
 				- Watch
 			- Vẫn tiếp tục đẩy mạnh Viral Content để mở rộng tệp
 			- Mở rộng tệp. Thay vì chỉ chia sẻ về Content thì có thể tập trung vào
+			  collapsed:: true
 				- SEO
 				- Về Marketing
 				- Xây kênh
@@ -390,6 +428,7 @@ collapsed:: true
 			- Insights rào cản
 			- 3 loại Insights
 			- Cách nghiên cứu
+			  collapsed:: true
 				- Phỏng vấn trực tiếp khách hàng
 				- Khảo sát bằng Form (tặng cái gì đó cho họ để họ vào điền Form)
 				- Đặt mình vào vị trí khách hàng
@@ -411,6 +450,7 @@ collapsed:: true
 			- Tập trung insight, key gì?
 			- Chiến lược, kế hoạch?
 			- Tools nghiên cứu
+			  collapsed:: true
 				- Fanpage Karma
 				- Ads Library
 				- Simple UID
@@ -427,134 +467,185 @@ collapsed:: true
 		- Nghiên cứu brand/ USP
 		- Liệt kê hết tất cả vào Brief để lưu trữ
 	- V. Lập kế hoạch Content Marketing cho các kênh social
+	  collapsed:: true
 		- Bước 1: Xác định bối cảnh, nguồn lực, thực trạng của thương hiệu
 		  collapsed:: true
 			- Thực trạng brand như thế nào?
+			  collapsed:: true
 				- Sắp tới dịp lễ, tết, sinh nhật công ty,....
 				- Đang ở giai đoạn 1, 2, 3 khi xây kênh?
 				- Đang bị cạnh tranh, đang gặp những vấn đề...
 				- Không có gì đặc sắc
+				  collapsed:: true
 					- Lựa 1 sản phẩm nào đó để đẩy doanh số
 			- Ngân sách
+			  collapsed:: true
 				- 20tr để marketing/ content/ thiết kế
+				  collapsed:: true
 					- 50 nội dung
 			- Xác định kế hoạch, mục tiêu kinh doanh, marketing, content của brand hiện tại
 		- Bước 2: Xác định mục tiêu và thông điệp truyền thông (Key Message) cụ thể
+		  collapsed:: true
 			- Xác định mục tiêu Content dựa vào mục tiêu marketing, kinh doanh
+			  collapsed:: true
 				- Bàn kỹ với bộ phận kinh doanh, marketing, founder
 			- Một số mục tiêu phổ biến
+			  collapsed:: true
 				- Branding
+				  collapsed:: true
 					- 95% tập trung vào tăng like Page & Duy trì/ chăm sóc Fanpage
+					  collapsed:: true
 						- Chỉ đăng hữu ích, giải trí, động lực, không kỳ vọng về chuyển đổi
 					- Chỉ 5% bán hàng rất nhẹ nhàng
 				- Performance
+				  collapsed:: true
 					- 95% Tập trung ads sản phẩm An An
 					- 5% vào Branding
+					  collapsed:: true
 						- Sản phẩm lên VTV
 						- Top 50 sản phẩm Hot
 						- Giấy chứng nhận...
 				- Branding & Performance
+				  collapsed:: true
 					- Kind Content
+					  collapsed:: true
 						- 90% tập trung vào nhận diện, 10% chuyển đổi: Khóa học Content Marketing cho người mới bắt đầu
 					- Hector Kim Tuyến
+					  collapsed:: true
 						- Hector Kim Tuyến 50% thu hút, tạo niềm tin.
+						  collapsed:: true
 							- Vinh danh NPP
 							- Sự kiện
 							- Hoạt động xoay quanh brand
 					- 50% còn lại là tuyến bài chuyển đổi.
+					  collapsed:: true
 						- Giới thiệu sản phẩm
 						- Mời làm đại lý
 			- Ví dụ về thông điệp truyền thông
+			  collapsed:: true
 				- Kangaroo
+				  collapsed:: true
 					- Máy lọc nước hàng đầu việt nam
 				- Chỉ một chất men, mở năm thành tựu
 			- In sâu thông điệp này trong đầu khách hàng để họ nhớ tới là muốn mua hàng của mình
+			  collapsed:: true
 				- Ví dụ Kind Content bán khóa học Content cho người mới bắt đầu
+				  collapsed:: true
 					- Cái thông điệp gì mình đưa ra sẽ làm cho mọi người muốn mua khóa học C4B hơn?
 					- Nắm vững nền tảng Content Marketing thì mới phát triển được.
 					- Nếu không hiểu bản chất đừng mơ làm được Content hiệu quả.
 			- Không cần quá hay, nhưng sẽ cần đáp ứng đủ tiêu chí sau
+			  collapsed:: true
 				- Một thông điệp nhất quán, không thể bị nhầm lẫn, dễ nhớ.
 				- Có sự khác biệt, tốt nhất là không trùng với bất cứ ai.
 				- Sử dụng ngôn ngữ dễ hiểu, quen thuộc.
 				- Liên quan trực tiếp tới khán giả, đúng insights, phải làm cho họ quan tâm.
 				- Cụ thể, đi thẳng vào vấn đề.
 		- Bước 3: Nghiên cứu tứ diện
+		  collapsed:: true
 			- Nghiên cứu sản phẩm
 			- Nghiên cứu thương hiệu
 			- Nghiên cứu khách hàng, insights
 			- Nghiên cứu đối thủ
 		- Bước 4: Xác định chiến lược & kế hoạch truyền thông
+		  collapsed:: true
 			- Theo hành trình khách hàng
+			  collapsed:: true
 				- Biết
+				  collapsed:: true
 					- Minigame, tài liệu, hữu ích, giải trí
 				- Hiểu
+				  collapsed:: true
 					- Câu chuyện thương hiệu
 					- Hoạt động xoay quanh brand
 					- Giới thiệu chi tiết về brand
 				- Tin
+				  collapsed:: true
 					- Feedback
 					- Casestudy
 					- Giọng nói, cách nói chuyện
 				- Yêu
+				  collapsed:: true
 					- Giá trị đem lại quá lớn, quá hài, và quá nhiều
 				- Mua
+				  collapsed:: true
 					- Ưu đãi, voucher
 					- Livestream
 					- Bán hàng/ quảng cáo
 				- Chăm sóc, up-sale
+				  collapsed:: true
 					- Chương trình khuyến mãi
 					- Khách hàng thân thiết
 			- [Attention - Trust - Buy](https://docs.google.com/spreadsheets/d/1T1ZFogvrwTqS8-p0u50ELs6ovhrURyzDAFNtXxxLnOg/edit#gid=835901517)
 			- Phủ Branding + Performance
+			  collapsed:: true
 				- Branding
+				  collapsed:: true
 					- Nhắc về sản phẩm, pain point, lợi ích, FAQs xoay quanh...
 				- Performance
+				  collapsed:: true
 					- Ưu đãi, voucher
 					- Livestream chốt đơn
 			- Follow theo cái lộ trình xây kênh
 			- Marketing 0đ?
+			  collapsed:: true
 				- Trên các trang truyền thông của công ty
+				  collapsed:: true
 					- Facebook
+					  collapsed:: true
 						- Chữ + ảnh
 					- Toptop
+					  collapsed:: true
 						- Ảnh
 						- Video/ Reels
 					- IG
+					  collapsed:: true
 						- Ảnh
 						- Reels
 					- Website
+					  collapsed:: true
 						- Đặt box quảng cáo
 						- Làm hết landing page giới thiệu khóa học
 				- Đăng bài trên nhóm
 		- [Bước 5: Xây dựng Brief tóm tắt dự án và Creative Brief tóm tắt yêu cầu sáng tạo](https://docs.google.com/spreadsheets/d/1kh2oy_um1KDGYOOY5TAzDSPCmi0--VbeNPdvHWAK3ZY/edit#gid=407965413)
 		- Bước 6: Đưa ra Big Idea, Content Pillar & Lọc ra những chủ đề hot nhất
+		  collapsed:: true
 			- Big Idea là ý tưởng chủ đạo cho 1 chiến dịch
+			  collapsed:: true
 				- Kiến thức Content Marketing cho người mới
+				  collapsed:: true
 					- Kiến thức nền tảng, gốc rễ vấn đề, kỹ năng cần thiết, người mới cần làm gì, việc làm content, sai lầm khi viết, quy trình...
 					- Giai đoạn này chưa focus vào xây kênh, chiến lược, đo lường, hay những kiến thức nâng cao khác
 			- Content Pillar là chủ đề chính của 1 chiến dịch, từ chủ đề chính ta sẽ ra được nhiều ý tưởng con
 			- Content Pillar
+			  collapsed:: true
 				- Branding
+				  collapsed:: true
 					- Tuyến bài xoay quanh brand
+					  collapsed:: true
 						- Sự kiện mới
 						- Đối tác mới
 						- Khai trương
 					- hữu ích
+					  collapsed:: true
 						- Tài liệu
+						  collapsed:: true
 							- Tài liệu Content SEO
 							- Tài liệu Content Facebook
 							- Tài liệu về mẫu kế hoạch nội dung
 							- Ebook Reels
 						- Chủ đề HOT
+						  collapsed:: true
 							- Sai lầm khi viết
 							- Tự học Content
 							- Quy trình viết
 							- Insight động lực
+							  collapsed:: true
 								- cải thiện được khả năng viết
 								- Biết được quy tắc viết content cơ bản
 								- Cách viết một bài quảng cáo trên facebook
 							- Insigh khó khăn
+							  collapsed:: true
 								- Đôi lúc không tìm ra ý tưởng viết bài.
 								- Phong cách viết chưa chuyên nghiệp.
 								- Chưa viết nhiều lĩnh vực, sản phẩm.
@@ -562,40 +653,54 @@ collapsed:: true
 					- Engage
 					- động lực
 				- Tăng niềm tin/ tăng trust
+				  collapsed:: true
 					- Feedback học viên
 					- Casestudy
 					- Video chứa mặt, giọng nói
 				- Performance
+				  collapsed:: true
 					- Tính năng/ lợi ích
 					- Insights đau đớn
 					- Insights động lực
 					- USP thương hiệu/ khóa học
 					- Ưu đãi, khuyến mãi, voucher
 					- Thông báo
+					  collapsed:: true
 						- Pre-order
 						- Ngày cuối cùng của ưu đãi
 						- CMT
 		- Bước 7: Phát triển ý tưởng Content chi tiết cho từng Pillars (Content Angle)
-			- Content Angle là góc nhìn về 1 ý tưởng nào đó
+		  collapsed:: true
+			- [Content Angle là góc nhìn về 1 ý tưởng nào đó](https://www.facebook.com/KindContentAgency/posts/pfbid0G6wYEdHVhcxkh5ReJgteR1Win7pNoiiNM5V9dr7rcJ6EpJmft36ECwt1CiFusSjJl)
 		- [Bước 8: Làm bảng kế hoạch Content Marketing thật đẹp, thật tối ưu & dễ nhìn](https://docs.google.com/spreadsheets/d/1k0HtE8HXpB-SS4FfJdvUexAvHpaEHZHOq7WNbwwq8js/edit#gid=407965413)
 		- Bước 9: Triển khai & đăng nội dung theo kế hoạch
 		- Bước 10: Đăng bài, đo lường & tối ưu
+		  collapsed:: true
 			- Tần suất đăng?
+			  collapsed:: true
 				- 2-3 bài/ ngày
 				- Tối thiểu 60 bài/ tháng
 			- Nội dung của họ chủ yếu đăng gì?
+			  collapsed:: true
 				- 10h hữu ích
+				  collapsed:: true
 					- 60% là post hữu ích
 				- 20h đăng giải trí và những post kiểu engage
+				  collapsed:: true
 					- 30% là post
 				- 10h chuyển đổi
+				  collapsed:: true
 					- 5%-10%
 			- Thời gian đăng?
+			  collapsed:: true
 				- Dùng Fanpage Karma xác định
 			- Tái chế Content thế nào?
+			  collapsed:: true
 				- Evergreen Content
+				  collapsed:: true
 					- 300-500 Evergreen Content cho 1 lĩnh vực là coi như xong. Những năm sau chỉ cần re-up, thay đổi định dạng.
 			- Thời gian đăng lại tốt nhất?
+			  collapsed:: true
 				- 3-5 tháng
 	- VI. Cách sản xuất nội dung social
 	  collapsed:: true
@@ -726,12 +831,15 @@ collapsed:: true
 	- VII. Kiến thức nâng cao, định hướng & tổng kết khóa học
 	  collapsed:: true
 		- Sáng tạo hình ảnh
+		  collapsed:: true
 			- Tham khảo, lấy mẫu từ chính Canva
 			- Sử dụng AI để thiết kế hình ảnh
 		- Seeding như thế nào để có LIKE hoặc có đơn hàng?
+		  collapsed:: true
 			- [Tài liệu Seeding cho hơn 40 ngành hàng](https://drive.google.com/file/d/1zdFkB6abp9mSuXPt5K7LYjZnbupvpB3t/view)
 			- Chia sẻ vào nhóm, cộng đồng
 		- Một fanpage mới bắt đầu thì phải làm gì để được tăng reach tự nhiên?
+		  collapsed:: true
 			- Set up đầy đủ info
 			- Tạo ra tuyến bài tài sản lớn và đặt điều kiện để nhận, ví dụ: Like thì tui mới tặng
 			- Seeding, chia sẻ vào nhóm
@@ -741,12 +849,14 @@ collapsed:: true
 			- Nuôi nhiều nick clone đi kết bạn với đối tượng khách hàng rồi kéo vào like page
 			- [Tham khảo thêm 11 mẹo tăng reach](https://kindcontent.net/meo-tang-tiep-can-facebook/)
 		- Phễu là gì, tại sao lại cần phễu?
+		  collapsed:: true
 			- Các nhóm Zalo của Kind Content
 			- Đơn giản là tạo ra tuyến bài tài sản lớn, thu hút họ vào phễu
 			- Ghim các bài thu phễu lên trang chủ, trang website
 		- Tìm ngách xây kênh
 		- Làm CV, Portfolio
 		- Bài tập
+		  collapsed:: true
 			- 1. Xây dựng một bảng kế hoạch hoàn chỉnh cho một kênh bất kỳ, bao gồm đầy đủ 10 bước như đã hướng dẫn
 			- 2. Làm kế hoạch cho kênh Du học sinh tại Úc hoặc kênh giải trí bất kỳ.
 			- 3. Sáng tạo, re-up hoặc tái chế ra 10 Content cho kênh Du Học Sinh tại Úc
