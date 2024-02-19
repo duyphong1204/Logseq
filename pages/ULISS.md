@@ -27,5 +27,5 @@ ULISS:: University Of Linguistic And International Studies Subjects
 	- [[ULISS/Sem4/Lịch sử Đảng Việt Nam]]
 	- [[ULISS/Sem4/Chủ Nghĩa Xã Hội Khoa Học]]
 	- [[ULISS/Sem4/Intercultural Communication]]
-	- [[ULISS/Sem4/General Geography Of The UK & The US]]
+	- [[ULISS/Sem4/General Geography Of The UK & The US/Unit 4: Scotland]]
 -

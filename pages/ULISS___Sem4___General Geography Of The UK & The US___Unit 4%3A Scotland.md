@@ -1,5 +1,6 @@
 ## Lead-in
 id:: 65ad51f0-b171-4c83-a6f5-7c65ffcb2df6
+collapsed:: true
 	- 1. The highest peak in the UK is located in Scotland. What's its name and height? Compare it with Fan Si Panthe highest point in Vietnam.
 	- 2. Is English the official language in Scotland?
 	- 3. Do you know the name of a well-known lake in Scotland where a monster is supposed to live?
