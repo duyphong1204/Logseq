@@ -354,9 +354,9 @@ collapsed:: true
 			- Đẩy content Viral có liên quan tới mối quan tâm của khách hàng, đặc biệt là Reels & Watch
 				- Ví dụ page kinh doanh
 					- [Động lực kinh doanh](https://www.tiktok.com/search?q=%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20kinh%20doanh&t=1705744645816)
-					- Lời khuyên từ tỉ phú, người thành công...
-					- Kỷ luật bản thân
-					- Triết lý cuộc sống
+					- [Lời khuyên từ tỉ phú, người thành công...](https://www.tiktok.com/search?q=l%E1%BB%9Di%20khuy%C3%AAn%20t%E1%BB%AB%20ng%C6%B0%E1%BB%9Di%20th%C3%A0nh%20c%C3%B4ng&t=1705744938323)
+					- [Kỷ luật bản thân](https://www.tiktok.com/search?q=k%E1%BB%B7%20lu%E1%BA%ADt%20b%E1%BA%A3n%20th%C3%A2n&t=1705744863489)
+					- [Triết lý cuộc sống](https://www.facebook.com/reel/225460566771500)
 			- Ép mọi người phải like/ cmt/ share càng nhiều càng tốt Mục đích: Để Facebook đánh giá tốt về Page, từ đó nó mới đề xuất cho Viral
 				- Tặng tài liệu, hỏi/ đáp, tranh cãi
 				- Minigame. Give a way
@@ -378,7 +378,6 @@ collapsed:: true
 				- Kinh Doanh Online, Kiếm tiền
 			- Phát triển ra nhiều sản phẩm khác nhau phù hợp với cái tệp của bạn.
 	- IV. Tứ diện nghiên cứu Khách hàng - Đối thủ - Thương hiệu - Sản phẩm
-	  collapsed:: true
 		- Tại sao lại cần nghiên cứu?
 		  collapsed:: true
 			- [Cùng xem qua thử một bảng kế hoạch](https://docs.google.com/spreadsheets/d/171evnMQuRTKGIRhGCIZJq6QgVcmGWvz4B7qKKr5hyuo/edit#gid=0)
