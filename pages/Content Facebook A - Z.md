@@ -95,32 +95,42 @@ collapsed:: true
 	- II. 3 cách chính để làm kinh doanh & marketing với Fanpage.
 		- 1. Tập trung Quảng cáo/ Bán hàng
 			- Nước lau sàn An An, Nhang An An
+			  collapsed:: true
 				- Tại sao họ lại tạo ra nhiều Fanpage như vậy?
+				  collapsed:: true
 					- Nhiều trang đại lý khác nhau quảng cáo cho sản phẩm này
 					- Họ muốn chia nhỏ tập khách, chia nhỏ phân khúc để quảng cáo chính xác hơn
+					  collapsed:: true
 						- Một tệp họ sẽ nhắm vào phụ nữ đã có gia đình để quảng cáo
 						- Một tệp họ sẽ nhắm vào phụ nữ thu nhập cao
 						- Hoặc target đến người đàn ông
 					- Để tập trung vào 1 sản phẩm duy nhất, khiến khách hàng đọc tên brand hiểu luôn
 					- Mỗi một nhóm sẽ có một cái thông điệp khác nhau.
 				- Tại sao trên page chẳng thấy like gì nhưng doanh thu vẫn đạt hàng tỉ đồng?
+				  collapsed:: true
 					- Họ chỉ tập trung vào quảng cáo, không cần tương tác
 					- Họ chạy quảng cáo chuyển đổi, khách hàng sẽ comment số điện thoại để tư vấn
 					- Đội ngũ Sales hùng hậu chờ số điện thoại và gọi điện chốt
 				- Tuyến bài chính cả 2 page này
+				  collapsed:: true
 					- 95% là tuyến bài quảng cáo
+					  collapsed:: true
 						- Tính năng/ lợi ích
 						- Ưu đãi/ khuyến mãi/ giá hời
 						- USP
 						- Inisghts (Động lực/ khó khăn/ rào cản)
 					- Tuyến bài xoay quanh brand
+					  collapsed:: true
 						- Làm brand trông uy tín, đáng tin hơn
 						- User thấy ADS vẫn chưa tin, họ sẽ vào fanpage xem thương hiệu có uy tín ko rồi mới quyết định
 			- Một số đặc điểm khác
+			  collapsed:: true
 				- Nhiều khi chỉ là những sản phẩm trend, theo vụ mùa
 				- Lượng like thường buff ảo để "nhìn có vẻ uy tín" vì xác định làm Không lâu dài
 			- [Hector - Tìm đại lý kinh doanh](https://www.facebook.com/hectorkimtuyen)
+			  collapsed:: true
 				- Hoạt động xoay quanh Brand
+				  collapsed:: true
 					- Thông báo đào tạo kinh doanh, workshop
 					- Thông báo hợp tác với NPP, Đại lý mới
 					- Vinh danh NPP
@@ -128,9 +138,11 @@ collapsed:: true
 					- Thông báo giải thưởng
 					- [KOL Kim Tuyến](https://www.facebook.com/hectorkimtuyen/posts/pfbid028k2kR62wdsyq4JH2tmgZQVwqdzZryMtuPgzr6rNTRAxvZT4hyJoC1VawXTAy4ZE7l)
 					- Sự kiện
+					  collapsed:: true
 						- Thiện nguyện
 						  collapsed:: true
 							- HECTOR KIM TUYẾN VỚI THIỆN NGUYỆN BÌNH PHƯỚC 21/05/2023
+							  collapsed:: true
 							  • Ngày 21/5 Team Hector Kim Tuyến có chuyến thiện nguyện cùng với Đoàn Y bác sĩ Hồ Chí Minh tổ chức phát quà và khám chữa bệnh miễn phí tại Bình Phước
 							  • Đoàn Y bác sĩ sẽ tổ chức phát quà và khám chữa bệnh nên Team Hector Kim Tuyến sẽ tổ chức quyên góp quần áo cho mọi người, ngoài ra còn quyên góp thêm đồ chơi cho trẻ em.
 							  Địa điểm thu gom: Phiim Cafe tại 6A Thái Văn Lung, Bến Nghé, Quận 1 hoặc mọi người có thể thu gom lưu trữ tại nhà đến ngày đi thì mang đến Phiim Cafe tại 6A Thái Văn Lung, Bến Nghé, Quận 1.
@@ -165,6 +177,7 @@ collapsed:: true
 						- LET'T ENHANCE YOUR FUTURE
 						  collapsed:: true
 							- - Hôm nay, cảm ơn tất cả mọi người đến tham gia sự kiện WORKSHOP "LET'T ENHANCE YOUR FUTURE WITH HECTOR KIM TUYẾN"
+							  collapsed:: true
 							  - Đây cũng là tập mở đầu trong chuỗi sự kiện "LET'T ENHANCE YOUR FUTURE" làm rõ nét bản thân cho từng đại lý của Hector Kim Tuyến trong năm 2023. Trong năm này, Hector Kim Tuyến sẽ hỗ trợ đào tạo một cách tốt nhất về các kỹ năng bán hàng cũng như các kiến thức phát triển bản thân, giúp cho mọi người làm rõ nét bản thân mình hơn và tự khẳng định thương hiệu cá nhân của mình tốt hơn.
 							  - Cuối cùng, đây là sự kiện WORKSHOP đầu tiên mà Hector Kim Tuyến tổ chức nên không tránh khỏi những thiếu xót và bất cập. Rút kinh nghiệm từ chương trình lần này và sự góp ý của mọi người thì chắc chắn những sự kiện sau sẽ càng hoàn thiện hơn.
 							  - Hẹn mọi người ở các sự kiện làn sau nhé !!!
@@ -173,6 +186,7 @@ collapsed:: true
 						- Hector Tour
 						  collapsed:: true
 							- - NGÀY HẸN CỦA GIA TỘC HECTOR - HECTOR TOUR NĂM 2023
+							  collapsed:: true
 							    
 							    [#Hectortour], ngày hội truyền thống của Hector, ngày mà các nhà bán hàng Hector khắp nơi trên toàn quốc (năm nay có quốc tế luôn) cùng sum vầy, chia sẻ, vinh danh và cùng gắn kết.   
 							    
@@ -188,11 +202,14 @@ collapsed:: true
 							    P.s: Hector Kim Tuyến ơi, mọi người đã chuẩn  bị xong hết chưa ![🥰](https://static.xx.fbcdn.net/images/emoji.php/v9/t43/1.5/16/1f970.png){:height 33, :width 24}![🥰](https://static.xx.fbcdn.net/images/emoji.php/v9/t43/1.5/16/1f970.png){:height 33, :width 24}
 							- ![image.png](../assets/image_1708357251943_0.png)
 				- Chuyển đổi, quảng cáo
+				  collapsed:: true
 					- Minigame
 					- Giới thiệu sản phẩm/ dịch vụ
 					- Ưu đãi/ khuyến mãi
 					- USP thương hiệu
+					  collapsed:: true
 						- TÌM ĐỐI TÁC KINH DOANH / ĐỒNG ĐỘI
+						  collapsed:: true
 						  Có rất nhiều điều hay ho để nói về Hector và những thành viên đang kinh doanh Hector từ những ngày đầu đến hôm nay. Trong số đó, "cộng đồng" chính là là từ đẹp nhất và diễn tả rõ nét nhất về điều này.
 						  Rất nhiều thành viên ban đầu chỉ là tham gia vì đang tìm kiếm một sản phẩm để kinh doanh thêm hoặc kinh doanh online hoặc khởi nghiệp. Và rồi, mọi người tìm thấy @Đông trùng hạ thảo Hector:
 						  - Một sản phẩm chăm sóc sức khỏe và làm đẹp có nguồn gốc thảo dược.
@@ -234,13 +251,16 @@ collapsed:: true
 					- Thấu hiểu nỗi đau khách hàng & giải quyết chúng 1 cách dễ hiểu
 					- Nên đầu tư thêm SEO Website, để có thể bóc tách các bài viết lớn để đăng nhỏ
 				- Giáo dục & cảm hóa
+				  collapsed:: true
 					- Định hình tư duy, giúp user hiểu về ngành, vừa định hướng họ theo hướng có lợi cho brand
 					- Tuyến bài tạo niềm tin, uy tín cho brand.
 					- Liên tục hỗ trợ để tạo brand love. Phát sinh nhu cầu là nhớ tới thương hiệu
 					- Kết hợp giữa SEO, xây dựng các group riêng tư và công khai giữa brand và user.
 				- Chuyển đổi hành động
+				  collapsed:: true
 					- Chốt sales bán hàng
 				- Chăm sóc để up và cross sales
+				  collapsed:: true
 					- Truyền miệng
 					- Muốn học và làm Content chuẩn phải tới Kind Content
 					- Chương trình khách hàng thân quen
