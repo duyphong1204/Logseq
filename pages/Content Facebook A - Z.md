@@ -93,7 +93,9 @@ collapsed:: true
 				- Content Calendar
 				- CTA (Call To Action)
 	- II. 3 cách chính để làm kinh doanh & marketing với Fanpage.
-		- 1. Tập trung Quảng cáo/ Bán hàng
+	  collapsed:: true
+		- collapsed:: true
+		  1. Tập trung Quảng cáo/ Bán hàng
 			- Nước lau sàn An An, Nhang An An
 			  collapsed:: true
 				- Tại sao họ lại tạo ra nhiều Fanpage như vậy?
@@ -237,7 +239,8 @@ collapsed:: true
 						  🏠 793A Ba Đình, phường 10, quận 8
 						  ☎️ 0377 399 000
 					- Insights painpoint/ động lực/ rào cản
-		- 2. Marketing giá trị
+		- collapsed:: true
+		  2. Marketing giá trị
 			- Ví dụ
 				- 90% hữu ích - giải trí - động lực... 10% bán hàng
 			- Chiến lược dài hạn
@@ -264,7 +267,8 @@ collapsed:: true
 					- Truyền miệng
 					- Muốn học và làm Content chuẩn phải tới Kind Content
 					- Chương trình khách hàng thân quen
-		- 3. Marketing Giải trí
+		- collapsed:: true
+		  3. Marketing Giải trí
 			- Du học sinh
 				- 90% giải trí, 10% Còn lại có thể định hướng bán hàng, PR
 					- Bạn đang có đang gặp vấn đề gì Visa k?
@@ -277,16 +281,20 @@ collapsed:: true
 					- Anime, Wibu
 				- Tập trung vào Nhận diện thương hiệu, in sâu vào tâm trí khách hàng chứ không cần chuyển đổi ngay
 		- Khi nào mình làm Page bán hàng/ khi nào làm giải trí & khi nào làm hữu ích?
+		  collapsed:: true
 			- Tùy vào tính chất sản phẩm
 			- Tùy vào ngân sách, nguồn lực, nhân sự
 			- Tùy vào khách hàng muốn xem cái gì, có muốn xem không?
 			- Tuy vào độ tuổi khách hàng
 			- Xem đối thủ đang làm gì/ marketing kiểu gì rồi học hỏi
 	- IV. Tứ diện nghiên cứu Khách hàng - Đối thủ - Thương hiệu - Sản phẩm
+	  collapsed:: true
 		- Tại sao lại cần nghiên cứu?
+		  collapsed:: true
 			- [Cùng xem qua thử một bảng kế hoạch](https://docs.google.com/spreadsheets/d/171evnMQuRTKGIRhGCIZJq6QgVcmGWvz4B7qKKr5hyuo/edit#gid=0)
 			- Để làm 1 bài Ads thời gian nghiên cứu chiếm tới 80%
 		- Nghiên cứu khách hàng và 3 loại Insights
+		  collapsed:: true
 			- Insights mong muốn
 			- Insights động lực
 			- Insights rào cản
@@ -302,6 +310,7 @@ collapsed:: true
 				- Nghiên cứu các kênh truyền thông của đối thủ. Facebook, TikTok, Google,...
 				- Nghiên cứu các bài quảng cáo trên Ads Library
 		- Nghiên cứu đối thủ
+		  collapsed:: true
 			- Thể loại nội dung
 			- Định dạng nội dung
 			- Thời gian đăng
@@ -318,6 +327,7 @@ collapsed:: true
 				- IG Export
 				- Tiktokviewcount.com
 		- Nghiên cứu sản phẩm
+		  collapsed:: true
 			- Tính năng
 			- Lợi ích
 			- Lý do tin
@@ -328,6 +338,7 @@ collapsed:: true
 		- Liệt kê hết tất cả vào Brief để lưu trữ
 	- V. Lập kế hoạch Content Marketing cho các kênh social
 		- Bước 1: Xác định bối cảnh, nguồn lực, thực trạng của thương hiệu
+		  collapsed:: true
 			- Thực trạng brand như thế nào?
 				- Sắp tới dịp lễ, tết, sinh nhật công ty,....
 				- Đang ở giai đoạn 1, 2, 3 khi xây kênh?
@@ -344,17 +355,17 @@ collapsed:: true
 			- Một số mục tiêu phổ biến
 				- Branding
 					- 95% tập trung vào tăng like Page & Duy trì/ chăm sóc Fanpage
-					- Chỉ đăng hữu ích, giải trí, động lực, không kỳ vọng về chuyển đổi
+						- Chỉ đăng hữu ích, giải trí, động lực, không kỳ vọng về chuyển đổi
 					- Chỉ 5% bán hàng rất nhẹ nhàng
 				- Performance
 					- 95% Tập trung ads sản phẩm An An
 					- 5% vào Branding
-					- Sản phẩm lên VTV
-					- Top 50 sản phẩm Hot
-					- Giấy chứng nhận...
+						- Sản phẩm lên VTV
+						- Top 50 sản phẩm Hot
+						- Giấy chứng nhận...
 				- Branding & Performance
 					- Kind Content
-					- 90% tập trung vào nhận diện, 10% chuyển đổi: Khóa học Content Marketing cho người mới bắt đầu
+						- 90% tập trung vào nhận diện, 10% chuyển đổi: Khóa học Content Marketing cho người mới bắt đầu
 					- Hector Kim Tuyến
 					- Hector Kim Tuyến 50% thu hút, tạo niềm tin.
 					- Vinh danh NPP
