@@ -78,7 +78,10 @@ collapsed:: true
 						- when species of tree come into leaf
 						- severity of the coming winter from the time of migration of certain birds, have little validity.
 					- But familiarity with the local topography can enable a reasonable forecast of weather within the next few hours to be made, if the wind direction, temperature and humidity are known. Over hundred, or thousands, of years, people have recorded these weather signs in the form of proverbs, such as the familiar 'red sky at night, shepherd's delight. Or the description of Scottish weather by Buff Hardie:
-						- Rughadh shuas an a'm laidhe,
-						- Dh' eireadh Unionn moch's a mhaduinn:
+						- | | |
+						  | Rughadh shuas an a'm laidhe, | With a rody sky at bedtime |
+						- | Dh' eireadh Unionn moch's a mhaduinn: | Fingla would rise early |
+						  With a rosy sky at dawn
+						- He would take another sleep.
 						- Rughadh Shuas's a'mhoch mhaduinn
 						- Dheanadh Fionn an ath-chadal.
