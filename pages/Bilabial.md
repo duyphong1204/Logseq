@@ -6,6 +6,6 @@ title:: Bilabial
 	  id:: 65d29495-24b4-4b7d-b4bd-bf1ec2f16651
 		- Bilabial: Sounds involving a narrowing or complete closure of the upper and lower lip.
 -
-- [A]([[Bilabial]])
+-
 -
 -
