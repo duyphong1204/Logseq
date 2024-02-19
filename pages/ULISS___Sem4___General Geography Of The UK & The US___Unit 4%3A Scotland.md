@@ -99,12 +99,16 @@ collapsed:: true
 				- However, this image is one-sided.
 					- Glasgow has a strong artistic heritage.
 					- At the turn of the last century the work of the Glasgow School put the city at the forefront of European design and architecture.
-						- ()led by Mackintosh)
+						- (led by Mackintosh)
 					- In 1990, it was the European City of Culture.
 					- Over the centuries,
 						- Glasgow has received many immigrants from Ireland
 						- in some ways it reflects the divisions in the community that exist in Northern Ireland.
-							- For example, of its two rival football teams, one is Catholic (Celtic) and the other is Protestant (Rangers).
+							- For example, of its two rival football teams
+								- one is Catholic
+									- (Celtic)
+								- the other is Protestant
+									- (Rangers).
 			- Edinburgh, which is half the size of Glasgow, has a comparatively middle-class image
 				- (although class differences between the two cities are not really very great).
 				- It is the capital of Scotland
