@@ -162,34 +162,60 @@ collapsed:: true
 							- ![🏠](https://static.xx.fbcdn.net/images/emoji.php/v9/t4f/1.5/16/1f3e0.png) 793A Ba Đình, phường 10, quận 8
 							- ![☎️](https://static.xx.fbcdn.net/images/emoji.php/v9/ta9/1.5/16/260e.png) 0377 399 000
 						- LET'T ENHANCE YOUR FUTURE
-							- Hôm nay, cảm ơn tất cả mọi người đến tham gia sự kiện WORKSHOP "LET'T ENHANCE YOUR FUTURE WITH HECTOR KIM TUYẾN"
-							- Đây cũng là tập mở đầu trong chuỗi sự kiện "LET'T ENHANCE YOUR FUTURE" làm rõ nét bản thân cho từng đại lý của Hector Kim Tuyến trong năm 2023. Trong năm này, Hector Kim Tuyến sẽ hỗ trợ đào tạo một cách tốt nhất về các kỹ năng bán hàng cũng như các kiến thức phát triển bản thân, giúp cho mọi người làm rõ nét bản thân mình hơn và tự khẳng định thương hiệu cá nhân của mình tốt hơn.
-							- Cuối cùng, đây là sự kiện WORKSHOP đầu tiên mà Hector Kim Tuyến tổ chức nên không tránh khỏi những thiếu xót và bất cập. Rút kinh nghiệm từ chương trình lần này và sự góp ý của mọi người thì chắc chắn những sự kiện sau sẽ càng hoàn thiện hơn.
-							- Hẹn mọi người ở các sự kiện làn sau nhé !!!
-							- Chúc mọi người cuối tuần vui vẻ ^^
+							- - Hôm nay, cảm ơn tất cả mọi người đến tham gia sự kiện WORKSHOP "LET'T ENHANCE YOUR FUTURE WITH HECTOR KIM TUYẾN"
+							  - Đây cũng là tập mở đầu trong chuỗi sự kiện "LET'T ENHANCE YOUR FUTURE" làm rõ nét bản thân cho từng đại lý của Hector Kim Tuyến trong năm 2023. Trong năm này, Hector Kim Tuyến sẽ hỗ trợ đào tạo một cách tốt nhất về các kỹ năng bán hàng cũng như các kiến thức phát triển bản thân, giúp cho mọi người làm rõ nét bản thân mình hơn và tự khẳng định thương hiệu cá nhân của mình tốt hơn.
+							  - Cuối cùng, đây là sự kiện WORKSHOP đầu tiên mà Hector Kim Tuyến tổ chức nên không tránh khỏi những thiếu xót và bất cập. Rút kinh nghiệm từ chương trình lần này và sự góp ý của mọi người thì chắc chắn những sự kiện sau sẽ càng hoàn thiện hơn.
+							  - Hẹn mọi người ở các sự kiện làn sau nhé !!!
+							  - Chúc mọi người cuối tuần vui vẻ ^^
 							- ![image.png](../assets/image_1708357215955_0.png)
 						- Hector Tour
-							- NGÀY HẸN CỦA GIA TỘC HECTOR - HECTOR TOUR NĂM 2023
-							  
-							  [#Hectortour](https://www.facebook.com/hashtag/hectortour?__eep__=6&__cft__[0]=AZVXSUeEPsFVL9izEavCQZ3D7W_huht52UthFKpBodRJBU8-FrRY_-_DGzQB5Q0DmD_VtBtMCfLSX-KCyeJWGTWS6_7jHdC2a3GbX3GUM07EzkomRjruG4xbbFhkjCq4oaA_P48tSVrFd0myXCGxej5w&__tn__=*NK-R), ngày hội truyền thống của Hector, ngày mà các nhà bán hàng Hector khắp nơi trên toàn quốc (năm nay có quốc tế luôn) cùng sum vầy, chia sẻ, vinh danh và cùng gắn kết. 
-							  
-							  [#hectortour](https://www.facebook.com/hashtag/hectortour?__eep__=6&__cft__[0]=AZVXSUeEPsFVL9izEavCQZ3D7W_huht52UthFKpBodRJBU8-FrRY_-_DGzQB5Q0DmD_VtBtMCfLSX-KCyeJWGTWS6_7jHdC2a3GbX3GUM07EzkomRjruG4xbbFhkjCq4oaA_P48tSVrFd0myXCGxej5w&__tn__=*NK-R) năm này có gì?
-							- Được tham gia nhà máy hiện đại sản xuất ra nhưng chai Hector chúng ta đang dùng.
-							- Đêm vinh danh trao giải quẩy hết mình với ca sĩ Karik
-							- Được học thêm các kiến thức mới từ thầy Ngô Ngọc Danh
-							- Buổi tiệc thân mật ngoài bãi biễn với ca sĩ Hà Nhi
-							- Rèn luyện sức khỏe với cung đường màu cam [#hectorrun](https://www.facebook.com/hashtag/hectorrun?__eep__=6&__cft__[0]=AZVXSUeEPsFVL9izEavCQZ3D7W_huht52UthFKpBodRJBU8-FrRY_-_DGzQB5Q0DmD_VtBtMCfLSX-KCyeJWGTWS6_7jHdC2a3GbX3GUM07EzkomRjruG4xbbFhkjCq4oaA_P48tSVrFd0myXCGxej5w&__tn__=*NK-R) 
-							  
-							  Hector, sức khoẻ và trẻ đẹp tự nhiên
-							  
-							  P.s: Hector Kim Tuyến ơi, mọi người đã chuẩn  bị xong hết chưa ![🥰](https://static.xx.fbcdn.net/images/emoji.php/v9/t43/1.5/16/1f970.png)![🥰](https://static.xx.fbcdn.net/images/emoji.php/v9/t43/1.5/16/1f970.png)
+							- - NGÀY HẸN CỦA GIA TỘC HECTOR - HECTOR TOUR NĂM 2023
+							    
+							    [#Hectortour](https://www.facebook.com/hashtag/hectortour?__eep__=6&__cft__[0]=AZVXSUeEPsFVL9izEavCQZ3D7W_huht52UthFKpBodRJBU8-FrRY_-_DGzQB5Q0DmD_VtBtMCfLSX-KCyeJWGTWS6_7jHdC2a3GbX3GUM07EzkomRjruG4xbbFhkjCq4oaA_P48tSVrFd0myXCGxej5w&__tn__=*NK-R), ngày hội truyền thống của Hector, ngày mà các nhà bán hàng Hector khắp nơi trên toàn quốc (năm nay có quốc tế luôn) cùng sum vầy, chia sẻ, vinh danh và cùng gắn kết.   
+							    
+							    [#hectortour](https://www.facebook.com/hashtag/hectortour?__eep__=6&__cft__[0]=AZVXSUeEPsFVL9izEavCQZ3D7W_huht52UthFKpBodRJBU8-FrRY_-_DGzQB5Q0DmD_VtBtMCfLSX-KCyeJWGTWS6_7jHdC2a3GbX3GUM07EzkomRjruG4xbbFhkjCq4oaA_P48tSVrFd0myXCGxej5w&__tn__=*NK-R) năm này có gì?  
+							  - Được tham gia nhà máy hiện đại sản xuất ra nhưng chai Hector chúng ta đang dùng.
+							  - Đêm vinh danh trao giải quẩy hết mình với ca sĩ Karik
+							  - Được học thêm các kiến thức mới từ thầy Ngô Ngọc Danh
+							  - Buổi tiệc thân mật ngoài bãi biễn với ca sĩ Hà Nhi
+							  - Rèn luyện sức khỏe với cung đường màu cam [#hectorrun](https://www.facebook.com/hashtag/hectorrun?__eep__=6&__cft__[0]=AZVXSUeEPsFVL9izEavCQZ3D7W_huht52UthFKpBodRJBU8-FrRY_-_DGzQB5Q0DmD_VtBtMCfLSX-KCyeJWGTWS6_7jHdC2a3GbX3GUM07EzkomRjruG4xbbFhkjCq4oaA_P48tSVrFd0myXCGxej5w&__tn__=*NK-R) 
+							    
+							    Hector, sức khoẻ và trẻ đẹp tự nhiên  
+							    
+							    P.s: Hector Kim Tuyến ơi, mọi người đã chuẩn  bị xong hết chưa ![🥰](https://static.xx.fbcdn.net/images/emoji.php/v9/t43/1.5/16/1f970.png){:height 33, :width 24}![🥰](https://static.xx.fbcdn.net/images/emoji.php/v9/t43/1.5/16/1f970.png){:height 33, :width 24}
 							- ![image.png](../assets/image_1708357251943_0.png)
 				- Chuyển đổi, quảng cáo
 					- Minigame
 					- Giới thiệu sản phẩm/ dịch vụ
 					- Ưu đãi/ khuyến mãi
 					- USP thương hiệu
-					-
+						- TÌM ĐỐI TÁC KINH DOANH / ĐỒNG ĐỘI
+						  Có rất nhiều điều hay ho để nói về Hector và những thành viên đang kinh doanh Hector từ những ngày đầu đến hôm nay. Trong số đó, "cộng đồng" chính là là từ đẹp nhất và diễn tả rõ nét nhất về điều này.
+						  Rất nhiều thành viên ban đầu chỉ là tham gia vì đang tìm kiếm một sản phẩm để kinh doanh thêm hoặc kinh doanh online hoặc khởi nghiệp. Và rồi, mọi người tìm thấy @Đông trùng hạ thảo Hector:
+						  - Một sản phẩm chăm sóc sức khỏe và làm đẹp có nguồn gốc thảo dược.
+						  - Sản phẩm thuần Việt, có nguồn gốc minh bạch, có vùng trồng, có nhà máy đạt tiêu chuẩn FDA Hoa Kỳ.
+						  - Sản phẩm được Tony Buổi Sáng và Ăn Trưa Cùng Tony ưu ái giới thiệu rất nhiều lần. 
+						  - Sản phẩm được tạo ra bởi các nhà sáng lập là các nhân vật trong quyển “Trên đường băng” - quyển best seller liên tục được tái bản. 
+						  - Sản phẩm được cộng đồng chuyên môn, giới doanh nhân, những người kỷ tính trong xã hội nhiều lần khen ngợi vì hiệu quả bảo vệ, nâng cao sức khoẻ và phục hồi tuổi trẻ rõ ràng, nhanh chóng và an toàn.
+						  - Sản phẩm có giá thành tốt, phù hợp thị trường Việt Nam và cả thị trường quốc tế, phù hợp nhiều nhu cầu và độ tuổi, độ lớn thị trường rộng và đang ngày càng tăng nhanh.
+						  Và rồi, mọi người tìm thấy Hector, trãi nghiệm và quyết định kinh doanh cùng Hector, gia nhập Đại lý Đông trùng hạ thảo Hector và khám phá nhiều điều bên trong gia đình ấy:
+						  - Ví dụ như là ... bạn có thể cảm nhận rằng không phải hoa hậu nào cũng xa cách. Ở Hector, hoa hậu Nguyễn Thu Thuỷ là một thành viên và chị ấy thật sự dành riêng sự gần gũi chân thành với mọi người, chia sẻ như một người chị đang ngồi trong bếp nhà, không phải là một người chỉ đứng từ xa.
+						  - Ví dụ như là... bạn sẽ có thể bất ngờ với Diễn viên Kim Tuyến khi cô ấy hoà nhập với bạn như một người đồng cấp, 1 người bạn cùng tiến, cô ấy không chỉ trên tivi, cô ấy cùng bán Hector với bạn.
+						  - Và nhiều bài học kinh doanh, các công cụ, kỹ thuật từ kinh doanh đến giao tiếp... mà trước đây bạn chưa thật sự quan tâm, chưa thật sự một lần tìm hiểu và thực hành sâu sắc, thì nay bạn sẽ có nhiều cơ hội với những lần đào tạo offline lẫn định kỳ đào tạo online trong Group bởi những chuyên gia (có thể không quá nổi danh với bạn vì họ không phải dạng bề nổi, nhưng hầu như người trong ngành của họ ai cũng nể họ). 
+						  Và giờ là những quyết định của bạn:
+						  👩‍💻Bạn đang làm văn phòng, nhưng cảm giác rất muốn được khởi nghiệp kinh doanh, làm chủ bản thân, tự do tài chính và trên hết là cống hiến gì đó cho đời
+						  🧐 Bạn đang loay hoay với những khát vọng cống hiến của mình, lúc nào cũng muốn "làm gì đó"
+						  💃 Bạn là một phụ nữ gia đình, kinh tế vững chắc, nhưng cảm thấy mình quá sướng nhưng sao cứ nhàn nhạt, bạn chỉ muốn thay đổi
+						  Hãy thử sức với vai trò ĐẠI LÝ PHÂN PHỐI CÁC SẢN PHẨM ĐÔNG TRÙNG HẠ THẢO HECTOR, bạn sẽ:
+						  - Gia tăng sức khoẻ, sắc đẹp cho chính bản thân và gia đình.
+						  - Tăng thu nhập và có lúc bạn sẽ bất ngờ vì... tay trái có vẻ thuận hơn tay phải.
+						  - Mở rộng kiến thức, kỹ năng, mối quan hệ.
+						  - Tham gia những chuyến đi hạnh phúc, nơi mà bạn có thể hình dung ra nhà máy, trải nghiệm các công đoạn sản xuất như một công nhân thực thụ, trải nghiệm những vùng khác lạ cùng với đồng đội/ bạn bè khắp nơi.
+						  SỐ VỐN HỢP LÝ, 15 triệu, 40 triệu… bỏ ra để bắt đầu dấn thân tìm hiểu và cho mình một cơ hội lớn thì thật ra rất nhỏ, nhỏ hơn cả học phí học mấy môn làm giàu, nhỏ hơn cả 1 chuyến du lịch gia đình.
+						  ———————————————
+						  HECTOR KIM TUYẾN
+						  🏠 793A Ba Đình, phường 10, quận 8
+						  ☎️ 0377 399 000
 					- Insights painpoint/ động lực/ rào cản
 		- 2. Marketing giá trị
 			- Ví dụ
