@@ -82,7 +82,15 @@ collapsed:: true
 					- Khách hàng
 					- Feedback
 			- Performance Content (Mục tiêu chuyển đổi)
-				-
+				- Brief
+				- Creative Brief
+				- Target Audience
+				- Key Message
+				- Buyer Persona
+				- Big Idea
+				- Insight
+				- Content Calendar
+				- CTA (Call To Action)
 	- II. 3 cách chính để làm kinh doanh & marketing với Fanpage.
 		- 1. Tập trung Quảng cáo/ Bán hàng
 			- Nước lau sàn An An, Nhang An An
