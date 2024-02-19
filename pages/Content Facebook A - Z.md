@@ -118,7 +118,7 @@ collapsed:: true
 			- Một số đặc điểm khác
 				- Nhiều khi chỉ là những sản phẩm trend, theo vụ mùa
 				- Lượng like thường buff ảo để "nhìn có vẻ uy tín" vì xác định làm Không lâu dài
-			- Hector - Tìm đại lý kinh doanh
+			- [Hector - Tìm đại lý kinh doanh](https://www.facebook.com/hectorkimtuyen)
 				- Hoạt động xoay quanh Brand
 					- Thông báo đào tạo kinh doanh, workshop
 					- Thông báo hợp tác với NPP, Đại lý mới
