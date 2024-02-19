@@ -71,7 +71,10 @@ collapsed:: true
 				- Tạo niềm tin, brand love
 				- Chốt đơn, bán hàng
 				- Chăm sóc & up-sale
-			-
+			- Mối quan hệ lâu dài, khác với quảng cáo ngắn hạn
+		- 2 dạng Content phổ biến nhất Facebook
+			- Always-on Content
+				- Hữu ích,
 	- II. 3 cách chính để làm kinh doanh & marketing với Fanpage.
 		- 1. Tập trung Quảng cáo/ Bán hàng
 			- Nước lau sàn An An, Nhang An An
