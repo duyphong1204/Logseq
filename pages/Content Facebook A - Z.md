@@ -268,7 +268,7 @@ collapsed:: true
 			- Du học sinh
 				- 90% giải trí, 10% Còn lại có thể định hướng bán hàng, PR
 					- Bạn đang có đang gặp vấn đề gì Visa k?
-					- Comments nhắc tới thương hiệu chính
+					- [Comments nhắc tới thương hiệu chính](https://www.facebook.com/duhocsinh/posts/pfbid0HJcdHkcCoT3hesR7dCERtcNgv8hEPyWB9Anbu67bBEBgoK1Gmaq8UFhnNTuntufSl?comment_id=1515295465932246)
 			- Diêm thống nhất
 				- Tập trung vào mối quan tâm của khách hàng
 					- Trending
