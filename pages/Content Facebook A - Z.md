@@ -538,7 +538,7 @@ collapsed:: true
 		- Hẹn gặp lại
 	- VI. Cách sản xuất nội dung social
 		- 3 Cách chính để làm content
-			- Content Re-up hoặc rất dễ tái chế
+			- [Content Re-up hoặc rất dễ tái chế](https://www.facebook.com/duhocsinh/)
 				- Liệt kê ra 10 nguồn để lấy thông tin: Fanpage, Group
 			- Content sáng tạo dễ dàng
 				- Mình có thể dễ dàng tham khảo ý và viết lại
