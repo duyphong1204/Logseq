@@ -457,17 +457,17 @@ collapsed:: true
 							- Tài liệu về mẫu kế hoạch nội dung
 							- Ebook Reels
 						- Chủ đề HOT
-					- Sai lầm khi viết
-					- Tự học Content
-					- Quy trình viết
-					- Insight động lực
-					- cải thiện được khả năng viết
-					- Biết được quy tắc viết content cơ bản
-					- Cách viết một bài quảng cáo trên facebook
-					- Insigh khó khăn
-					- Đôi lúc không tìm ra ý tưởng viết bài.
-					- Phong cách viết chưa chuyên nghiệp.
-					- Chưa viết nhiều lĩnh vực, sản phẩm.
+							- Sai lầm khi viết
+							- Tự học Content
+							- Quy trình viết
+							- Insight động lực
+								- cải thiện được khả năng viết
+								- Biết được quy tắc viết content cơ bản
+								- Cách viết một bài quảng cáo trên facebook
+							- Insigh khó khăn
+								- Đôi lúc không tìm ra ý tưởng viết bài.
+								- Phong cách viết chưa chuyên nghiệp.
+								- Chưa viết nhiều lĩnh vực, sản phẩm.
 					- giải trí
 					- Engage
 					- động lực
@@ -482,9 +482,9 @@ collapsed:: true
 					- USP thương hiệu/ khóa học
 					- Ưu đãi, khuyến mãi, voucher
 					- Thông báo
-					- Pre-order
-					- Ngày cuối cùng của ưu đãi
-					- CMT
+						- Pre-order
+						- Ngày cuối cùng của ưu đãi
+						- CMT
 		- Bước 7: Phát triển ý tưởng Content chi tiết cho từng Pillars (Content Angle)
 			- Content Angle là góc nhìn về 1 ý tưởng nào đó
 		- Bước 8: Làm bảng kế hoạch Content Marketing thật đẹp, thật tối ưu & dễ nhìn
