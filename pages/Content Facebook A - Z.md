@@ -167,12 +167,29 @@ collapsed:: true
 							- Cuối cùng, đây là sự kiện WORKSHOP đầu tiên mà Hector Kim Tuyến tổ chức nên không tránh khỏi những thiếu xót và bất cập. Rút kinh nghiệm từ chương trình lần này và sự góp ý của mọi người thì chắc chắn những sự kiện sau sẽ càng hoàn thiện hơn.
 							- Hẹn mọi người ở các sự kiện làn sau nhé !!!
 							- Chúc mọi người cuối tuần vui vẻ ^^
+							- ![image.png](../assets/image_1708357215955_0.png)
 						- Hector Tour
+							- NGÀY HẸN CỦA GIA TỘC HECTOR - HECTOR TOUR NĂM 2023
+							  
+							  [#Hectortour](https://www.facebook.com/hashtag/hectortour?__eep__=6&__cft__[0]=AZVXSUeEPsFVL9izEavCQZ3D7W_huht52UthFKpBodRJBU8-FrRY_-_DGzQB5Q0DmD_VtBtMCfLSX-KCyeJWGTWS6_7jHdC2a3GbX3GUM07EzkomRjruG4xbbFhkjCq4oaA_P48tSVrFd0myXCGxej5w&__tn__=*NK-R), ngày hội truyền thống của Hector, ngày mà các nhà bán hàng Hector khắp nơi trên toàn quốc (năm nay có quốc tế luôn) cùng sum vầy, chia sẻ, vinh danh và cùng gắn kết. 
+							  
+							  [#hectortour](https://www.facebook.com/hashtag/hectortour?__eep__=6&__cft__[0]=AZVXSUeEPsFVL9izEavCQZ3D7W_huht52UthFKpBodRJBU8-FrRY_-_DGzQB5Q0DmD_VtBtMCfLSX-KCyeJWGTWS6_7jHdC2a3GbX3GUM07EzkomRjruG4xbbFhkjCq4oaA_P48tSVrFd0myXCGxej5w&__tn__=*NK-R) năm này có gì?
+							- Được tham gia nhà máy hiện đại sản xuất ra nhưng chai Hector chúng ta đang dùng.
+							- Đêm vinh danh trao giải quẩy hết mình với ca sĩ Karik
+							- Được học thêm các kiến thức mới từ thầy Ngô Ngọc Danh
+							- Buổi tiệc thân mật ngoài bãi biễn với ca sĩ Hà Nhi
+							- Rèn luyện sức khỏe với cung đường màu cam [#hectorrun](https://www.facebook.com/hashtag/hectorrun?__eep__=6&__cft__[0]=AZVXSUeEPsFVL9izEavCQZ3D7W_huht52UthFKpBodRJBU8-FrRY_-_DGzQB5Q0DmD_VtBtMCfLSX-KCyeJWGTWS6_7jHdC2a3GbX3GUM07EzkomRjruG4xbbFhkjCq4oaA_P48tSVrFd0myXCGxej5w&__tn__=*NK-R) 
+							  
+							  Hector, sức khoẻ và trẻ đẹp tự nhiên
+							  
+							  P.s: Hector Kim Tuyến ơi, mọi người đã chuẩn  bị xong hết chưa ![🥰](https://static.xx.fbcdn.net/images/emoji.php/v9/t43/1.5/16/1f970.png)![🥰](https://static.xx.fbcdn.net/images/emoji.php/v9/t43/1.5/16/1f970.png)
+							- ![image.png](../assets/image_1708357251943_0.png)
 				- Chuyển đổi, quảng cáo
 					- Minigame
 					- Giới thiệu sản phẩm/ dịch vụ
 					- Ưu đãi/ khuyến mãi
 					- USP thương hiệu
+					-
 					- Insights painpoint/ động lực/ rào cản
 		- 2. Marketing giá trị
 			- Ví dụ
