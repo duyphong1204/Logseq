@@ -1,12 +1,11 @@
 - Lead-in
-- 1. The highest peak in the UK is located in Scotland. What's its name and height? Compare it with Fan
-- Si Panthe highest point in Vietnam.
-- 2. Is English the official language in Scotland?
-- 3. Do you know the name of a well-known lake in Scotland where a monster is supposed to live?
-- 4. What is the Scottish highland dress for men?
-- A. saffron robe
-- B. kilt
-- C. sarong
+	- 1. The highest peak in the UK is located in Scotland. What's its name and height? Compare it with Fan Si Panthe highest point in Vietnam.
+	- 2. Is English the official language in Scotland?
+	- 3. Do you know the name of a well-known lake in Scotland where a monster is supposed to live?
+	- 4. What is the Scottish highland dress for men?
+		- A. saffron robe
+		- B. kilt
+	- C. sarong
 - D. cloak
 - 5.Look at the men in the picture. Do you know the name of the musical instrument they are playing?
 - 35
