@@ -1,6 +1,5 @@
 ## Lead-in
 id:: 65ad51f0-b171-4c83-a6f5-7c65ffcb2df6
-collapsed:: true
 	- 1. The highest peak in the UK is located in Scotland. What's its name and height? Compare it with Fan Si Panthe highest point in Vietnam.
 	- 2. Is English the official language in Scotland?
 	- 3. Do you know the name of a well-known lake in Scotland where a monster is supposed to live?
@@ -11,7 +10,6 @@ collapsed:: true
 		- D. cloak
 	- 5.Look at the men in the picture. Do you know the name of the musical instrument they are playing?
 - ## Quick facts
-  collapsed:: true
 	- **Area:** 78 789 sq km Population: 5.500.000 (2021 est)
 	- **Population density:** 70 persons per sq km (2021 est)
 	- **Capital city:** Edinburgh
@@ -34,7 +32,6 @@ collapsed:: true
 	- In 1999, Scotland received its own devolved home rule parliament to govern the country on purely domestic matters.
 - # Physical Geography Of Scotland
 	- ## Topography
-	  collapsed:: true
 		- Scotland has three fairly clearly marked regions.
 			- Just north of the border with England are the Southern Uplands,
 				- an area of small towns,
@@ -54,7 +51,6 @@ collapsed:: true
 				- in recent times, this region has had many of the same difficulties as the industrial north of England
 					- although the North Sea oil industry has helped to keep unemployment down.
 	- ## Weather and climate
-	  collapsed:: true
 		- Like the climate of the rest of Britain, that of Scotland is subject to the moderating Influences of the surrounding seas.
 			- As a result of these influences,
 				- extreme seasonal variations are rare
@@ -92,7 +88,6 @@ collapsed:: true
 							  | Rughadh Shuas's a'mhoch mhaduinn | With a rosy sky at dawn |
 							  | Dheanadh Fionn an ath-chadal. | He would take another sleep. |
 	- ## Major Cities
-	  collapsed:: true
 		- Scotland's two major cities have different reputations.
 			- Glasgow is the third largest city in Britain.
 				- It is associated with heavy industry and some of the worst housing conditions in Britain
@@ -123,9 +118,9 @@ collapsed:: true
 						- (there is a rock in the middle of the city on which stands the castle)
 					-
 				- The annual Edinburgh Festival of the arts is internationally famous.
-	- ## Exx 1
-- Fill each of the gaps below with a suitable word or phrase.
-- 1. Scotland is in the and is only smaller than of Great Britain. It is the in area. biggest country
+	- ## Exercise 1
+		- Fill each of the gaps below with a suitable word or phrase.
+		- 1. Scotland is in the and is only smaller than of Great Britain. It is the second in area. biggest country
 - 2. Scotland has three main regions:
 - 3. The economy of the Southern Uplands depends largely on
 - 4. The highlands. consists of small islands off the west coast.
