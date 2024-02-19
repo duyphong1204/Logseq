@@ -627,27 +627,37 @@ collapsed:: true
 			- 5. Sáng tạo xong 2 post hữu ích chia sẻ về Content Marketing với 3 định dạng Chữ - Reels - Carousels (hoặc chia sẻ về cái gì cung được)
 		- Hẹn gặp lại
 	- VI. Cách sản xuất nội dung social
+	  collapsed:: true
 		- 3 Cách chính để làm content
+		  collapsed:: true
 			- [Content Re-up hoặc rất dễ tái chế](https://www.facebook.com/duhocsinh/)
+			  collapsed:: true
 				- Liệt kê ra 10 nguồn để lấy thông tin: Fanpage, Group
 			- [Content sáng tạo dễ dàng](https://www.instagram.com/kindcontentagency/)
+			  collapsed:: true
 				- Mình có thể dễ dàng tham khảo ý và viết lại
 				- Thời gian làm ít, không tốn quá nhiều công sức & tiền bạc
 				- Mình có thể dễ dàng sử dụng ChatGPT để làm
+				  collapsed:: true
 					- Đưa thông tin đầy đủ cho ChatGPT và nhờ nó viết
 				- Cũng đòi hỏi 1 tí chuyên môn
 			- [Content sáng tạo UNIQUE/ USP (Sử dụng khi muốn chuyển đổi)](https://www.facebook.com/KindContentAgency/posts/pfbid026be8qV2k4if5i4D7bSDyVktX7XpKQ4sJHRdahKTZd4uwyrgbuNvP8kqx2meZra1Zl)
+			  collapsed:: true
 				- Chuyên gia mới có: Tài liệu, casestudy, kiến thức ít người biết,...
 				- Phải hiểu rõ sản phẩm mới có thể làm, hoặc yêu cầu tính chuyên môn cao
 				- Phải tốn nhiều thời gian tinh chỉnh sửa
 				- Dạng Content này có thể cài cắm chuyển đổi rất tốt
 		- [Sáng tạo Content giải trí](https://docs.google.com/spreadsheets/d/1_mREUVDsblImSuaHtUMw6BFvx_DSVj7AARF2HMfES1w/edit#gid=1905038788)
+		  collapsed:: true
 			- Đa phần là Re-up
 			- Hoặc sáng tạo gần tương tự, viết lại & chế lại ảnh
 			- Có cái nhìn rộng ra trong phân khúc khách hàng
 		- Sáng tạo Content bán hàng
+		  collapsed:: true
 			- Cấu trúc của một content bán hàng
+			  collapsed:: true
 				- Tiêu đề chính, phụ
+				  collapsed:: true
 					- Không thể thiếu ưu đãi shock, từ 50% đổ lên
 					- Không thể thiếu Insights động lực hoặc khó khăn của user
 					- USP mà chỉ brand có, không ai có được
@@ -655,13 +665,16 @@ collapsed:: true
 					- Nghiên cứu đối thủ đang tập trung vào thông điệp thế nào (Ads Library)
 				- Insight (mong muốn, khó khăn, rào cản)
 				- Lợi ích/ tính năng sản phẩm/ dịch vụ
+				  collapsed:: true
 					- Cam kết kiếm được công việc luôn
 					- Đảm bảo đầu ra
 				- Lý do tin sản phẩm/ thương hiệu/ cho những gì mình đang nói
+				  collapsed:: true
 					- Feedback từ NPP
 					- Em là Agency chuyên về CM, em có hàng trăm khách 1 năm
 				- USP. Điểm khác biệt của thương hiệu/sản phẩm.
 				- Thông tin khác về sản phẩm
+				  collapsed:: true
 					- - Giá cả
 					- - Khuyến mãi.
 					- - Feedback.
@@ -672,51 +685,68 @@ collapsed:: true
 				- Kêu gọi hành động
 			- [Áp dụng công thức viết Content tối ưu](https://kindcontent.net/cong-thuc-viet-content/#Cong_thuc_viet_content_PAS)
 			- Tham khảo đối thủ
+			  collapsed:: true
 				- Có cái nhìn mở rộng phân khúc khách hàng
 				- Ví dụ phòng IT, nhân sự sẽ gần tương đồng phòng Marketing, có thể tham khảo được
 			- [Đặc biệt phải tham khảo 10K+ Mẫu ads hàng tỉ - chục tỉ đồng này](https://docs.google.com/spreadsheets/d/1ulGgLhd_eQs-xn2lCjBfYZC46JZDJnv3N0olSh2njEQ/edit#gid=0)
 			- 5 tiêu chí cần có trong bài quảng cáo
+			  collapsed:: true
 				- Đúng mục tiêu
 				- Mở đầu thu hút
 				- Ngắn gọn, súc tích
 				- Đúng đối tượng
 				- Thuyết phục
 		- Sáng tạo Content hữu ích
+		  collapsed:: true
 			- Lời khuyên khi Marketing giá trị, làm content hữu ích
+			  collapsed:: true
 				- Phải phát triển Website nếu ko thì rất phí và tăng độ khó cho game
 				- Hướng đến mục tiêu phủ ngành: Target 500 Evergreen Content
 				- Khóa học Content SEO Mastery sẽ rất phù hợp để bạn đạt được 2 mục tiêu này
 			- Cấu trúc của Content hữu ích
+			  collapsed:: true
 				- Phần mở đầu
+				  collapsed:: true
 					- Cách viết tiêu đề & 2-3 dòng mở đầu hay (Tham khảo bên anh Đức Dương)
+					  collapsed:: true
 						- Công thức: Concept truyền thông + Insight + Đối tượng khách hàng + Tiêu đề phụ
+						  collapsed:: true
 							- 9 công thức viết content dễ dàng dành cho người mới bắt đầu 2023 (Dành cho tất tần tật các loại content bán hàng/ hữu ích/, giải trí,...)
 						- Càng nhiều concept truyền thông càng tốt
+						  collapsed:: true
 							- Số. 8 tips/ 9 mẹo/ 5 cách,...
 							- Tài sản lớn: 100 triệu, 1 tỷ, tài liệu TẤT TẦN TẬT,...
 							- Thúc dục: Xem ngay, Khai trương,
 							- Chuyện lạ/ chưa từng thấy/
 						- Đúng Insight
+						  collapsed:: true
 							- Keyword
 						- Đối tượng khách hàng
+						  collapsed:: true
 							- Bài viết dành cho Người mới bắt đầu
 							- Newbie
 							- Người mới vào nghề
 							- Dành cho MẸ BỈM SỮA
 						- Tham khảo thêm 500+ Mẫu tiêu đề đỉnh chóp (Đã được kiểm chứng nhiều lần)
+						  collapsed:: true
 							- Đăng ký khóa học sẽ được những tài nguyên này
 					- Phần hình ảnh (nếu có)
+					  collapsed:: true
 						- Tiêu đề trên ảnh khác cái tiêu đề trên Caption để có thể truyền tải nhiều thông điệp hơn, không bị lãng phí vị trí vàng.
 				- Phần thân bài
+				  collapsed:: true
 					- Viết theo câu từ, kinh nghiệm có sẵn của mình
+					  collapsed:: true
 						- Mình đi học, đọc sách
 					- Viết bằng cách lọc ra 3 đối thủ & tham khảo
 					- Viết bằng ChatGPT
 					- Kết hợp cả 3 lại
 				- Phần kết bài
+				  collapsed:: true
 					- Truyền tải thông điệp
 					- CTA like, cmt, share hoặc CTA mua hàng luôn
 			- Sáng tạo Carousels
+			  collapsed:: true
 				- Slide 1: Title
 				- Slide 2-8: Nội dung chính
 				- Slide 10: CTA
