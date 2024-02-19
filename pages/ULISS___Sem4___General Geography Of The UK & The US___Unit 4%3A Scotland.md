@@ -79,7 +79,10 @@ collapsed:: true
 				- Forecasting weather
 					- But familiarity with the local topography can enable a reasonable forecast of weather within the next few hours to be made
 						- if the wind direction, temperature and humidity are known.
-					- Over hundred, or thousands, of years, people have recorded these weather signs in the form of proverbs, such as the familiar 'red sky at night, shepherd's delight.
+					- Over hundred, or thousands, of years, people have recorded these weather signs in the form of proverbs,
+						- such as
+							- the familiar 'red sky at night
+							- shepherd's delight.
 						- Or the description of Scottish weather by Buff Hardie:
 							- | | |
 							  | Rughadh shuas an a'm laidhe, | With a rody sky at bedtime |
