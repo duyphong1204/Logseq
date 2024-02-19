@@ -66,6 +66,11 @@ collapsed:: true
 	- I. Tổng quan về Content Facebook
 		- Content, Content Marketing là gì?
 			- Phải phục vụ Marketing
+			- Phải chia giai đoạn cụ thể
+				- Thu hút, nhận biết
+				- Tạo niềm tin, brand love
+				- Chốt đơn, bán hàng
+				- Chăm sóc & up-sale
 			-
 	- II. 3 cách chính để làm kinh doanh & marketing với Fanpage.
 		- 1. Tập trung Quảng cáo/ Bán hàng
