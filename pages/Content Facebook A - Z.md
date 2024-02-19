@@ -63,6 +63,7 @@ collapsed:: true
 	- Định hướng lộ trình phát triển của một dân chuyên sáng tạo nội dung Facebook.
 	- Giải quyết câu hỏi làm gì tiếp bây giờ?
 - Mindmap
+	-
 	- II. 3 cách chính để làm kinh doanh & marketing với Fanpage.
 		- 1. Tập trung Quảng cáo/ Bán hàng
 			- Nước lau sàn An An, Nhang An An
@@ -151,6 +152,7 @@ collapsed:: true
 			- Tùy vào khách hàng muốn xem cái gì, có muốn xem không?
 			- Tuy vào độ tuổi khách hàng
 			- Xem đối thủ đang làm gì/ marketing kiểu gì rồi học hỏi
+	-
 	- IV. Tứ diện nghiên cứu Khách hàng - Đối thủ - Thương hiệu - Sản phẩm
 		- Tại sao lại cần nghiên cứu?
 			- Cùng xem qua thử một bảng kế hoạch
