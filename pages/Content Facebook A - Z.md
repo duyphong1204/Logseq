@@ -128,8 +128,38 @@ collapsed:: true
 					- [KOL Kim Tuyến](https://www.facebook.com/hectorkimtuyen/posts/pfbid028k2kR62wdsyq4JH2tmgZQVwqdzZryMtuPgzr6rNTRAxvZT4hyJoC1VawXTAy4ZE7l)
 					- Sự kiện
 						- Thiện nguyện
-						-
-						- Đua xe đạp
+						  collapsed:: true
+							- HECTOR KIM TUYẾN VỚI THIỆN NGUYỆN BÌNH PHƯỚC 21/05/2023
+							  • Ngày 21/5 Team Hector Kim Tuyến có chuyến thiện nguyện cùng với Đoàn Y bác sĩ Hồ Chí Minh tổ chức phát quà và khám chữa bệnh miễn phí tại Bình Phước
+							  • Đoàn Y bác sĩ sẽ tổ chức phát quà và khám chữa bệnh nên Team Hector Kim Tuyến sẽ tổ chức quyên góp quần áo cho mọi người, ngoài ra còn quyên góp thêm đồ chơi cho trẻ em.
+							  Địa điểm thu gom: Phiim Cafe tại 6A Thái Văn Lung, Bến Nghé, Quận 1 hoặc mọi người có thể thu gom lưu trữ tại nhà đến ngày đi thì mang đến Phiim Cafe tại 6A Thái Văn Lung, Bến Nghé, Quận 1.
+							  Lưu ý:
+							  – Quần áo đã qua sử dụng còn mặc tốt và sạch đẹp như: Quần dài, áo thun, áo len, áo khoác, tất mới (vớ), khăn quàng giữ ấm cổ.
+							  – Quần áo đã qua sử dụng xin giặt sạch, thơm tho
+							  – Không quyên góp đồ quá cũ, đồ lót, rách, hở để tôn trọng người nhận
+							  – Phân loại quần áo trẻ con, người lớn và các loại quần áo ra riêng các bọc, ghi chú đầy đủ bên ngoài để nhóm thiện nguyện dễ phân loại.
+							  Lưu ý: Mọi người sẽ đi xe chung với đoàn và về trong ngày.
+							  Hotline: 0377 399 000
+							- ![image.png](../assets/image_1708357106009_0.png)
+						- [Đua xe đạp]
+							- HECTOR - VINH DỰ LÀ NHÀ "HỖ TRỢ SỨC BỀN" ĐỒNG HÀNH CÙNG CUỘC ĐUA XE ĐẠP CÚP HTV LẦN THỨ 35 NĂM 2023
+							- 🚴🏻‍ Từ 2/4 đến 30/4/2023🚴🏻‍
+							- Bên cạnh hỗ trợ về tài chính, bằng kinh nghiệm lâu năm phát triển các sản phẩm chăm sóc sức khỏe, Hector tự hào hỗ trợ sức bền cho các VĐV, BTC (đội mô tô, hậu cần, phóng viên và tình nguyện viên) thông qua 2 dòng sản phẩm Hector Sâm và Hector Collagen, giúp nâng cao thể lực, sức bền và bổ sung dinh dưỡng.
+							- Các hạng mục hỗ trợ đồng hành:
+							- ![💢](https://static.xx.fbcdn.net/images/emoji.php/v9/t16/1.5/16/1f4a2.png) 20,000 chai Hector cho VĐV và BTC (đội mô tô, hậu cần, phỏng viên và tình nguyện viên)
+							- ![💢](https://static.xx.fbcdn.net/images/emoji.php/v9/t16/1.5/16/1f4a2.png) 4 “Trạm Tiếp Sức Bền Hector” cho VĐV giải đua tại vạch đích cho các chặng đua chính
+							- ![💢](https://static.xx.fbcdn.net/images/emoji.php/v9/t16/1.5/16/1f4a2.png) 1 giải thưởng “VĐV Vượt Khó” – 5 triệu đồng/giải và miễn phí 1 năm sử dụng Hector
+							- ![💢](https://static.xx.fbcdn.net/images/emoji.php/v9/t16/1.5/16/1f4a2.png) Tài trợ tiền mặt
+							- Với Hector, mỗi cú đạp xe của bạn sẽ được truyền động lực từ nguồn năng lượng thiên nhiên, giúp những con đường gian nan trở nên dễ dàng hơn.
+							- Các sản phẩm sức khỏe của Hector – được sản xuất tại nhà máy đạt tiêu chuẩn Quốc tế FSSC 22000 tại Bình Thuận, với các thành phần thảo dược từ thiên nhiên Việt Nam, phù hợp với thể trạng người Việt.
+							- CÙNG HECTOR RÈN LUYỆN THỂ DỤC THỂ THAO | NÂNG CAO SỨC KHỎE
+							- Hector – Sản Phẩm Sức Khỏe Từ Thảo Dược Thiên Nhiên
+							- ---
+							- Inbox ngay fanpage để được tư vấn sản phẩm nhé!!
+							- ____
+							- HECTOR KIM TUYẾN
+							- ![🏠](https://static.xx.fbcdn.net/images/emoji.php/v9/t4f/1.5/16/1f3e0.png) 793A Ba Đình, phường 10, quận 8
+							- ![☎️](https://static.xx.fbcdn.net/images/emoji.php/v9/ta9/1.5/16/260e.png) 0377 399 000
 						- LET'T ENHANCE YOUR FUTURE
 						- Hector Tour
 				- Chuyển đổi, quảng cáo
