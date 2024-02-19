@@ -261,7 +261,7 @@ collapsed:: true
 			- Xem đối thủ đang làm gì/ marketing kiểu gì rồi học hỏi
 	- IV. Tứ diện nghiên cứu Khách hàng - Đối thủ - Thương hiệu - Sản phẩm
 		- Tại sao lại cần nghiên cứu?
-			- Cùng xem qua thử một bảng kế hoạch
+			- [Cùng xem qua thử một bảng kế hoạch](https://docs.google.com/spreadsheets/d/171evnMQuRTKGIRhGCIZJq6QgVcmGWvz4B7qKKr5hyuo/edit#gid=0)
 			- Để làm 1 bài Ads thời gian nghiên cứu chiếm tới 80%
 		- Nghiên cứu khách hàng và 3 loại Insights
 			- Insights mong muốn
