@@ -246,7 +246,7 @@ collapsed:: true
 				- 90% giải trí, 10% Còn lại có thể định hướng bán hàng, PR
 					- Bạn đang có đang gặp vấn đề gì Visa k?
 					- Comments nhắc tới thương hiệu chính
-			- Diêm thông nhất
+			- Diêm thống nhất
 				- Tập trung vào mối quan tâm của khách hàng
 					- Trending
 					- Bóng đá
@@ -259,7 +259,6 @@ collapsed:: true
 			- Tùy vào khách hàng muốn xem cái gì, có muốn xem không?
 			- Tuy vào độ tuổi khách hàng
 			- Xem đối thủ đang làm gì/ marketing kiểu gì rồi học hỏi
-	-
 	- IV. Tứ diện nghiên cứu Khách hàng - Đối thủ - Thương hiệu - Sản phẩm
 		- Tại sao lại cần nghiên cứu?
 			- Cùng xem qua thử một bảng kế hoạch
