@@ -125,12 +125,13 @@ collapsed:: true
 					- Vinh danh NPP
 					- Feedback từ khách hàng
 					- Thông báo giải thưởng
-					- KOL Kim Tuyến
+					- [KOL Kim Tuyến](https://www.facebook.com/hectorkimtuyen/posts/pfbid028k2kR62wdsyq4JH2tmgZQVwqdzZryMtuPgzr6rNTRAxvZT4hyJoC1VawXTAy4ZE7l)
 					- Sự kiện
-					- Thiện nguyện
-					- Đua xe đạp
-					- LET'T ENHANCE YOUR FUTURE
-					- Hector Tour
+						- Thiện nguyện
+						-
+						- Đua xe đạp
+						- LET'T ENHANCE YOUR FUTURE
+						- Hector Tour
 				- Chuyển đổi, quảng cáo
 					- Minigame
 					- Giới thiệu sản phẩm/ dịch vụ
