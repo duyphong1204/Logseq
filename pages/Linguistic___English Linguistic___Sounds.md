@@ -19,6 +19,6 @@
 			- /m/
 			- /n/
 			-
-- [k](https://www.cambridge.org/features/IPAchart/symbols/k.html)
+-
 - ## Footnotes
 	- [^1]: [How to Pronounce the Glottal Stop/Glottal T and When is it Used - Pronunciation with Emma](https://www.youtube.com/watch?v=chcjHwWwVxQ)
