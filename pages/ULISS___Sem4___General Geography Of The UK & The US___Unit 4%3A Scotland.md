@@ -92,5 +92,14 @@ collapsed:: true
 							  | Rughadh Shuas's a'mhoch mhaduinn | With a rosy sky at dawn |
 							  | Dheanadh Fionn an ath-chadal. | He would take another sleep. |
 	- ## Major Cities
-		- Scotland's two major cities have different reputations. Glasgow is the third largest city in Britain. It is associated with heavy industry and some of the worst housing conditions in Britain (the district called the Gorbals, although now rebuilt, was famous in this respect). However, this image is one-sided. Glasgow has a strong artistic heritage. At the turn of the last century the work of the Glasgow School (led by Mackintosh) put the city at the forefront of European design and architecture. In 1990, it was the European City of Culture. Over the centuries, Glasgow has received many immigrants from Ireland and in some ways it reflects the divisions in the community that exist in Northern Ireland. For example, of its two rival football teams, one is Catholic (Celtic) and the other is Protestant (Rangers).
-	- Edinburgh, which is half the size of Glasgow, has a comparatively middle-class image (although class differences between the two cities are not really very great). It is the capital of Scotland and is associated with scholarship, the law and administration. This reputation, together with its many fine historic buildings, and also perhaps its topography (there is a rock in the middle of the city on which stands the castle) has led to its being called 'Athens of the North. The annual Edinburgh Festival of the arts is internationally famous.
+		- Scotland's two major cities have different reputations.
+			- Glasgow is the third largest city in Britain.
+				- It is associated with heavy industry and some of the worst housing conditions in Britain
+					- (the district called the Gorbals, although now rebuilt, was famous in this respect).
+				- However, this image is one-sided.
+					- Glasgow has a strong artistic heritage.
+					- At the turn of the last century the work of the Glasgow School (led by Mackintosh) put the city at the forefront of European design and architecture. In 1990, it was the European City of Culture. Over the centuries, Glasgow has received many immigrants from Ireland and in some ways it reflects the divisions in the community that exist in Northern Ireland. For example, of its two rival football teams, one is Catholic (Celtic) and the other is Protestant (Rangers).
+			- Edinburgh, which is half the size of Glasgow, has a comparatively middle-class image
+				- (although class differences between the two cities are not really very great).
+				- It is the capital of Scotland
+				- associated with scholarship, the law and administration. This reputation, together with its many fine historic buildings, and also perhaps its topography (there is a rock in the middle of the city on which stands the castle) has led to its being called 'Athens of the North. The annual Edinburgh Festival of the arts is internationally famous.
