@@ -296,10 +296,11 @@ collapsed:: true
 				- Để có thể dễ dàng có khách hàng đầu tiên luôn
 				- Sau này các bạn đăng mà user thấy thì họ tò mò vào trang và thấy ngay các bài đang ghim > phát sinh đơn hàng hoặc leads
 			- Đẩy những Content HOT, siêu thu hút, tài liệu lớn, Minigame, những quà tặng,... Liên quan tới sản phẩm/ dịch vụ của mình.
-				- Ví dụ chủ đề HOT, rồi mời like page
-					- Bài của Mind Mesh
+				- [Ví dụ chủ đề HOT, rồi mời like page](https://www.facebook.com/mindmesh.net)
+					- [Bài của Mind Mesh](https://www.facebook.com/groups/tamsu.content/posts/886825052429910/)
+					-
 				- Tài liệu lớn, siêu khủng
-					- Để nhận được tài liệu bạn phải LIKE FANPAGE
+					- [Để nhận được tài liệu bạn phải LIKE FANPAGE](https://www.facebook.com/groups/tamsu.content/posts/937238980721850/)
 				- Minigame
 				- Hợp tác với các thương hiệu khác, và nhờ họ giới thiệu hộ
 				- Bắt buộc phải kêu gọi hành động họ LIKE PAGE. Cho họ 1 lý do, cho họ cái "Mồi" để họ Like Page.
