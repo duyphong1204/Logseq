@@ -106,7 +106,9 @@ collapsed:: true
 						- scholarship
 						- the law
 						- administration.
-				- This reputation, has led to its being called 'Athens of the North
-					- together with its many fine historic buildings, and also perhaps its topography
-					- (there is a rock in the middle of the city on which stands the castle)
+				- This reputation, together with its
+					- many fine historic buildings
+					- and also perhaps topography
+						- (there is a rock in the middle of the city on which stands the castle)
+					- has led to its being called 'Athens of the North
 				- The annual Edinburgh Festival of the arts is internationally famous.
