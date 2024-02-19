@@ -580,7 +580,7 @@ collapsed:: true
 					- - Cách sử dụng
 					- - Chính sách
 				- Kêu gọi hành động
-			- Áp dụng công thức viết Content tối ưu
+			- [Áp dụng công thức viết Content tối ưu](https://kindcontent.net/cong-thuc-viet-content/#Cong_thuc_viet_content_PAS)
 			- Tham khảo đối thủ
 				- Có cái nhìn mở rộng phân khúc khách hàng
 				- Ví dụ phòng IT, nhân sự sẽ gần tương đồng phòng Marketing, có thể tham khảo được
