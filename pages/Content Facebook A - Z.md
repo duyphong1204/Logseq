@@ -367,13 +367,13 @@ collapsed:: true
 					- Kind Content
 						- 90% tập trung vào nhận diện, 10% chuyển đổi: Khóa học Content Marketing cho người mới bắt đầu
 					- Hector Kim Tuyến
-					- Hector Kim Tuyến 50% thu hút, tạo niềm tin.
-					- Vinh danh NPP
-					- Sự kiện
-					- Hoạt động xoay quanh brand
+						- Hector Kim Tuyến 50% thu hút, tạo niềm tin.
+							- Vinh danh NPP
+							- Sự kiện
+							- Hoạt động xoay quanh brand
 					- 50% còn lại là tuyến bài chuyển đổi.
-					- Giới thiệu sản phẩm
-					- Mời làm đại lý
+						- Giới thiệu sản phẩm
+						- Mời làm đại lý
 			- Ví dụ về thông điệp truyền thông
 				- Kangaroo
 					- Máy lọc nước hàng đầu việt nam
