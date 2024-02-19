@@ -1,4 +1,5 @@
-- Lead-in
+## Lead-in
+id:: 65ad51f0-b171-4c83-a6f5-7c65ffcb2df6
 	- 1. The highest peak in the UK is located in Scotland. What's its name and height? Compare it with Fan Si Panthe highest point in Vietnam.
 	- 2. Is English the official language in Scotland?
 	- 3. Do you know the name of a well-known lake in Scotland where a monster is supposed to live?
@@ -8,12 +9,10 @@
 		- C. sarong
 		- D. cloak
 	- 5.Look at the men in the picture. Do you know the name of the musical instrument they are playing?
-- 35
-- Quick facts
-- Area: 78 789 sq km Population: 5.500.000 (2021 est)
-- Population density: 70 persons per sq
-- km (2021 est)
-- Capital city: Edinburgh
+- ## Quick facts
+	- **Area:** 78 789 sq km Population: 5.500.000 (2021 est)
+	- **Population density:** 70 persons per sq km (2021 est)
+	- Capital city: Edinburgh
 - Major cities: Aberdeen Dundee.
 - Glasgow, Edinburgh, Inverness Stirling
 - Official language: English (Scottish Gaelic is spoken by 1.45% of the population)
