@@ -7,7 +7,6 @@
   | [Approximant](javascript:void(0);) |   | [w](javascript:viewSymbol('symbols/w.html');) |   |   |   |   |   | [ɹ](javascript:viewSymbol('symbols/0279.html');) |   |   |   | [j](javascript:viewSymbol('symbols/j.html');) |   | [w](javascript:viewSymbol('symbols/w.html');) |   |   |
   | [Lateral approximant] |   |   |   |   |   |   |   | [l](javascript:viewSymbol('symbols/l.html');) |   |   |   |   |   |   |   |   |
 - Voiceless Glottal Stop
-  collapsed:: true
 	- How to pronounce the Voiceless Glottal St [^1]
 		-
 		- {{video https://www.youtube.com/watch?v=chcjHwWwVxQ}}
@@ -21,5 +20,4 @@
 			-
 - ## Footnotes
 	- [^1]: [How to Pronounce the Glottal Stop/Glottal T and When is it Used - Pronunciation with Emma](https://www.youtube.com/watch?v=chcjHwWwVxQ)
--
 - https://discuss.logseq.com/t/logseq-for-code-management/20743
