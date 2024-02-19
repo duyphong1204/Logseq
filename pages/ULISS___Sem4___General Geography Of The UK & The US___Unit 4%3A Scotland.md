@@ -65,8 +65,12 @@ collapsed:: true
 			- the average January temperature of the western coastal region is 30C
 			- corresponding July averages are 14°C and 15°C
 			- the average January and July temperatures for the city of Edinburgh are 3°C and 14°C, respectively.
-		- Precipitation, which is marked by regional variations, ranges from about 3800mm annually in the western Highlands to 635mm annually in certain eastern areas.
-- Scotland has rich popular weather lore. In fact, these saying fall into two groups: forecasting weather and forecasting climate. Climatic forecasts, those sayings which predict summer rainfall from observing when species of tree come into leaf, or severity of the coming winter from the time of migration of certain birds, have little validity. But familiarity with the local topography can enable a reasonable forecast of weather within the next few hours to be made, if the wind direction, temperature and humidity are known. Over hundred, or thousands, of years, people have recorded these weather signs in the form of proverbs, such as the familiar 'red sky at night, shepherd's delight. Or the description of Scottish weather by Buff Hardie:
+		- Precipitation
+			- which is marked by regional variations
+			- ranges from
+				- about 3800mm annually in the western Highlands
+				- to 635mm annually in certain eastern areas.
+		- Scotland has rich popular weather lore. In fact, these saying fall into two groups: forecasting weather and forecasting climate. Climatic forecasts, those sayings which predict summer rainfall from observing when species of tree come into leaf, or severity of the coming winter from the time of migration of certain birds, have little validity. But familiarity with the local topography can enable a reasonable forecast of weather within the next few hours to be made, if the wind direction, temperature and humidity are known. Over hundred, or thousands, of years, people have recorded these weather signs in the form of proverbs, such as the familiar 'red sky at night, shepherd's delight. Or the description of Scottish weather by Buff Hardie:
 - Rughadh shuas an a'm laidhe,
 - Dh' eireadh Unionn moch's a mhaduinn:
 - Rughadh Shuas's a'mhoch mhaduinn
