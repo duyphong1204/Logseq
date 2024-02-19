@@ -599,15 +599,15 @@ collapsed:: true
 			- Cấu trúc của Content hữu ích
 				- Phần mở đầu
 					- Cách viết tiêu đề & 2-3 dòng mở đầu hay (Tham khảo bên anh Đức Dương)
-					- Công thức: Concept truyền thông + Insight + Đối tượng khách hàng + Tiêu đề phụ
-					- 9 công thức viết content dễ dàng dành cho người mới bắt đầu 2023 (Dành cho tất tần tật các loại content bán hàng/ hữu ích/, giải trí,...)
-					- Càng nhiều concept truyền thông càng tốt
-					- Số. 8 tips/ 9 mẹo/ 5 cách,...
-					- Tài sản lớn: 100 triệu, 1 tỷ, tài liệu TẤT TẦN TẬT,...
-					- Thúc dục: Xem ngay, Khai trương,
-					- Chuyện lạ/ chưa từng thấy/
-					- Đúng Insight
-					- Keyword
+						- Công thức: Concept truyền thông + Insight + Đối tượng khách hàng + Tiêu đề phụ
+							- 9 công thức viết content dễ dàng dành cho người mới bắt đầu 2023 (Dành cho tất tần tật các loại content bán hàng/ hữu ích/, giải trí,...)
+						- Càng nhiều concept truyền thông càng tốt
+							- Số. 8 tips/ 9 mẹo/ 5 cách,...
+							- Tài sản lớn: 100 triệu, 1 tỷ, tài liệu TẤT TẦN TẬT,...
+							- Thúc dục: Xem ngay, Khai trương,
+							- Chuyện lạ/ chưa từng thấy/
+						- Đúng Insight
+							- Keyword
 					- Đối tượng khách hàng
 					- Bài viết dành cho Người mới bắt đầu
 					- Newbie
