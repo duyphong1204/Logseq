@@ -108,13 +108,13 @@ collapsed:: true
 					- Đội ngũ Sales hùng hậu chờ số điện thoại và gọi điện chốt
 				- Tuyến bài chính cả 2 page này
 					- 95% là tuyến bài quảng cáo
-					- Tính năng/ lợi ích
-					- Ưu đãi/ khuyến mãi/ giá hời
-					- USP
-					- Inisghts (Động lực/ khó khăn/ rào cản)
+						- Tính năng/ lợi ích
+						- Ưu đãi/ khuyến mãi/ giá hời
+						- USP
+						- Inisghts (Động lực/ khó khăn/ rào cản)
 					- Tuyến bài xoay quanh brand
-					- Làm brand trông uy tín, đáng tin hơn
-					- User thấy ADS vẫn chưa tin, họ sẽ vào fanpage xem thương hiệu có uy tín ko rồi mới quyết định
+						- Làm brand trông uy tín, đáng tin hơn
+						- User thấy ADS vẫn chưa tin, họ sẽ vào fanpage xem thương hiệu có uy tín ko rồi mới quyết định
 			- Một số đặc điểm khác
 				- Nhiều khi chỉ là những sản phẩm trend, theo vụ mùa
 				- Lượng like thường buff ảo để "nhìn có vẻ uy tín" vì xác định làm Không lâu dài
