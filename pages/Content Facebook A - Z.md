@@ -171,14 +171,14 @@ collapsed:: true
 						- Hector Tour
 							- - NGÀY HẸN CỦA GIA TỘC HECTOR - HECTOR TOUR NĂM 2023
 							    
-							    [#Hectortour](https://www.facebook.com/hashtag/hectortour?__eep__=6&__cft__[0]=AZVXSUeEPsFVL9izEavCQZ3D7W_huht52UthFKpBodRJBU8-FrRY_-_DGzQB5Q0DmD_VtBtMCfLSX-KCyeJWGTWS6_7jHdC2a3GbX3GUM07EzkomRjruG4xbbFhkjCq4oaA_P48tSVrFd0myXCGxej5w&__tn__=*NK-R), ngày hội truyền thống của Hector, ngày mà các nhà bán hàng Hector khắp nơi trên toàn quốc (năm nay có quốc tế luôn) cùng sum vầy, chia sẻ, vinh danh và cùng gắn kết.   
+							    [#Hectortour], ngày hội truyền thống của Hector, ngày mà các nhà bán hàng Hector khắp nơi trên toàn quốc (năm nay có quốc tế luôn) cùng sum vầy, chia sẻ, vinh danh và cùng gắn kết.   
 							    
-							    [#hectortour](https://www.facebook.com/hashtag/hectortour?__eep__=6&__cft__[0]=AZVXSUeEPsFVL9izEavCQZ3D7W_huht52UthFKpBodRJBU8-FrRY_-_DGzQB5Q0DmD_VtBtMCfLSX-KCyeJWGTWS6_7jHdC2a3GbX3GUM07EzkomRjruG4xbbFhkjCq4oaA_P48tSVrFd0myXCGxej5w&__tn__=*NK-R) năm này có gì?  
+							    [#hectortour] năm này có gì?  
 							  - Được tham gia nhà máy hiện đại sản xuất ra nhưng chai Hector chúng ta đang dùng.
 							  - Đêm vinh danh trao giải quẩy hết mình với ca sĩ Karik
 							  - Được học thêm các kiến thức mới từ thầy Ngô Ngọc Danh
 							  - Buổi tiệc thân mật ngoài bãi biễn với ca sĩ Hà Nhi
-							  - Rèn luyện sức khỏe với cung đường màu cam [#hectorrun](https://www.facebook.com/hashtag/hectorrun?__eep__=6&__cft__[0]=AZVXSUeEPsFVL9izEavCQZ3D7W_huht52UthFKpBodRJBU8-FrRY_-_DGzQB5Q0DmD_VtBtMCfLSX-KCyeJWGTWS6_7jHdC2a3GbX3GUM07EzkomRjruG4xbbFhkjCq4oaA_P48tSVrFd0myXCGxej5w&__tn__=*NK-R) 
+							  - Rèn luyện sức khỏe với cung đường màu cam [#hectorrun]
 							    
 							    Hector, sức khoẻ và trẻ đẹp tự nhiên  
 							    
