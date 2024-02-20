@@ -8,8 +8,7 @@
   | [Lateral approximant](Lateral approximant/IPA) |   |   |   | [l](https://www.cambridge.org/features/IPAchart/symbols/l.html) |   |   |   |
 	-
 - Voiceless Glottal Stop
-	- How to pronounce the Voiceless Glottal St [^1]
-		- [:div {:class text-right} "Text here"]
+	- How to pronounce the Voiceless Glottal Stop [^1]
 		- {{video https://www.youtube.com/watch?v=chcjHwWwVxQ}}
 		- {{youtube-timestamp 95}} - {{youtube-timestamp 180}}
 	- When it is used[^1]
