@@ -1,4 +1,5 @@
 - Board
 	- [[Linguistic/English Linguistic Map]]
 - [[Linguistic/English Linguistic]]
+- Mình đổi lại từ English Linguistic ở
 -
