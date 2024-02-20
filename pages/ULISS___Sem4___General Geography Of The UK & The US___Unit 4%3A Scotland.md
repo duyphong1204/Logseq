@@ -148,12 +148,15 @@ collapsed:: true
 - # Identity, Symbols and Customs
 	- ## Scottish identity
 		- People in Scotland have constant reminders of their distinctiveness.
-			- First, several important aspects of public life are organized separately, and differtestly, from the rest of Britain notably, education, law and religion.
+			- First, several important aspects of public life are organized separately, and differently, from the rest of Britain
+				- notably, education, law and religion.
 			- Second, the Scottish way of speaking Engin is very distinctive.
 				- A modern form of the dialect known as Scots is spoken in everyday life by most of the working classes in the lowlands.
 					- It has many features which are different from other forms of English and cannot usually be understood by people who are not Scottish.
 			- Third, there are many symbols of Scottishness which are well-known throughout Britain.
-	- However, the feeling of being Scottish is not that simple. This is partly because of the historical cultural split between highland and lowland Scotland. A genuinely Scottish Gaelic sense of cultural identity is, in modern times, felt only by a few tens of thousands of people in some of the western isles of Scotland and the adjoining mainland. These people speak Scottish Gaelic (which they call 'Gaelic") as a first language.
+		- However, the feeling of being Scottish is not that simple.
+			- This is partly because of the historical cultural split between highland and lowland Scotland.
+				- A genuinely Scottish Gaelic sense of cultural identity is, in modern times, felt only by a few tens of thousands of people in some of the western isles of Scotland and the adjoining mainland. These people speak Scottish Gaelic (which they call 'Gaelic") as a first language.
 	- Family
 	- Early families living in the Scottish Highlands were loyal to their clan, a unit that bound together relatives sharing a common ancestor or some other bond of loyalty. However clans have less importance in the lives of individual family members today. Each clan is still headed by a chieftain, but the position is mainly symbolic. Contemporary members of a clan may make efforts to preserve its traditions and history. Each clan is represented by a tartan, a distinctive plaid pattern.
 	- In rural areas, the extended family can still be important, but in urban areas families tend to be small and generally close-knit, Although relatives visit each other often, families are independent from each other. The elderly prefer to stay in their own homes and remain independent as long as possible, rather than live with their married children. Just over half of all homes are owner occupied, the lowest level in the United Kingdom.
