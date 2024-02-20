@@ -276,9 +276,9 @@ collapsed:: true
 				- The rising sun to see!
 	- ## Exercise 1
 		- Fill in each of the following gaps with appropriate information.
-		- Is the name given to certain geometrical patterns woven into cloth, or to the cloth itself, from which are made the garments traditionally worn in the Highlands of Scotland.
+		- *Tartan* is the name given to certain geometrical patterns woven into cloth, or to the cloth itself, from which are made the garments traditionally worn in the Highlands of Scotland.
 		  logseq.order-list-type:: number
-		- The national emblem of Scotland is *the thistle*
+		- The national emblem of Scotland is *the thistle*.
 		  logseq.order-list-type:: number
 		- The national dish of Scotland is *haggis*, which is made from ground entrails, mixed with oats and spices, and tied in a *sheep*'s stomach and cooked the production of which contributes significantly to the economy.
 		  logseq.order-list-type:: number
