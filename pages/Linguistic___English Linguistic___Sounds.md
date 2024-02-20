@@ -4,8 +4,8 @@
   | [Tap or Flap]([[Tap or Flap/IPA]]) | | | |       [ɾ](https://www.cambridge.org/features/IPAchart/symbols/027E.html) | | | | |
   | [Affricate](Affricate/IPA) | | | | | [tʃ](https://www.cambridge.org/features/IPAchart/symbols/02A7.html)     [dʒ](https://www.cambridge.org/features/IPAchart/symbols/02A4.html) | | | |
   | [Fricative](Fricative/IPA) | | [f](https://www.cambridge.org/features/IPAchart/symbols/f.html) [v](https://www.cambridge.org/features/IPAchart/symbols/v.html) | [θ](javascript:viewSymbol('symbols/03B8.html');) [ð](https://www.cambridge.org/features/IPAchart/symbols/00F0.html) | [s](javascript:viewSymbol('symbols/s.html');)    [z](javascript:viewSymbol('symbols/z.html');) | [](javascript:viewSymbol('symbols/0283.html');)[ʃ](javascript:viewSymbol('symbols/0283.html');) [ʒ](javascript:viewSymbol('symbols/0292.html');) |   |   |  [h](javascript:viewSymbol('symbols/h.html');) |   |
-  | [Approximant](Approximant/IPA) | [w](javascript:viewSymbol('symbols/w.html');) |   |   | [ɹ](javascript:viewSymbol('symbols/0279.html');) |   | [j](https://www.cambridge.org/features/IPAchart/symbols/j.html) | [w](https://www.cambridge.org/features/IPAchart/symbols/w.html) | |
-  | [Lateral approximant](Lateral approximant/IPA) |   |   |   | [l](https://www.cambridge.org/features/IPAchart/symbols/l.html) |   |   |   |
+  | [Approximant](Approximant/IPA) | [w](javascript:viewSymbol('symbols/w.html');) |   |   |       [ɹ](javascript:viewSymbol('symbols/0279.html');) |   | [j](https://www.cambridge.org/features/IPAchart/symbols/j.html) | [w](https://www.cambridge.org/features/IPAchart/symbols/w.html) | |
+  | [Lateral approximant](Lateral approximant/IPA) |   |   |   |       [l](https://www.cambridge.org/features/IPAchart/symbols/l.html) |   |   |   |
 - Voiceless Glottal Stop
 	- How to pronounce the Voiceless Glottal Stop [^1]
 		- {{video https://www.youtube.com/watch?v=chcjHwWwVxQ}}
