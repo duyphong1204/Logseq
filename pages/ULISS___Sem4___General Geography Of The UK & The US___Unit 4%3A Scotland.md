@@ -46,10 +46,10 @@ id:: 65ad51f0-b171-4c83-a6f5-7c65ffcb2df6
 				- This area of spectacular natural beauty
 					- occupies the same land area as southern England
 						- but fewer than a million people live there.
-			- It is in the central plain and the strip of east coast extending northwards from it that
-				- more than 80% of the population of Scotland lives
-				- in recent times, this region has had many of the same difficulties as the industrial north of England
-					- although the North Sea oil industry has helped to keep unemployment down.
+				- It is in the central plain and the strip of east coast extending northwards from it that
+					- more than 80% of the population of Scotland lives
+					- in recent times, this region has had many of the same difficulties as the industrial north of England
+						- although the North Sea oil industry has helped to keep unemployment down.
 	- ## Weather and climate
 		- Like the climate of the rest of Britain, that of Scotland is subject to the moderating Influences of the surrounding seas.
 			- As a result of these influences,
@@ -124,8 +124,8 @@ id:: 65ad51f0-b171-4c83-a6f5-7c65ffcb2df6
 		- 2. Scotland has three main regions: *Northwest Highlands*, *Grampian Mountains*, *Southern Uplands*
 		- 3. The economy of the Southern Uplands depends largely on *sheep farming*
 		- 4. The highlands consists of *mountains* and *deep valleys* and a number of small islands off the west coast.
-		- 5. 80% of Scottish people live in the **
-- 6. Tourism and the production of whisky play an important role in the local economy of the
+		- 5. 80% of Scottish people live in the *central plain and the strip of east cost*
+		- 6. Tourism and the production of whisky play an important role in the local economy of the
 - 7. Two major cities in Scotland are the size of the latter. and The former is half
 - 8. Outstanding climatic features of Scotland are summer. winter and
 - 9
