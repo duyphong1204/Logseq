@@ -136,9 +136,9 @@ id:: 65ad51f0-b171-4c83-a6f5-7c65ffcb2df6
 		- 2. The third largest city in Britain **G**
 		- 3. Has a comparative middle-class image. **E**
 		- 4. Associated with scholarship, the law and administration. **E**
-		- 5. Associated with heavy industry and bad housing conditions. ****
-- 6. Has a strong artistic heritage.
-- 7. Sometimes called 'Athens of the North.
-- 8. Was the European City of Culture in 1990
-- 9. Has received many immigrants from Ireland.
-- 10. ts two rival football teams are Celtic and Rangers.
+		- 5. Associated with heavy industry and bad housing conditions. **G**
+		- 6. Has a strong artistic heritage. **G**
+		- 7. Sometimes called 'Athens of the North. **E**
+		- 8. Was the European City of Culture in 1990 **G**
+		- 9. Has received many immigrants from Ireland. **G**
+		- 10. ts two rival football teams are Celtic and Rangers. **G**
