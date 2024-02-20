@@ -277,8 +277,8 @@ collapsed:: true
 	- ## Exercise 1
 		- Fill in each of the following gaps with appropriate information.
 		- Is the name given to certain geometrical patterns woven into cloth, or to the cloth itself, from which are made the garments traditionally worn in the Highlands of Scotland.
-		- The national emblem of Scotland is which is made from ground
-		- The national dish of Scotland is entrails, mixed with oats and spices, and tied in a *sheep*'s stomach and cooked the production of which contributes significantly to the economy.
+		- The national emblem of Scotland is
+		- The national dish of Scotland is *haggis*, which is made from ground entrails, mixed with oats and spices, and tied in a *sheep*'s stomach and cooked the production of which contributes significantly to the economy.
 		- The national drink of Scotland is *whiskey*, the production of which contributé significantly to the economy.
 		- Although *bagpipe* are found throughout the world, Scotland is probably the country most identified with the musical instrument.
 		- The most famous poet in Scotland is *Robert Burns*.
