@@ -144,16 +144,26 @@ collapsed:: true
 		  logseq.order-list-type:: number
 	- ## Exercise 2
 		- Write E for Edinburgh, G for Glasgow in the space after each of the descriptions below.
-		- 1. The capital city of Scotland **E**
-		- 2. The third largest city in Britain **G**
-		- 3. Has a comparative middle-class image. **E**
-		- 4. Associated with scholarship, the law and administration. **E**
-		- 5. Associated with heavy industry and bad housing conditions. **G**
-		- 6. Has a strong artistic heritage. **G**
-		- 7. Sometimes called 'Athens of the North. **E**
-		- 8. Was the European City of Culture in 1990 **G**
-		- 9. Has received many immigrants from Ireland. **G**
-		- 10. ts two rival football teams are Celtic and Rangers. **G**
+		- The capital city of Scotland **E**
+		  logseq.order-list-type:: number
+		- The third largest city in Britain **G**
+		  logseq.order-list-type:: number
+		- Has a comparative middle-class image. **E**
+		  logseq.order-list-type:: number
+		- Associated with scholarship, the law and administration. **E**
+		  logseq.order-list-type:: number
+		- Associated with heavy industry and bad housing conditions. **G**
+		  logseq.order-list-type:: number
+		- Has a strong artistic heritage. **G**
+		  logseq.order-list-type:: number
+		- Sometimes called 'Athens of the North. **E**
+		  logseq.order-list-type:: number
+		- Was the European City of Culture in 1990 **G**
+		  logseq.order-list-type:: number
+		- Has received many immigrants from Ireland. **G**
+		  logseq.order-list-type:: number
+		- ts two rival football teams are Celtic and Rangers. **G**
+		  logseq.order-list-type:: number
 - # Identity, Symbols and Customs
 	- ## Scottish identity
 	  collapsed:: true
