@@ -285,10 +285,10 @@ collapsed:: true
 		- The national drink of Scotland is 's stomach and cooked the production of which contributes significantly to the economy.
 		- Although are found throughout the world, Scotland is probably the country most identified with the musical instrument.
 		- The most famous poet in Scotland is
-		- Scottish people all over the world celebrate Burn's Night on
-		- Traditionally on New Year's Eve, children would go to the doors of their neighbours and sing and cry out" !" to receive oatmeal cake in return.
-		- Saint Andrew's Day, on honours the patron saint of Scotland.
-		- Men might wear ** for events such as graduations, weddings, or Hogmanay.
+		- Scottish people all over the world celebrate Burn's Night on **
+		- Traditionally on New Year's Eve, children would go to the doors of their neighbours and sing and cry out "*Hogmanay*!" to receive oatmeal cake in return.
+		- Saint Andrew's Day, = *30st November* on honours the patron saint of Scotland.
+		- Men might wear *kilts* for events such as graduations, weddings, or Hogmanay.
 	- ## Exercise 2
 		- Decide if the following statements are true (T) or false (F).
 		- It is unclear how the thistle becomes Scotland's emblem. **F**
