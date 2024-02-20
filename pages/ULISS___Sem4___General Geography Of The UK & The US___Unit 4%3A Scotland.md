@@ -288,11 +288,11 @@ collapsed:: true
 		- Scottish people all over the world celebrate Burn's Night on
 		- Traditionally on New Year's Eve, children would go to the doors of their neighbours and sing and cry out" !" to receive oatmeal cake in return.
 		- Saint Andrew's Day, on honours the patron saint of Scotland.
-		- 10. Men might wear Hogmanay. for events such as graduations, weddings, or
-		- EXERCISE 2
+		- Men might wear Hogmanay. for events such as graduations, weddings, or
+	- ## Exercise 2
 		- Decide if the following statements are true (T) or false (F).
-		- 1. It is unclear how the thistle becomes Scotland's emblem.
-		- 2. Clans become less important in the lives of individual family members today.
-		- 3. The word 'Scotch' is used to mean whisky throughout the world.
-		- 4. There has been a recent revival in the popularity of wearing kilts on special occasions.
-		- 5. Auld Lang Syne is a poem written by Robert Burns.
+		- It is unclear how the thistle becomes Scotland's emblem. **T**
+		- Clans become less important in the lives of individual family members today. **T**
+		- The word 'Scotch' is used to mean whisky throughout the world. **T**
+		- There has been a recent revival in the popularity of wearing kilts on special occasions. **T**
+		- Auld Lang Syne is a poem written by Robert Burns. **T**
