@@ -217,10 +217,18 @@ collapsed:: true
 			- It is not clear where the word '*hogmaynay*' comes from, but it is connected with the provision of food and drink for all visitors to your home on 31st December
 			- Traditionally, on Hogmanay, children would go to the doors of their neighbours and sing and cry out "Hogmanay!" to receive oatmeal cakes in return
 		- Another tradition associated with New Year's Eve is the first-footer
-			- or the first person to cross the threshold of a home after midnight on New Year's Eve. If the first-footer is a dark haired man carrying presents, the family should have good luck for the rest of the year. The ancient song "Auld Lang Syne," which means "in memory of past times", first recorded on paper by beloved Scottish poet Robert Burns, is sung on New Year's Eve.
-	- Auld lang syne
-	- Should auld acquaintance be forgot And never brought to mind Should auld acquaintance be forgot For the sake of auld lang syne. For auld lang syne, my dear, For auld lang syne We'll take a cup of kindness yet, For the sake of auld lang syne.
-	- CULTURE CLUB GETTY IMAGES
-	  Many Scots honour Burns's birthday (25th January) by celebrating his life and works at Burns Suppers, where haggis is served. Saint Andrew's Day, on 30th November, honours the patron saint of Scotland. Some Scots wear a blue-and-white X on this day to symbolize the cross upon which Saint Andrew was crucified by the Romans. This X- shaped cross has become a patriotic symbol. There has been a recent revival in the popularity of wearing kilts on special occasions. Men might wear them for events such as graduations, weddings, or Hogmanay.
+			- or the first person to cross the threshold of a home after midnight on New Year's Eve.
+			- If the first-footer is a dark haired man carrying presents, the family should have good luck for the rest of the year.
+		- The ancient song "Auld Lang Syne," which means "in memory of past times", first recorded on paper by beloved Scottish poet Robert Burns, is sung on New Year's Eve.
+			- Auld lang syne
+				- Should auld acquaintance be forgot
+				- And never brought to mind
+				- Should auld acquaintance be forgot
+				- For the sake of auld lang syne
+				- For auld lang syne, my dear
+				- For auld lang syne
+				- We'll take a cup of kindness yet,
+				- For the sake of auld lang syne.
+				  Many Scots honour Burns's birthday (25th January) by celebrating his life and works at Burns Suppers, where haggis is served. Saint Andrew's Day, on 30th November, honours the patron saint of Scotland. Some Scots wear a blue-and-white X on this day to symbolize the cross upon which Saint Andrew was crucified by the Romans. This X- shaped cross has become a patriotic symbol. There has been a recent revival in the popularity of wearing kilts on special occasions. Men might wear them for events such as graduations, weddings, or Hogmanay.
 	- Flowers of Scotland
 	- The prickly purple thistle is perhaps the most identifiable symbols of all things Scottish and nowadays, it can be seen promoting the 'Scottishness of a wide variety of products, services and organisations. Ever present in fields and pastures throughout Scotland, thistle has been Scotland's emblem for centuries. The first use as a royal symbol was on silver coins issued by James III in 1470. The plant, which grows to a height of five feet, has no enemies because of vicious spines that cover it like armor plating.
