@@ -1,5 +1,5 @@
 - Board
 	- [[Linguistic/English Linguistic Map]]
 - [[Linguistic/English Linguistic]]
-- Mình đổi lại từ English Linguistic ở hierachy thứ 2 xuống 3, vì thực tế nó không rộng hơn những cái như sounds. Và đổi thành english tại nếu để là english sounds cũng oke, nhưng với combo 3 cái sound - letter thì chịu. mà nên đổi letter thành symbol thì chuẩn hơn, vì chỉ có ngần này letter... à khoan i did mean the written letter, not the symbol of it...,
+- Mình đổi lại từ English Linguistic ở hierachy thứ 2 xuống 3, vì thực tế nó không rộng hơn những cái như sounds. Và đổi thành english tại nếu để là english sounds cũng oke, nhưng với combo 3 cái sound - letter thì sẽ quá dài chịu. mà nên đổi letter thành symbol thì chuẩn hơn, vì chỉ có ngần này letter... à khoan i did mean the written letter, not the symbol of it..., the symbols belong to sounds.
 -
