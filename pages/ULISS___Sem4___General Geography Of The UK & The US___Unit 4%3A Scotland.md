@@ -128,11 +128,11 @@ id:: 65ad51f0-b171-4c83-a6f5-7c65ffcb2df6
 		- 6. Tourism and the production of whisky play an important role in the local economy of the
 		- 7. Two major cities in Scotland are Edinburge and Glasgow. The former is half the size of the latter.
 		- 8. Outstanding climatic features of Scotland are *temperate* winter and *cool* summer.
-- 9. In the western coastal region, conditions are somewhat than in the east.
-- 10. The Scottish weather include both climatic forecasts and weather forecasts.
-- EXERCISE 2
-- Write E for Edinburgh, G for Glasgow in the space after each of the descriptions below.
-- 1. The capital city of Scotland
+		- 9. In the western coastal region, conditions are somewhat *milder* than in the east.
+		- 10. The Scottish weather include both climatic forecasts and weather forecasts.
+	- ## Exercise 2
+		- Write E for Edinburgh, G for Glasgow in the space after each of the descriptions below.
+		- 1. The capital city of Scotland
 - 2. The third largest city in Britain
 - 3. Has a comparative middle-class image.
 - 4. Associated with scholarship, the law and administration.
