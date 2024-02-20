@@ -146,6 +146,7 @@ collapsed:: true
 		- 10. ts two rival football teams are Celtic and Rangers. **G**
 - # Identity, Symbols and Customs
 	- ## Scottish identity
+	  collapsed:: true
 		- People in Scotland have constant reminders of their distinctiveness.
 			- First, several important aspects of public life are organized separately, and differently, from the rest of Britain
 				- notably, education, law and religion.
@@ -158,6 +159,7 @@ collapsed:: true
 				- A genuinely Scottish Gaelic sense of cultural identity is, in modern times, felt only by a few tens of thousands of people in some of the western isles of Scotland and the adjoining mainland.
 					- These people speak Scottish Gaelic (which they call 'Gaelic") as a first language.
 	- ## Family
+	  collapsed:: true
 		- Early families living in the Scottish Highlands were loyal to their clan
 			- a unit that bound together relatives sharing a common ancestor or some other bond of loyalty.
 			- However clans have less importance in the lives of individual family members today.
@@ -169,6 +171,7 @@ collapsed:: true
 			- The elderly prefer to stay in their own homes and remain independent as long as possible, rather than live with their married children.
 				- Just over half of all homes are owner occupied, the lowest level in the United Kingdom.
 	- ## Food and drinks
+	  collapsed:: true
 		- Traditionally, the Scots have favoured wholesome meals
 			- such as stews,
 				- eaten with vegetables
@@ -184,27 +187,35 @@ collapsed:: true
 			- The production of which contributes significantly to the economy.
 			- There are more than 100 malt whisky distilleries in the Highlands
 			- It is not surprising that the word 'Scotch' is used to mean whisky throughout the world.
-		- ## Recreation
-			- The most popular organized sport is soccer, followed by rugby, but a wide range of sports are enjoyed.
-				- Many people play golf
-					- which was devised in Scotland in the 14th or 15th century
-					- the country has many excellent courses.
-				- Scotland is also famous for its fishing.
-				- Winter sports
-					- include
-						- curling
-							- (in which two teams of four players slide granite "stones" over ice to reach a target)
-						- skiing
-							- Scotland is the only part of the United Kingdom where it is possible to ski,
-								- although the snow conditions are not that reliable.
-			- Highland Games are held in many parts of the Scottish Highlands during the summer.
-				- They are a traditional kind of track and field meeting where the events include
-					- tossing the caber
-						- (a roughly trimmed tree trunk)
-					- throwing the hammer
-						- (a heavy metal ball attached to a chain)
-					- participants often wear traditional dress
-					- musicians play traditional bagpipe music.
-			- Watching television and going to the cinema are also favorite leisure activities.
-			- Pubs - public houses that serve alcoholic beverages
-			- Sometimes food are probably the most popular venues outside the home for socializing.
+	- ## Recreation
+		- The most popular organized sport is soccer, followed by rugby, but a wide range of sports are enjoyed.
+			- Many people play golf
+				- which was devised in Scotland in the 14th or 15th century
+				- the country has many excellent courses.
+			- Scotland is also famous for its fishing.
+			- Winter sports
+				- include
+					- curling
+						- (in which two teams of four players slide granite "stones" over ice to reach a target)
+					- skiing
+						- Scotland is the only part of the United Kingdom where it is possible to ski,
+							- although the snow conditions are not that reliable.
+		- Highland Games are held in many parts of the Scottish Highlands during the summer.
+			- They are a traditional kind of track and field meeting where the events include
+				- tossing the caber
+					- (a roughly trimmed tree trunk)
+				- throwing the hammer
+					- (a heavy metal ball attached to a chain)
+				- participants often wear traditional dress
+				- musicians play traditional bagpipe music.
+		- Watching television and going to the cinema are also favorite leisure activities.
+		- Pubs - public houses that serve alcoholic beverages
+		- Sometimes food are probably the most popular venues outside the home for socializing.
+	- Holidays and celebrations
+	- Now Year's Eve (Hopmanay) is when some of the year's most lively celebrations take Eve year's Eve is a more important festival in second than it is in England, and it even has a special name. It is not clear where the word hogmaynay Englandom but it is connected with the provision of food and drink for all visitors to your comes from butetenter Traditionally, on Hogmanay, children woute al to the doors of their neighbours and sing and cry out "Hogmanay!" to receive oatmeal cakes in return Another tradition associated with New Year's Eve is the first-footer, or the first person to cross the threshold of a home after midnight on New Year's Eve. If the first-footer is a dark haired man carrying presents, the family should have good luck for the rest of the year. The ancient song "Auld Lang Syne," which means "in memory of past times", first recorded on paper by beloved Scottish poet Robert Burns, is sung on New Year's Eve.
+	- Auld lang syne
+	- Should auld acquaintance be forgot And never brought to mind Should auld acquaintance be forgot For the sake of auld lang syne. For auld lang syne, my dear, For auld lang syne We'll take a cup of kindness yet, For the sake of auld lang syne.
+	- CULTURE CLUB GETTY IMAGES
+	  Many Scots honour Burns's birthday (25th January) by celebrating his life and works at Burns Suppers, where haggis is served. Saint Andrew's Day, on 30th November, honours the patron saint of Scotland. Some Scots wear a blue-and-white X on this day to symbolize the cross upon which Saint Andrew was crucified by the Romans. This X- shaped cross has become a patriotic symbol. There has been a recent revival in the popularity of wearing kilts on special occasions. Men might wear them for events such as graduations, weddings, or Hogmanay.
+	- Flowers of Scotland
+	- The prickly purple thistle is perhaps the most identifiable symbols of all things Scottish and nowadays, it can be seen promoting the 'Scottishness of a wide variety of products, services and organisations. Ever present in fields and pastures throughout Scotland, thistle has been Scotland's emblem for centuries. The first use as a royal symbol was on silver coins issued by James III in 1470. The plant, which grows to a height of five feet, has no enemies because of vicious spines that cover it like armor plating.
