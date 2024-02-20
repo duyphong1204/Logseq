@@ -233,6 +233,11 @@ collapsed:: true
 		- Saint Andrew's Day, on 30th November, honours the patron saint of Scotland.
 			- Some Scots wear a blue-and-white X on this day to symbolize the cross upon which Saint Andrew was crucified by the Romans.
 			- This X- shaped cross has become a patriotic symbol.
-			- There has been a recent revival in the popularity of wearing kilts on special occasions. Men might wear them for events such as graduations, weddings, or Hogmanay.
-	- Flowers of Scotland
-	- The prickly purple thistle is perhaps the most identifiable symbols of all things Scottish and nowadays, it can be seen promoting the 'Scottishness of a wide variety of products, services and organisations. Ever present in fields and pastures throughout Scotland, thistle has been Scotland's emblem for centuries. The first use as a royal symbol was on silver coins issued by James III in 1470. The plant, which grows to a height of five feet, has no enemies because of vicious spines that cover it like armor plating.
+		- There has been a recent revival in the popularity of wearing kilts on special occasions.
+			- Men might wear them for events such as graduations, weddings, or Hogmanay.
+	- ## Flowers of Scotland
+	- The prickly purple thistle is perhaps the most identifiable symbols of all things Scottish and nowadays
+		- it can be seen promoting the 'Scottishness of a wide variety of products, services and organisations.
+		- Ever present in fields and pastures throughout Scotland, thistle has been Scotland's emblem for centuries.
+			- The first use as a royal symbol was on silver coins issued by James III in 1470.
+			- The plant, which grows to a height of five feet, has no enemies because of vicious spines that cover it like armor plating.
