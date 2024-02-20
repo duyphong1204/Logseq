@@ -291,8 +291,8 @@ collapsed:: true
 		- Men might wear Hogmanay. for events such as graduations, weddings, or
 	- ## Exercise 2
 		- Decide if the following statements are true (T) or false (F).
-		- It is unclear how the thistle becomes Scotland's emblem. **T**
+		- It is unclear how the thistle becomes Scotland's emblem. **F**
 		- Clans become less important in the lives of individual family members today. **T**
 		- The word 'Scotch' is used to mean whisky throughout the world. **T**
 		- There has been a recent revival in the popularity of wearing kilts on special occasions. **T**
-		- Auld Lang Syne is a poem written by Robert Burns. **T**
+		- Auld Lang Syne is a poem written by Robert Burns. **F**
