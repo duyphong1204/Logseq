@@ -257,3 +257,23 @@ collapsed:: true
 				- Tis the Bluebell, the Bluebell On Scotland's grassy lea
 				- Where from the dark, up springs the lark
 				- The rising sun to see!
+	- ## Exercise 1
+		- Fill in each of the following gaps with appropriate information.
+		- 1 Is the name given to certain geometrical patterns woven into cloth, or to the cloth itself, from which are made the garments traditionally worn in the Highlands of Scotland.
+		- 2. The national emblem of Scotland is which is made from ground
+		- 3. The national dish of Scotland is
+		- entrails, mixed with oats and spices, and tied in a 4. The national drink of Scotland is 's stomach and cooked the production of which contributes
+		- significantly to the economy. 5. Although are found throughout the world, Scotland is probably the country most identified with the musical instrument.
+		- 6. The most famous poet in Scotland is
+		- 7. Scottish people all over the world celebrate Burn's Night on
+		- 8. Traditionally on New Year's Eve, children would go to the doors of their neighbours and sing and cry out" !" to receive oatmeal cake in return.
+		- 9. Saint Andrew's Day, on
+		- honours the patron saint of Scotland.
+		- 10. Men might wear Hogmanay. for events such as graduations, weddings, or
+		- EXERCISE 2
+		- Decide if the following statements are true (T) or false (F).
+		- 1. It is unclear how the thistle becomes Scotland's emblem.
+		- 2. Clans become less important in the lives of individual family members today.
+		- 3. The word 'Scotch' is used to mean whisky throughout the world.
+		- 4. There has been a recent revival in the popularity of wearing kilts on special occasions.
+		- 5. Auld Lang Syne is a poem written by Robert Burns.
