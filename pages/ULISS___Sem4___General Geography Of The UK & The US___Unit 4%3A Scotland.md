@@ -279,16 +279,15 @@ collapsed:: true
 				- The rising sun to see!
 	- ## Exercise 1
 		- Fill in each of the following gaps with appropriate information.
-		- 1 Is the name given to certain geometrical patterns woven into cloth, or to the cloth itself, from which are made the garments traditionally worn in the Highlands of Scotland.
-		- 2. The national emblem of Scotland is which is made from ground
-		- 3. The national dish of Scotland is
-		- entrails, mixed with oats and spices, and tied in a 4. The national drink of Scotland is 's stomach and cooked the production of which contributes
-		- significantly to the economy. 5. Although are found throughout the world, Scotland is probably the country most identified with the musical instrument.
-		- 6. The most famous poet in Scotland is
-		- 7. Scottish people all over the world celebrate Burn's Night on
-		- 8. Traditionally on New Year's Eve, children would go to the doors of their neighbours and sing and cry out" !" to receive oatmeal cake in return.
-		- 9. Saint Andrew's Day, on
-		- honours the patron saint of Scotland.
+		- Is the name given to certain geometrical patterns woven into cloth, or to the cloth itself, from which are made the garments traditionally worn in the Highlands of Scotland.
+		- The national emblem of Scotland is which is made from ground
+		- The national dish of Scotland is entrails, mixed with oats and spices, and tied in a
+		- The national drink of Scotland is 's stomach and cooked the production of which contributes significantly to the economy.
+		- Although are found throughout the world, Scotland is probably the country most identified with the musical instrument.
+		- The most famous poet in Scotland is
+		- Scottish people all over the world celebrate Burn's Night on
+		- Traditionally on New Year's Eve, children would go to the doors of their neighbours and sing and cry out" !" to receive oatmeal cake in return.
+		- Saint Andrew's Day, on honours the patron saint of Scotland.
 		- 10. Men might wear Hogmanay. for events such as graduations, weddings, or
 		- EXERCISE 2
 		- Decide if the following statements are true (T) or false (F).
