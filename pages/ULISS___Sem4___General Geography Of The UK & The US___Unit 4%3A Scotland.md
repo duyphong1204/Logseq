@@ -236,12 +236,17 @@ collapsed:: true
 		- There has been a recent revival in the popularity of wearing kilts on special occasions.
 			- Men might wear them for events such as graduations, weddings, or Hogmanay.
 	- ## Flowers of Scotland
-	- The prickly purple thistle is perhaps the most identifiable symbols of all things Scottish and nowadays
-		- it can be seen promoting the 'Scottishness of a wide variety of products, services and organisations.
-		- Ever present in fields and pastures throughout Scotland, thistle has been Scotland's emblem for centuries.
-			- The first use as a royal symbol was on silver coins issued by James III in 1470.
-			- The plant, which grows to a height of five feet, has no enemies because of vicious spines that cover it like armor plating.
-- But why is it that such a proud people as the Scots should choose a humble weed as its national symbol? In truth, no-one knows. There is a legend which relates how a sleeping party of Scots warriors were almost set upon by an invading band of Vikings and were only saved when one of the attackers trod on a wild thistle with his bare feet. His cries raised the alarm and the roused Scots duly defeated the Danes. In gratitude, the plant became known as the Guardian Thistle and was adopted as the symbol of Scotland. Sadly, there is no historical evidence to back up the tale.
+		- The prickly purple thistle is perhaps the most identifiable symbols of all things Scottish and nowadays
+			- it can be seen promoting the 'Scottishness of a wide variety of products, services and organisations.
+			- Ever present in fields and pastures throughout Scotland, thistle has been Scotland's emblem for centuries.
+				- The first use as a royal symbol was on silver coins issued by James III in 1470.
+				- The plant, which grows to a height of five feet, has no enemies because of vicious spines that cover it like armor plating.
+		- But why is it that such a proud people as the Scots should choose a humble weed as its national symbol?
+			- In truth, no-one knows.
+			- There is a legend which relates how a sleeping party of Scots warriors were almost set upon by an invading band of Vikings and were only saved when one of the attackers trod on a wild thistle with his bare feet.
+			- His cries raised the alarm and the roused Scots duly defeated the Danes.
+			- In gratitude, the plant became known as the Guardian Thistle and was adopted as the symbol of Scotland.
+			- Sadly, there is no historical evidence to back up the tale.
 - Bluebells add a splash of colour as they display themselves in full flower in the woods in Scotland. Here is an extract from a poem by someone who appreciated such delights.
 - The Bluebell of Scotland
 - The rose, summer's emblem, 'tis England's chosen tree And France decks her shield with the stately Fluer-de-lis But brighter, fairer far than these There blooms a flower for me, Tis the Bluebell, the Bluebell On Scotland's grassy lea Where from the dark, up springs the lark The rising sun to see!
