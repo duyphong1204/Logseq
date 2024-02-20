@@ -277,15 +277,25 @@ collapsed:: true
 	- ## Exercise 1
 		- Fill in each of the following gaps with appropriate information.
 		- Is the name given to certain geometrical patterns woven into cloth, or to the cloth itself, from which are made the garments traditionally worn in the Highlands of Scotland.
-		- The national emblem of Scotland is
+		  logseq.order-list-type:: number
+		- The national emblem of Scotland is *the thistle*
+		  logseq.order-list-type:: number
 		- The national dish of Scotland is *haggis*, which is made from ground entrails, mixed with oats and spices, and tied in a *sheep*'s stomach and cooked the production of which contributes significantly to the economy.
+		  logseq.order-list-type:: number
 		- The national drink of Scotland is *whiskey*, the production of which contributé significantly to the economy.
+		  logseq.order-list-type:: number
 		- Although *bagpipe* are found throughout the world, Scotland is probably the country most identified with the musical instrument.
+		  logseq.order-list-type:: number
 		- The most famous poet in Scotland is *Robert Burns*.
+		  logseq.order-list-type:: number
 		- Scottish people all over the world celebrate Burn's Night on *25th January*.
+		  logseq.order-list-type:: number
 		- Traditionally on New Year's Eve, children would go to the doors of their neighbours and sing and cry out "*Hogmanay*!" to receive oatmeal cake in return.
+		  logseq.order-list-type:: number
 		- Saint Andrew's Day, = *30th November* on honours the patron saint of Scotland.
+		  logseq.order-list-type:: number
 		- Men might wear *kilts* for events such as graduations, weddings, or Hogmanay.
+		  logseq.order-list-type:: number
 	- ## Exercise 2
 		- Decide if the following statements are true (T) or false (F).
 		- It is unclear how the thistle becomes Scotland's emblem. **F**
