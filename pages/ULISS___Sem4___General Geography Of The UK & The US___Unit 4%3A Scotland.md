@@ -166,11 +166,10 @@ collapsed:: true
 		  logseq.order-list-type:: number
 - # Identity, Symbols and Customs
 	- ## Scottish identity
-	  collapsed:: true
 		- People in Scotland have constant reminders of their distinctiveness.
 			- First, several important aspects of public life are organized separately, and differently, from the rest of Britain
 				- notably, education, law and religion.
-			- Second, the Scottish way of speaking Engin is very distinctive.
+			- Second, the Scottish way of speaking English is very distinctive.
 				- A modern form of the dialect known as Scots is spoken in everyday life by most of the working classes in the lowlands.
 					- It has many features which are different from other forms of English and cannot usually be understood by people who are not Scottish.
 			- Third, there are many symbols of Scottishness which are well-known throughout Britain.
