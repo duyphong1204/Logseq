@@ -122,16 +122,26 @@ collapsed:: true
 				- The annual Edinburgh Festival of the arts is internationally famous.
 	- ## Exercise 1
 		- Fill each of the gaps below with a suitable word or phrase.
-		- 1. Scotland is in the *Kingdom* of Great Britain. It is the *second* biggest country and is only smaller than *England* in area.
-		- 2. Scotland has three main regions: *Northwest Highlands*, *Grampian Mountains*, *Southern Uplands*
-		- 3. The economy of the Southern Uplands depends largely on *sheep farming*
-		- 4. The highlands consists of *mountains* and *deep valleys* and a number of small islands off the west coast.
-		- 5. 80% of Scottish people live in the *central plain and the strip of east cost*
-		- 6. Tourism and the production of whisky play an important role in the local economy of the *Highlands*
-		- 7. Two major cities in Scotland are Edinburge and Glasgow. The former is half the size of the latter.
-		- 8. Outstanding climatic features of Scotland are *temperate* winter and *cool* summer.
-		- 9. In the western coastal region, conditions are somewhat *milder* than in the east.
-		- 10. The Scottish weather *forecast* include both climatic forecasts and weather forecasts.
+		- Scotland is in the *Kingdom* of Great Britain. It is the *second* biggest country and is only smaller than *England* in area.
+		  logseq.order-list-type:: number
+		- Scotland has three main regions: *Northwest Highlands*, *Grampian Mountains*, *Southern Uplands*
+		  logseq.order-list-type:: number
+		- The economy of the Southern Uplands depends largely on *sheep farming*
+		  logseq.order-list-type:: number
+		- The highlands consists of *mountains* and *deep valleys* and a number of small islands off the west coast.
+		  logseq.order-list-type:: number
+		- 80% of Scottish people live in the *central plain and the strip of east cost*
+		  logseq.order-list-type:: number
+		- Tourism and the production of whisky play an important role in the local economy of the *Highlands*
+		  logseq.order-list-type:: number
+		- Two major cities in Scotland are Edinburge and Glasgow. The former is half the size of the latter.
+		  logseq.order-list-type:: number
+		- Outstanding climatic features of Scotland are *temperate* winter and *cool* summer.
+		  logseq.order-list-type:: number
+		- In the western coastal region, conditions are somewhat *milder* than in the east.
+		  logseq.order-list-type:: number
+		- The Scottish weather *forecast* include both climatic forecasts and weather forecasts.
+		  logseq.order-list-type:: number
 	- ## Exercise 2
 		- Write E for Edinburgh, G for Glasgow in the space after each of the descriptions below.
 		- 1. The capital city of Scotland **E**
