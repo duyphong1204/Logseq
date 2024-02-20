@@ -170,7 +170,14 @@ collapsed:: true
 			- The elderly prefer to stay in their own homes and remain independent as long as possible, rather than live with their married children.
 				- Just over half of all homes are owner occupied, the lowest level in the United Kingdom.
 	- ## Food and drinks
-		- Traditionally, the Scots have favoured wholesome meals such as stews, eaten with vegetables such as neeps (turnips) and tatties (potatoes). The national dish is haggis, which is made from ground sheep entrails, mixed with oats and spices, and tied in a sheep's stomach and cooked. Younger Scots typically eat less of this traditional fare. The national drink is whiskey (spelled "whisky" in Scotland), the production of which contributes significantly to the economy. There are more than 100 malt whisky distilleries in the Highlands and it is not surprising that the word 'Scotch is used to mean whisky throughout the world.
+		- Traditionally, the Scots have favoured wholesome meals
+			- such as stews,
+				- eaten with vegetables
+					- such as neeps (turnips) and tatties (potatoes).
+		- The national dish is haggis,
+			- which is made from
+				- ground sheep entrails,
+				- mixed with oats and spices, and tied in a sheep's stomach and cooked. Younger Scots typically eat less of this traditional fare. The national drink is whiskey (spelled "whisky" in Scotland), the production of which contributes significantly to the economy. There are more than 100 malt whisky distilleries in the Highlands and it is not surprising that the word 'Scotch is used to mean whisky throughout the world.
 		- Recreation
 		- DARTMOON WHISKEY DIST
 		- The most popular organized sport is soccer, followed by rugby, but a wide range of sports are enjoyed. Many people play golf, which was devised in Scotland in the 14th or 15th century, and the country has many excellent courses. Scotland is also famous for its fishing.
