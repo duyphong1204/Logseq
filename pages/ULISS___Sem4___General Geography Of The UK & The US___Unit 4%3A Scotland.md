@@ -247,6 +247,13 @@ collapsed:: true
 			- His cries raised the alarm and the roused Scots duly defeated the Danes.
 			- In gratitude, the plant became known as the Guardian Thistle and was adopted as the symbol of Scotland.
 			- Sadly, there is no historical evidence to back up the tale.
-- Bluebells add a splash of colour as they display themselves in full flower in the woods in Scotland. Here is an extract from a poem by someone who appreciated such delights.
-- The Bluebell of Scotland
-- The rose, summer's emblem, 'tis England's chosen tree And France decks her shield with the stately Fluer-de-lis But brighter, fairer far than these There blooms a flower for me, Tis the Bluebell, the Bluebell On Scotland's grassy lea Where from the dark, up springs the lark The rising sun to see!
+		- Bluebells add a splash of colour as they display themselves in full flower in the woods in Scotland.
+		- Here is an extract from a poem by someone who appreciated such delights.
+			- The Bluebell of Scotland
+				- The rose, summer's emblem, 'tis England's chosen tree
+				- And France decks her shield with the stately Fluer-de-lis
+				- But brighter, fairer far than these
+				- There blooms a flower for me,
+				- Tis the Bluebell, the Bluebell On Scotland's grassy lea
+				- Where from the dark, up springs the lark
+				- The rising sun to see!
