@@ -284,10 +284,10 @@ collapsed:: true
 		- The national dish of Scotland is entrails, mixed with oats and spices, and tied in a
 		- The national drink of Scotland is 's stomach and cooked the production of which contributes significantly to the economy.
 		- Although are found throughout the world, Scotland is probably the country most identified with the musical instrument.
-		- The most famous poet in Scotland is
-		- Scottish people all over the world celebrate Burn's Night on **
+		- The most famous poet in Scotland is *Robert Burns*
+		- Scottish people all over the world celebrate Burn's Night on *25th January*
 		- Traditionally on New Year's Eve, children would go to the doors of their neighbours and sing and cry out "*Hogmanay*!" to receive oatmeal cake in return.
-		- Saint Andrew's Day, = *30st November* on honours the patron saint of Scotland.
+		- Saint Andrew's Day, = *30th November* on honours the patron saint of Scotland.
 		- Men might wear *kilts* for events such as graduations, weddings, or Hogmanay.
 	- ## Exercise 2
 		- Decide if the following statements are true (T) or false (F).
