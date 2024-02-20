@@ -33,7 +33,6 @@ collapsed:: true
 			- though some aspects, notably Scotland's legal system, did remain separate
 	- In 1999, Scotland received its own devolved home rule parliament to govern the country on purely domestic matters.
 - # Physical Geography Of Scotland
-  collapsed:: true
 	- ## Topography
 		- Scotland has three fairly clearly marked regions.
 			- Just north of the border with England are the Southern Uplands,
@@ -128,7 +127,7 @@ collapsed:: true
 		- 3. The economy of the Southern Uplands depends largely on *sheep farming*
 		- 4. The highlands consists of *mountains* and *deep valleys* and a number of small islands off the west coast.
 		- 5. 80% of Scottish people live in the *central plain and the strip of east cost*
-		- 6. Tourism and the production of whisky play an important role in the local economy of the
+		- 6. Tourism and the production of whisky play an important role in the local economy of the *Highlands*
 		- 7. Two major cities in Scotland are Edinburge and Glasgow. The former is half the size of the latter.
 		- 8. Outstanding climatic features of Scotland are *temperate* winter and *cool* summer.
 		- 9. In the western coastal region, conditions are somewhat *milder* than in the east.
@@ -176,8 +175,14 @@ collapsed:: true
 					- such as neeps (turnips) and tatties (potatoes).
 		- The national dish is haggis,
 			- which is made from
-				- ground sheep entrails,
-				- mixed with oats and spices, and tied in a sheep's stomach and cooked. Younger Scots typically eat less of this traditional fare. The national drink is whiskey (spelled "whisky" in Scotland), the production of which contributes significantly to the economy. There are more than 100 malt whisky distilleries in the Highlands and it is not surprising that the word 'Scotch is used to mean whisky throughout the world.
+				- ground sheep entrails
+				- mixed with oats and spices
+				- tied in a sheep's stomach and cooked.
+			- Younger Scots typically eat less of this traditional fare.
+		- The national drink is whiskey
+			- (spelled "whisky" in Scotland),
+			- the production of which contributes significantly to the economy.
+			- There are more than 100 malt whisky distilleries in the Highlands and it is not surprising that the word 'Scotch is used to mean whisky throughout the world.
 		- Recreation
 		- DARTMOON WHISKEY DIST
 		- The most popular organized sport is soccer, followed by rugby, but a wide range of sports are enjoyed. Many people play golf, which was devised in Scotland in the 14th or 15th century, and the country has many excellent courses. Scotland is also famous for its fishing.
