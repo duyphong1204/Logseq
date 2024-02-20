@@ -133,10 +133,10 @@ id:: 65ad51f0-b171-4c83-a6f5-7c65ffcb2df6
 	- ## Exercise 2
 		- Write E for Edinburgh, G for Glasgow in the space after each of the descriptions below.
 		- 1. The capital city of Scotland **E**
-- 2. The third largest city in Britain
-- 3. Has a comparative middle-class image.
-- 4. Associated with scholarship, the law and administration.
-- 5. Associated with heavy industry and bad housing conditions.
+		- 2. The third largest city in Britain **G**
+		- 3. Has a comparative middle-class image. **E**
+		- 4. Associated with scholarship, the law and administration. **E**
+		- 5. Associated with heavy industry and bad housing conditions. ****
 - 6. Has a strong artistic heritage.
 - 7. Sometimes called 'Athens of the North.
 - 8. Was the European City of Culture in 1990
