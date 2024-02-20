@@ -1,3 +1,5 @@
+filters:: {"linguistic/sounds/english" true, "linguistic/english linguistic" true}
+
 - Board
 	- [[Linguistic/English Linguistic Map]]
 - [[Linguistic/English Linguistic]]
