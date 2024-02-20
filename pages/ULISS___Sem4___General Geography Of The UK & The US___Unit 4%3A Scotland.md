@@ -181,11 +181,12 @@ collapsed:: true
 			- Younger Scots typically eat less of this traditional fare.
 		- The national drink is whiskey
 			- (spelled "whisky" in Scotland),
-			- the production of which contributes significantly to the economy.
-			- There are more than 100 malt whisky distilleries in the Highlands and it is not surprising that the word 'Scotch is used to mean whisky throughout the world.
-		- Recreation
-		- DARTMOON WHISKEY DIST
-		- The most popular organized sport is soccer, followed by rugby, but a wide range of sports are enjoyed. Many people play golf, which was devised in Scotland in the 14th or 15th century, and the country has many excellent courses. Scotland is also famous for its fishing.
+			- The production of which contributes significantly to the economy.
+			- There are more than 100 malt whisky distilleries in the Highlands
+			- It is not surprising that the word 'Scotch' is used to mean whisky throughout the world.
+		- ## Recreation
+			- The most popular organized sport is soccer, followed by rugby, but a wide range of sports are enjoyed.
+				- Many people play golf, which was devised in Scotland in the 14th or 15th century, and the country has many excellent courses. Scotland is also famous for its fishing.
 		- Winter sports include curling (in which two teams of four players slide granite "stones" over ice to reach a target) and skiing. Scotland is the only part of the United Kingdom where it is possible to ski, although the snow conditions are not that reliable.
 		- Highland Games are held in many parts of the Scottish Highlands during the summer. They are a traditional kind of track and field meeting where the events include tossing the caber (a roughly trimmed tree trunk) and throwing the hammer (a heavy metal ball attached to a chain). Participants often wear traditional dress, and musicians play traditional bagpipe music.
 		  Watching television and going to the cinema are also favorite leisure activities. Pubs- public houses that serve alcoholic beverages and sometimes food are probably the most popular venues outside the home for socializing.
