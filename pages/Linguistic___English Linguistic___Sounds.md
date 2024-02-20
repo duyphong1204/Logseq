@@ -6,7 +6,8 @@
   | [Fricative](Fricative/IPA) | | [f](https://www.cambridge.org/features/IPAchart/symbols/f.html)     [v](https://www.cambridge.org/features/IPAchart/symbols/v.html) | [θ](https://www.cambridge.org/features/IPAchart/symbols/03B8.html)     [ð](https://www.cambridge.org/features/IPAchart/symbols/00F0.html) | [s](https://www.cambridge.org/features/IPAchart/symbols/s.html)    [z](https://www.cambridge.org/features/IPAchart/symbols/z.html) | [ʃ](https://www.cambridge.org/features/IPAchart/symbols/0283.html)      [ʒ](https://www.cambridge.org/features/IPAchart/symbols/0292.html) |   |   |  [h](https://www.cambridge.org/features/IPAchart/symbols/h.html) |   |
   | [Approximant](Approximant/IPA) | [w](https://www.cambridge.org/features/IPAchart/symbols/w.html) |   |   |       [ɹ](https://www.cambridge.org/features/IPAchart/symbols/0279.html) |   | [j](https://www.cambridge.org/features/IPAchart/symbols/j.html) |      [w](https://www.cambridge.org/features/IPAchart/symbols/w.html) | |
   | [Lateral approximant](Lateral approximant/IPA) |   |   |   |       [l](https://www.cambridge.org/features/IPAchart/symbols/l.html) |   |   |   |
-- Voiceless Glottal Stop
+- [[Voiceless Glottal Stop]]
+  collapsed:: true
 	- How to pronounce the Voiceless Glottal Stop [^1]
 		- {{video https://www.youtube.com/watch?v=chcjHwWwVxQ}}
 		- {{youtube-timestamp 95}} - {{youtube-timestamp 180}}
