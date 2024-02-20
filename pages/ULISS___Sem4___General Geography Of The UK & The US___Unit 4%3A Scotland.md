@@ -197,5 +197,13 @@ collapsed:: true
 						- skiing
 							- Scotland is the only part of the United Kingdom where it is possible to ski,
 								- although the snow conditions are not that reliable.
-			- Highland Games are held in many parts of the Scottish Highlands during the summer. They are a traditional kind of track and field meeting where the events include tossing the caber (a roughly trimmed tree trunk) and throwing the hammer (a heavy metal ball attached to a chain). Participants often wear traditional dress, and musicians play traditional bagpipe music.
-			  Watching television and going to the cinema are also favorite leisure activities. Pubs- public houses that serve alcoholic beverages and sometimes food are probably the most popular venues outside the home for socializing.
+			- Highland Games are held in many parts of the Scottish Highlands during the summer.
+				- They are a traditional kind of track and field meeting where the events include
+					- tossing the caber
+						- (a roughly trimmed tree trunk)
+					- throwing the hammer
+						- (a heavy metal ball attached to a chain)
+					- participants often wear traditional dress
+					- musicians play traditional bagpipe music.
+			- Watching television and going to the cinema are also favorite leisure activities.
+				- Pubs- public houses that serve alcoholic beverages and sometimes food are probably the most popular venues outside the home for socializing.
