@@ -121,7 +121,7 @@ id:: 65ad51f0-b171-4c83-a6f5-7c65ffcb2df6
 	- ## Exercise 1
 		- Fill each of the gaps below with a suitable word or phrase.
 		- 1. Scotland is in the *Kingdom* of Great Britain. It is the *second* biggest country and is only smaller than *England* in area.
-		- 2. Scotland has three main regions: *Northwest Highlands*, *Grampian *
+		- 2. Scotland has three main regions: *Northwest Highlands*, *Grampian Mountains*, *Southern Uplands*
 		- 3. The economy of the Southern Uplands depends largely on
 - 4. The highlands. consists of small islands off the west coast.
 - and and a number of
