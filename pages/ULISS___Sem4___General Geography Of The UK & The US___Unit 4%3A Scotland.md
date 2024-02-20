@@ -178,7 +178,6 @@ collapsed:: true
 				- A genuinely Scottish Gaelic sense of cultural identity is, in modern times, felt only by a few tens of thousands of people in some of the western isles of Scotland and the adjoining mainland.
 					- These people speak Scottish Gaelic (which they call 'Gaelic") as a first language.
 	- ## Family
-	  collapsed:: true
 		- Early families living in the Scottish Highlands were loyal to their clan
 			- a unit that bound together relatives sharing a common ancestor or some other bond of loyalty.
 			- However clans have less importance in the lives of individual family members today.
@@ -190,7 +189,6 @@ collapsed:: true
 			- The elderly prefer to stay in their own homes and remain independent as long as possible, rather than live with their married children.
 				- Just over half of all homes are owner occupied, the lowest level in the United Kingdom.
 	- ## Food and drinks
-	  collapsed:: true
 		- Traditionally, the Scots have favoured wholesome meals
 			- such as stews,
 				- eaten with vegetables
