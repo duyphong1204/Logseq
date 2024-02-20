@@ -206,4 +206,5 @@ collapsed:: true
 					- participants often wear traditional dress
 					- musicians play traditional bagpipe music.
 			- Watching television and going to the cinema are also favorite leisure activities.
-				- Pubs- public houses that serve alcoholic beverages and sometimes food are probably the most popular venues outside the home for socializing.
+			- Pubs - public houses that serve alcoholic beverages
+			- Sometimes food are probably the most popular venues outside the home for socializing.
