@@ -6,7 +6,6 @@
   | [Fricative](Fricative/IPA) |   |   | [f](javascript:viewSymbol('symbols/f.html');) | [v](javascript:viewSymbol('symbols/v.html');) | [θ](javascript:viewSymbol('symbols/03B8.html');) | [ð](javascript:viewSymbol('symbols/00F0.html');) | [s](javascript:viewSymbol('symbols/s.html');) | [z](javascript:viewSymbol('symbols/z.html');) | [](javascript:viewSymbol('symbols/0283.html');)[ʃ](javascript:viewSymbol('symbols/0283.html');) | [ʒ](javascript:viewSymbol('symbols/0292.html');) |   |   |   |   | [h](javascript:viewSymbol('symbols/h.html');) |   |
   | [Approximant](Approximant/IPA) |   | [w](javascript:viewSymbol('symbols/w.html');) |   |   |   |   |   | [ɹ](javascript:viewSymbol('symbols/0279.html');) |   |   |   | [j](https://www.cambridge.org/features/IPAchart/symbols/j.html) |   | [w](https://www.cambridge.org/features/IPAchart/symbols/w.html) |   |   |
   | [Lateral approximant](Lateral approximant/IPA) |   |   |   |   |   |   |   | [l](https://www.cambridge.org/features/IPAchart/symbols/l.html) |   |   |   |   |   |   |   |   |
-	- [spoiler tag](whatever it is that you want to hide)
 	-
 - Voiceless Glottal Stop
 	- How to pronounce the Voiceless Glottal St [^1]
