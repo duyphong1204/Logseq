@@ -212,11 +212,12 @@ collapsed:: true
 		- Pubs - public houses that serve alcoholic beverages
 		- Sometimes food are probably the most popular venues outside the home for socializing.
 	- ## Holidays and celebrations
-		- New Year's Eve is when some of the year's most lively celebrations take place in Scotland
-			- (Hopmanay)
+		- New Year's Eve (Hopmanay) is when some of the year's most lively celebrations take place in Scotland
 			- New Year's Eve is a more important festival in Scotland than it is in England, and it even has a special name.
 			- It is not clear where the word '*hogmaynay*' comes from, but it is connected with the provision of food and drink for all visitors to your home on 31st December
-			- Traditionally, on Hogmanay, children would al to the doors of their neighbours and sing and cry out "Hogmanay!" to receive oatmeal cakes in return Another tradition associated with New Year's Eve is the first-footer, or the first person to cross the threshold of a home after midnight on New Year's Eve. If the first-footer is a dark haired man carrying presents, the family should have good luck for the rest of the year. The ancient song "Auld Lang Syne," which means "in memory of past times", first recorded on paper by beloved Scottish poet Robert Burns, is sung on New Year's Eve.
+			- Traditionally, on Hogmanay, children would go to the doors of their neighbours and sing and cry out "Hogmanay!" to receive oatmeal cakes in return
+		- Another tradition associated with New Year's Eve is the first-footer
+			- or the first person to cross the threshold of a home after midnight on New Year's Eve. If the first-footer is a dark haired man carrying presents, the family should have good luck for the rest of the year. The ancient song "Auld Lang Syne," which means "in memory of past times", first recorded on paper by beloved Scottish poet Robert Burns, is sung on New Year's Eve.
 	- Auld lang syne
 	- Should auld acquaintance be forgot And never brought to mind Should auld acquaintance be forgot For the sake of auld lang syne. For auld lang syne, my dear, For auld lang syne We'll take a cup of kindness yet, For the sake of auld lang syne.
 	- CULTURE CLUB GETTY IMAGES
