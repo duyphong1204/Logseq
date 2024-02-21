@@ -6,4 +6,4 @@
 - [[Linguistic/Sounds/English]]
 - [[Linguistic/Articulation/English]]
 - [[Linguistic/Sounds - Articulation/English]]
-- Vấn đề khi làm bài vowels: mình còn chưa identify được tốt sound nào về symbol nào, rồi mờ mờ đoán vb
+- Vấn đề khi làm bài vowels: mình còn chưa identify được tốt sound nào về symbol nào, rồi mờ mờ đoán vị trí của nó -> cần dùng bảng tra cứu, chưa thử tự vẽ vì chưa nhớ. Khổ nỗi bảng của IPA mình hay dùng nó một kiểu, bảng trên wiki một kiểu, bảng của cô một kiểu. Cách gọi tên chúng cũng khác nhau, một số kí hiệu cũng khác, nên phải đối chiếu ở nhiều nguồn khác, đặc biệt là cambridge từ điển trước để
