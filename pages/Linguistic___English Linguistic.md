@@ -6,3 +6,4 @@
 - [[Linguistic/Sounds/English]]
 - [[Linguistic/Articulation/English]]
 - [[Linguistic/Sounds - Articulation/English]]
+- Vấn đề khi làm bài vowels: mình còn chưa identify được tốt sound nào về symbol nào, rồi mờ mờ đoán vb
