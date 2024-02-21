@@ -6,4 +6,4 @@
 - [[Linguistic/Sounds/English]]
 - [[Linguistic/Articulation/English]]
 - [[Linguistic/Sounds - Articulation/English]]
-- Vấn đề khi làm bài vowels: mình còn chưa identify được tốt sound nào về symbol nào, rồi mờ mờ đoán vị trí của nó -> cần dùng bảng tra cứu, chưa thử tự vẽ vì chưa nhớ. Khổ nỗi bảng của IPA mình hay dùng nó một kiểu, bảng trên wiki một kiểu, bảng của cô một kiểu. Cách gọi tên chúng cũng khác nhau, một số kí hiệu cũng khác, nên phải đối chiếu ở nhiều nguồn khác, đặc biệt là cambridge từ điển trước vì ở đó kí hiệu giống bảng của cô nhất, rồi bảng của cô mình cũng chưa quá nắm một số vị trí ở cách vẽ nên cần check lại long hay short, tự pronounce để biết phần còn lại, rồi lú trước cách sắp xếp của IPA, rồi một số cái như neutral vốn đâu có ghi, tự nhớ chứ cô chỉ chú thích long/short, rồi có cái ví dụ.
+-
