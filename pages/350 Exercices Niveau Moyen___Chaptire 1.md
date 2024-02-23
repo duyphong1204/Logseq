@@ -206,7 +206,7 @@
 			- Quelles sont vos dates d*es* vacances
 			- Ce plan indique tous les arrêt de l'autobus
 			- L'arrêt de l'autobus 63 a été déplacé
-			- Ce professeur a écrit une histoire du
+			- Ce professeur a écrit une histoire du France
 	- ### 19
 		-
 	- ### 20
