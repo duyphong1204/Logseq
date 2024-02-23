@@ -215,6 +215,7 @@
 		- N'oubli pas d'emporter ton maillot de ...
 		- Charlie Chaplin est un acteur de ... très connu
 		- Il m'a donné un billet de ...
+		- Dans ce magasin de ..., on trouve
 	- ### 19
 		-
 	- ### 20
