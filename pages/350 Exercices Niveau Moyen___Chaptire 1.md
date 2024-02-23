@@ -210,6 +210,8 @@
 			- Ce livre d'histoire de France est utilisé dans beaucoup d'écoles
 		- #### Compléter les phrases suivantes
 		- Il a perdu sa carte de
+		- J'ai acheté un livre de
+		- Mes parents ont une maison de ...
 	- ### 19
 		-
 	- ### 20
