@@ -212,7 +212,7 @@
 		- Il a perdu sa carte de ... dans le métro
 		- J'ai acheté un livre de ...
 		- Mes parents ont une maison de ... à 60 kilomètres de Paris
-		- N'oubli pas
+		- N'oubli pas d'emporter ton maillot de ...
 	- ### 19
 		-
 	- ### 20
