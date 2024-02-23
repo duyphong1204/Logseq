@@ -226,7 +226,9 @@
 			- Pour dessiner, l'enfant se sert d'un crayon feutre
 			  logseq.order-list-type:: number
 			  Il s'est servi du crayon de son frère
-			- J'ai besoin d'une pile neuve pour ma
+			- J'ai besoin d'une pile neuve pour ma radio 
+			  logseq.order-list-type:: number
+			- Il se plaint d'un mal
 			  logseq.order-list-type:: number
 			-
 	- ### 19
