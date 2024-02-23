@@ -207,7 +207,8 @@
 			- Ce plan indique tous les arrêt d'autobus
 			- L'arrêt de l'autobus 63 a été déplacé
 			- Ce professeur a écrit une histoire de la France au Moyen Âge
-			- Ce livre d'histoire de France est utilisé dans beaucoup
+			- Ce livre d'histoire de France est utilisé dans beaucoup d'écoles
+		- #### Compléter les phrases suivantes
 	- ### 19
 		-
 	- ### 20
