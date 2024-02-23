@@ -209,9 +209,10 @@
 			- Ce professeur a écrit une histoire de la France au Moyen Âge
 			- Ce livre d'histoire de France est utilisé dans beaucoup d'écoles
 		- #### Compléter les phrases suivantes
-		- Il a perdu sa carte de
-		- J'ai acheté un livre de
-		- Mes parents ont une maison de ...
+		- Il a perdu sa carte de ... dans le métro
+		- J'ai acheté un livre de ...
+		- Mes parents ont une maison de ... à 60 kilomètres de Paris
+		- N'oubli pas
 	- ### 19
 		-
 	- ### 20
