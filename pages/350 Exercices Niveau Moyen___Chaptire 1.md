@@ -223,8 +223,9 @@
 			- Paul et Christine ont parlé d'une actrice que je ne connais pas
 			  logseq.order-list-type:: number
 			  Ils ont parlé de l'actrice qui vient d'obtenir un "César"
-			- Pour dessiner, l'enfant
+			- Pour dessiner, l'enfant se sert d'un crayon 
 			  logseq.order-list-type:: number
+			  Il s'est servi du crayon de son frère
 			-
 	- ### 19
 		-
