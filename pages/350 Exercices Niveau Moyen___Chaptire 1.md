@@ -218,6 +218,7 @@
 			- Dans ce magasin de ..., on trouve tout pour le ski, le tennis, etc
 		- Mettre au pluriel les groups de mots en caractères gras
 			- Elle s'occupe de l'enfant de sa sœur
+			-
 	- ### 19
 		-
 	- ### 20
