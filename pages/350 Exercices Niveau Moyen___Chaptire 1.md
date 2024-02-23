@@ -220,7 +220,7 @@
 			- Elle s'occupe de l'enfant de sa sœur
 			- Cette jeune femme s'occupe d'un enfant handicapé
 			- Paul et Christine ont parlé d'une actrice que je ne connais pas
-			- Ils ont parlé de l'actrice
+			- Ils ont parlé de l'actrice qui vient d'obtenir un "
 	- ### 19
 		-
 	- ### 20
