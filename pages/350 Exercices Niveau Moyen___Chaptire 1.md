@@ -228,7 +228,9 @@
 			  Il s'est servi du crayon de son frère
 			- J'ai besoin d'une pile neuve pour ma radio 
 			  logseq.order-list-type:: number
-			- Il se plaint d'un mal
+			- Il se plaint d'un mal de tête 
+			  logseq.order-list-type:: number
+			- Je ne me souviens plus du nom de cette personne
 			  logseq.order-list-type:: number
 			-
 	- ### 19
