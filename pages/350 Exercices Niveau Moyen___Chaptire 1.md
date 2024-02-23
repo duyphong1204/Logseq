@@ -209,13 +209,15 @@
 			- Ce professeur a écrit une histoire de la France au Moyen Âge
 			- Ce livre d'histoire de France est utilisé dans beaucoup d'écoles
 		- #### Compléter les phrases suivantes
-		- Il a perdu sa carte de ... dans le métro
-		- J'ai acheté un livre de ...
-		- Mes parents ont une maison de ... à 60 kilomètres de Paris
-		- N'oubli pas d'emporter ton maillot de ...
-		- Charlie Chaplin est un acteur de ... très connu
-		- Il m'a donné un billet de ...
-		- Dans ce magasin de ..., on trouve
+			- Il a perdu sa carte de ... dans le métro
+			- J'ai acheté un livre de ...
+			- Mes parents ont une maison de ... à 60 kilomètres de Paris
+			- N'oubli pas d'emporter ton maillot de ...
+			- Charlie Chaplin est un acteur de ... très connu
+			- Il m'a donné un billet de ...
+			- Dans ce magasin de ..., on trouve tout pour le ski, le tennis, etc
+		- Mettre au pluriel les groups de mots en caractères gras
+			- Elle s'occupe de l'enfant
 	- ### 19
 		-
 	- ### 20
