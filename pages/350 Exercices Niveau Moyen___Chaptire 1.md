@@ -200,14 +200,14 @@
 		- Des couverts de/**en** métal argenté
 	- ### 16
 		- #### Compléter les phrases suivantes par un article défini si néces aire
-			- Il y a des clefs de *la* voiture sur la table! A qui sont-elles?
+			- Il y a des clefs de voiture sur la table! A qui sont-elles?
 			- Les clefs de *la* voiture de Jean-Bap-tiste sont dans le tiroir.
 			- Quelles sont les dates d*es* vacances de Noël cette année?
 			- Quelles sont vos dates de vacances
-			- Ce plan indique tous les arrêt de l'autobus
+			- Ce plan indique tous les arrêt d'autobus
 			- L'arrêt de l'autobus 63 a été déplacé
 			- Ce professeur a écrit une histoire de la France au Moyen Âge
-			- Ce livre d'histoire
+			- Ce livre d'histoire de France est utilisé dans beaucoup
 	- ### 19
 		-
 	- ### 20
