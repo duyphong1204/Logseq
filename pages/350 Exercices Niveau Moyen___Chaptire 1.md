@@ -204,7 +204,8 @@
 			- Les clefs de *la* voiture de Jean-Bap-tiste sont dans le tiroir.
 			- Quelles sont les dates de *les* vacances de Noël cette année?
 			- Quelles sont vos dates de les vacances
-			- Ce plan i
+			- Ce plan indique tous les arrêt de l'autobus
+			- L'arrêt de l'autobus 63 a été
 	- ### 19
 		-
 	- ### 20
