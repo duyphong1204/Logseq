@@ -202,9 +202,9 @@
 		- #### Compléter les phrases suivantes par un article défini si néces aire
 			- Il y a des clefs de *la* voiture sur la table! A qui sont-elles?
 			- Les clefs de la voiture de Jean-Bap-tiste sont dans le tiroir.
-			- Quelles sont les dates de les vacances de Noël
+			- Quelles sont les dates de les vacances de Noël cette année
 	- ### 19
-		- tiroir
+		-
 	- ### 20
 -
 - {{cloze mình chỉ ### cho các tiêu đề nhỏ hơn vì một số cái nhiều chữ quá, cũng chẳng biết viết lại tên như nào, để to thì bị chướng mắt}}
