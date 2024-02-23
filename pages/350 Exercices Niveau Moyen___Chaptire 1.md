@@ -219,7 +219,8 @@
 		- Mettre au pluriel les groups de mots en caractères gras
 			- Elle s'occupe de l'enfant de sa sœur
 			- Cette jeune femme s'occupe d'un enfant handicapé
-			- Paul et Christine ont parlé d'une actrice que je ne conn
+			- Paul et Christine ont parlé d'une actrice que je ne connais pas
+			- Ils ont parlé de l'actrice
 	- ### 19
 		-
 	- ### 20
