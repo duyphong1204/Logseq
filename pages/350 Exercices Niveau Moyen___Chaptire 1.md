@@ -209,6 +209,7 @@
 			- Ce professeur a écrit une histoire de la France au Moyen Âge
 			- Ce livre d'histoire de France est utilisé dans beaucoup d'écoles
 		- #### Compléter les phrases suivantes
+		- Il a perdu sa carte de
 	- ### 19
 		-
 	- ### 20
