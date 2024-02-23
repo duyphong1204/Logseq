@@ -213,7 +213,8 @@
 		- J'ai acheté un livre de ...
 		- Mes parents ont une maison de ... à 60 kilomètres de Paris
 		- N'oubli pas d'emporter ton maillot de ...
-		- Charlie Chaplin est un acteur de ... tr_
+		- Charlie Chaplin est un acteur de ... très connu
+		- Il m'a donné un billet de ...
 	- ### 19
 		-
 	- ### 20
