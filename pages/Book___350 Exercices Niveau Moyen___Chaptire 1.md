@@ -216,7 +216,7 @@
 			- Charlie Chaplin est un acteur de ... très connu
 			- Il m'a donné un billet de ...
 			- Dans ce magasin de ..., on trouve tout pour le ski, le tennis, etc
-		- Mettre au pluriel les groups de mots en caractères gras
+		- #### Mettre au pluriel les groups de mots en caractères gras
 			- Elle s'occupe de l'enfant de sa sœur
 			  logseq.order-list-type:: number
 			  Cette jeune femme s'occupe d'un enfant handicapé
@@ -232,8 +232,7 @@
 			  logseq.order-list-type:: number
 			- Je ne me souviens plus du nom de cette personne
 			  logseq.order-list-type:: number
-	- ### 18
-		- Compléter les
+	- ### 18 Compléter les
 	- ### 19
 		-
 	- ### 20
