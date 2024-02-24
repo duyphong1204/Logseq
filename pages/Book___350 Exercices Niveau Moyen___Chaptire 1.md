@@ -233,7 +233,7 @@
 			- Je ne me souviens plus du nom de cette personne
 			  logseq.order-list-type:: number
 	- ### 18 Compléter les phrases suivantes par un article si cela est nécesaire
-		- Le châ
+		- Le château de Chambord est entrouré d*u* mur de 32 kilomètres de long
 	- ### 19
 		-
 	- ### 20
