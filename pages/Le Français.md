@@ -37,12 +37,12 @@
 		- [[ULISS/Sem2/Français B1/Leçon 6]]
 	- {{embed ((64e7e44c-b8c3-434b-b834-056c46ed938f))}}
 	  id:: 647fbd4d-f340-43f8-87bb-d16c16e50eee
-	- [[350 Exercices Niveau Moyen/Chaptire 1]]
-	- [[350 Exercices Niveau Moyen/Chapitre 15]]
-	- [[350 Exercices Niveau Moyen/Chapitre 17]]
-	- [[350 Exercices Niveau Moyen/Chapitre 22]]
-	- [[350 Exercices Niveau Moyen/Chapitre 23]]
-	- [[350 Exercices Niveau Moyen/Chapitre 30]]
+	- [[Book/350 Exercices Niveau Moyen/Chaptire 1]]
+	- [[Book/350 Exercices Niveau Moyen/Chapitre 15]]
+	- [[Book/350 Exercices Niveau Moyen/Chapitre 17]]
+	- [[Book/350 Exercices Niveau Moyen/Chapitre 22]]
+	- [[Book/350 Exercices Niveau Moyen/Chapitre 23]]
+	- [[Book/350 Exercices Niveau Moyen/Chapitre 30]]
 - [[Le Français/Vocabulaire Français]]
 - [[Le Français/Grammaire Française]]
 - Dictionnaire

@@ -233,7 +233,7 @@
 			- Je ne me souviens plus du nom de cette personne
 			  logseq.order-list-type:: number
 	- ### 18
-		- Compléter
+		- Compléter les
 	- ### 19
 		-
 	- ### 20

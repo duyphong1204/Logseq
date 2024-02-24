@@ -1,5 +1,5 @@
-- ## 1. Mettre les phrases suivantes à la form passive
-  heading:: true
+## 1. Mettre les phrases suivantes à la form passive
+heading:: true
 	- Beaucoup de télespectateurs regardent cette émission
 	  logseq.order-list-type:: number
 		- Cette émission est regardé par beaucoup de téléspectateurs

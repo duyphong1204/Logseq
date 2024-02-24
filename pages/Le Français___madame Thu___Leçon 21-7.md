@@ -26,7 +26,7 @@
 			- je te verrai dès mon retour à Hanoi
 - le souhait, le desir
 - ---
-- [[350 Exercices Niveau Moyen/Chapitre 17]]
+- [[Book/350 Exercices Niveau Moyen/Chapitre 17]]
 	- le temps - le mode
 		- le temps
 			- le présent
