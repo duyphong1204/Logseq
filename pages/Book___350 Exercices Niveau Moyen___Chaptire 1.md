@@ -246,12 +246,14 @@
 		- Ce verbe est toujours suivi de complément d'object direct
 	- ### 19
 		- #### A/ Relier les éléments de la colonne de gauche aux éléments de la colonne de droite en inscrivant les lettres correspondantes dans les cases:
-		- Une boîte à
-		- Un sac à
-		- Une corbeille à
-		- Du rouge à
-		- Du vernis à
-		-
+		- Une boîte à *outils*
+		- Un sac à *main*
+		- Une corbeille à *papiers*
+		- Du rouge à **
+		- Du vernis à **
+		- Une brosse à **
+		- Du papier à **
+		- Une couteau à **
 		-
 	- ### 20
 -
