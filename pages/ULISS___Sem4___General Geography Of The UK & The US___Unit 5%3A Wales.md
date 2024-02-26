@@ -65,15 +65,15 @@
 					- Located here is
 						- Saint Woolos's Cathedral
 						- a notable museum
-						- art gallery.
+						- art gallery
 		- Most of the rest of Wales is mountainous.
-			- because of this, communication between north and south used to be difficult.
+			- Because of this, communication between north and south used to be difficult.
 			- As a result, each part of Wales has closer contact with its neighbouring part of England than it does with other parts of Wales
 				- the north with Liverpool
 				- mid-Wales with the English west midlands.
 			- The area round Mount Snowdon in the north-west of the country is very beautiful and is the largest National Park in Britain.
 			- The highest peak, Snowdon, is 1,085 m.
-				- you can reach the summit on foot or by the mountain railway, which is 7 km long.
+				- You can reach the summit on foot or by the mountain railway, which is 7 km long.
 	- ## Weather and climate
 		- The climate of Wales, like that of England, is mild and moist.
 		- The average daily temperature in July is 16°C, and in January it is 4°C.
@@ -82,18 +82,17 @@
 	- ## Welsh identity
 		- A feeling of loyalty to Wales is often similar in nature to the fairly weak loyalties to particular geographical areas found throughout England - it is regional rather than nationalistic.
 			- People of Wales do not have as many reminders of their Welshness in everyday life.
-				- the organization of public life is similar to that in England.
-				- nor are there as many well-known symbols of Welshness.
+				- The organization of public life is similar to that in England.
+				- Nor are there as many well-known symbols of Welshness.
 			- In addition, a large minority of the people in Wales probably do not consider themselves to be especially Welsh at all.
-				- in the 19th century large numbers of Scottish, Irish, and English people went to find work there
-				- today many English people still make their homes in Wales or have a holiday house there.
+				- In the 19th century large numbers of Scottish, Irish, and English people went to find work there
+				- Today many English people still make their homes in Wales or have a holiday house there.
 		- However, there is one single highly important symbol of Welsh identity: the Welsh language.
 			- According to the Welsh Language Use Survey 2019-20, 22% of the population aged three or older could speak Welsh[^1].
-				- for these people, Welsh identity obviously means more than just living in the region known as Wales.
+			- For these people, Welsh identity obviously means more than just living in the region known as Wales.
 			- Moreover, in comparison to the other small minority languages of Europe, Welsh show signs of continued vitality.
 			- Thanks to successive campaigns, the language receives a lot of public support.
-				- all children in Wales learn it at school
-				- there are many local newspapers in Welsh
-				- there is a Welsh television channel and nearly all public notices and signs are written in both Welsh and English
+				- All children in Wales learn it at school
+				- There are many local newspapers in Welsh, there is a Welsh television channel and nearly all public notices and signs are written in both Welsh and English.
 - ## Footnotes
-	- [^1]:
+	- [^1]: https://
