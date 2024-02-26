@@ -1,1 +1,1 @@
-- The very first thing is to examine the sample that was given to see how do teacher perceived it, what ex
+- The very first thing is to examine the sample that was given to see how do teacher perceived it, what exactly we have to do, to include, to which extent, what we are lazy to do,... (rather than just reading some vague guideline)
