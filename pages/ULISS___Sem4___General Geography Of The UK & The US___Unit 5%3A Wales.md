@@ -61,7 +61,11 @@
 				- Newport
 					- is a port city on the Usk River.
 					- It is both a major steel-producing centre of the United Kingdom and a vital commercial and transportation hub for southeastern Wales.
-					- Its port, improved in the 1970s, handles imports of ore and timber and exports of iron, steel, and machinery. Located here is Saint Woolos's Cathedral, as well as a notable museum and art gallery.
+					- Its port, improved in the 1970s, handles imports of ore and timber and exports of iron, steel, and machinery.
+					- Located here is
+						- Saint Woolos's Cathedral
+						- a notable museum
+						- art gallery.
 		- Most of the rest of Wales is mountainous.
 			- Because of this, communication between north and south used to be difficult.
 			- As a result, each part of Wales has closer contact with its neighbouring part of England than it does with other parts of Wales
