@@ -249,9 +249,9 @@
 		- Une boîte à *outils*
 		- Un sac à *main*
 		- Une corbeille à *papiers*
-		- Du rouge à lèvres*
-		- Du vernis à *dents*
-		- Une brosse à **
+		- Du rouge à *lèvres*
+		- Du vernis à **
+		- Une brosse à **dents
 		- Du papier à *lettres*
 		- Une couteau à **
 		-
