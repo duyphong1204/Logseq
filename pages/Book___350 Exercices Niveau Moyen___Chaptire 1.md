@@ -243,8 +243,9 @@
 		- L'alcoolisme est responsable de mort de nombreuses personnes
 		- Derrière l'école, il y a une cour plantée de arbres
 		- Le verbe "ressembler" est toujours suivi de préposition "à"
-		- Ce verbe est toujours suivi de complément d'ob
+		- Ce verbe est toujours suivi de complément d'object direct
 	- ### 19
+		- #### A/ Relier les éléments de la colonne de gauche aux éléments
 		-
 	- ### 20
 -
