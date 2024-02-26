@@ -249,10 +249,10 @@
 		- Une boîte à *outils*
 		- Un sac à *main*
 		- Une corbeille à *papiers*
-		- Du rouge à **
-		- Du vernis à **
+		- Du rouge à lèvres*
+		- Du vernis à *dents*
 		- Une brosse à **
-		- Du papier à **
+		- Du papier à *lettres*
 		- Une couteau à **
 		-
 	- ### 20
