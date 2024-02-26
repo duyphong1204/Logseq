@@ -55,4 +55,4 @@
 	- Nếu 1 mẩu thông tin trong sách không chỉ có trong sách mà nó còn liên quan đến nhiều page, thì ta làm như nào, như trong [[ULISS/Sem4/General Geography Of The UK & The US/Unit 2: British Geography]], tốt nhất là đừng động đến nó, nếu có page về British Isles thì hãy link nhiều nguồn vào, mà thay vì số lượng, nguồn uy tín là đủ
 	- 1 thông tin có thể có ở nhiều nguồn, mỗi nguồn lại có lượng thông tin khác nhau, ta nên để số ở footnote đại diện cho mỗi nguồn hay nó sẽ đại diện cho số thông tin trong bài, còn nếu đại diện cho số thông tin trong bài thì sao? ta note như nào?
 - 06:39 [[Feb 27th, 2024]]
-	- nay ngồi làm [[ULISS/Sem4/General Geography Of The UK & The US/Unit 5: Wales]] mình gặp trường hợp is, chẳng hạn the city (is)
+	- nay ngồi làm [[ULISS/Sem4/General Geography Of The UK & The US/Unit 5: Wales]] mình gặp trường hợp is, chẳng hạn the city (is), thì nên cho cái is đó xuống hay để trên. Xuống thì lặp chữ nhưng heading sạch, cho lên trên thì ngược lại, cắt đi thì vẫn hiểu, phân biệt qua Uppercase hay lowercase. Mình nghĩ nên cắt mẹ đi. Với to còn giữ lại được chữ đôi khi người ta nói cũng chẳng dùng is. Mà có lẽ là mình nen
