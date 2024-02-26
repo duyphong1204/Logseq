@@ -25,9 +25,12 @@
 		- Swansea
 			- a city in southern Wales
 			- is a bustling seaport on the Tawe River
-			- The city is an important industrial centre with manufactures that include steel and nonferrous metals and motor-vehicle parts.
+			- The city is
+			- The city is
+				- the seat of the University College of Swansea (1920)
+				- host to an annual arts festival
+				- an important industrial centre with manufactures that include steel and nonferrous metals and motor-vehicle parts.
 			- A large petroleum refinery and chemical works are located in the suburb of Llandarcy.
-			- The city is the seat of the University College of Swansea (1920) and is host to an annual arts festival.
 			- A Norman fortress was erected on the site about 1099.
 			- During the Middle Ages the community was a regional market center
 			- Its industrial growth began in the 18th century
