@@ -235,7 +235,9 @@
 	- ### 18 Compléter les phrases suivantes par un article si cela est nécesaire
 		- Le château de Chambord est entrouré d*u* mur de 32 kilomètres de long
 		- Une île, c'est un morceau de terre entrouré de l'eau
-		- La célèbre actrice entra, entournée de
+		- La célèbre actrice entra, entournée de photographes
+		- La table était couverte de nappe blanche
+		- Le bureau
 	- ### 19
 		-
 	- ### 20
