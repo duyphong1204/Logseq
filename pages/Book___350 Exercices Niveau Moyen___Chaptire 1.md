@@ -254,6 +254,8 @@
 		- Une brosse à *dents*
 		- Du papier à *lettres*
 		- Une couteau à *pain*
-	- ### 20 Relier les éléments de la colonne de gauche aux éléments de la colonne de droite en inscrivant
+	- ### 20 Relier les éléments de la colonne de gauche aux éléments de la colonne de droite en inscrivant les lettres correspondants dans les cases:
+	- Elle a fait cet exercice
+	- Je mange les fraises
 -
 - {{cloze mình chỉ ### cho các tiêu đề nhỏ hơn vì một số cái nhiều chữ quá, cũng chẳng biết viết lại tên như nào, để to thì bị chướng mắt}}
