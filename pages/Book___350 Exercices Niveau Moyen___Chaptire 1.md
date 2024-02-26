@@ -262,6 +262,8 @@
 	- J'ai traduit ce texte
 	- Elle porte une robe
 	- Elle travaille
-	- Le directeur est o
+	- Le directeur est occupé; il est
+	- L'enfant est
+	- Je prendrai une pêche melba
 -
 - {{cloze mình chỉ ### cho các tiêu đề nhỏ hơn vì một số cái nhiều chữ quá, cũng chẳng biết viết lại tên như nào, để to thì bị chướng mắt}}
