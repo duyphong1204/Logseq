@@ -21,29 +21,32 @@
 - # Physical Geography Of Wales
 	- ## Major cities
 	- Wales is approximately 242 km (150 mi) from north to south.
-	- About two-thirds of the total population of more than 3.1 million people live in the South Wales coastal area, where the three biggest towns are located:
-		- Swansea
-			- a city in southern Wales
-			- is a bustling seaport on the Tawe River
-			- The city is
-				- the seat of the University College of Swansea (1920)
-				- host to an annual arts festival
-				- an important industrial centre with manufactures that include steel and nonferrous metals and motor-vehicle parts.
-			- A large petroleum refinery and chemical works are located in the suburb of Llandarcy.
-			- A Norman fortress was erected on the site about 1099.
-			- During the Middle Ages the community was a regional market center
-			- Its industrial growth began in the 18th century
-				- when the port was developed to export the coal mined in southern Wales
-			- The town centre was destroyed by German bombing during World War II (1939-1945)
-				- the city has since been rebuilt
-			- Swansea was enlarged in 1974
-				- now includes the scenic Gower Peninsula
-					- a farming area
-					- a resort area
-		- Cardiff
-			- the largest city of Wales
-			- has been the official capital since 1955
-			- There has been a community here for hundreds of years, but it began to grow quickly and to become prosperous during the nineteenth and early twentieth centuries. This was the period when the coal, iron and steel industries were developing in South Wales, and Cardiff became a major industrial town and an important port. However, when these industries began to decline, Cardiff suffered too. Today, the docks are much smaller, but the city is now expanding as a commercial and administrative centre. It is an attractive and interesting place to live in, with good communications, plenty of parks and a varied population, 25% of which are university and college students. As a tourist, you might want to visit the castle and Llandaff cathedral, or the National Museum of Wales. If you like music, there is the famous national concert hall, St David's Hall, or the New Theatre, which is the home of the Welsh National Opera Company.
+	- About two-thirds of the total population of more than 3.1 million people live in the South Wales coastal area
+		- where the three biggest towns are located:
+			- Swansea
+				- a city in southern Wales
+				- is a bustling seaport on the Tawe River
+				- The city is
+					- the seat of the University College of Swansea (1920)
+					- host to an annual arts festival
+					- an important industrial centre with manufactures that include steel and nonferrous metals and motor-vehicle parts.
+				- A large petroleum refinery and chemical works are located in the suburb of Llandarcy.
+				- A Norman fortress was erected on the site about 1099.
+				- During the Middle Ages the community was a regional market center
+				- Its industrial growth began in the 18th century
+					- when the port was developed to export the coal mined in southern Wales
+				- The town centre was destroyed by German bombing during World War II (1939-1945)
+					- the city has since been rebuilt
+				- Swansea was enlarged in 1974
+					- now includes the scenic Gower Peninsula
+						- a farming area
+						- a resort area
+			- Cardiff
+				- the largest city of Wales
+				- has been the official capital since 1955
+				- There has been a community here for hundreds of years, but it began to grow quickly and to become prosperous during the nineteenth and early twentieth centuries.
+				- This was the period when the coal, iron and steel industries were developing in South Wales, and Cardiff became a major industrial town and an important port.
+				- However, when these industries began to decline, Cardiff suffered too. Today, the docks are much smaller, but the city is now expanding as a commercial and administrative centre. It is an attractive and interesting place to live in, with good communications, plenty of parks and a varied population, 25% of which are university and college students. As a tourist, you might want to visit the castle and Llandaff cathedral, or the National Museum of Wales. If you like music, there is the famous national concert hall, St David's Hall, or the New Theatre, which is the home of the Welsh National Opera Company.
 		- Newport is a port city on the Usk River. It is both a major steel-producing centre of the United Kingdom and a vital commercial and transportation hub for southeastern Wales. Its port, improved in the 1970s, handles imports of ore and timber and exports of iron, steel, and machinery. Located here is Saint Woolos's Cathedral, as well as a notable museum and art gallery.
 		- Most of the rest of Wales is mountainous. Because of this, communication between north and south used to be difficult. As a result, each part of Wales has closer contact with its neighbouring part of England than it does with other parts of Wales: the north with Liverpool, and mid-Wales with the English west midlands. The area round Mount Snowdon in the north-west of the country is very beautiful and is the largest National Park in Britain. The highest peak, Snowdon, is 1,085 m. You can reach the summit on foot or by the mountain railway, which is 7 km long.
 		- Weather and climate
