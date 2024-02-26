@@ -240,7 +240,7 @@
 		- Le bureau était couvert de livres et de documents
 		- C'était l'hiver, tout était couvert de neige
 		- Ce tiroir est plein de photos
-		- L'alcoolisme
+		- L'alcoolisme est re
 	- ### 19
 		-
 	- ### 20
