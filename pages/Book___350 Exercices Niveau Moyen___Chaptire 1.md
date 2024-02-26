@@ -235,6 +235,7 @@
 	- ### 18 Compléter les phrases suivantes par un article si cela est nécesaire
 		- Le château de Chambord est entrouré d*u* mur de 32 kilomètres de long
 		- Une île, c'est un morceau de terre entrouré de l'eau
+		- Lq
 	- ### 19
 		-
 	- ### 20
