@@ -257,5 +257,11 @@
 	- ### 20 Relier les éléments de la colonne de gauche aux éléments de la colonne de droite en inscrivant les lettres correspondants dans les cases:
 	- Elle a fait cet exercice
 	- Je mange les fraises
+	- Roulez
+	- Ils habitent un vieil appartement
+	- J'ai traduit ce texte
+	- Elle porte une robe
+	- Elle travaille
+	- Le directeur est o
 -
 - {{cloze mình chỉ ### cho các tiêu đề nhỏ hơn vì một số cái nhiều chữ quá, cũng chẳng biết viết lại tên như nào, để to thì bị chướng mắt}}
