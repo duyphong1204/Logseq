@@ -127,11 +127,15 @@
 			- Not only is the Eisteddfod an important cultural event but a great social gathering,
 				- where hundreds of all trends ineet to renew their friendship.
 					- this, too, was the intention of its bunder in 1947.
-					- Many families come for the day and bring their picnic baskets and vacuum flasks with them
-					- It has been known for members of the audience to remain at the Esteddfod from 11am until the final male voice competition at 10.30pm, when the day usually ends with thousands more people out on the promenade than in the pavilion Many of the present-day Welsh singing stars started on their careers at the Miners Eisteddfod, it is a launching pad for elocutionists and soloists, and one of the highlights of the day's events is the children's choir competition, which attracts the finest juvenile choirs trom mining villages. It is always the wish of the organizers to make the proceedings as entertaining as possible by providing competitions for as many classes as possible women's choirs, men's glee parties, mixed choirs and of course the male voice chers which attract some of the finest choirs in the land.
+						- many families come for the day and bring their picnic baskets and vacuum flasks with them
+			- It has been known for members of the audience to remain at the Esteddfod from 11am until the final male voice competition at 10.30pm,
+				- when the day usually ends with thousands more people out on the promenade than in the pavilion
+			- Many of the present-day Welsh singing stars started on their careers at the Miners Eisteddfod, it is a launching pad for elocutionists and soloists, and one of the highlights of the day's events is the children's choir competition, which attracts the finest juvenile choirs trom mining villages. It is always the wish of the organizers to make the proceedings as entertaining as possible by providing competitions for as many classes as possible women's choirs, men's glee parties, mixed choirs and of course the male voice chers which attract some of the finest choirs in the land.
 	- ## Welsh symbols: The Daffodil an the Leek
 		- The national flower of Wales is the daffoil
 			- which is traditionally worn on St. David's Day.
-		- The vegetable called leek is also considered to be a traditional emblem of Wales. There are many explanations of how the leek came to be adopted as the national emblem of Wales. One is that St. David advised th Welsh, on the eve of battle with the Saxons, to wear leeks in their caps to distinguish friend from foe.
+		- The vegetable called leek is also considered to be a traditional emblem of Wales.
+			- There are many explanations of how the leek came to be adopted as the national emblem of Wales.
+				- One is that St. David advised th Welsh, on the eve of battle with the Saxons, to wear leeks in their caps to distinguish friend from foe.
 - ## Footnotes
 	- [^1]: https://www.gov.wales/welsh-language-use-wales-initial-findings-july-2019-march-2020-revised-html
