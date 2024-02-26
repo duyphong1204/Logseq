@@ -240,7 +240,9 @@
 		- Le bureau était couvert de livres et de documents
 		- C'était l'hiver, tout était couvert de neige
 		- Ce tiroir est plein de photos
-		- L'alcoolisme est re
+		- L'alcoolisme est responsable de mort de nombreuses personnes
+		- Derrière l'école, il y a une cour plantée de arbres
+		- Le verbe
 	- ### 19
 		-
 	- ### 20
