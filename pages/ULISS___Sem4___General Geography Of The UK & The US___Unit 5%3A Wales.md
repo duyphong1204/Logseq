@@ -29,10 +29,11 @@
 			- A large petroleum refinery and chemical works are located in the suburb of Llandarcy.
 			- The city is the seat of the University College of Swansea (1920) and is host to an annual arts festival.
 			- A Norman fortress was erected on the site about 1099.
-			- During the Middle Ages the community was a regional market center.
-			- Its industrial growth began in the 18th century, when the port was developed to export the coal mined in southern Wales.
+			- During the Middle Ages the community was a regional market center
+			- Its industrial growth began in the 18th century
+				- when the port was developed to export the coal mined in southern Wales
 			- The town centre was destroyed by German bombing during World War II (1939-1945)
-				- the city has since been rebuilt.
+				- the city has since been rebuilt
 			- Swansea was enlarged in 1974
 				- now includes the scenic Gower Peninsula
 					- a farming area
