@@ -237,7 +237,8 @@
 		- Une île, c'est un morceau de terre entrouré de l'eau
 		- La célèbre actrice entra, entournée de photographes
 		- La table était couverte de nappe blanche
-		- Le bureau
+		- Le bureau était couvert de livres et de documents
+		- C'était l'hiver, tout
 	- ### 19
 		-
 	- ### 20
