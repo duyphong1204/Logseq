@@ -89,7 +89,7 @@
 				- Today many English people still make their homes in Wales or have a holiday house there.
 		- However, there is one single highly important symbol of Welsh identity: the Welsh language.
 			- According to the Welsh Language Use Survey 2019-20, 22% of the population aged three or older could speak Welsh[^1].
-			- For these people, Welsh identity obviously means more than just living in the region known as Wales.
+				- For these people, Welsh identity obviously means more than just living in the region known as Wales.
 			- Moreover, in comparison to the other small minority languages of Europe, Welsh show signs of continued vitality.
 			- Thanks to successive campaigns, the language receives a lot of public support.
 				- All children in Wales learn it at school
