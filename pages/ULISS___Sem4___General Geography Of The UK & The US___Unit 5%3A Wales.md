@@ -111,7 +111,11 @@
 	- ## Customs of Wales
 		- Somewhat isolated by a rugged, mountainous terrain, the Welsh have retained more of the culture of their Celtic forebears than have either the Scots or the English.
 		- The Welsh are well known for their love of singing, and their hymns and folk songs are widely known throughout the world.
-		- Eisteddfod (Welsh, "a sitting of learned men") is the national music and literary festival held each summer in the first week of August in Wales to promote Welsh language, literature, music, and customs.
+		- Eisteddfod (Welsh, "a sitting of learned men") is
+			- the national music
+			- literary festival
+			- held each summer in the first week of August in Wales
+				- to promote Welsh language, literature, music, and customs.
 			- The week-long ceremony is a revival of the ancient Welsh custom of assembling bards, or minstrels, for competition among themselves, for the regulation of poetry and music, and for the licensing of duly qualified candidates to the position of recognized bards.
 - ## Footnotes
 	- [^1]: https://www.gov.wales/welsh-language-use-wales-initial-findings-july-2019-march-2020-revised-html
