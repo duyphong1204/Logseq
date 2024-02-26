@@ -1,0 +1,1 @@
+- The very first thing is to examine the sample that was given to see how do teacher perceived it, what ex
