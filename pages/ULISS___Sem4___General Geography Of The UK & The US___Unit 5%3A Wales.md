@@ -31,6 +31,11 @@
 			- A Norman fortress was erected on the site about 1099.
 			- During the Middle Ages the community was a regional market center.
 			- Its industrial growth began in the 18th century, when the port was developed to export the coal mined in southern Wales.
-			- The town centre was destroyed by German bombing during World War II (1939-1945); the city has since been rebuilt. Swansea was enlarged in 1974, and now includes the scenic Gower Peninsula, a farming and resort area.
+			- The town centre was destroyed by German bombing during World War II (1939-1945)
+				- the city has since been rebuilt.
+			- Swansea was enlarged in 1974
+				- now includes the scenic Gower Peninsula
+					- a farming area
+					- a resort area
 		- Cardiff
 		- Newport.
