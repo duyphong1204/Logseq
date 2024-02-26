@@ -95,4 +95,4 @@
 				- All children in Wales learn it at school
 				- There are many local newspapers in Welsh, there is a Welsh television channel and nearly all public notices and signs are written in both Welsh and English.
 - ## Footnotes
-	- [^1]: https://
+	- [^1]: https://www.gov.wales/welsh-language-use-wales-initial-findings-july-2019-march-2020-revised-html
