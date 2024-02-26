@@ -130,7 +130,12 @@
 						- many families come for the day and bring their picnic baskets and vacuum flasks with them
 			- It has been known for members of the audience to remain at the Esteddfod from 11am until the final male voice competition at 10.30pm,
 				- when the day usually ends with thousands more people out on the promenade than in the pavilion
-			- Many of the present-day Welsh singing stars started on their careers at the Miners Eisteddfod, it is a launching pad for elocutionists and soloists, and one of the highlights of the day's events is the children's choir competition, which attracts the finest juvenile choirs trom mining villages. It is always the wish of the organizers to make the proceedings as entertaining as possible by providing competitions for as many classes as possible women's choirs, men's glee parties, mixed choirs and of course the male voice chers which attract some of the finest choirs in the land.
+			- Many of the present-day Welsh singing stars started on their careers at the Miners Eisteddfod,
+				- it is a launching pad for elocutionists and soloists
+				- one of the highlights of the day's events is the children's choir competition
+					- which attracts the finest juvenile choirs trom mining villages.
+				- It is always the wish of the organizers to make the proceedings as entertaining as possible by providing competitions for as many classes as possible
+				- women's choirs, men's glee parties, mixed choirs and of course the male voice chers which attract some of the finest choirs in the land.
 	- ## Welsh symbols: The Daffodil an the Leek
 		- The national flower of Wales is the daffoil
 			- which is traditionally worn on St. David's Day.
