@@ -101,8 +101,11 @@
 		- Welsh is one of the Celtic languages, like Scottish and Irish Gaelic.
 			- It is estimated that Welsh is spoken by 16-20% of the population, although in North and West Wales, 50% speak the language.
 			- The Welsh language Act of 1967 said that all official documents should be in both languages, and most road signs are printed in English and Welsh.
-		- Since the 1960s, there has been increased interest in Welsh. At secondary schools almost 50 per cent of all students learn Welsh as a first or second language.
-		- Since 1982 there has also been an independent fourth TV channel broadcasting mainly in Welsh. Although not many Welsh words are well-known in England, the word eisteddfod is understood by almost everyone. This is the Welsh name for a competition people meet to dance, sing and read poems. Usually, only Welsh is spoken and in recent years they have attracted people who wish to protest against the influence of English on Wales language and culture.
+			- Since the 1960s, there has been increased interest in Welsh. At secondary schools almost 50 per cent of all students learn Welsh as a first or second language.
+			- Since 1982 there has also been an independent fourth TV channel broadcasting mainly in Welsh.
+				- Although not many Welsh words are well-known in England, the word eisteddfod is understood by almost everyone.
+					- This is the Welsh name for a competition people meet to dance, sing and read poems.
+					- Usually, only Welsh is spoken and in recent years they have attracted people who wish to protest against the influence of English on Wales language and culture.
 	- Customs of Wales
 	- MORNING STAR
 	- Somewhat isolated by a rugged, mountainous terrain, the Welsh have retained more of the culture of their Celtic forebears than have either the Scots or the English. The Welsh are well known for their love of singing, and their hymns and folk songs are widely known throughout the world. Eisteddfod (Welsh, "a sitting of learned men") is the national music and literary festival held each summer in the first week of August in Wales to promote Welsh language, literature, music, and customs. The week-long ceremony is a revival of the ancient Welsh custom of assembling bards, or minstrels, for competition among themselves, for the regulation of poetry and music, and for the licensing of duly qualified candidates to the position of recognized bards.
