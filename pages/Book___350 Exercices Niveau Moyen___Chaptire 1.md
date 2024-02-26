@@ -242,7 +242,8 @@
 		- Ce tiroir est plein de photos
 		- L'alcoolisme est responsable de mort de nombreuses personnes
 		- Derrière l'école, il y a une cour plantée de arbres
-		- Le verbe
+		- Le verbe "ressembler" est toujours suivi de préposition "à"
+		- Ce verbe est toujours suivi de complément d'ob
 	- ### 19
 		-
 	- ### 20
