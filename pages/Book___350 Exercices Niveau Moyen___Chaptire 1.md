@@ -250,11 +250,10 @@
 		- Un sac à *main*
 		- Une corbeille à *papiers*
 		- Du rouge à *lèvres*
-		- Du vernis à **
-		- Une brosse à **dents
+		- Du vernis à *ongles*
+		- Une brosse à *dents*
 		- Du papier à *lettres*
-		- Une couteau à **
-		-
+		- Une couteau à *pain*
 	- ### 20
 -
 - {{cloze mình chỉ ### cho các tiêu đề nhỏ hơn vì một số cái nhiều chữ quá, cũng chẳng biết viết lại tên như nào, để to thì bị chướng mắt}}
