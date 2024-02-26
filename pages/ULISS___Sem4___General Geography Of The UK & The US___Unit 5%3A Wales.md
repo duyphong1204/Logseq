@@ -60,7 +60,7 @@
 							- the New Theatre, which is the home of the Welsh National Opera Company.
 				- Newport
 					- is a port city on the Usk River.
-					- It is both a major steel-producing centre of the United Kingdom and a vital commercial and transportation hub for southeastern Wales.
+					- is both a major steel-producing centre of the United Kingdom and a vital commercial and transportation hub for southeastern Wales.
 					- Its port, improved in the 1970s, handles imports of ore and timber and exports of iron, steel, and machinery.
 					- Located here is
 						- Saint Woolos's Cathedral
@@ -75,10 +75,14 @@
 			- The highest peak, Snowdon, is 1,085 m.
 				- You can reach the summit on foot or by the mountain railway, which is 7 km long.
 	- ## Weather and climate
-		- The climate of Wales, like that of England, is mild and moist.
-		- The average daily temperature in July is 16°C, and in January it is 4°C.
+		- The climate of Wales, like that of England
+			- is mild and moist.
+		- The average daily temperature
+			- in July is 16°C
+			- in January it is 4°C.
 		- Of the four constituent countries of the United Kingdom, Wales has the highest average rainfall (about 1385mm for the whole country).
-			- Annual rainfall varies with elevation, ranging from about 760mm in certain coastal regions to more than 2,500mm in the Snowdon massif.
+			- Annual rainfall varies with elevation
+				- ranging from about 760mm in certain coastal regions to more than 2,500mm in the Snowdon massif.
 	- ## Welsh identity
 		- A feeling of loyalty to Wales is often similar in nature to the fairly weak loyalties to particular geographical areas found throughout England - it is regional rather than nationalistic.
 			- People of Wales do not have as many reminders of their Welshness in everyday life.
