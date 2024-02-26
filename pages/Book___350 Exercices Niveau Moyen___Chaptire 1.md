@@ -238,7 +238,9 @@
 		- La célèbre actrice entra, entournée de photographes
 		- La table était couverte de nappe blanche
 		- Le bureau était couvert de livres et de documents
-		- C'était l'hiver, tout
+		- C'était l'hiver, tout était couvert de neige
+		- Ce tiroir est plein de photos
+		- L'alcoolisme
 	- ### 19
 		-
 	- ### 20
