@@ -245,7 +245,7 @@
 		- Le verbe "ressembler" est toujours suivi de préposition "à"
 		- Ce verbe est toujours suivi de complément d'object direct
 	- ### 19
-		- #### A/ Relier les éléments de la colonne de gauche aux éléments
+		- #### A/ Relier les éléments de la colonne de gauche aux éléments de la colonne de droite en inscrivant les lettres correspondantes dans les cases:
 		-
 	- ### 20
 -
