@@ -135,7 +135,11 @@
 				- one of the highlights of the day's events is the children's choir competition
 					- which attracts the finest juvenile choirs trom mining villages.
 				- It is always the wish of the organizers to make the proceedings as entertaining as possible by providing competitions for as many classes as possible
-				- women's choirs, men's glee parties, mixed choirs and of course the male voice chers which attract some of the finest choirs in the land.
+					- women's choirs
+					- men's glee parties
+					- mixed choirs
+					- the male voice choirs
+						- which attract some of the finest choirs in the land.
 	- ## Welsh symbols: The Daffodil an the Leek
 		- The national flower of Wales is the daffoil
 			- which is traditionally worn on St. David's Day.
