@@ -25,11 +25,10 @@
 			- where the three biggest towns are located:
 				- Swansea
 					- a city in southern Wales
-					- is a bustling seaport on the Tawe River
-					- The city is
-						- the seat of the University College of Swansea (1920)
-						- host to an annual arts festival
-						- an important industrial centre with manufactures that include steel and nonferrous metals and motor-vehicle parts.
+					- a bustling seaport on the Tawe River
+					- the seat of the University College of Swansea (1920)
+					- host to an annual arts festival
+					- an important industrial centre with manufactures that include steel and nonferrous metals and motor-vehicle parts.
 					- A large petroleum refinery and chemical works are located in the suburb of Llandarcy.
 					- A Norman fortress was erected on the site about 1099.
 					- During the Middle Ages the community was a regional market center
@@ -82,7 +81,8 @@
 			- in January it is 4°C.
 		- Of the four constituent countries of the United Kingdom, Wales has the highest average rainfall (about 1385mm for the whole country).
 			- Annual rainfall varies with elevation
-				- ranging from about 760mm in certain coastal regions to more than 2,500mm in the Snowdon massif.
+				- ranging from about 760mm in certain coastal regions
+				- to more than 2,500mm in the Snowdon massif.
 	- ## Welsh identity
 		- A feeling of loyalty to Wales is often similar in nature to the fairly weak loyalties to particular geographical areas found throughout England - it is regional rather than nationalistic.
 			- People of Wales do not have as many reminders of their Welshness in everyday life.
