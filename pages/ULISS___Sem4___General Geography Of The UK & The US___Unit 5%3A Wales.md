@@ -184,7 +184,7 @@
 		  logseq.order-list-type:: number
 - ## Exercise 3
 	- Fill each of the following gaps with ONE suitable word.
-		- The three major cities in Wales are all situated in the area in the south of Wales. They are
+		- The three major cities in Wales are . They are all situated in the *coastal* area in the south of Wales.
 		  logseq.order-list-type:: number
 		- The southeast of Wales is the most total population live. region, where about two-thirds of the
 		  logseq.order-list-type:: number
