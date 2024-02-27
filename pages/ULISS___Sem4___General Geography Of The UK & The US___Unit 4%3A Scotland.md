@@ -35,32 +35,44 @@ collapsed:: true
 - # Physical Geography Of Scotland
 	- ## Topography
 		- Scotland has three fairly clearly marked regions.
+		  collapsed:: true
 			- Just north of the border with England are the Southern Uplands,
+			  collapsed:: true
 				- an area of small towns,
 				- quite far apart from each other,
 				- whose economy depends to a large extent on sheep farming.
 			- Further north, there is the Central Plain.
 			- Finally, there are the Highlands,
+			  collapsed:: true
 				- consisting of
+				  collapsed:: true
 					- mountains
 					- deep valleys
 					- including numerous small islands off the west coast
 				- This area of spectacular natural beauty
+				  collapsed:: true
 					- occupies the same land area as southern England
+					  collapsed:: true
 						- but fewer than a million people live there.
 				- It is in the central plain and the strip of east coast extending northwards from it that
+				  collapsed:: true
 					- more than 80% of the population of Scotland lives
 					- in recent times, this region has had many of the same difficulties as the industrial north of England
+					  collapsed:: true
 						- although the North Sea oil industry has helped to keep unemployment down.
 	- ## Weather and climate
 		- Like the climate of the rest of Britain, that of Scotland is subject to the moderating Influences of the surrounding seas.
+		  collapsed:: true
 			- As a result of these influences,
+			  collapsed:: true
 				- extreme seasonal variations are rare
 				- the outstanding climatic features are
+				  collapsed:: true
 					- temperate winters
 					- cool summers
 		- Low temperatures, however, are common during the winter season in the mountainous districts of the interior.
 		- In the western coastal region, which is subject to the moderating effects of the Gulf Stream, conditions are somewhat milder than in the east.
+		  collapsed:: true
 			- the average January temperature of the eastern coastal region is 4°C
 			- the average January temperature of the western coastal region is 30C
 			- corresponding July averages are 14°C and 15°C
@@ -78,92 +90,134 @@ collapsed:: true
 						- severity of the coming winter from the time of migration of certain birds
 				- Forecasting weather
 					- But familiarity with the local topography can enable a reasonable forecast of weather within the next few hours to be made
+					  collapsed:: true
 						- if the wind direction, temperature and humidity are known.
 					- Over hundred, or thousands, of years, people have recorded these weather signs in the form of proverbs,
+					  collapsed:: true
 						- such as
+						  collapsed:: true
 							- the familiar 'red sky at night
 							- shepherd's delight.
 						- Or the description of Scottish weather by Buff Hardie:
-							- | | |
+						  collapsed:: true
+							- collapsed:: true
+							  | | |
 							  | Rughadh shuas an a'm laidhe, | With a rody sky at bedtime |
 							  | Dh' eireadh Unionn moch's a mhaduinn: | Fingla would rise early |
 							  | Rughadh Shuas's a'mhoch mhaduinn | With a rosy sky at dawn |
 							  | Dheanadh Fionn an ath-chadal. | He would take another sleep. |
 	- ## Major Cities
 		- Scotland's two major cities have different reputations.
+		  collapsed:: true
 			- Glasgow is the third largest city in Britain.
+			  collapsed:: true
 				- It is associated with heavy industry and some of the worst housing conditions in Britain
+				  collapsed:: true
 					- (the district called the Gorbals, although now rebuilt, was famous in this respect).
 				- However, this image is one-sided.
+				  collapsed:: true
 					- Glasgow has a strong artistic heritage.
 					- At the turn of the last century the work of the Glasgow School put the city at the forefront of European design and architecture.
+					  collapsed:: true
 						- (led by Mackintosh)
 					- In 1990, it was the European City of Culture.
 					- Over the centuries,
+					  collapsed:: true
 						- Glasgow has received many immigrants from Ireland
 						- in some ways it reflects the divisions in the community that exist in Northern Ireland.
+						  collapsed:: true
 							- For example, of its two rival football teams
+							  collapsed:: true
 								- one is Catholic
+								  collapsed:: true
 									- (Celtic)
 								- the other is Protestant
+								  collapsed:: true
 									- (Rangers).
 			- Edinburgh, which is half the size of Glasgow, has a comparatively middle-class image
+			  collapsed:: true
 				- (although class differences between the two cities are not really very great).
 				- It is the capital of Scotland
+				  collapsed:: true
 					- associated with
+					  collapsed:: true
 						- scholarship
 						- the law
 						- administration.
 				- This reputation, together with some features has led to its being called 'Athens of the North'
+				  collapsed:: true
 					- many fine historic buildings
 					- and also perhaps topography
+					  collapsed:: true
 						- (there is a rock in the middle of the city on which stands the castle)
 					-
 				- The annual Edinburgh Festival of the arts is internationally famous.
 	- ## Exercise 1
+	  collapsed:: true
 		- Fill each of the gaps below with a suitable word or phrase.
 		- Scotland is in the *Kingdom* of Great Britain. It is the *second* biggest country and is only smaller than *England* in area.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- Scotland has three main regions: *Northwest Highlands*, *Grampian Mountains*, *Southern Uplands*
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- The economy of the Southern Uplands depends largely on *sheep farming*
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- The highlands consists of *mountains* and *deep valleys* and a number of small islands off the west coast.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- 80% of Scottish people live in the *central plain and the strip of east cost*
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- Tourism and the production of whisky play an important role in the local economy of the *Highlands*
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- Two major cities in Scotland are Edinburge and Glasgow. The former is half the size of the latter.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- Outstanding climatic features of Scotland are *temperate* winter and *cool* summer.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- In the western coastal region, conditions are somewhat *milder* than in the east.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- The Scottish weather *forecast* include both climatic forecasts and weather forecasts.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 	- ## Exercise 2
+	  collapsed:: true
 		- Write E for Edinburgh, G for Glasgow in the space after each of the descriptions below.
 		- The capital city of Scotland **E**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- The third largest city in Britain **G**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- Has a comparative middle-class image. **E**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- Associated with scholarship, the law and administration. **E**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- Associated with heavy industry and bad housing conditions. **G**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- Has a strong artistic heritage. **G**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- Sometimes called 'Athens of the North. **E**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- Was the European City of Culture in 1990 **G**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- Has received many immigrants from Ireland. **G**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		- ts two rival football teams are Celtic and Rangers. **G**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 - # Identity, Symbols and Customs
 	- ## Scottish identity
 		- People in Scotland have constant reminders of their distinctiveness.
