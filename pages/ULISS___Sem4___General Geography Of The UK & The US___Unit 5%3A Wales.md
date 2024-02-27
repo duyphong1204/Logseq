@@ -194,13 +194,13 @@
 		  logseq.order-list-type:: number
 - ## Exercise 4
 	- Rearrange these sentences to form a paragraph about the history of Cardiff.
-		- It expanded suddenly during the nineteenth century into a great port **2**
+		- It expanded suddenly during the nineteenth century into a great port. **2**
 		  logseq.order-list-type:: number
 		- A community has existed here for nearly 2,000 years. **1**
 		  logseq.order-list-type:: number
-		- During the Middle Ages, it was a small market town.
+		- During the Middle Ages, it was a small market town. **3**
 		  logseq.order-list-type:: number
-		- In AD 76, the Romans reached Cardiff and built a stronghold.
+		- In AD 76, the Romans reached Cardiff and built a stronghold. **2**
 		  logseq.order-list-type:: number
 		- When these industries declined, Cardiff became less prosperous too. **4**
 		  logseq.order-list-type:: number
