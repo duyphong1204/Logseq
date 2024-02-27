@@ -194,7 +194,7 @@
 		  logseq.order-list-type:: number
 - ## Exercise 4
 	- Rearrange these sentences to form a paragraph about the history of Cardiff.
-		- It expanded suddenly during the nineteenth century into a great port. **2**
+		- It expanded suddenly during the nineteenth century into a great port. **5**
 		  logseq.order-list-type:: number
 		- A community has existed here for nearly 2,000 years. **1**
 		  logseq.order-list-type:: number
@@ -202,13 +202,13 @@
 		  logseq.order-list-type:: number
 		- In AD 76, the Romans reached Cardiff and built a stronghold. **2**
 		  logseq.order-list-type:: number
-		- When these industries declined, Cardiff became less prosperous too. **4**
+		- When these industries declined, Cardiff became less prosperous too. **7**
 		  logseq.order-list-type:: number
-		- Happily, after a difficult period, the city is now prospering once again.
+		- Happily, after a difficult period, the city is now prospering once again. **8**
 		  logseq.order-list-type:: number
-		- Not much is known after this until the Normans arrived in 1091.
+		- Not much is known after this until the Normans arrived in 1091. **4**
 		  logseq.order-list-type:: number
-		- This was because of the development of coal and other industries in South Wales. **3**
+		- This was because of the development of coal and other industries in South Wales. **6**
 		  logseq.order-list-type:: number
 - ## Footnotes
 	- [^1]: https://www.gov.wales/welsh-language-use-wales-initial-findings-july-2019-march-2020-revised-html
