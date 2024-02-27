@@ -164,11 +164,11 @@
 		  logseq.order-list-type:: number
 		- Eisteddfod is a dancing festival. **F**
 		  logseq.order-list-type:: number
-		- This festival is held annually in the summer.
+		- This festival is held annually in the summer. **T**
 		  logseq.order-list-type:: number
-		- Eisteddfod started in 1947 with the purpose of promoting Welsh language.
+		- Eisteddfod started in 1947 with the purpose of promoting Welsh language. **T**
 		  logseq.order-list-type:: number
-		- The iris flower is traditionally worn by Welsh people on St. David's Day
+		- The iris flower is traditionally worn by Welsh people on St. David's Day **F**
 		  logseq.order-list-type:: number
 - ## Exercise 2
 	- Briefly answer the following questions.
