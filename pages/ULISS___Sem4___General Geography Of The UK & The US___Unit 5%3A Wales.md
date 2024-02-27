@@ -188,9 +188,9 @@
 		  logseq.order-list-type:: number
 		- The southeast of Wales is the most *crowded* region, where about two-thirds of the total population live.
 		  logseq.order-list-type:: number
-		- Communication between northern and southern Wales used to be difficult because most of the country is
+		- Communication between northern and southern Wales used to be difficult because most of the country is *mountainous*
 		  logseq.order-list-type:: number
-		- Snowdonia, the National Park of Britain, is in the of Wales.
+		- Snowdonia, the National Park of Britain, is in the *north-west* of Wales.
 		  logseq.order-list-type:: number
 - ## Exercise 4
 	- Rearrange these sentences to form a paragraph about the history of Cardiff.
