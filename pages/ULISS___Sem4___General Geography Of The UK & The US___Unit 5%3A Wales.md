@@ -150,9 +150,9 @@
 				- One is that St. David advised th Welsh, on the eve of battle with the Saxons, to wear leeks in their caps to distinguish friend from foe.
 - ## Exercise 1
 	- Decide whether the following statements are true (T) or false (F)
-		- Of the four constituent countries of the United Kingdom, Wales has the highest average rainfall in the UK.
+		- Of the four constituent countries of the United Kingdom, Wales has the highest average rainfall in the UK. **T**
 		  logseq.order-list-type:: number
-		- Most of the total population in Wales live in coastal area in the south of Wales.
+		- Most of the total population in Wales live in coastal area in the south of Wales. ****
 		  logseq.order-list-type:: number
 		- Cardiff is situated in the north of Wales.
 		  logseq.order-list-type:: number
