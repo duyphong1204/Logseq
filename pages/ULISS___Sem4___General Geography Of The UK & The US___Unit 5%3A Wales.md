@@ -152,17 +152,17 @@
 	- Decide whether the following statements are true (T) or false (F)
 		- Of the four constituent countries of the United Kingdom, Wales has the highest average rainfall in the UK. **T**
 		  logseq.order-list-type:: number
-		- Most of the total population in Wales live in coastal area in the south of Wales. ****
+		- Most of the total population in Wales live in coastal area in the south of Wales. **T**
 		  logseq.order-list-type:: number
-		- Cardiff is situated in the north of Wales.
+		- Cardiff is situated in the north of Wales. **F**
 		  logseq.order-list-type:: number
-		- Like English, the Welsh language developed from Anglo-Saxon and is a Germanic Janguage.
+		- Like English, the Welsh language developed from Anglo-Saxon and is a Germanic Janguage. **F**
 		  logseq.order-list-type:: number
-		- The people in Wales are of Celtic race.
+		- The people in Wales are of Celtic race. **F**
 		  logseq.order-list-type:: number
-		- You can find both English and Welsh printed on road signs in Wales.
+		- You can find both English and Welsh printed on road signs in Wales. **T**
 		  logseq.order-list-type:: number
-		- Eisteddfod is a dancing festival
+		- Eisteddfod is a dancing festival. **F**
 		  logseq.order-list-type:: number
 		- This festival is held annually in the summer.
 		  logseq.order-list-type:: number
