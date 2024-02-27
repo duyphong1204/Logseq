@@ -19,6 +19,7 @@
 	- Longest river: Severn (354 km). partl in England
 	- Largest lake: Bala (4.4 sq km)
 - # Physical Geography Of Wales
+  collapsed:: true
 	- ## Major cities
 		- Wales is approximately 242 km (150 mi) from north to south.
 		- About two-thirds of the total population of more than 3.1 million people live in the South Wales coastal area
@@ -83,6 +84,7 @@
 			- Annual rainfall varies with elevation
 				- ranging from about 760mm in certain coastal regions
 				- to more than 2,500mm in the Snowdon massif.
+- # Identity, Symbols And Customs
 	- ## Welsh identity
 		- A feeling of loyalty to Wales is often similar in nature to the fairly weak loyalties to particular geographical areas found throughout England - it is regional rather than nationalistic.
 			- People of Wales do not have as many reminders of their Welshness in everyday life.
@@ -146,5 +148,6 @@
 		- The vegetable called leek is also considered to be a traditional emblem of Wales.
 			- There are many explanations of how the leek came to be adopted as the national emblem of Wales.
 				- One is that St. David advised th Welsh, on the eve of battle with the Saxons, to wear leeks in their caps to distinguish friend from foe.
+- ## Ex
 - ## Footnotes
 	- [^1]: https://www.gov.wales/welsh-language-use-wales-initial-findings-july-2019-march-2020-revised-html
