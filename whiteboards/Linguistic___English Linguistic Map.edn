@@ -586,7 +586,7 @@
 :italic false
 :text "Articulators"}}
 :block/updated-at 1708289431679} 
-{:block/created-at 1708289442269
+{:block/created-at 1709044191071
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -603,14 +603,14 @@
 :id "1071c710-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-865.65 -1130]
+:point [-866.48 -1130]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [7.92 174]
-:bindingId "60b4af01-ce9f-11ee-aba0-2b02f90ad60a"}
+:point [1.01 174]
+:bindingId "aa3b5461-d57c-11ee-a882-712f4917eebc"}
 :end 
 {:id "end"
 :canBind true
@@ -620,9 +620,9 @@
 {:start "arrow"
 :end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632308768
+:nonce 1706632308784
 :italic false}}
-:block/updated-at 1708289442269} 
+:block/updated-at 1709044191071} 
 {:block/created-at 1708289434071
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1262,6 +1262,14 @@
 :handleId "end"
 :point [0.41 0.5]
 :distance 4}
+:aa3b5461-d57c-11ee-a882-712f4917eebc 
+{:id "aa3b5461-d57c-11ee-a882-712f4917eebc"
+:type "line"
+:fromId "1071c710-bf8d-11ee-a6ef-431a67f8e15f"
+:toId "e4563b80-bf8b-11ee-a6ef-431a67f8e15f"
+:handleId "start"
+:point [0.31 0.52]
+:distance 4}
 :2b1deee0-bf8d-11ee-a6ef-431a67f8e15f 
 {:id "2b1deee0-bf8d-11ee-a6ef-431a67f8e15f"
 :type "line"
@@ -1372,7 +1380,7 @@
 :block/journal? false
 :block/namespace 
 {:db/id 20890}
-:block/updated-at 1708290662119
+:block/updated-at 1709044191082
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "linguistic/english linguistic map"
