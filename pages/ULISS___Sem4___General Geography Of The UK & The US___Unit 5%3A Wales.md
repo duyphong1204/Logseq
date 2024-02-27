@@ -186,7 +186,7 @@
 	- Fill each of the following gaps with ONE suitable word.
 		- The three major cities in Wales are *Swansea*, *Cardiff*, *Newport*. They are all situated in the *coastal* area in the south of Wales.
 		  logseq.order-list-type:: number
-		- The southeast of Wales is the most  region, where about two-thirds of the total population live.
+		- The southeast of Wales is the most *crowded* region, where about two-thirds of the total population live.
 		  logseq.order-list-type:: number
 		- Communication between northern and southern Wales used to be difficult because most of the country is
 		  logseq.order-list-type:: number
