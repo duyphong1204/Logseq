@@ -100,6 +100,7 @@
 			- Thanks to successive campaigns, the language receives a lot of public support.
 				- All children in Wales learn it at school
 				- There are many local newspapers in Welsh, there is a Welsh television channel and nearly all public notices and signs are written in both Welsh and English.
+		- Welsh identity
 	- ## The Welsh language
 	  id:: 65dd1c81-6c9a-4fca-bd7e-8ce6f548820c
 		- The Welsh, who belong to the Celtic race, are very proud of their language and culture.
