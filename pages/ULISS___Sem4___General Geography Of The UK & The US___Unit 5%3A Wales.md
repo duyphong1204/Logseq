@@ -172,26 +172,43 @@
 		  logseq.order-list-type:: number
 - ## Exercise 2
 	- Briefly answer the following questions.
-		- 1. What are the three largest towns in Wales? Where are they located?
-		- 2. Why did Cardiff become prosperous in the 19th century?
-		- 3. The Welsh language and culture are said to be best preserved in the North and West of the country. Why?
-		- 4 What does eisteddfod mean in Welsh?
-		- 5. What did the Welsh Language Act of 1967 state?
+		- What are the three largest towns in Wales? Where are they located?
+		  logseq.order-list-type:: number
+		- Why did Cardiff become prosperous in the 19th century?
+		  logseq.order-list-type:: number
+		- The Welsh language and culture are said to be best preserved in the North and West of the country. Why?
+		  logseq.order-list-type:: number
+		- What does eisteddfod mean in Welsh?
+		  logseq.order-list-type:: number
+		- What did the Welsh Language Act of 1967 state?
+		  logseq.order-list-type:: number
 - ## Exercise 3
 	- Fill each of the following gaps with ONE suitable word.
-		- 1. The three major cities in Wales are all situated in the area in the south of Wales. They are
-		- 2. The southeast of Wales is the most total population live. region, where about two-thirds of the
-		- 3. Communication between northern and southern Wales used to be difficult because most of the country is
-		- 4. Snowdonia, the National Park of Britain, is in the of Wales.
+		- The three major cities in Wales are all situated in the area in the south of Wales. They are
+		  logseq.order-list-type:: number
+		- The southeast of Wales is the most total population live. region, where about two-thirds of the
+		  logseq.order-list-type:: number
+		- Communication between northern and southern Wales used to be difficult because most of the country is
+		  logseq.order-list-type:: number
+		- Snowdonia, the National Park of Britain, is in the of Wales.
+		  logseq.order-list-type:: number
 - ## Exercise 4
 	- Rearrange these sentences to form a paragraph about the history of Cardiff.
-		- 1. It expanded suddenly during the nineteenth century into a great port
-		- 2. A community has existed here for nearly 2,000 years.
-		- 3. During the Middle Ages, it was a small market town.
-		- 4. In AD 76, the Romans reached Cardiff and built a stronghold.
-		- 5. When these industries declined, Cardiff became less prosperous too.
-		- 6.Happily, after a difficult period, the city is now prospering once again.
-		- 7. Not much is known after this until the Normans arrived in 1091.
-		- 8. This was because of the development of coal and other industries in South Wales.
+		- It expanded suddenly during the nineteenth century into a great port
+		  logseq.order-list-type:: number
+		- A community has existed here for nearly 2,000 years.
+		  logseq.order-list-type:: number
+		- During the Middle Ages, it was a small market town.
+		  logseq.order-list-type:: number
+		- In AD 76, the Romans reached Cardiff and built a stronghold.
+		  logseq.order-list-type:: number
+		- When these industries declined, Cardiff became less prosperous too.
+		  logseq.order-list-type:: number
+		- Happily, after a difficult period, the city is now prospering once again.
+		  logseq.order-list-type:: number
+		- Not much is known after this until the Normans arrived in 1091.
+		  logseq.order-list-type:: number
+		- This was because of the development of coal and other industries in South Wales.
+		  logseq.order-list-type:: number
 - ## Footnotes
 	- [^1]: https://www.gov.wales/welsh-language-use-wales-initial-findings-july-2019-march-2020-revised-html
