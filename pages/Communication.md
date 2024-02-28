@@ -1,2 +1,5 @@
--
+- Definition: Giao tiếp
 - [[Communications]]: Ngành truyền thông
+- [[Marketing]]
+- [[Business]]
+- How those things are related. I
