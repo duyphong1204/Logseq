@@ -2,4 +2,4 @@
 - [[Communications]]: Ngành truyền thông
 - [[Marketing]]
 - [[Business]]
-- How those things are related. I
+- How those things are related. Is there anything else?
