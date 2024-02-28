@@ -2,4 +2,8 @@
 - [[Communications]]: Ngành truyền thông
 - [[Marketing]]
 - [[Business]]
-- How those things are related. Is there anything else?
+- How those things are related? And how those things aid each other? Is there anything else?
+- How Communication turns into Communications, on becoming Communications, did Communication attached to Business or it was something else before being completely captured? Or it has never been? Then what is the other form?
+- What is Communication studying and what is Communications planning
+- SWOT? SMART? TA? Aim? Creative Concept? Where and when are those from? How are they related? Why do we have to do it. In fact, what do we actually have to do with all those (leaving all the terminology aside)
+-
