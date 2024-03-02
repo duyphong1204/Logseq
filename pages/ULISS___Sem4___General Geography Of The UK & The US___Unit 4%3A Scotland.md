@@ -247,7 +247,7 @@ id:: 65ad51f0-b171-4c83-a6f5-7c65ffcb2df6
 			- Many Scots honour Burns's birthday (25th January) by celebrating his life and works at Burns Suppers, where haggis is served.
 		- Saint Andrew's Day, on 30th November, honours the patron saint of Scotland.
 			- Some Scots wear a blue-and-white X on this day to symbolize the cross upon which Saint Andrew was crucified by the Romans.
-			- This X- shaped cross has become a patriotic symbol.
+			- This X-shaped cross has become a patriotic symbol.
 		- There has been a recent revival in the popularity of wearing kilts on special occasions.
 			- Men might wear them for events such as graduations, weddings, or Hogmanay.
 	- ## Flowers of Scotland
