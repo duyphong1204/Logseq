@@ -227,7 +227,7 @@ id:: 65ad51f0-b171-4c83-a6f5-7c65ffcb2df6
 		- Pubs - public houses that serve alcoholic beverages
 		- Sometimes food are probably the most popular venues outside the home for socializing.
 	- ## Holidays and celebrations
-		- New Year's Eve (Hopmanay) is when some of the year's most lively celebrations take place in Scotland
+		- New Year's Eve (Hogmanay) is when some of the year's most lively celebrations take place in Scotland
 			- New Year's Eve is a more important festival in Scotland than it is in England, and it even has a special name.
 			- It is not clear where the word '*hogmaynay*' comes from, but it is connected with the provision of food and drink for all visitors to your home on 31st December
 			- Traditionally, on Hogmanay, children would go to the doors of their neighbours and sing and cry out "Hogmanay!" to receive oatmeal cakes in return
