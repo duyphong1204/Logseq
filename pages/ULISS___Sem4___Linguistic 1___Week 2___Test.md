@@ -163,5 +163,5 @@
 	  card-last-score:: 5
 	  collapsed:: true
 		- red, right
-- {{cards [[English Linguistic]] }}
+-
 -
