@@ -1,1 +1,8 @@
 - The very first thing is to examine the sample that was given to see how do teacher perceived it, what exactly we have to do, to include, to which extent, what we are lazy to do,... (rather than just reading some vague guideline)
+- Potential Ideas that have been rejected
+	- England is a country where tradition and modernity coexist
+	- Artifact 2: a specific cloth (which has a combination of historical traditions, contemporary trends, and individual expression)
+		- ⇑ ( Could be changed into this )
+	- Artifact 3: Queen Victoria's wedding dress ( New style of fashion at the wedding )
+		- Popularized the White wedding dressing
+	- Artifact 4: National food ( Yorkshire pudding,  Fish and chips, or Chicken Tikka Masala
