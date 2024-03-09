@@ -12,11 +12,4 @@
 	- Emperor Wu (141-87 BCE) of the Han dynasty aimed to set up the tribute system as a way to handle the northern tribes. This system continued to be a crucial aspect of China's foreign relations from the Han era all the way through the Ming period (1368 - 1644 CE). During Emperor Wu's rule, China actively sought allies and formed alliances in Central Asia to confront and defeat the Xiongnu. The famous journey of Zhang Qian, carried out between 139-126 BCE, was a part of this effort. Emperor Wu sent Zhang west to find allies and warhorses. Zhang came back from the "Western Regions" with the initial firsthand information about these neighboring lands.
 	- China achieved some successes against the nomads, but by the end of Emperor Wu's rule, they were mainly in a defensive position. Additionally, fighting on the frontier was very costly. Critics argued that waging war with the steppe peoples would eventually drain the state's finances. After the emperor passed away, these strategies were abandoned.
 	- After Emperor Wu's death, the Xiongnu faced political issues, leading to internal conflicts and civil war. In 54 BCE, due to these struggles, they eventually agreed to the Chinese tribute system. No other steppe group seriously contested it afterward (Barfield 1989: 56, 57, 60, 61). The tribute system persisted until China's interactions with European powers and Japan in modern times, when it eventually fell apart.
-	  
-	  By exploring the challenges and concerns from the viewpoints of both the Chinese and
-	  
-	  the Xiongnu, students will gain understanding into a significant aspect of Chinese
-	  
-	  history: the conflict between the sedentary, agrarian Chinese and the nomadic
-	  
-	  Xiongnu.
+	- By exploring the challenges and concerns from the viewpoints of both the Chinese and the Xiongnu, students will gain understanding into a significant aspect of Chinese history: the conflict between the sedentary, agrarian Chinese and the nomadic Xiongnu.
