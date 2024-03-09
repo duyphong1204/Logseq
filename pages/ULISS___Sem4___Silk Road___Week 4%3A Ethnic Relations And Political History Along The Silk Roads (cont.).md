@@ -1,1 +1,22 @@
--
+## Lesson Focus
+	- Explore the establishment and maintenance of diplomatic relations between the Chinese and Xiongnu during the Han dynasty.
+	- Assess impacts it had on both cultures
+- ## 1. Pre-class reading
+- ### 1.1. Context
+	- China's traditional view of itself as the "Central Kingdom," the source of all that was civilized, was a key factor in determining its pre-modern foreign policy. At the core of this world view was the tribute system.
+	- Being a tributary state meant acknowledging submission to China and its emperor, offering symbolic tribute gifts, and sending hostages to the Chinese court. In return, nomadic groups and other foreigners received valuable items like silk, cash, gold jewelry, and ornaments, as well as the privilege to trade at frontier markets. Trading rights were crucial for nomads as they lacked the resources and skilled workers to produce items obtained from Chinese merchants, such as textiles, clothing, utensils, wine, and other foodstuffs (Barfield 1989: 59-60). In return, China highly valued the horses, cattle, and furs brought in from the steppe.
+	- The historical background that led to the tribute system emerged after China became a unified state during the Qin dynasty (221-206 BCE), causing its borders to gradually expand. Under the subsequent Han dynasty (202 BCE-220 CE), colonies were established in present-day northern Vietnam and northern Korea, with ongoing settlement in the southeast.
+	- The most crucial region, however, was in the north and northwest, where the Chinese set up military garrisons and towns to protect against nomadic raids and invasions.
+	- China's dealings with nomads did not seem too crucial in its history until a big chann happened during the Qin-Han period. The rise of the Xiongnu empire in 209 BCE strongly impacted the new Chinese empire, making it realize that the north had become a significant adversary in politics, the military, and culture (Loewe 1999: 886-887)
+	- The first clashes between the Xiongnu and the Chinese happened in 201-200 BCE when the Xiongnu surrounded the first Han emperor and his a army. It was only after negotiations that the Xiongnu allowed the Chinese to escape. Formal relations were then established between the two nations. China had to agree to make annual payments of silk and other commodities not normally available to the steppe people, The Han and the Xiongnu were to be regarded as equal states. Later on, the Xiongnu also demanded, and received, the right to trade with the Chinese at border markets. extensive were times of 1989: 35-36, 51) with the getting more and more benefits from China (Barfield 1989: 35-36, 51). Emperor Wu (141-87 BCE) of the Han dynasty aimed to set up the tribute system asa way to handle the northern tribes. This system continued to be a crucial aspect of China's foreign relations from the Han era all the way through the Ming period (1368 - 1644 CE). During Emperor Wu's rule, China actively sought allies and formed alliances in Central Asia to confront and defeat the Xiongnu. The famous journey of Zhang Qian, carried out between 139-126 BCE, was a part of this effort. Emperor Wu sent Zhang west to find allies and warhorses. Zhang came back from the "Western Regions" with the initial firsthand information about these neighboring lands.
+	- China achieved some successes against the nomads, but by the end of Emperor Wu's rule, they were mainly in a defensive position. Additionally, fighting on the frontier was very costly. Critics argued that waging war with the steppe peoples would eventually drain the state's finances. After the emperor passed away, these strategies were abandoned.
+	  
+	  After Emperor Wu's death, the Xiongnu faced political issues, leading to internal conflicts and civil war. In 54 BCE, due to these struggles, they eventually agreed to the Chinese tribute system. No other steppe group seriously contested it afterward (Barfield 1989: 56, 57, 60, 61). The tribute system persisted until China's interactions with European powers and Japan in modern times, when it eventually fell apart.
+	  
+	  By exploring the challenges and concerns from the viewpoints of both the Chinese and
+	  
+	  the Xiongnu, students will gain understanding into a significant aspect of Chinese
+	  
+	  history: the conflict between the sedentary, agrarian Chinese and the nomadic
+	  
+	  Xiongnu.
