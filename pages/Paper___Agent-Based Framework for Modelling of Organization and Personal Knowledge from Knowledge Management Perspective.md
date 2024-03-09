@@ -1,0 +1,29 @@
+author:: Janis Grundspenkis
+
+- Published online: July 2007 © Springer Science+Business Media, LLC 2007
+- J. Grundspenkis (B) Department of Systems Theory and Design, Faculty of Computer Science and Information Technology, Riga Technical University, 1 Kalku Street, Riga 1658, Latvia e-mail: Janis.Grundspenkis@cs.rtu.lv
+- ![grundspenkis2007.pdf](../assets/grundspenkis2007_1710015860066_0.pdf)
+- ---
+- ## Abstract
+	- The paper tries to bridge gap between knowledge management and artificial intelligence approaches proposing agent-based framework for modelling organization and personal knowledge. The perspective of knowledge management is chosen to develop two conceptual models—one describes the intelligent enterprise memory, another models an intelligent organization’s knowledge management system. The concept of an agent-based environment of the knowledge worker for personal and organizational knowledge management support is introduced.
+- ## Keywords
+	- [[Knowledge Worker]]
+	- [[Organization’s Knowledge Management System]]
+	- [[Personal Knowledge Management]]
+	- [[Intelligent Agents]]
+	- [[Multi-agent System]]
+- ## Introduction
+- Recently we can observe an epochal evolution from the industrial age to the information age in which the organizational networks have become highly variable while their environments increasingly dynamic.
+- To be competitive organizations should react adequately, interpret non-standardized information for problem solving and decision making, as well as change their infrastructure and management strategies.
+- Usually there are a lot of information and knowledge within organizations, but at the same time many of them (service organizations, in particular) are “information rich and knowledge poor.”
+- The information and knowledge assets, often called an “intellectual capital,” i.e., knowledge that can be converted into value, make a great potential for organizations if utilized well (Apshvalka & Grundspenkis, 2003).
+- Knowledge management (KM) has become an effective way of managing organization’s intellectual capital or, in other words, organization’s full experience, skills and knowledge that is relevant for more effective performance in future.
+- Two approaches have appeared in KM—people track and information technology track knowledge management (Sveiby, 2000).
+- For representatives of the first track KM is the art of creating value from an organization’s intangible assets.
+- They strongly believe that only humans possess knowledge and are convinced that knowledge is not something that can be managed (Galliers & Newell, 2001).
+- The information technology track KM corresponds to management of information field where researchers and practitioners are involved in construction of information management and knowledge-based systems, artificial intelligence, reengineering, groupware, etc.
+- To them knowledge means objects that can be identified and handled in information and knowledge based systems. They argue that tacit knowledge of individuals may be elicited, transformed into explicit knowledge and thereby used to generate new knowledge, and to make all knowledge reusable and available for everybody in the organization.
+- The gap between both tracks is rather wide due to the different point of view on the actual nature of knowledge.
+- Studies in KM mainly focus on organizational knowledge captured in corporate and/or organizational memories (Brooking, 1999; Grundspenkis, 2001; Walsh & Ungson, 1991) and on the development of knowledge management systems (KMS).
+- However these initiatives in organizations have often run into difficulties mainly because the expansion of individual’s personal tacit knowledge to knowledge of organization as a whole causes implementation problems.
+- Research into the causes of emerged problems has shifted the
