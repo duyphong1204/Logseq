@@ -257,13 +257,17 @@
 	- ### 20 Relier les éléments de la colonne de gauche aux éléments de la colonne de droite en inscrivant les lettres correspondants dans les cases:
 		- Elle a fait cet exercice *sans fautes*
 		- Je mange les fraises *avec du sucre*
-		- Roulez
-		- Ils habitent un vieil appartement
-		- J'ai traduit ce texte
-		- Elle porte une robe
-		- Elle travaille
-		- Le directeur est occupé; il est
-		- L'enfant est
-		- Je prendrai une pêche melba
--
-- {{cloze mình chỉ ### cho các tiêu đề nhỏ hơn vì một số cái nhiều chữ quá, cũng chẳng biết viết lại tên như nào, để to thì bị chướng mắt}}
+		- Roulez *avec prudence*
+		- Ils habitent un vieil appartement *sans confort*
+		- J'ai traduit ce texte *avec un dictionaire*
+		- Elle porte une robe *sans manches*
+		- Elle travaille *comme un fille au pair*
+		- Le directeur est occupé; il est *en réunion*
+		- L'enfant est *en bonne santé*
+		- Je prendrai une pêche melba *comme dessert*
+		- Il l'a écouté *avec patience*
+		- Il est très bon *en mathématiques*
+		- Nous partirons bientôt *en vacances*
+	- ### 21 Compléter les textes suivants par un article si nécessaire
+		- *Le* ville
+- {{cloze mình để ### cho các tiêu đề nhỏ hơn thay vì để ## vì một số cái nhiều chữ quá, cũng chẳng biết viết lại tên như nào, để to thì bị chướng mắt}}
