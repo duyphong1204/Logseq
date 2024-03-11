@@ -269,6 +269,9 @@
 		- Il est très bon *en mathématiques*
 		- Nous partirons bientôt *en vacances*
 	- ### 21 Compléter les textes suivants par un article si nécessaire
-		- *Le* ville de Chartes se trouve *au* centre de *la* grande région agricole qui produit surtout blé.
-		- Une célèbre cathédrale est entourné les vieiles maisons; c'est un magnifique exemple de l'art gothique du XIIe siècle. Toute l'année, des nombreux touristes viennent la visiter. Avec
+		- A/
+			- *Le* ville de Chartes se trouve *au* centre de *la* grande région agricole qui produit surtout blé. Une célèbre cathédrale est entourné les vieiles maisons; c'est un magnifique exemple de l'art gothique du XIIe siècle. Toute l'année, des nombreux touristes viennent la visiter. Avec un plan de la ville, ils vont aussi se promener dans les rues bordée de la maison du Moyen Âge
+		- B/
+			- Recette du quatre-quarts. Préparation 20 mn. Cuison 40 à 45 mn.
+			  Trois œⅫ
 - {{cloze mình để ### cho các tiêu đề nhỏ hơn thay vì để ## vì một số cái nhiều chữ quá, cũng chẳng biết viết lại tên như nào, để to thì bị chướng mắt}}
