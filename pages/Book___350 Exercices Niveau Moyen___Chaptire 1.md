@@ -269,5 +269,5 @@
 		- Il est très bon *en mathématiques*
 		- Nous partirons bientôt *en vacances*
 	- ### 21 Compléter les textes suivants par un article si nécessaire
-		- *Le* ville
+		- *Le* ville de Chartes se trouve *au* centre de
 - {{cloze mình để ### cho các tiêu đề nhỏ hơn thay vì để ## vì một số cái nhiều chữ quá, cũng chẳng biết viết lại tên như nào, để to thì bị chướng mắt}}
