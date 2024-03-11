@@ -255,15 +255,15 @@
 		- Du papier à *lettres*
 		- Une couteau à *pain*
 	- ### 20 Relier les éléments de la colonne de gauche aux éléments de la colonne de droite en inscrivant les lettres correspondants dans les cases:
-	- Elle a fait cet exercice
-	- Je mange les fraises
-	- Roulez
-	- Ils habitent un vieil appartement
-	- J'ai traduit ce texte
-	- Elle porte une robe
-	- Elle travaille
-	- Le directeur est occupé; il est
-	- L'enfant est
-	- Je prendrai une pêche melba
+		- Elle a fait cet exercice *sans fautes*
+		- Je mange les fraises *avec du sucre*
+		- Roulez
+		- Ils habitent un vieil appartement
+		- J'ai traduit ce texte
+		- Elle porte une robe
+		- Elle travaille
+		- Le directeur est occupé; il est
+		- L'enfant est
+		- Je prendrai une pêche melba
 -
 - {{cloze mình chỉ ### cho các tiêu đề nhỏ hơn vì một số cái nhiều chữ quá, cũng chẳng biết viết lại tên như nào, để to thì bị chướng mắt}}
