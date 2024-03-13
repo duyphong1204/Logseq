@@ -3,6 +3,7 @@ filters:: {"linguistic/sounds/english" true, "linguistic/english linguistic" tru
 - Board
   collapsed:: true
 	- [[Linguistic/English Linguistic Map]]
-- [[Linguistic/English Linguistic]]
+- Domain
+	- [[Linguistic/English Linguistic]]
 - Mình đổi lại từ English Linguistic ở hierachy thứ 2 xuống 3, vì thực tế nó không rộng hơn những cái như sounds. Và đổi thành english tại nếu để là english sounds cũng oke, nhưng với combo 3 cái sound - letter thì sẽ quá dài chịu. Để English cũng đủ hiểu mà, sau này có thêm Français nè, mà nên đổi letter thành symbol thì chuẩn hơn, vì chỉ có ngần này letter... à khoan i did mean the written letter, not the symbol of it..., the symbols belong to sounds.
 -
