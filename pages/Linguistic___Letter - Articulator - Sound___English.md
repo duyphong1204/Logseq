@@ -7,6 +7,7 @@ public:: true
 - Khi nào t, d, ed
   Khi nào z, s
   Thứ tự letter sẽ xếp theo độ phổ biến của chữ cái này được phát âm bằng sound này (hay đúng hơn là sound này được thể hiện bằng chữ cái này) - chứ không theo alphabet (như examples, hay với example ta nên để đầu, giữa, đuôi nhỉ, ừ nên để đầu giữa đuôi như cambridge chứ? vì nó minh họa mà) với trường hợp sh, t
+- Cái này phục vụ tra theo letter xem articular hay sound nó là gì là chính, hoặc tra xem articulator này có những từ gì, nhưng thế thì tra ở bảng khác cũng được. Chứ mấy ai tra examples với sound. Sound thì thường dễ liệt kê hơn (dù có thể miss vài chữ - ánh xạ ha?), examples thì phải tra bằng từ điển rồi
 - id:: 65bac992-3292-48ad-badc-3f21a6b3e337
   | Letter | Articulator | Sound | Examples |
   | p | voiceless bilabial stop | /p/ |  ca**p**, ha**pp**en, **p**ot |
@@ -28,6 +29,9 @@ public:: true
   | ch | voiceless postalveolar affricate | /tʃ/ | bat**ch**, cat**ch**er, **ch**ip |
   | g, j | voiced postalveolar affricate | /dʒ/ | ad**j**ust, bud**g**et, **j**eet |
   | sh, t | voiceless postalveolar fricative | /ʃ/ | cau**t**ion, ca**sh**, **sh**ip |
+  | s | voiced postalveolar fricative | /ʒ/ | mea**s**ure, bei**g**e |
+  | u, y | voiced palatal approximant | /j/ | **y**es, c**u**be |
+  | k, qu, ch | voiceless velar stop | /k/ | **qu**eue, e**ch**o, slac**k** |
   | w, (q)u | voiced labio-velar approximant | /w/ | 
   | t | voiceless glottal stop | /ʔ/ (/t/ replacement) | can'**t**, la**t**e, wha**t** |
 -

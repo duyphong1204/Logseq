@@ -1,4 +1,5 @@
 - Consonants
+  trái là voiceless, phải của cột là voiced
 	- |   | [Bilabial](Bilabial/IPA) | [Labiodental](Labiodental/IPA) | [Dental](Dental/IPA) | [Alveolar](Alveolar/IPA) | [Postalveolar](Postalveolar/IPA) | [Palatal](Palatal/IPA) | [Velar](Velar/IPA) | [Glotal](Glotal/IPA) |
 	  | [(Oral) Stop]((Oral) Stop/IPA) | [p](https://www.cambridge.org/features/IPAchart/symbols/p.html)   [b](https://www.cambridge.org/features/IPAchart/symbols/b.html) | | | [t](https://www.cambridge.org/features/IPAchart/symbols/t.html)    [d](https://www.cambridge.org/features/IPAchart/symbols/d.html) | | | [k](https://www.cambridge.org/features/IPAchart/symbols/k.html)   [g](https://www.cambridge.org/features/IPAchart/symbols/g.html) | [ʔ](https://www.cambridge.org/features/IPAchart/symbols/0294.html) |
 	  | [(Nasal) Stop]((Nasal) Stop/IPA) |      [m](https://www.cambridge.org/features/IPAchart/symbols/m.html) | | |      [n](https://www.cambridge.org/features/IPAchart/symbols/n.html) | | |      [ŋ](https://www.cambridge.org/features/IPAchart/symbols/014B.html) | |
