@@ -1,4 +1,4 @@
-public:: true
+public:: false
 title:: ULISS/Sem2/Cơ Sở Văn Hóa Việt Nam
 
 - ## Đề cương

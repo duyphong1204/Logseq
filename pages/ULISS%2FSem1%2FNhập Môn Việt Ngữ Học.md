@@ -1,5 +1,5 @@
 title:: ULISS/Sem1/Nhập Môn Việt Ngữ Học
-public:: true
+public:: false
 meta:: [[ULISS]] 
 phục vụ việc học ghi nhớ chứ không phải xác lập lịch sử kiến thức
 [Figma](https://www.figma.com/file/b3Vd38MRD6ZZmNDHdO8Axe/Untitled?t=v9tbuXkKZq4hcdLK-0)
