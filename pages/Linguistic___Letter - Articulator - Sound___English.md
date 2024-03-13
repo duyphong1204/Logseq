@@ -6,26 +6,26 @@ public:: true
   Nasal Stop = Nasal
 - Khi nào t, d, ed
   Khi nào z, s
-  Thứ tự letter sẽ xếp theo độ phổ biến của chữ cái này được phát âm bằng sound này (hay đúng hơn là sound này được thể hiện bằng chữ cái này) - chứ không theo alphabet (như examples, hay với example ta nên để đầu, giữa, đuôi nhỉ, ừ nên để đầu giữa đuôi như cambridge chứ? vì nó minh họa mà) với trường hợp sh, t
+  Thứ tự letter sẽ xếp theo độ phổ biến của chữ cái này được phát âm bằng sound này (hay đúng hơn là sound này được thể hiện bằng chữ cái này) - chứ không theo alphabet (như examples, hay với example ta nên để đầu, giữa, đuôi nhỉ - đuôi ở đây là âm cuối cùng chứ không phải chữ cuối cùng của từ vì có chữ không phát âm, ừ nên để đầu giữa đuôi như cambridge chứ? vì nó minh họa mà) với trường hợp sh, t
 - Cái này phục vụ tra theo letter xem articular hay sound nó là gì là chính, hoặc tra xem articulator này có những từ gì, nhưng thế thì tra ở bảng khác cũng được. Chứ mấy ai tra examples với sound. Sound thì thường dễ liệt kê hơn (dù có thể miss vài chữ - ánh xạ ha?), examples thì phải tra bằng từ điển rồi
 - id:: 65baca2d-68da-4707-a6cb-637b27060f9b
   | Letter | Articulator | Sound | Examples |
-  | p | voiceless bilabial stop | /p/ |  ca**p**, ha**pp**en, **p**ot |
+  | p | voiceless bilabial stop | /p/ | **p**ot, ha**pp**en, ca**p** |
   | b | voiced bilabial stop | /b/ | **b**ut |
-  | m | voiced bilabial nasal | /m/ | ha**mm**er, **m**op, so**m**e |
-  | w, (q)u | voiced labiovelar approximant | /w/ | **w**ent, q**u**ite  |
-  | f | voiceless labiodental fricative | /f/ | cou**gh**, li**f**t, **f**un |
-  | v | voiced labiodental fricative | /v/ | **v**ery, cle**v**er, hi**v**e |
-  | th |  voiceless dental fricative | /θ/ | e**th**er, **th**roat, wra**th** |
-  | th | voiced dental fricative | /ð/ | brea**th**er, **th**is, soo**th**e |
-  | t | voiceless alveolar stop | /t/ | ba**t**s, **t**ango, **t**oo |
-  | d | voiced alveolar stop | /d/ | **d**oubt, **d**une, fen**d**er |
+  | m | voiced bilabial nasal | /m/ | **m**op, so**m**e, ha**mm**er |
+  | w, (q)u | voiced labiovelar approximant | /w/ | **w**ent, q**u**ite |
+  | f, gh | voiceless labiodental fricative | /f/ | **f**un,  li**f**t, cou**gh** |
+  | v | voiced labiodental fricative | /v/ | **v**ery, cle**v**er |
+  | th |  voiceless dental fricative | /θ/ | **th**roat, e**th**er, wra**th** |
+  | th | voiced dental fricative | /ð/ | **th**is, soo**th**e |
+  | t | voiceless alveolar stop | /t/ | **t**ang, s**t**aff, ba**t** |
+  | d | voiced alveolar stop | /d/ | **d**une, fen**d**er, dea**d** |
   | n | voiced alveolar nasal | /n/ | **n**ot, pa**n**ts, softe**n** |
-  | t | voiced alveolar tap | /ɾ/ | pa**t**io, pre**tt**y, ca**t**aract |
-  | s, x | voiceless alveolar fricative | /s/ | collap**s**e, twi**s**ter, **s**amba |
-  | s, x | voiced alveolar fricative | /z/ | dog**s**, pai**s**ley, **x**erox |
-  | r | voiced alveolar approximant | /ɹ/ | ta**r**, u**r**anium, **r**odent |
-  | l | voiced alveolar lateral approximant | /l/ | braw**l**, f**l**ute, **l**imb |
+  | t | voiced alveolar tap | /ɾ/ | ca**t**aract, pre**tt**y |
+  | s, x | voiceless alveolar fricative | /s/ | **s**amba, collap**s**e, enormou**s** |
+  | s, x | voiced alveolar fricative | /z/ | **x**erox, pai**s**ley, u**s**e |
+  | r | voiced alveolar approximant | /ɹ/ | **r**odent, u**r**anium, ta**r** |
+  | l | voiced alveolar lateral approximant | /l/ | **l**imb,  f**l**ute, braw**l**  |
   | ch | voiceless postalveolar affricate | /tʃ/ | bat**ch**, cat**ch**er, **ch**ip |
   | g, j | voiced postalveolar affricate | /dʒ/ | ad**j**ust, bud**g**et, **j**eet |
   | sh, t | voiceless postalveolar fricative | /ʃ/ | cau**t**ion, ca**sh**, **sh**ip |
