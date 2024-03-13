@@ -470,7 +470,7 @@
 :italic false
 :text "Nhớ trình tự cấu âm: từ ngoài -> trong"}}
 :block/updated-at 1706503562019} 
-{:block/created-at 1706635979880
+{:block/created-at 1710320187621
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -479,6 +479,7 @@
 :borderRadius 0
 :index 16
 :scale [1 1]
+:refs ["Linguistic/Articulation/English"]
 :scaleLevel "md"
 :fill ""
 :type "text"
@@ -495,11 +496,11 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706631559885
+:nonce 1706631559886
 :italic false
 :text "Articulation"}}
-:block/updated-at 1706635979880} 
-{:block/created-at 1708289436109
+:block/updated-at 1710320187621} 
+{:block/created-at 1710320502583
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -508,10 +509,11 @@
 :borderRadius 0
 :index 17
 :scale [1 1]
+:refs ["Linguistic/Letter"]
 :scaleLevel "md"
 :fill ""
 :type "text"
-:size [78 34]
+:size [67 34]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -524,11 +526,11 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706631805382
+:nonce 1706631805386
 :italic false
-:text "Letters"}}
-:block/updated-at 1708289436109} 
-{:block/created-at 1708289434071
+:text "Letter"}}
+:block/updated-at 1710320502583} 
+{:block/created-at 1710320498054
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -540,7 +542,7 @@
 :scaleLevel "md"
 :fill ""
 :type "text"
-:size [132 34]
+:size [121 34]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -553,11 +555,11 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706631812459
+:nonce 1706631812462
 :italic false
-:text "Sounds (IPA)"}}
-:block/updated-at 1708289434071} 
-{:block/created-at 1708289431679
+:text "Sound (IPA)"}}
+:block/updated-at 1710320498054} 
+{:block/created-at 1710320516015
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -566,10 +568,11 @@
 :borderRadius 0
 :index 19
 :scale [1 1]
+:refs ["Linguistic/Articulator/English"]
 :scaleLevel "md"
 :fill ""
 :type "text"
-:size [120 34]
+:size [110 34]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -582,11 +585,11 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632017020
+:nonce 1706632017030
 :italic false
-:text "Articulators"}}
-:block/updated-at 1708289431679} 
-{:block/created-at 1709044191071
+:text "Articulator"}}
+:block/updated-at 1710320516015} 
+{:block/created-at 1710320502062
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -603,13 +606,13 @@
 :id "1071c710-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-866.48 -1130]
+:point [-870.88 -1130]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [1.01 174]
+:point [1.89 174]
 :bindingId "aa3b5461-d57c-11ee-a882-712f4917eebc"}
 :end 
 {:id "end"
@@ -620,10 +623,10 @@
 {:start "arrow"
 :end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632308784
+:nonce 1706632308786
 :italic false}}
-:block/updated-at 1709044191071} 
-{:block/created-at 1708289434071
+:block/updated-at 1710320502062} 
+{:block/created-at 1710320497203
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -640,26 +643,26 @@
 :id "11f97881-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1145.14 -1130.26]
+:point [-1145.85 -1131.58]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 65.53]
+:point [0 66.78]
 :bindingId "34766231-bf95-11ee-a6ef-431a67f8e15f"}
 :end 
 {:id "end"
 :canBind true
-:point [221.14 0]
+:point [221.85 0]
 :bindingId "5dad87f1-bf95-11ee-a6ef-431a67f8e15f"}}
 :decorations 
 {:end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632311288
+:nonce 1706632311289
 :italic false}}
-:block/updated-at 1708289434071} 
-{:block/created-at 1708289436109
+:block/updated-at 1710320497203} 
+{:block/created-at 1710320502062
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -676,7 +679,7 @@
 :id "1447ae42-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1153.26 -1028.8]
+:point [-1154.65 -1028.8]
 :fontSize 20
 :handles 
 {:start 
@@ -687,15 +690,15 @@
 :end 
 {:id "end"
 :canBind true
-:point [261.26 77.66]
+:point [262.65 79.7]
 :bindingId "a8927e00-bf91-11ee-a6ef-431a67f8e15f"}}
 :decorations 
 {:end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632315282
+:nonce 1706632315283
 :italic false}}
-:block/updated-at 1708289436109} 
-{:block/created-at 1708289436109
+:block/updated-at 1710320502062} 
+{:block/created-at 1710320515216
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -712,13 +715,13 @@
 :id "287934b2-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1396 -1034.3]
+:point [-1406 -1035.27]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [504 100]
+:point [514 102.15]
 :bindingId "5facda61-bf95-11ee-a6ef-431a67f8e15f"}
 :end 
 {:id "end"
@@ -729,10 +732,10 @@
 {:start "arrow"
 :end nil}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632349160
+:nonce 1706632349162
 :italic false}}
-:block/updated-at 1708289436109} 
-{:block/created-at 1708289434071
+:block/updated-at 1710320515216} 
+{:block/created-at 1710320515216
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -749,27 +752,27 @@
 :id "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1396 -1138.78]
+:point [-1406 -1139.72]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [472 0]
+:point [482 0]
 :bindingId "2b1deee0-bf8d-11ee-a6ef-431a67f8e15f"}
 :end 
 {:id "end"
 :canBind true
-:point [0 82.43]
+:point [0 84.31]
 :bindingId "2b1deee1-bf8d-11ee-a6ef-431a67f8e15f"}}
 :decorations 
 {:start "arrow"
 :end nil}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632353611
+:nonce 1706632353613
 :italic false}}
-:block/updated-at 1708289434071} 
-{:block/created-at 1708289431680
+:block/updated-at 1710320515216} 
+{:block/created-at 1710320515216
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -786,25 +789,25 @@
 :id "477d44f2-bf8d-11ee-a6ef-431a67f8e15f"
 :fontWeight 400
 :noFill true
-:point [-1399 -1047.51]
+:point [-1409 -1047.51]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 0.35]
+:point [0 0.36]
 :bindingId "477d44f0-bf8d-11ee-a6ef-431a67f8e15f"}
 :end 
 {:id "end"
 :canBind true
-:point [129.86 0]
+:point [139.86 0]
 :bindingId "4965b401-bf8d-11ee-a6ef-431a67f8e15f"}}
 :decorations 
 {:end "arrow"}
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706632401158
+:nonce 1706632401159
 :italic false}}
-:block/updated-at 1708289431680} 
+:block/updated-at 1710320515216} 
 {:block/created-at 1706633167703
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1368,7 +1371,7 @@
 :block/journal? false
 :block/namespace 
 {:db/id 20890}
-:block/updated-at 1710319291292
+:block/updated-at 1710320516109
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "linguistic/english linguistic map"

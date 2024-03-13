@@ -25,10 +25,10 @@ public:: true
   | s, x | voiceless alveolar fricative | /s/ | **s**amba, collap**s**e, enormou**s** |
   | s, x | voiced alveolar fricative | /z/ | **x**erox, pai**s**ley, u**s**e |
   | r | voiced alveolar approximant | /ɹ/ | **r**odent, u**r**anium, ta**r** |
-  | l | voiced alveolar lateral approximant | /l/ | **l**imb,  f**l**ute, braw**l**  |
-  | ch | voiceless postalveolar affricate | /tʃ/ | bat**ch**, cat**ch**er, **ch**ip |
-  | g, j | voiced postalveolar affricate | /dʒ/ | ad**j**ust, bud**g**et, **j**eet |
-  | sh, t | voiceless postalveolar fricative | /ʃ/ | cau**t**ion, ca**sh**, **sh**ip |
+  | l | voiced alveolar lateral approximant | /l/ | **l**imb, f**l**ute, braw**l** |
+  | ch | voiceless postalveolar affricate | /tʃ/ | **ch**ip, cat**ch**er, bat**ch** |
+  | g, j | voiced postalveolar affricate | /dʒ/ | *j**eet, ad**j**ust, bud**g**et, |
+  | sh, t | voiceless postalveolar fricative | /ʃ/ |  **sh**ip, ca**sh**, cau**t**ion |
   | s | voiced postalveolar fricative | /ʒ/ | mea**s**ure, bei**g**e |
   | u, y | voiced palatal approximant | /j/ | **y**es, c**u**be |
   | k, qu, ch | voiceless velar stop | /k/ | **qu**eue, e**ch**o, slac**k** |
