@@ -19,6 +19,8 @@
 				- /m/
 				- /n/
 				-
+	- Symbol
+	- [[Linguistic/Sounds/English/p]]
 - Vowels
 - ## Footnotes
 	- [^1]: [How to Pronounce the Glottal Stop/Glottal T and When is it Used - Pronunciation with Emma](https://www.youtube.com/watch?v=chcjHwWwVxQ)
