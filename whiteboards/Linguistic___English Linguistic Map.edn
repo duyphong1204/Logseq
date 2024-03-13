@@ -1380,7 +1380,7 @@
 :block/journal? false
 :block/namespace 
 {:db/id 20890}
-:block/updated-at 1709044191082
+:block/updated-at 1710046088566
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "linguistic/english linguistic map"
