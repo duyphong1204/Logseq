@@ -8,6 +8,7 @@
 	  | [Approximant](Approximant/IPA) | [w](https://www.cambridge.org/features/IPAchart/symbols/w.html) |   |   |       [ɹ](https://www.cambridge.org/features/IPAchart/symbols/0279.html) |   | [j](https://www.cambridge.org/features/IPAchart/symbols/j.html) |      [w](https://www.cambridge.org/features/IPAchart/symbols/w.html) | |
 	  | [Lateral approximant](Lateral approximant/IPA) |   |   |   |       [l](https://www.cambridge.org/features/IPAchart/symbols/l.html) |   |   |   |
 	- [[Voiceless Glottal Stop]]
+	  collapsed:: true
 		- How to pronounce the Voiceless Glottal Stop [^1]
 			- {{video https://www.youtube.com/watch?v=chcjHwWwVxQ}}
 			- {{youtube-timestamp 95}} - {{youtube-timestamp 180}}

@@ -4,6 +4,8 @@ public:: true
 - Dùng Ctrl + F để search sound hoặc letter cần tìm cho nhanh, bảng ở dưới được sắp xếp theo articulator
 - Oral Stop = Stop
   Nasal Stop = Nasal
+- Khi nào t, d, ed
+  Khi nào z, s
 - id:: 65bac992-3292-48ad-badc-3f21a6b3e337
   | Letter | Articulator | Sound | Examples |
   | p | voiceless bilabial stop | /p/ |  ca**p**, ha**pp**en, **p**ot |
@@ -18,8 +20,8 @@ public:: true
   | d | voiced alveolar stop | /d/ | **d**oubt, **d**une, fen**d**er |
   | n | voiced alveolar nasal | /n/ | **n**ot, pa**n**ts, softe**n** |
   | t | voiced alveolar tap | /ɾ/ | pa**t**io, pre**tt**y, ca**t**aract |
-  
+  | s, x | voiceless alveolar fricative | /s/ | collap**s**e, twi**s**ter, **s**amba |
+  | s, x | voiced alveolar fricative | /z/ | dog**s**, pai**s**ley, **x**erox |
   | w, (q)u | voiced labio-velar approximant | /w/ | 
   | t | voiceless glottal stop | /ʔ/ (/t/ replacement) | can'**t**, la**t**e, wha**t** |
--
 -
