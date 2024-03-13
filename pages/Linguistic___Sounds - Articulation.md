@@ -1,0 +1,1 @@
+- Cách nhận biết articulation nào từ sounds
