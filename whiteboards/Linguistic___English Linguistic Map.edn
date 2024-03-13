@@ -875,67 +875,7 @@
 :nonce 1706632931663
 :clipping 0}}
 :block/updated-at 1706741007059} 
-{:block/created-at 1706740214350
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:isSizeLocked true
-:stroke ""
-:borderRadius 0
-:index 30
-:scale [1 1]
-:refs ["65bac992-3292-48ad-badc-3f21a6b3e337"]
-:scaleLevel "md"
-:fill ""
-:type "text"
-:size [582 34]
-:fontFamily "var(--ls-font-family)"
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "07ad23c0-bf8f-11ee-a6ef-431a67f8e15f"
-:padding 4
-:fontWeight 400
-:noFill true
-:point [-1404.4206699084161 -886.0367501212554]
-:lineHeight 1.2
-:fontSize 20
-:parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706633152875
-:italic false
-:text "t - voiceless glottal stop - /ʔ/ (usually the replacement of /t/)"}}
-:block/updated-at 1706740214350} 
-{:block/created-at 1706740266604
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:isSizeLocked true
-:stroke ""
-:borderRadius 0
-:index 31
-:scale [1 1]
-:refs ["65bac9d8-7c1f-4f38-8795-7c06f5dac338"]
-:scaleLevel "md"
-:fill ""
-:type "text"
-:size [258 34]
-:fontFamily "var(--ls-font-family)"
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "3bf22ea0-bf8f-11ee-a6ef-431a67f8e15f"
-:padding 4
-:fontWeight 400
-:noFill true
-:point [-1405.6140193868935 -855.9878327561677]
-:lineHeight 1.2
-:fontSize 20
-:parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706633240364
-:italic false
-:text "b - voiced bilabial stop /b/"}}
-:block/updated-at 1706740266604} 
-{:block/created-at 1706633405438
+{:block/created-at 1710318568865
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -943,7 +883,7 @@
 :stroke ""
 :rotation 0
 :borderRadius 0
-:index 32
+:index 30
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -964,13 +904,13 @@
 :nonce 1706633316407
 :italic false
 :text "for ppl who dont know"}}
-:block/updated-at 1706633405438} 
-{:block/created-at 1706740821922
+:block/updated-at 1710318568865} 
+{:block/created-at 1710318568865
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:rotation 6.27492392356254
-:index 33
+:index 31
 :scale [1 1]
 :refs ["65bacbcd-e063-4add-9d97-a74b4e01bc9e"]
 :type "image"
@@ -985,8 +925,8 @@
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
 :nonce 1706633553963
 :clipping 0}}
-:block/updated-at 1706740821922} 
-{:block/created-at 1706634147011
+:block/updated-at 1710318568865} 
+{:block/created-at 1710318568866
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -994,7 +934,7 @@
 :stroke ""
 :rotation 0
 :borderRadius 0
-:index 34
+:index 32
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1015,15 +955,15 @@
 :nonce 1706633817024
 :italic false
 :text "glottal open = voiceless"}}
-:block/updated-at 1706634147011} 
-{:block/created-at 1706634143794
+:block/updated-at 1710318568866} 
+{:block/created-at 1710318568866
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
 :stroke ""
 :borderRadius 0
-:index 35
+:index 33
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1044,15 +984,15 @@
 :nonce 1706634089914
 :italic false
 :text "larynx"}}
-:block/updated-at 1706634143794} 
-{:block/created-at 1706634145844
+:block/updated-at 1710318568866} 
+{:block/created-at 1710318568866
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
 :stroke ""
 :borderRadius 0
-:index 36
+:index 34
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1073,15 +1013,15 @@
 :nonce 1706634136046
 :italic false
 :text "thuộc"}}
-:block/updated-at 1706634145844} 
-{:block/created-at 1706634163777
+:block/updated-at 1710318568866} 
+{:block/created-at 1710318568865
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
 :stroke ""
 :borderRadius 0
-:index 37
+:index 35
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1102,15 +1042,15 @@
 :nonce 1706634148547
 :italic false
 :text "vocal cords"}}
-:block/updated-at 1706634163777} 
-{:block/created-at 1706634886345
+:block/updated-at 1710318568865} 
+{:block/created-at 1710318568865
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
 :stroke ""
 :borderRadius 0
-:index 38
+:index 36
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1131,43 +1071,12 @@
 :nonce 1706634798562
 :italic false
 :text "có một cách nhớ để phát âm là ŋ ở trong từ đại diện là si-ng\ndo đó cũng dễ nhớ hơn là nhớ ŋ trực tiếp là ng?"}}
-:block/updated-at 1706634886345} 
-{:block/created-at 1706740275032
+:block/updated-at 1710318568865} 
+{:block/created-at 1710318568865
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:isSizeLocked true
-:stroke ""
-:rotation 0
-:borderRadius 0
-:index 39
-:scale [1 1]
-:refs ["65baca2d-68da-4707-a6cb-637b27060f9b"]
-:scaleLevel "md"
-:fill ""
-:type "text"
-:size [477 34]
-:fontFamily "var(--ls-font-family)"
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "db08f880-bf93-11ee-a6ef-431a67f8e15f"
-:padding 4
-:fontWeight 400
-:noFill true
-:point [-1405.9259338842492 -823.3046714563064]
-:lineHeight 1.2
-:fontSize 20
-:parentId "65b72044-4165-4068-9e4b-356496d97330"
-:nonce 1706635225272
-:italic false
-:text "w, u in (qu) - voiced labio-velar approximant - /w/"}}
-:block/updated-at 1706740275032} 
-{:block/created-at 1706740717759
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:index 40
+{:index 37
 :scale [1 1]
 :refs ["65bacb8e-76f4-4a78-a2bd-fd5916192dab"]
 :type "image"
@@ -1182,14 +1091,57 @@
 :parentId "65b72044-4165-4068-9e4b-356496d97330"
 :nonce 1706740691991
 :clipping 0}}
-:block/updated-at 1706740717759} 
+:block/updated-at 1710318568865} 
 {:block/content "javascript:viewSymbol('symbols/02A7.html');"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "65b725e2-44f4-4995-9be8-5a2c5b743c2e"}
 :block/parent 
 {:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"}
-:block/uuid #uuid "65d2705d-2bfa-4fba-9639-6f5013c6aa9c"})
+:block/uuid #uuid "65d2705d-2bfa-4fba-9639-6f5013c6aa9c"} 
+{:block/content "| Letter | Articulator | Sound | Examples |\r\n| p | voiceless bilabial stop | /p/ |  ca**p**, ha**pp**en, **p**ot |\r\n| b | voiced bilabial stop | /b/ | **b**ut |\r\n| m | voiced bilabial nasal | /m/ | ha**mm**er, **m**op, so**m**e |\r\n| w | voiced labiovelar approximant | /w/ | **w**alked, **w**ent |\r\n| f | voiceless labiodental fricative | /f/ | cou**gh**, li**f**t, **f**un |\r\n| v | voiced labiodental fricative | /v/ | **v**ery, cle**v**er, hi**v**e |\r\n| th |  voiceless dental fricative | /θ/ | e**th**er, **th**roat, wra**th** |\r\n| th | voiced dental fricative | /ð/ | brea**th**er, **th**is, soo**th**e |\r\n| t | voiceless alveolar stop | /t/ | ba**t**s, **t**ango, **t**oo |\r\n| d | voiced alveolar stop | /d/ | **d**oubt, **d**une, fen**d**er |\r\n| n | voiced alveolar nasal | /n/ | **n**ot, pa**n**ts, softe**n** |\r\n| t | voiced alveolar tap | /ɾ/ | pa**t**io, pre**tt**y, ca**t**aract |\r\n| s, x | voiceless alveolar fricative | /s/ | collap**s**e, twi**s**ter, **s**amba |\r\n| s, x | voiced alveolar fricative | /z/ | dog**s**, pai**s**ley, **x**erox |\r\n| r | voiced alveolar approximant | /ɹ/ | ta**r**, u**r**anium, **r**odent |\r\n| l | voiced alveolar lateral approximant | /l/ | braw**l**, f**l**ute, **l**imb |\r\n| ch | voiceless postalveolar affricate | /tʃ/ | bat**ch**, cat**ch**er, **ch**ip |\r\n| g, j | voiced postalveolar affricate | /dʒ/ | ad**j**ust, bud**g**et, **j**eet |\r\n| sh, t | voiceless postalveolar fricative | /ʃ/ | cau**t**ion, ca**sh**, **sh**ip |\r\n| s | voiced postalveolar fricative | /ʒ/ | mea**s**ure, bei**g**e |\r\n| u, y | voiced palatal approximant | /j/ | **y**es, c**u**be |\r\n| k, qu, ch | voiceless velar stop | /k/ | **qu**eue, e**ch**o, slac**k** |\r\n| g | voiced velar stop | /g/ | **g**old, e**gg**s, ba**g** |\r\n| ng, n | voiced velar nasal | /ŋ/ | a**n**chor, si**ng** |\r\n| w, (q)u | voiced labio-velar approximant | /w/ | \r\n| t | voiceless glottal stop | /ʔ/ (/t/ replacement) | can'**t**, la**t**e, wha**t** |\r\n| h | voiceless gottal fricative | /h/ | **h**iccup, w**h**o |"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65d2705d-2bfa-4fba-9639-6f5013c6aa9c"}
+:block/parent 
+{:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"}
+:block/uuid #uuid "65f163e8-7e52-48eb-a720-791f204fda11"} 
+{:block/content "{{embed ((65baca2d-68da-4707-a6cb-637b27060f9b))}}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65f163e8-7e52-48eb-a720-791f204fda11"}
+:block/parent 
+{:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"}
+:block/uuid #uuid "65f164a7-f5aa-432d-a70f-0f3c3011078c"} 
+{:block/created-at 1710318764090
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 38
+:scale [1 1]
+:pageId "65f164a7-f5aa-432d-a70f-0f3c3011078c"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [1160 1043.5351333456958]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "40989100-e114-11ee-b56e-079692303388"
+:noFill false
+:isLocked false
+:point [-2784 -1296]
+:parentId "65b72044-4165-4068-9e4b-356496d97330"
+:collapsedHeight 0
+:nonce 1710318759527}}
+:block/updated-at 1710318764090})
 :pages (
 {:block/uuid #uuid "65b72044-4165-4068-9e4b-356496d97330"
 :block/properties 
@@ -1376,11 +1328,11 @@
 :type "image"
 :src "../assets/image_1706740691748_0.png"
 :size [999 470]}]
-:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230" "2ed37820-be61-11ee-8755-2beed5fa2230" "45b41900-be61-11ee-8755-2beed5fa2230" "52182ee0-bf8b-11ee-a6ef-431a67f8e15f" "e4563b80-bf8b-11ee-a6ef-431a67f8e15f" "e8b15840-bf8b-11ee-a6ef-431a67f8e15f" "62649670-bf8c-11ee-a6ef-431a67f8e15f" "1071c710-bf8d-11ee-a6ef-431a67f8e15f" "11f97881-bf8d-11ee-a6ef-431a67f8e15f" "1447ae42-bf8d-11ee-a6ef-431a67f8e15f" "287934b2-bf8d-11ee-a6ef-431a67f8e15f" "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f" "477d44f2-bf8d-11ee-a6ef-431a67f8e15f" "6f6f8ea0-bf8d-11ee-a6ef-431a67f8e15f" "a7f5c5a0-bf8d-11ee-a6ef-431a67f8e15f" "ce3ad480-bf8d-11ee-a6ef-431a67f8e15f" "837e5560-bf8e-11ee-a6ef-431a67f8e15f" "07ad23c0-bf8f-11ee-a6ef-431a67f8e15f" "3bf22ea0-bf8f-11ee-a6ef-431a67f8e15f" "693da420-bf8f-11ee-a6ef-431a67f8e15f" "f6e33ce0-bf8f-11ee-a6ef-431a67f8e15f" "93467c50-bf90-11ee-a6ef-431a67f8e15f" "3656ded0-bf91-11ee-a6ef-431a67f8e15f" "51e1cde0-bf91-11ee-a6ef-431a67f8e15f" "5958a990-bf91-11ee-a6ef-431a67f8e15f" "dc872980-bf92-11ee-a6ef-431a67f8e15f" "db08f880-bf93-11ee-a6ef-431a67f8e15f" "6a1d9440-c089-11ee-aaa2-b770857cef08")}}
+:shapes-index ("69f78520-be59-11ee-8755-2beed5fa2230" "7865d350-be59-11ee-8755-2beed5fa2230" "7df8d3d0-be59-11ee-8755-2beed5fa2230" "837f2a20-be59-11ee-8755-2beed5fa2230" "87693590-be59-11ee-8755-2beed5fa2230" "8ffea0a0-be59-11ee-8755-2beed5fa2230" "94e97a40-be59-11ee-8755-2beed5fa2230" "98c1f980-be59-11ee-8755-2beed5fa2230" "bb6b4e90-be5a-11ee-8755-2beed5fa2230" "bfd5d4a0-be5a-11ee-8755-2beed5fa2230" "371e7b70-be5b-11ee-8755-2beed5fa2230" "59de0d10-be5b-11ee-8755-2beed5fa2230" "5da12f90-be5b-11ee-8755-2beed5fa2230" "68821140-be5b-11ee-8755-2beed5fa2230" "2ed37820-be61-11ee-8755-2beed5fa2230" "45b41900-be61-11ee-8755-2beed5fa2230" "52182ee0-bf8b-11ee-a6ef-431a67f8e15f" "e4563b80-bf8b-11ee-a6ef-431a67f8e15f" "e8b15840-bf8b-11ee-a6ef-431a67f8e15f" "62649670-bf8c-11ee-a6ef-431a67f8e15f" "1071c710-bf8d-11ee-a6ef-431a67f8e15f" "11f97881-bf8d-11ee-a6ef-431a67f8e15f" "1447ae42-bf8d-11ee-a6ef-431a67f8e15f" "287934b2-bf8d-11ee-a6ef-431a67f8e15f" "2b1e15f0-bf8d-11ee-a6ef-431a67f8e15f" "477d44f2-bf8d-11ee-a6ef-431a67f8e15f" "6f6f8ea0-bf8d-11ee-a6ef-431a67f8e15f" "a7f5c5a0-bf8d-11ee-a6ef-431a67f8e15f" "ce3ad480-bf8d-11ee-a6ef-431a67f8e15f" "837e5560-bf8e-11ee-a6ef-431a67f8e15f" "693da420-bf8f-11ee-a6ef-431a67f8e15f" "f6e33ce0-bf8f-11ee-a6ef-431a67f8e15f" "93467c50-bf90-11ee-a6ef-431a67f8e15f" "3656ded0-bf91-11ee-a6ef-431a67f8e15f" "51e1cde0-bf91-11ee-a6ef-431a67f8e15f" "5958a990-bf91-11ee-a6ef-431a67f8e15f" "dc872980-bf92-11ee-a6ef-431a67f8e15f" "6a1d9440-c089-11ee-aaa2-b770857cef08" "40989100-e114-11ee-b56e-079692303388")}}
 :block/journal? false
 :block/namespace 
 {:db/id 20890}
-:block/updated-at 1710046088566
+:block/updated-at 1710318764090
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "linguistic/english linguistic map"
