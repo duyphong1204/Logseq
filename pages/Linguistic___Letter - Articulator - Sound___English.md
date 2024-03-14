@@ -37,3 +37,9 @@ public:: true
   | t | voiceless glottal stop | /ʔ/ (/t/ replacement) | can'**t**, la**t**e, wha**t** |
   | h | voiceless gottal fricative | /h/ | **h**iccup, w**h**o |
 -
+- /tabn
+  |||Front|Central|Back|
+  |--|--|--|--|--|
+  |High|Tense [:br]Lax|i[:br]I||u[:br]ʊ|
+  |Mid|Tense[:br]Lax|e[:br]ɛ|[:br]ə[:br]ʌ|o[:br](ɔ)`|
+  |Low|Lax|æ|a||
