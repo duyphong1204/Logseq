@@ -8,7 +8,7 @@
 	- Artifact 4: National food: Yorkshire pudding,  Fish and chips, or Chicken Tikka Masala
 - ## Script
 	- Thank you Trang, that was a really informative presentation on the Topography of England, without you, I couldn't know how to start telling my history part. And now, shall we commence on the History of the English Tea?
-	- As already know, the English couldn't grow tea themselves, so where did the tea come from? Did God give it to the English. No, it was actually the Chinese who grew the tea for them.
+	- As you already know, the English couldn't grow tea themselves, so how did the tea come to England?
 	-
 	- The Chinese had developed their tea-drinking ritual for more than 1500 years when Dutch traders started bringing it to Europe in large quantities, introducing China tea to the world in the early 1600s. (Cutty Sark and the Tea Trade)
 	- In 1662, when Catherine of Braganza, a Portuguese woman, the Queen of England, Scotland, and Ireland arrived in her new homeland, she brought with her packets of loose-leaf tea in crates labeled Transporte de Ervas Aromaticas (there is a theory that this was later abbreviated to T-E-A, tea) and the idea of the tea drinking experience. She also popularized the use of porcelain teacups and mugs. (Great Big Story, 2018)
