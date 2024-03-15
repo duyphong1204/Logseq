@@ -5,6 +5,18 @@
 		- ⇑ ( Could be changed into this )
 	- Artifact 3: Queen Victoria's wedding dress ( New style of fashion at the wedding )
 		- Popularized the White wedding dressing
-	- Artifact 4: National food ( Yorkshire pudding,  Fish and chips, or Chicken Tikka Masala
+	- Artifact 4: National food: Yorkshire pudding,  Fish and chips, or Chicken Tikka Masala
 - ## Script
-- Thank you Trang, that was a really informative presentation on the Topography of England, without you, I couldn't . And now, shall we commence on the History of the English Tea?
+	- Thank you Trang, that was a really informative presentation on the Topography of England, without you, I couldn't know how to start telling my history part. And now, shall we commence on the History of the English Tea?
+	- As already know, the English couldn't grow tea themselves, so where did the tea come from? Did God give it to the English. No, it was actually the Chinese who grew the tea for them.
+	-
+	- The Chinese had developed their tea-drinking ritual for more than 1500 years when Dutch traders started bringing it to Europe in large quantities, introducing China tea to the world in the early 1600s. (Cutty Sark and the Tea Trade)
+	- In 1662, when Catherine of Braganza, a Portuguese woman, the Queen of England, Scotland, and Ireland arrived in her new homeland, she brought with her packets of loose-leaf tea in crates labeled Transporte de Ervas Aromaticas (there is a theory that this was later abbreviated to T-E-A, tea) and the idea of the tea drinking experience. She also popularized the use of porcelain teacups and mugs. (Great Big Story, 2018)
+	- Back then, tea was only used for medicinal purposes in England. Catherine continued drinking tea enjoyably. As the new royal, everything about her, including her beverage habits, was copied by other ladies want to be like their idol.
+	- 2.1.2 Tea as a luxurious drink
+	- In the mid-1600s, the British East India Company - a company that was formed to trade in the Indian Ocean region, dominated the tea imported to England, providing a constant and growing supply of tea, gradually making England become a tea-drinking nation. (Anglophenia, 2015)
+	- By 1700, tea in Europe sold for ten times the price of coffee, and the plant was still only grown in China.
+	- However, China at that time only allowed trade through Canton and would only accept silver as payment for tea, which resulted in England’s silver deposits eventually beginning to run low. The English suggested trading tea for opium instead, causing a public health problem within China as people became addicted to the drug. This act then triggered the First Opium War between the two nations. In the end, the defeated Qing dynasty ceded the port of Hong Kong to the British and resumed trading on unfavorable terms.
+	- The British East India Company also wanted to be able to grow tea themselves and further control the market. They have found tea plants in the Aston province, in India, but tea was lackluster compared to Chinese tea. Consequently, they commissioned botanist Robert Fortune to steal tea from China in a covert operation. eventually he smuggled tea trees and experienced tea workers into Darjeeling, India. (TED-Ed, 2017)
+	- In around 1840, Anna Maria Russell, the seventh Duchess of Bedford, introduced the concept of Afternoon Tea as she got hungry around four o’clock in the afternoon. She then invited her friends to join her afternoon habits. Moreover, Queen Victoria, a duchess friend, formalized afternoon tea with her Buckingham Palace tea receptions. (The history of afternoon tea: A timeless tradition: The swan London 2022)
+	- In the 1880s tea rooms became fashionable with women as respectable places to meet their friends for a discreet chat and even discuss politics.
