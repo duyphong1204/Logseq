@@ -6,3 +6,5 @@
 	- Artifact 3: Queen Victoria's wedding dress ( New style of fashion at the wedding )
 		- Popularized the White wedding dressing
 	- Artifact 4: National food ( Yorkshire pudding,  Fish and chips, or Chicken Tikka Masala
+- ## Script
+- Thank you Trang, that was a really informative presentation on the Topography of England, without you, I couldn't . And now, shall we commence on the History of the English Tea?
