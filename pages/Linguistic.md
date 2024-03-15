@@ -1,7 +1,6 @@
 filters:: {"linguistic/sounds/english" true, "linguistic/english linguistic" true}
 
 - Board
-  collapsed:: true
 	- [[Linguistic/English Linguistic Map]]
 - Domain
 	- [[Linguistic/English Linguistic]]

@@ -1,4 +1,5 @@
 - The Vocal Tract with (a) Velum Raised and (b) Velum Lowered
+  collapsed:: true
 	- ![image.png](../assets/image_1706740685037_0.png)
 	  id:: 65bacb8e-76f4-4a78-a2bd-fd5916192dab
 - Configurations of the Larynx: (a) Voiceless (Exhalation), (b) Voiced, and (c) Whispered
