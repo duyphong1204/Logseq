@@ -9,10 +9,13 @@
 - ## Script
 	- Thank you Trang, that was a really informative presentation on the Topography of England, without you, I couldn't know how to start telling my history part. And now, shall we commence on the History of the English Tea?
 	- As you already know, the English couldn't grow tea themselves, so how did the tea come to England?
-	-
-	- The Chinese had developed their tea-drinking ritual for more than 1500 years when Dutch traders started bringing it to Europe in large quantities, introducing China tea to the world in the early 1600s. (Cutty Sark and the Tea Trade)
-	- In 1662, when Catherine of Braganza, a Portuguese woman, the Queen of England, Scotland, and Ireland arrived in her new homeland, she brought with her packets of loose-leaf tea in crates labeled Transporte de Ervas Aromaticas (there is a theory that this was later abbreviated to T-E-A, tea) and the idea of the tea drinking experience. She also popularized the use of porcelain teacups and mugs. (Great Big Story, 2018)
-	- Back then, tea was only used for medicinal purposes in England. Catherine continued drinking tea enjoyably. As the new royal, everything about her, including her beverage habits, was copied by other ladies want to be like their idol.
+	- So the English tea was Chinese in origin. The Chinese had been developing their tea-drinking ritual for more than 1500 (a thousand and five hundered) years when Dutch traders started bringing it to Europe in large quantities, introducing China tea to the world in the early 1600s (sixteenth hundreds)
+	- In 1662 (sixteenth sixty two), there is a Portuguese woman, Catherine of Braganza, who won the hand of King Charles the second and become the Queen of England, Scotland, and Ireland.
+	- When she arrived in her new homeland, she brought with her packets of loose-leaf tea in crates labeled Transporte de Ervas Aromaticas, which mean Transport of Aromatic Herbs
+		- (there is a theory that this was later abbreviated to T-E-A, tea)
+	- She also brought to England the tea drinking experience and popularized the use of porcelain teacups and mugs.
+	- Back then, Catherine continued drinking tea enjoyably while tea was only used for medicinal purposes in England. But s the new royal, everything about her, including her beverage habits, was copied by other ladies desperately wanting to be like their idol.
+	- And that is how the tea came to England and became popular (but only within the aristocracy).
 	- 2.1.2 Tea as a luxurious drink
 	- In the mid-1600s, the British East India Company - a company that was formed to trade in the Indian Ocean region, dominated the tea imported to England, providing a constant and growing supply of tea, gradually making England become a tea-drinking nation. (Anglophenia, 2015)
 	- By 1700, tea in Europe sold for ten times the price of coffee, and the plant was still only grown in China.
