@@ -61,4 +61,6 @@
 - Có lẽ không nên để như này mà làm mẹ page Education & Arts đi? Nhưng thế sẽ phải ghi ở phần đầu bổ sung cho chắc là liên ngành Education and Art. Mà Education & Art hay dùng and hay Art & Education. Cái này thì để alias oke hơn? Thôi cứ đặt tên chính là cái nào nghe kêu, thì sẽ dễ nhớ nhé? Chứ không có thể theo alphabet, khác gì lắm đâu, lo gì đâu vì có alias rồi mà.
 	- ![image.png](../assets/image_1710613299439_0.png){:height 429, :width 748}
 		- thôi để theo alphabet đi chứ có lúc giờ đọc lại lại thấy Arts and Education hay hơn, mà sau này liên nhiều ngành hơn thì tính sao... Và phải tạo alias cho cả page con nữa đó. Ầu...
+	- Ồ nãy mistaken đặt thêm chữ d vào sau hastag [[  ]] như này [[  ]]d, nó tạo ra một page click được link luôn... Hmm, thế là mình có ý tưởng link tự động như này
+		- ![image.png](../assets/image_1710614324934_0.png)
 - ((65f5e1e0-4277-4809-917f-c0b941c4ee48))
