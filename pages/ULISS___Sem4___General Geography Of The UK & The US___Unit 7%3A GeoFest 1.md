@@ -24,3 +24,4 @@
 	- In around 1840 (eigthteenth forty), Anna Maria Russell, the seventh Duchess of Bedford, she introduced the concept of Afternoon Tea as she normally got hungry around four o’clock in the afternoon. She then invited her friends to join her afternoon habits. Moreover, Queen Victoria, a duchess friend, she helped formalize the afternoon tea with her Buckingham Palace tea receptions.
 	- In the 1880s (eighteenth eighty) tea rooms became fashionable with women as respectable places to meet their friends for a discreet chat and even discuss politics.
 	- Now, let's move to the next part where you get to know how the tea became England's national drink by Thanh
+-
