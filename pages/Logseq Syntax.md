@@ -63,4 +63,6 @@
 		- thôi để theo alphabet đi chứ có lúc giờ đọc lại lại thấy Arts and Education hay hơn, mà sau này liên nhiều ngành hơn thì tính sao... Và phải tạo alias cho cả page con nữa đó. Ầu...
 	- Ồ nãy mistaken đặt thêm chữ d vào sau hastag [[  ]] như này [[  ]]d, nó tạo ra một page click được link luôn... Hmm, thế là mình có ý tưởng link tự động như này
 		- ![image.png](../assets/image_1710614324934_0.png)
+		- Làm mấy cái này sau này hướng tới việc học ngôn ngữ như học khái niệm, thuật ngữ luôn ha? #[[Education/Language Learning]]
 - ((65f5e1e0-4277-4809-917f-c0b941c4ee48))
+	-
