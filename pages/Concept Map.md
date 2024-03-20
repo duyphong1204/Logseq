@@ -1,0 +1,3 @@
+- Gọi là map, note hay page
+- Nhưng chừng nào chưa có gì ở page này tức chừng đó mình vẫn đang cố liên kết dựa trên cái quy chuẩn, phân định của xã hội này về ranh giới các phạm trù chứ chẳng thực sự hiểu nó
+-
