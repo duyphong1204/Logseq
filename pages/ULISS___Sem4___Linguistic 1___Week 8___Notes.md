@@ -17,4 +17,4 @@ date:: [[Mar 14th, 2024]]
 - 16:19 Do tenses (or things like it has different viewpoint to look from?) #[[Linguistic/Phonology/Tenses]]
 	- ok but what for?
 - Làm sao để lưu trữ một bài giảng trên bảng? Đặt cam ở giữa lớp mà quay theo từng chuyển động thôi? Cách ghi âm + chụp lại những thay đổi lớn và thay đổi toàn diện là một cách, sẽ đòi hỏi ở người nghe/xem lại sự chủ động tưởng tượng nhiều hơn thôi, không có ảnh thì dễ FOMO nhưng hãy tin là không có gì không đáng thì không chụp #[[Digital Humanities]]
--
+- 16:31 Thay vì nói không nhớ thì có lẽ nên hỏi ChatGPT local mấy cái đơn giản luôn nếu sau này có #[[Education/Pedagogisms]]
