@@ -19,4 +19,4 @@ date:: [[Mar 14th, 2024]]
 - Grammatical -> Structuring Function
 - Lexical -> Content Function
 - [[draws/2024-03-20-10-12-55.excalidraw]]
-- (())
+- vấn đề là cái thầy nói nó cũng có meaning mà bảo là chỉ có form
