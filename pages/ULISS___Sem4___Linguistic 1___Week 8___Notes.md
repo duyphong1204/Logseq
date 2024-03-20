@@ -4,6 +4,11 @@
 - Sách thầy giới thiệu: Chữ xưa còn một chút này #Book
 - Những người trẻ thường thích lối đi riêng, có lẽ sẽ là viết lại cái cũ, liên kết kiến thức cũ được trình bày vốn tách rời hoặc liên kết nó với hiểu biết người học (chứ không chỉ trình bày sao cho dễ hiểu với người học) lại với nhau như thầy đang cố đưa bức tranh toàn thể là một cách #[[Education/Pedagogy/Teaching Style]]
 	- Vấn đề là họ thường dạy theo tiến độ riêng, cũng do họ có giáo trình, giáo án riêng chứ không mấy ai hỏi kĩ thế giáo viên trước dạy như nào, họ dạy đến đâu rồi, có lẽ vì không có giáo trình chung #[[Community Knowledge Management]]
-		- Có lẽ rồi ai cũng sẽ quên hỏi cái đó, và sinh viên cũng chả nhớ
-- [[draws/2024-03-20-09-14-46.excalidraw]]
-- allophoneAllophonesAllophones
+		- Có lẽ rồi ai cũng sẽ quên hỏi cái đó, và sinh viên cũng chả nhớ\
+- ![image.png](../assets/image_1710901137085_0.png)
+  collapsed:: true
+	- [[draws/2024-03-20-09-14-46.excalidraw]]
+- Grammatical -> Structuring Function
+- Lexical -> Content Function
+- Nếu mỗi ngày 1 giáo viên, một cách dạy cùng một vấn đề, vẫn dựa theo tiến độ giáo trình nhưng không ép là phải chính xác từ đó thì sao, cách thầy này dạy như thể nó là sự kết hợp của nhiều sách thầy đã đọc, đã học, rồi chia kiến thức thành những đơn vị cụ thể như curriculum #[[Education/Pedagogy/Course Design]]
+	- Không thì 15 tuần 3 người đan xen nhau hoặc mỗi người 5 tuần liên tiếp? như cấp 2 bọn mình có 2 giáo viên dạy văn thì sao, lạ nhỉ, thú vị nhỉ, sao lại thế, giờ học một người chính, nhiều khách mời
