@@ -1,0 +1,96 @@
+{:blocks (
+{:block/created-at 1710898181075
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [256 208]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Art"
+:id "38ff7e50-e659-11ee-be9e-e71797fa8242"
+:fontWeight 400
+:noFill true
+:point [240 152]
+:fontSize 20
+:parentId "65fa3bd2-b7e7-4b61-b56e-9187875ac569"
+:nonce 1710898137894
+:italic false}}
+:block/updated-at 1710898181075} 
+{:block/created-at 1710898185616
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [256 208]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Education"
+:id "3c4b7500-e659-11ee-be9e-e71797fa8242"
+:fontWeight 400
+:noFill true
+:point [424 144]
+:fontSize 20
+:parentId "65fa3bd2-b7e7-4b61-b56e-9187875ac569"
+:nonce 1710898143459
+:italic false}}
+:block/updated-at 1710898185616} 
+{:block/created-at 1710898176775
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [47 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4be3c440-e659-11ee-be9e-e71797fa8242"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [440 208]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65fa3bd2-b7e7-4b61-b56e-9187875ac569"
+:nonce 1710898169496
+:italic false
+:text "Art\n&\nEdu"}}
+:block/updated-at 1710898176775})
+:pages (
+{:block/uuid #uuid "65fa3bd2-b7e7-4b61-b56e-9187875ac569"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "65fa3bd2-b7e7-4b61-b56e-9187875ac569"
+:name "65fa3bd2-b7e7-4b61-b56e-9187875ac569"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("38ff7e50-e659-11ee-be9e-e71797fa8242" "3c4b7500-e659-11ee-be9e-e71797fa8242" "4be3c440-e659-11ee-be9e-e71797fa8242")}}
+:block/updated-at 1710898185616
+:block/created-at 1710898130101
+:block/type "whiteboard"
+:block/name "65fa3bd2-b7e7-4b61-b56e-9187875ac569"
+:block/original-name "65fa3bd2-b7e7-4b61-b56e-9187875ac569"})}
