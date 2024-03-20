@@ -16,4 +16,5 @@ date:: [[Mar 14th, 2024]]
 	- Không thì 15 tuần 3 người đan xen nhau hoặc mỗi người 5 tuần liên tiếp? như cấp 2 bọn mình có 2 giáo viên dạy văn thì sao, lạ nhỉ, thú vị nhỉ, sao lại thế, giờ học một người chính, nhiều khách mời là cùng làm mình nghĩ nó là luật bất thành văn kiểu gì đó
 - 16:19 Do tenses (or things like it has different viewpoint to look from?) #[[Linguistic/Phonology/Tenses]]
 	- ok but what for?
-- Làm sao để lưu trữ một bài giảng trên bảng? Đặt cam ở giữa lớp mà quay theo từng chuyển động thôi? Cách ghi âm + chụp lại những thay đổi lớn và thay đổi toàn diện là một
+- Làm sao để lưu trữ một bài giảng trên bảng? Đặt cam ở giữa lớp mà quay theo từng chuyển động thôi? Cách ghi âm + chụp lại những thay đổi lớn và thay đổi toàn diện là một cách, sẽ đòi hỏi ở người nghe/xem lại sự chủ động tưởng tượng nhiều hơn thôi, không có ảnh thì dễ FOMO nhưng hãy tin là không có gì không đáng thì không chụp #[[Digital Humanities]]
+-
