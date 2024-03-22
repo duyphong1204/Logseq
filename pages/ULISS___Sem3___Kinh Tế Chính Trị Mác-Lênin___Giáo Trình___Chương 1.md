@@ -1,13 +1,9 @@
 # Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế Chính trị Mác - Lênin
 	- ## 1.1 Sản xuất xã hội
-	  collapsed:: true
 		- ### Một số khái niệm cơ bản
-		  collapsed:: true
 			- ***Sản xuất xã hội***
 				- Sản xuất vật chất là cơ sở, nền tảng của đời sống xã hội.
-				  collapsed:: true
 					- Để tồn tại và phát triển, con người trước hết cần được thoả mãn các nhu cầu cơ bản
-					  collapsed:: true
 						- ăn, mặc, ở, đi lại, học tập, chữa bệnh, giải trí...
 					- Xã hội càng phát triển, nhu cầu của con người ngày càng cao, phong phú và đa dạng.
 					- Để thỏa mãn các nhu cầu đó, con người không thể chỉ trông chờ vào những gì có sẵn trong tự nhiên, mà phải tiến hành sản xuất của cải vật chất.
@@ -349,7 +345,6 @@
 			- Sức lao động
 				- Là khả năng lao động của con người
 				  logseq.order-list-type:: number
-				  collapsed:: true
 					- Như vậy, sức lao động là tiềm năng lao động, là khả năng tạo ra sản phẩm của con người.
 				- Là toàn bộ thể lực, tâm lực của con người có thể sử dụng để tiến hành hoạt động lao động
 				  logseq.order-list-type:: number
