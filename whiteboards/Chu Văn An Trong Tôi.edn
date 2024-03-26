@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1700908117009
+{:block/created-at 1711481541245
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -16,25 +16,26 @@
 :id "4ecf85e2-8b7d-11ee-98af-0b668d138f19"
 :fontWeight 400
 :noFill true
-:point [1500.41 -778]
+:point [2854.18 -4316]
 :fontSize 32
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [1955.59 1226]}
+:point [4983.46 2611]
+:bindingId "74cb2441-eba7-11ee-b625-9fe6641666d5"}
 :end 
 {:id "end"
 :canBind true
 :point [0 0]
-:bindingId "4ecf85e1-8b7d-11ee-98af-0b668d138f19"}}
+:bindingId "9015d601-eba7-11ee-b625-9fe6641666d5"}}
 :decorations 
 {:end "arrow"}
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700908080557
+:nonce 1700908081262
 :italic false}}
-:block/updated-at 1700908117009} 
-{:block/created-at 1700906112563
+:block/updated-at 1711481541245} 
+{:block/created-at 1711481571106
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -56,40 +57,40 @@
 :padding 4
 :fontWeight 700
 :noFill true
-:point [1832 576]
+:point [4312 -2512]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906003359
+:nonce 1700906003647
 :italic false
 :text "Chu Văn An trong tôi"}}
-:block/updated-at 1700906112563} 
-{:block/created-at 1711481419345
+:block/updated-at 1711481571106} 
+{:block/created-at 1711481441915
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:stroke ""
+{:stroke "gray"
 :rotation 0
 :index 14
 :scale [1 1]
-:scaleLevel "md"
-:fill ""
+:scaleLevel "xxl"
+:fill "gray"
 :type "ellipse"
 :size [8080 8080]
 :strokeType "line"
-:strokeWidth 2
+:strokeWidth 6
 :opacity 1
 :label ""
 :id "dbf36770-eba4-11ee-af88-ed1660c8038e"
-:fontWeight 400
+:fontWeight 700
 :noFill true
 :point [312 -5720]
-:fontSize 20
+:fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1711480379657
+:nonce 1711480379661
 :italic false}}
-:block/updated-at 1711481419345} 
-{:block/created-at 1700908139295
+:block/updated-at 1711481441915} 
+{:block/created-at 1711481525508
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -106,26 +107,26 @@
 :id "af33b812-8b79-11ee-98af-0b668d138f19"
 :fontWeight 400
 :noFill true
-:point [865.32 -1034]
+:point [1211.93 -4330]
 :fontSize 32
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 1489]
+:point [0 2665]
 :bindingId "66841891-8b7d-11ee-98af-0b668d138f19"}
 :end 
 {:id "end"
 :canBind true
-:point [1303.06 0]
+:point [4558.85 0]
 :bindingId "705ed4e1-8b7d-11ee-98af-0b668d138f19"}}
 :decorations 
 {:end "arrow"}
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906524394
+:nonce 1700906524805
 :italic false}}
-:block/updated-at 1700908139295} 
-{:block/created-at 1700908117009
+:block/updated-at 1711481525508} 
+{:block/created-at 1711481520214
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -142,26 +143,26 @@
 :id "52265202-8b7d-11ee-98af-0b668d138f19"
 :fontWeight 400
 :noFill true
-:point [855.57 -778]
+:point [1163.81 -4316]
 :fontSize 32
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 1233]
+:point [0 2651]
 :bindingId "52265200-8b7d-11ee-98af-0b668d138f19"}
 :end 
 {:id "end"
 :canBind true
-:point [647.77 0]
+:point [1660.86 0]
 :bindingId "52265201-8b7d-11ee-98af-0b668d138f19"}}
 :decorations 
 {:end "arrow"}
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700908086197
+:nonce 1700908086751
 :italic false}}
-:block/updated-at 1700908117009} 
-{:block/created-at 1700907012659
+:block/updated-at 1711481520214} 
+{:block/created-at 1711481525507
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -184,15 +185,15 @@
 :padding 4
 :fontWeight 700
 :noFill true
-:point [1976 -1120]
+:point [5616 -4416]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906491769
+:nonce 1700906492223
 :italic false
 :text "Sustainability"}}
-:block/updated-at 1700907012659} 
-{:block/created-at 1700909831669
+:block/updated-at 1711481525507} 
+{:block/created-at 1711481547950
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -214,15 +215,15 @@
 :padding 4
 :fontWeight 700
 :noFill true
-:point [2664 1640]
+:point [6120 -160]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700909661557
+:nonce 1700909661709
 :italic false
 :text "License"}}
-:block/updated-at 1700909831669} 
-{:block/created-at 1700908143148
+:block/updated-at 1711481547950} 
+{:block/created-at 1711481527841
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -239,25 +240,25 @@
 :id "b24e8ca2-8b79-11ee-98af-0b668d138f19"
 :fontWeight 400
 :noFill true
-:point [2181.57 -1034]
+:point [5792.32 -4330]
 :fontSize 32
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [1285.18 1489]
+:point [2045.94 2625]
 :bindingId "b24e8ca0-8b79-11ee-98af-0b668d138f19"}
 :end 
 {:id "end"
 :canBind true
 :point [0 0]
-:bindingId "735f1c91-8b7d-11ee-98af-0b668d138f19"}}
+:bindingId "87e52031-eba7-11ee-b625-9fe6641666d5"}}
 :decorations 
 {:end "arrow"}
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906529628
+:nonce 1700906530064
 :italic false}}
-:block/updated-at 1700908143148} 
+:block/updated-at 1711481527841} 
 {:block/created-at 1700905424664
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -279,7 +280,7 @@
 :nonce 1700905422814
 :isComplete true}}
 :block/updated-at 1700905424664} 
-{:block/created-at 1700908062709
+{:block/created-at 1711481512290
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -301,14 +302,14 @@
 :padding 4
 :fontWeight 700
 :noFill true
-:point [3224 456]
+:point [7592 -1704]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906158214
+:nonce 1700906158440
 :italic false
 :text "School Developing"}}
-:block/updated-at 1700908062709} 
+:block/updated-at 1711481512290} 
 {:block/created-at 1700905450016
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -330,19 +331,20 @@
 :nonce 1700905424155
 :isComplete true}}
 :block/updated-at 1700905450016} 
-{:block/created-at 1700908117008
+{:block/created-at 1711481520214
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:isSizeLocked true
+{:isSizeLocked false
 :stroke ""
+:rotation 0
 :borderRadius 0
 :index 9
 :scale [1 1]
 :scaleLevel "xxl"
 :fill ""
 :type "text"
-:size [204 82]
+:size [208 96]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -351,15 +353,15 @@
 :padding 4
 :fontWeight 700
 :noFill true
-:point [1384 -864]
+:point [2712 -4416]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700908068848
+:nonce 1700908069499
 :italic false
 :text "Health"}}
-:block/updated-at 1700908117008} 
-{:block/created-at 1700908047260
+:block/updated-at 1711481520214} 
+{:block/created-at 1711481509609
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -380,39 +382,40 @@
 :padding 4
 :fontWeight 700
 :noFill true
-:point [624 456]
+:point [928 -1664]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700906150883
+:nonce 1700906151177
 :italic false
 :text "Movie Making"}}
-:block/updated-at 1700908047260} 
-{:block/created-at 1700906129685
+:block/updated-at 1711481509609} 
+{:block/created-at 1711481562769
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
+:rotation 0
 :index 2
 :scale [1 1]
 :scaleLevel "xxl"
 :fill "red"
 :type "ellipse"
-:size [1321.6198120117185 1321.6198120117185]
+:size [2208 2208]
 :strokeType "line"
 :strokeWidth 6
 :opacity 1
 :label ""
 :id "fed5fd30-8b77-11ee-844f-d9a94d349001"
 :fontWeight 400
-:noFill false
-:point [1488 -40]
+:noFill true
+:point [3544 -2624]
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700905799413
+:nonce 1700905800053
 :italic false}}
-:block/updated-at 1700906129685} 
-{:block/created-at 1700908674420
+:block/updated-at 1711481562769} 
+{:block/created-at 1711481550147
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -434,14 +437,214 @@
 :padding 4
 :fontWeight 700
 :noFill true
-:point [1136 1648]
+:point [2592 -120]
 :lineHeight 1.2
 :fontSize 60
 :parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
-:nonce 1700908184373
+:nonce 1700908184447
 :italic false
 :text "Working Procedure"}}
-:block/updated-at 1700908674420})
+:block/updated-at 1711481550147} 
+{:block/created-at 1711481592488
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 15
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [208 120]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Bản thân"
+:id "ab8ffc30-eba7-11ee-b625-9fe6641666d5"
+:fontWeight 400
+:noFill false
+:point [2552 2896]
+:fontSize 20
+:parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
+:nonce 1711481586588
+:italic false}}
+:block/updated-at 1711481592488} 
+{:block/created-at 1711481621625
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 17
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "af1a3460-eba7-11ee-b625-9fe6641666d5"
+:fontWeight 400
+:noFill true
+:point [2761 2956]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "af1a3461-eba7-11ee-b625-9fe6641666d5"}
+:end 
+{:id "end"
+:canBind true
+:point [491 0]
+:bindingId "af1a3462-eba7-11ee-b625-9fe6641666d5"}}
+:decorations 
+{:end "arrow"}
+:parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
+:nonce 1711481592514
+:italic false}}
+:block/updated-at 1711481621625} 
+{:block/created-at 1711481621624
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 16
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [208 120]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "CVA Trong Tôi The Movie"
+:id "af1a0d50-eba7-11ee-b625-9fe6641666d5"
+:fontWeight 400
+:noFill false
+:point [3256 2896]
+:fontSize 20
+:parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
+:nonce 1711481592600
+:italic false}}
+:block/updated-at 1711481621624} 
+{:block/created-at 1711481621625
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 19
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "b8dde640-eba7-11ee-b625-9fe6641666d5"
+:fontWeight 400
+:noFill true
+:point [3465 2949.19]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 5.66]
+:bindingId "b8dde641-eba7-11ee-b625-9fe6641666d5"}
+:end 
+{:id "end"
+:canBind true
+:point [515 0]
+:bindingId "b8dde642-eba7-11ee-b625-9fe6641666d5"}}
+:decorations 
+{:end "arrow"}
+:parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
+:nonce 1711481608915
+:italic false}}
+:block/updated-at 1711481621625} 
+{:block/created-at 1711481618963
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 18
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [208 120]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "CVA Community"
+:id "b8ddbf30-eba7-11ee-b625-9fe6641666d5"
+:fontWeight 400
+:noFill false
+:point [3984 2888]
+:fontSize 20
+:parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
+:nonce 1711481608940
+:italic false}}
+:block/updated-at 1711481618963} 
+{:block/created-at 1711481631795
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 20
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [2000 320]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "c30dc770-eba7-11ee-b625-9fe6641666d5"
+:fontWeight 400
+:noFill true
+:point [2344 2784]
+:fontSize 20
+:parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
+:nonce 1711481626151
+:italic false}}
+:block/updated-at 1711481631795} 
+{:block/created-at 1711481703205
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 21
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [361 154]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ce46b430-eba7-11ee-b625-9fe6641666d5"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [3176 2704]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6561c138-bd9e-41ad-9201-c6d18e672f76"
+:nonce 1711481645287
+:italic false
+:text "Việc tìm ra CVA trong tôi là gì?\nMình muốn làm gì với mọi người?\nChúng ta có thể cùng nhau?\n\nTất cả là tiền đề để định hướng phim \nvà định hướng xây dựng cộng đồng"}}
+:block/updated-at 1711481703205})
 :pages (
 {:block/uuid #uuid "6561c138-bd9e-41ad-9201-c6d18e672f76"
 :block/properties 
@@ -457,6 +660,14 @@
 :toId "9bc53380-8b79-11ee-98af-0b668d138f19"
 :handleId "end"
 :point [0.41 0.46]
+:distance 4}
+:b8dde642-eba7-11ee-b625-9fe6641666d5 
+{:id "b8dde642-eba7-11ee-b625-9fe6641666d5"
+:type "line"
+:fromId "b8dde640-eba7-11ee-b625-9fe6641666d5"
+:toId "b8ddbf30-eba7-11ee-b625-9fe6641666d5"
+:handleId "end"
+:point [0.5 0.5]
 :distance 4}
 :52265200-8b7d-11ee-98af-0b668d138f19 
 {:id "52265200-8b7d-11ee-98af-0b668d138f19"
@@ -481,6 +692,22 @@
 :toId "9bc53380-8b79-11ee-98af-0b668d138f19"
 :handleId "end"
 :point [0.56 0.5]
+:distance 4}
+:af1a3462-eba7-11ee-b625-9fe6641666d5 
+{:id "af1a3462-eba7-11ee-b625-9fe6641666d5"
+:type "line"
+:fromId "af1a3460-eba7-11ee-b625-9fe6641666d5"
+:toId "af1a0d50-eba7-11ee-b625-9fe6641666d5"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:87e52031-eba7-11ee-b625-9fe6641666d5 
+{:id "87e52031-eba7-11ee-b625-9fe6641666d5"
+:type "line"
+:fromId "b24e8ca2-8b79-11ee-98af-0b668d138f19"
+:toId "9bc53380-8b79-11ee-98af-0b668d138f19"
+:handleId "end"
+:point [0.33 0.41]
 :distance 4}
 :735f1c91-8b7d-11ee-98af-0b668d138f19 
 {:id "735f1c91-8b7d-11ee-98af-0b668d138f19"
@@ -514,6 +741,22 @@
 :handleId "end"
 :point [0.27 0.56]
 :distance 4}
+:74cb2441-eba7-11ee-b625-9fe6641666d5 
+{:id "74cb2441-eba7-11ee-b625-9fe6641666d5"
+:type "line"
+:fromId "4ecf85e2-8b7d-11ee-98af-0b668d138f19"
+:toId "d4f24e50-8b78-11ee-98af-0b668d138f19"
+:handleId "start"
+:point [0.61 0.59]
+:distance 4}
+:9015d601-eba7-11ee-b625-9fe6641666d5 
+{:id "9015d601-eba7-11ee-b625-9fe6641666d5"
+:type "line"
+:fromId "4ecf85e2-8b7d-11ee-98af-0b668d138f19"
+:toId "47d30a50-8b7d-11ee-98af-0b668d138f19"
+:handleId "end"
+:point [0.3 0.59]
+:distance 4}
 :b24e8ca0-8b79-11ee-98af-0b668d138f19 
 {:id "b24e8ca0-8b79-11ee-98af-0b668d138f19"
 :type "line"
@@ -529,6 +772,14 @@
 :toId "9bc53380-8b79-11ee-98af-0b668d138f19"
 :handleId "end"
 :point [0.42 0.47]
+:distance 4}
+:63888061-eba7-11ee-b625-9fe6641666d5 
+{:id "63888061-eba7-11ee-b625-9fe6641666d5"
+:type "line"
+:fromId "4ecf85e2-8b7d-11ee-98af-0b668d138f19"
+:toId "47d30a50-8b7d-11ee-98af-0b668d138f19"
+:handleId "end"
+:point [0.56 0.5]
 :distance 4}
 :b24e8ca1-8b79-11ee-98af-0b668d138f19 
 {:id "b24e8ca1-8b79-11ee-98af-0b668d138f19"
@@ -546,6 +797,14 @@
 :handleId "end"
 :point [0.7 0.47]
 :distance 4}
+:b8dde641-eba7-11ee-b625-9fe6641666d5 
+{:id "b8dde641-eba7-11ee-b625-9fe6641666d5"
+:type "line"
+:fromId "b8dde640-eba7-11ee-b625-9fe6641666d5"
+:toId "af1a0d50-eba7-11ee-b625-9fe6641666d5"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
 :af33b810-8b79-11ee-98af-0b668d138f19 
 {:id "af33b810-8b79-11ee-98af-0b668d138f19"
 :type "line"
@@ -553,11 +812,19 @@
 :toId "d0918c40-8b78-11ee-98af-0b668d138f19"
 :handleId "start"
 :point [0.5 0.5]
+:distance 4}
+:af1a3461-eba7-11ee-b625-9fe6641666d5 
+{:id "af1a3461-eba7-11ee-b625-9fe6641666d5"
+:type "line"
+:fromId "af1a3460-eba7-11ee-b625-9fe6641666d5"
+:toId "ab8ffc30-eba7-11ee-b625-9fe6641666d5"
+:handleId "start"
+:point [0.5 0.5]
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001" "77a19a80-8b78-11ee-98af-0b668d138f19" "d0918c40-8b78-11ee-98af-0b668d138f19" "d4f24e50-8b78-11ee-98af-0b668d138f19" "9bc53380-8b79-11ee-98af-0b668d138f19" "af33b812-8b79-11ee-98af-0b668d138f19" "b24e8ca2-8b79-11ee-98af-0b668d138f19" "47d30a50-8b7d-11ee-98af-0b668d138f19" "4ecf85e2-8b7d-11ee-98af-0b668d138f19" "52265202-8b7d-11ee-98af-0b668d138f19" "8c9baed0-8b7d-11ee-98af-0b668d138f19" "fd2cf200-8b80-11ee-98af-0b668d138f19" "dbf36770-eba4-11ee-af88-ed1660c8038e")}}
-:block/updated-at 1711481419345
+:shapes-index ("1ebc9ab0-8b77-11ee-a0d8-1dcac2e47ae0" "1f887630-8b77-11ee-a0d8-1dcac2e47ae0" "fed5fd30-8b77-11ee-844f-d9a94d349001" "77a19a80-8b78-11ee-98af-0b668d138f19" "d0918c40-8b78-11ee-98af-0b668d138f19" "d4f24e50-8b78-11ee-98af-0b668d138f19" "9bc53380-8b79-11ee-98af-0b668d138f19" "af33b812-8b79-11ee-98af-0b668d138f19" "b24e8ca2-8b79-11ee-98af-0b668d138f19" "47d30a50-8b7d-11ee-98af-0b668d138f19" "4ecf85e2-8b7d-11ee-98af-0b668d138f19" "52265202-8b7d-11ee-98af-0b668d138f19" "8c9baed0-8b7d-11ee-98af-0b668d138f19" "fd2cf200-8b80-11ee-98af-0b668d138f19" "dbf36770-eba4-11ee-af88-ed1660c8038e" "ab8ffc30-eba7-11ee-b625-9fe6641666d5" "af1a0d50-eba7-11ee-b625-9fe6641666d5" "af1a3460-eba7-11ee-b625-9fe6641666d5" "b8ddbf30-eba7-11ee-b625-9fe6641666d5" "b8dde640-eba7-11ee-b625-9fe6641666d5" "c30dc770-eba7-11ee-b625-9fe6641666d5" "ce46b430-eba7-11ee-b625-9fe6641666d5")}}
+:block/updated-at 1711481703205
 :block/created-at 1700905273000
 :block/type "whiteboard"
 :block/name "chu văn an trong tôi"

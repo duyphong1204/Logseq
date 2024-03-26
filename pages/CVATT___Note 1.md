@@ -1,0 +1,2 @@
+- Từ cuộc nói chuyện với Thái Lai, chị Hà, Lã Vân [[Mar 27th, 2024]] (tra mes), mình đã xác định rõ hơn cái mình muốn, đi từ quan hệ hiện tại, đến tương lai, về philosophy là gì, chứ không chỉ là cụ thể có thể làm gì và muốn nó lí tưởng kiểu cộng sản như nào
+-
