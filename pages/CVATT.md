@@ -1,0 +1,4 @@
+- Definition
+	- [[Mar 27th, 2024]] mình nhận ra cái tên CVATT nghe chỉ như tên phim hoặc một cái cảm giác, nhưng đổi thành CVA thì quá lười và có lẽ sẽ hỏng link, hoặc không, nhưng để thế này cho dễ phân biệt, nó sẽ giống Nhật ký ở Chu, cái tên chỉ là tên, thực chất nó là một thứ như dự án về một cộng đồng Chu Văn An
+- Roadmap
+-
