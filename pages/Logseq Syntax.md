@@ -65,4 +65,6 @@
 		- ![image.png](../assets/image_1710614324934_0.png)
 		- Làm mấy cái này sau này hướng tới việc học ngôn ngữ như học khái niệm, thuật ngữ luôn ha? #[[Education/Language Learning]]
 - ((65f5e1e0-4277-4809-917f-c0b941c4ee48))
-	-
+-
+- 02:29 [[Mar 27th, 2024]] lần trước xem qua cái tên page thôi là CVATT chả hiểu cái đấy để làm gì, xong vào white board nhìn phát á à, dự án 10 năm của mình chứ không phải chỉ về film như ở Notion => Giá trị của map là ở đây
+-
