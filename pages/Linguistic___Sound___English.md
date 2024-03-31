@@ -24,6 +24,7 @@
 	-
 	- [[Linguistic/Sound/English/p]]
 - ## Vowels
+	-
 	- |   |   | [Front](javascript:void(0);) | [Central](javascript:void(0);) | [Back](javascript:void(0);) |
 	  | --- | --- | --- | --- | --- |
 	  | [High](javascript:void(0);) | [[Tense/IPA]] <br />[Lax](javascript:void(0);)| [i](https://www.cambridge.org/features/IPAchart/symbols/i.html) <br />[ɪ](javascript:viewSymbol('symbols/026A.html');)|   | [u](javascript:viewSymbol('symbols/u.html');) <br />[ʊ](javascript:viewSymbol('symbols/028A.html');) |
