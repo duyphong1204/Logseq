@@ -23,7 +23,14 @@
 				-
 	-
 	- [[Linguistic/Sound/English/p]]
-- Vowels
+- ## Vowels
+	- |   |   | [Front](javascript:void(0);) | [Central](javascript:void(0);) | [Back](javascript:void(0);) |
+	  | --- | --- | --- | --- | --- |
+	  | [High](javascript:void(0);) | <p> [Tense](javascript:void(0);) <br> [Lax](javascript:void(0);) </p> | [i](javascript:viewSymbol('symbols/i.html');) |   | [u](javascript:viewSymbol('symbols/u.html');) |
+	  |  | [ɪ](javascript:viewSymbol('symbols/026A.html');) |   | [ʊ](javascript:viewSymbol('symbols/028A.html');) |
+	  | [Mid](javascript:void(0);) | [Tense](javascript:void(0);) | [e](javascript:viewSymbol('symbols/e.html');) |   | [o](javascript:viewSymbol('symbols/o.html');) |
+	  | [Lax](javascript:void(0);) | [ɛ](javascript:viewSymbol('symbols/025B.html');) | [ə](javascript:viewSymbol('symbols/schwa.html');)   [ʌ](javascript:viewSymbol('symbols/028C.html');) | [(ɔ)](javascript:viewSymbol('symbols/0254.html');) |
+	  | [Low](javascript:void(0);) | [Lax](javascript:void(0);) | [æ](javascript:viewSymbol('symbols/00E6.html');) | [a](javascript:viewSymbol('symbols/a.html');) |   |
 - ## Footnotes
 	- [^1]: [How to Pronounce the Glottal Stop/Glottal T and When is it Used - Pronunciation with Emma](https://www.youtube.com/watch?v=chcjHwWwVxQ)
 	-
