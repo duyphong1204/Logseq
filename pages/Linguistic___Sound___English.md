@@ -1,5 +1,5 @@
-- Consonants
-  trái là voiceless, phải của cột là voiced
+## Consonants
+	- trái là voiceless, phải của cột là voiced
 	- id:: 65d27203-690f-47a2-b558-3e6a1d55827f
 	  |   | [Bilabial](Bilabial/IPA) | [Labiodental](Labiodental/IPA) | [Dental](Dental/IPA) | [Alveolar](Alveolar/IPA) | [Postalveolar](Postalveolar/IPA) | [Palatal](Palatal/IPA) | [Velar](Velar/IPA) | [Glotal](Glotal/IPA) |
 	  | [(Oral) Stop]((Oral) Stop/IPA) | [p](https://www.cambridge.org/features/IPAchart/symbols/p.html)   [b](https://www.cambridge.org/features/IPAchart/symbols/b.html) | | | [t](https://www.cambridge.org/features/IPAchart/symbols/t.html)    [d](https://www.cambridge.org/features/IPAchart/symbols/d.html) | | | [k](https://www.cambridge.org/features/IPAchart/symbols/k.html)   [g](https://www.cambridge.org/features/IPAchart/symbols/g.html) | [ʔ](https://www.cambridge.org/features/IPAchart/symbols/0294.html) |
@@ -21,7 +21,7 @@
 				- /m/
 				- /n/
 				-
-	- Symbol
+	-
 	- [[Linguistic/Sound/English/p]]
 - Vowels
 - ## Footnotes
