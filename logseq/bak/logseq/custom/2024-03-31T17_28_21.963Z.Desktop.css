@@ -2,5 +2,5 @@
   --favicons: none;
 }
 a.external-link {
-    border-bottom: none ;
+    text-decoration: none ;
 }
