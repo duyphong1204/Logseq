@@ -110,4 +110,15 @@
 	- Are you a primary caregiver for any of the following? (select all that apply) 
 	  logseq.order-list-type:: number
 		- A child/children under age 18
-		- Another adult (with a disability, who is elderly, etc.) Prefer not to answer No, none of the above apply to me
+		- Another adult (with a disability, who is elderly, etc.)
+		- Prefer not to answer
+		- No, none of the above apply to me
+	- What type of community do you live in? 
+	  logseq.order-list-type:: number
+		- Rural Area
+		- Large City
+		- Suburb
+		- Near a Large City
+		- Small City or Town
+		- Prefer not to answer
+	- logseq.order-list-type:: number
