@@ -35,12 +35,18 @@
 	- Note that
 		- [ʌ] occurs only in stressed syllables.
 		- [ə] occurs only in unstressed syllables.
+		- many American English speakers lack [ɔ], because it has merged with [a]
 		- symbol
 		  id:: 660a3a2c-e526-46e0-bf6f-4f4368647063
 			- i = iː = ē
 			- u = uː = o͞o
 			- ʊ = o͝o
 			- e = eɪ = ā
+			- (ɔ) = ɔː = ô
+			- o = əʊ, oʊ
+			- a = ɑː = ä
+			- ɒ
+			  id:: 660a7ed9-f4ba-4a9b-83b0-540dab710ace
 		- length of the sound
 			- long = tense
 			- short = lax
@@ -57,6 +63,7 @@
 			- neutral
 			- spread
 		- https://corpus.eduhk.hk/english_pronunciation/index.php/2-1-english-vowels/
+		- https://www.youtube.com/@EngLanguageClub
 - ## Footnotes
   collapsed:: true
 	- [^1]: [How to Pronounce the Glottal Stop/Glottal T and When is it Used - Pronunciation with Emma](https://www.youtube.com/watch?v=chcjHwWwVxQ)

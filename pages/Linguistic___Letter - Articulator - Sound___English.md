@@ -39,7 +39,7 @@ public:: true
 	  | h | voiceless gottal fricative | /h/ | **h**iccup, w**h**o |
 - Vowels
 	- | Letter | Articulator | Sound | Examples |
-	  | e, ea, y, ey | | iː | **ea**ger, ver**y**,paisl**ey** |
+	  | e, ea, y, ey | close front unrounded vowel | iː | **ea**ger, ver**y**,paisl**ey** |
 	  | i | | ɪ | **i**t, l**i**ft |
 	  | u, oo | | uː | sm**oo**ther, bl**oo**m, r**u**ne |
 	  | u, oo | | ʊ | c**oo**ked, p**u**lley, r**oo**k |
@@ -47,6 +47,8 @@ public:: true
 	  | e | | ɛ | **e**dge, f**e**nder |
 	  | a, e, i, o | | ə | **a**djust, b**a**nan**a** |
 	  | u | | ʌ | **u**pper, t**u**b |
-	  | a | | æ | | **a**pple, c**a**p
-	-
+	  | o | | o | st**o**ne, b**o**wled, f**o**lder |
+	  | a | | æ | **a**pple, c**a**p |
+	  | a, o | | ɑː | b**o**x, f**a**ther, p**o**nd |
+	  | or, a, ou, au, aw | open-mid back rounded vowel | ɔː | t**au**ght, sp**aw**ned, br**ou**ght |
 	- {{embed ((660a3a2c-e526-46e0-bf6f-4f4368647063))}}
