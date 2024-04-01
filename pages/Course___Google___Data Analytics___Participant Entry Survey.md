@@ -85,3 +85,29 @@
 		- Business Marketing
 		- Engineering
 		- None of the above/Does not Apply
+	- It is important to us to hear from a diverse group of learners. In these last few questions, we'd like you to provide some demographic information about yourself.
+	  logseq.order-list-type:: number
+	  
+	  In which country do you reside?
+	- What is your age? 
+	  logseq.order-list-type:: number
+		- 18-24 years old
+		- 25-29 years old
+		- 30-34 years old
+		- 35-39 years old
+		- 40-44 years old
+		- 45-49 years old
+		- 50-54 years old
+		- 55-59 years old
+		- 60-64 years old
+		- 65-69 years old
+		- 70-74 years old
+		- 75 or more years old
+		- Prefer not to answer
+	- What is your gender? 
+	  logseq.order-list-type:: number
+		- Woman Man Non-binary Other Prefer not to answer
+	- Are you a primary caregiver for any of the following? (select all that apply) 
+	  logseq.order-list-type:: number
+		- A child/children under age 18
+		- Another adult (with a disability, who is elderly, etc.) Prefer not to answer No, none of the above apply to me
