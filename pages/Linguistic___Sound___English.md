@@ -30,8 +30,8 @@ custom:: [[table-center]]
 	- |   |   | [Front](javascript:void(0);) | [Central](javascript:void(0);) | [Back](javascript:void(0);) |
 	  | --- | --- |-------------| --- | --- |----|
 	  | [High](javascript:void(0);) | [[Tense/IPA]] <br />[Lax](javascript:void(0);)| [i](https://www.cambridge.org/features/IPAchart/symbols/i.html) <br />[ɪ](javascript:viewSymbol('symbols/026A.html');)|   | [u](javascript:viewSymbol('symbols/u.html');) <br />[ʊ](javascript:viewSymbol('symbols/028A.html');) |
-	  | [Mid](javascript:void(0);) | [Tense](javascript:void(0);) | [e](javascript:viewSymbol('symbols/e.html');) |   | [o](javascript:viewSymbol('symbols/o.html');) |
-	  | [Lax](javascript:void(0);) | [ɛ](javascript:viewSymbol('symbols/025B.html');) | [ə](javascript:viewSymbol('symbols/schwa.html');)   [ʌ](javascript:viewSymbol('symbols/028C.html');) | [(ɔ)](javascript:viewSymbol('symbols/0254.html');) |
+	  | [Mid](javascript:void(0);) | [Tense](javascript:void(0);) <br /> [Lax](javascript:void(0);) | [e](javascript:viewSymbol('symbols/e.html');) <br />[ɛ](javascript:viewSymbol('symbols/025B.html');)|   | [o](javascript:viewSymbol('symbols/o.html');) |
+	  |  |  | [ə](javascript:viewSymbol('symbols/schwa.html');)   [ʌ](javascript:viewSymbol('symbols/028C.html');) | [(ɔ)](javascript:viewSymbol('symbols/0254.html');) |
 	  | [Low](javascript:void(0);) | [Lax](javascript:void(0);) | [æ](javascript:viewSymbol('symbols/00E6.html');) | [a](javascript:viewSymbol('symbols/a.html');) |   |
 	-
 	-
