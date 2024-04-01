@@ -1,1 +1,3 @@
 - [[Course/Google/Data Analytics/Participant Entry Survey]]
+- [[Course/Google/Data Analytics/Commit Survey]]
+-

@@ -15,3 +15,38 @@
 		- Apply the certificate to a degree or further education (for credit, etc)
 		- Supplement my current coursework in school
 		- Explore the potential of entering a new role/career
+		- Other reason
+	- In the next questions we'd like to learn more about your employment. 
+	  logseq.order-list-type:: number
+	  Which of the following best describes your employment status when you started the certificate program?
+		- Employed full-time (35 or more hours/week)
+		- Not employed and not looking for work
+		- Employed part-time (less than 35 hours/week)
+		- Unemployed and looking for work
+		- Decline to state
+		- None of the above
+	- Which of the following best describes the business/organization you work for? 
+	  logseq.order-list-type:: number
+		- Freelancer/independent contractor
+		- Small business with under 50 employees
+		- Mid-sized business with 50 to 249 employees
+		- Mid-sized business with 250 to 499 employees
+		- Mid-sized enterprise with 500-999 employees
+		- Large enterprise with 1000 or more employees
+		- Not-for-profit organization
+		- Public sector (government, public education, etc.)
+		- None of the above/Does not apply
+	- What best describes your yearly earnings when you started the certificate program? 
+	  logseq.order-list-type:: number
+		- $0-$1,999/year
+		- $2,000-$3,999/year
+		- $4,000-$5,999/year
+		- $6,000-$7,999/year
+		- $8,000-9,999/year
+		- $10,000-$19,999/year
+		- $20,000-$29,999/year
+		- $30,000-$39,999/year
+		- $40,000-$49,999/year
+		- $50,000-$59,999/year
+		- $60,000-$69,999/year
+		- $70,000-$79,999/year $80,000-$89,999/year $90,000-$99,999/year More than $100,000/year Prefer not to answer

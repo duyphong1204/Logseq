@@ -1,0 +1,7 @@
+- Commit to completing the program
+	- Take a minute to set yourself up for success
+		- Did you know that learners tend to succeed and get more out of the program if they set their intention to complete it upfront?
+		- Complete your commitment statement below, and reach your goals.
+		- This is just for you and is not graded.
+		- I commit to my goal to complete the Google Data Analytics Certificate.
+		- I chose to complete the Google Data Analytics Certificate because...
