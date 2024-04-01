@@ -7,3 +7,7 @@ a.external-link {
 .page.relative>.relative .pre-block[data-refs-self*=":center-align"] ~ .ls-block[level="1"] {
     text-align: center;
 }
+.table td, table th {
+    text-align: center;
+    vertical-align: center;
+}

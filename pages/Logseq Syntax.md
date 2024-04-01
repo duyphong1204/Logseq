@@ -67,4 +67,9 @@
 - ((65f5e1e0-4277-4809-917f-c0b941c4ee48))
 -
 - 02:29 [[Mar 27th, 2024]] lần trước xem qua cái tên page thôi là CVATT chả hiểu cái đấy để làm gì, xong vào white board nhìn phát á à, dự án 10 năm của mình chứ không phải chỉ về film như ở Notion => Giá trị của map là ở đây
+- 07:02 [[Apr 1st, 2024]] đã cài trong custom.css: custom:: (hay tên gì cũng được) + 
+  ```css
+  [[:center-align]]
+  ```
+  là nó sẽ center align cả trang
 -
