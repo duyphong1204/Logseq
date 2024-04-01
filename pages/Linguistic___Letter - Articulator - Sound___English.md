@@ -49,6 +49,6 @@ public:: true
 	  | u | | ʌ | **u**pper, t**u**b |
 	  | o | | o | st**o**ne, b**o**wled, f**o**lder |
 	  | a | | æ | **a**pple, c**a**p |
-	  | a, o | | ɑː | b**o**x, f**a**ther, p**o**nd |
 	  | or, a, ou, au, aw | open-mid back rounded vowel | ɔː | t**au**ght, sp**aw**ned, br**ou**ght |
+	  | a, o | open back rounded vowel | ɒ, ɑː | fr**o**m, **o**f, **o**n |
 	- {{embed ((660a3a2c-e526-46e0-bf6f-4f4368647063))}}

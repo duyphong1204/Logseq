@@ -31,7 +31,7 @@
 	  | --- | --- |-------------| --- | --- |----|
 	  | [High](High/IPA) | [Tense](Tense/IPA) <br />[Lax](Lax/IPA)| [i](https://www.cambridge.org/features/IPAchart/symbols/i.html) <br />[ɪ](https://www.cambridge.org/features/IPAchart/symbols/026A.html)|   | [u](https://www.cambridge.org/features/IPAchart/symbols/u.html) <br />[ʊ](https://www.cambridge.org/features/IPAchart/symbols/028A.html) |
 	  | [Mid](Mid/IPA) | [Tense](Tense/IPA) <br />[Lax](Lax/IPA) | [e](https://www.cambridge.org/features/IPAchart/symbols/e.html) <br />[ɛ](https://www.cambridge.org/features/IPAchart/symbols/025B.html)  |   <br />[ə](https://www.cambridge.org/features/IPAchart/symbols/schwa.html) <br />[ʌ](https://www.cambridge.org/features/IPAchart/symbols/028C.html) | [o](https://www.cambridge.org/features/IPAchart/symbols/o.html) <br />[(ɔ)](https://www.cambridge.org/features/IPAchart/symbols/0254.html) |
-	  | [Low](Low/IPA) | [Lax](Lax/IPA) | [æ](https://www.cambridge.org/features/IPAchart/symbols/00E6.html) | [a](https://www.cambridge.org/features/IPAchart/symbols/a.html) |   |
+	  | [Low](Low/IPA) | [Lax](Lax/IPA) | [æ](https://www.cambridge.org/features/IPAchart/symbols/00E6.html) | [a](https://www.cambridge.org/features/IPAchart/symbols/a.html) | ɒ |
 	- Note that
 		- [ʌ] occurs only in stressed syllables.
 		- [ə] occurs only in unstressed syllables.
