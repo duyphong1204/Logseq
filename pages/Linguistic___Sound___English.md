@@ -35,6 +35,7 @@
 	- Note that
 		- [ʌ] occurs only in stressed syllables.
 		- [ə] occurs only in unstressed syllables.
+		- i = iː = ē
 - ## Footnotes
   collapsed:: true
 	- [^1]: [How to Pronounce the Glottal Stop/Glottal T and When is it Used - Pronunciation with Emma](https://www.youtube.com/watch?v=chcjHwWwVxQ)

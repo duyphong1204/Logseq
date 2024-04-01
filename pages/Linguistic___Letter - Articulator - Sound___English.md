@@ -38,4 +38,8 @@ public:: true
 	  | t | voiceless glottal stop | /ʔ/ (/t/ replacement) | can'**t**, la**t**e, wha**t** |
 	  | h | voiceless gottal fricative | /h/ | **h**iccup, w**h**o |
 - Vowels
-	- | Letter | Articulator | Sound | Examples
+	- | Letter | Articulator | Sound | Examples |
+	  | e, ea, y, ey | | iː | **ea**ger, ver**y**,paisl**ey** |
+	  | i | | ɪ | **i**t, l**i**ft |
+	  | | | sm**oo**ther, bl**oo**m |
+	-
