@@ -18,6 +18,7 @@
 		- Other reason
 	- In the next questions we'd like to learn more about your employment. 
 	  logseq.order-list-type:: number
+	  
 	  Which of the following best describes your employment status when you started the certificate program?
 		- Employed full-time (35 or more hours/week)
 		- Not employed and not looking for work
@@ -49,4 +50,38 @@
 		- $40,000-$49,999/year
 		- $50,000-$59,999/year
 		- $60,000-$69,999/year
-		- $70,000-$79,999/year $80,000-$89,999/year $90,000-$99,999/year More than $100,000/year Prefer not to answer
+		- $70,000-$79,999/year
+		- $80,000-$89,999/year
+		- $90,000-$99,999/year
+		- More than $100,000/year
+		- Prefer not to answer
+	- Please answer the following questions about your educational background and goals: 
+	  logseq.order-list-type:: number
+	  
+	  What is the highest level of education you have completed/received?
+		- Less than High School Diploma/GED
+		- High School Diploma/GED
+		- Some College (no degree)
+		- Associate's Degree
+		- Bachelor's Degree
+		- Master's Degree (e.g. M.A., MBA, M.S.)
+		- Doctorate/Professional Degree (e.g. MD, JD, PhD)
+		- Prefer not to answer
+	- Are you a student in any of the following degree programs? 
+	  logseq.order-list-type:: number
+		- Associate's Degree Program
+		- Bachelor's Degree Program (BA, BS, etc.)
+		- Master's Degree Program (MS, MBA, etc.)
+		- Doctorate Degree Program (PhD, MD, JD, etc.)
+		- Another Certificate/Diploma Program
+		- Not a student/None of the above
+		- Prefer not to answer
+	- Which of the following best describes your current or intended field of study? 
+	  logseq.order-list-type:: number
+		- Computer Science
+		- Informational Technology
+		- Cyber Security
+		- Web design or development
+		- Business Marketing
+		- Engineering
+		- None of the above/Does not Apply
