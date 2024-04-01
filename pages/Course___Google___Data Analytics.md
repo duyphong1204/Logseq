@@ -1,3 +1,5 @@
 - [[Course/Google/Data Analytics/Participant Entry Survey]]
 - [[Course/Google/Data Analytics/Commit Survey]]
--
+- can be use to track students learning
+- can be use to ask people about CVATT, but what to do and how to do. Sẽ cần phải đi gặp gỡ nói chuyện tạo thiện cảm, sẽ cần phải thống kê data vào đâu đó và hỏi đúng, đôi khi hỏi form không ra, vì cái tôi cần là vấn đề của bạn, và sự cùng chung chứ không chỉ một chiều.
+- mà decisions ở video cassie nghĩa là gì? cảm giác cứ mơ hồ, một sự invest là, gì đó là một quyết định mà nhỉ, không thì họ có thể quyết định gì với data mà nhiều hay ít?
