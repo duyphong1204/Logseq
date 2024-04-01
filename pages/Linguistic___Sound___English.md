@@ -35,7 +35,28 @@
 	- Note that
 		- [ʌ] occurs only in stressed syllables.
 		- [ə] occurs only in unstressed syllables.
-		- i = iː = ē
+		- symbol
+		  id:: 660a3a2c-e526-46e0-bf6f-4f4368647063
+			- i = iː = ē
+			- u = uː = o͞o
+			- ʊ = o͝o
+			- e = eɪ = ā
+		- length of the sound
+			- long = tense
+			- short = lax
+		- position of the tonge
+			- the distance between the tongue and the top of the mouth
+				- close = high
+				- open = low
+			- the part of the tongue that is raised
+				- front
+				- central
+				- back
+		- shape of the lip
+			- rounded
+			- neutral
+			- spread
+		- https://corpus.eduhk.hk/english_pronunciation/index.php/2-1-english-vowels/
 - ## Footnotes
   collapsed:: true
 	- [^1]: [How to Pronounce the Glottal Stop/Glottal T and When is it Used - Pronunciation with Emma](https://www.youtube.com/watch?v=chcjHwWwVxQ)
