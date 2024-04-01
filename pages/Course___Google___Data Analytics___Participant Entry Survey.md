@@ -121,4 +121,14 @@
 		- Near a Large City
 		- Small City or Town
 		- Prefer not to answer
-	- logseq.order-list-type:: number
+	- Do you consent to a Google representative contacting you regarding your certificate experience? 
+	  logseq.order-list-type:: number
+	  If you indicate "yes," a Google representative may reach out via the email address you used to register for your Coursera account. 
+	  Any additional information you provide will only be shared externally with your permission.
+		- Yes - please share my contact information with Google
+		- No - please do not share my contact information with Google
+	- Do you consent to a Coursera representative contacting you regarding your certificate experience? If you indicate "yes," a Coursera representative may reach out via the email address you used to register for your Coursera account. 
+	  logseq.order-list-type:: number
+	  Any additional information you provide will only be shared externally with your permission.
+		- Yes
+		- No
