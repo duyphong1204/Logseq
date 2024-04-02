@@ -40,16 +40,15 @@ public:: true
 - Vowels
 	- | Letter | Articulator | Sound | Examples |
 	  | e, ea, y, ey | close front unrounded vowel | iː | **ea**ger, ver**y**,paisl**ey** |
-	  | i | | ɪ | **i**t, l**i**ft |
-	  | u, oo | | uː | sm**oo**ther, bl**oo**m, r**u**ne |
-	  | u, oo | | ʊ | c**oo**ked, p**u**lley, r**oo**k |
-	  | a, e | | eɪ | h**e**y, l**a**bor, g**a**y |
-	  | e | | ɛ | **e**dge, f**e**nder |
-	  | a, e, i, o | | ə | **a**djust, b**a**nan**a** |
-	  | o, u, ou | open mid-back unrounded vowel | ʌ | **u**pper, c**ou**ntry, w**a**nt |
-	  | o | | o | st**o**ne, b**o**wled, f**o**lder |
+	  | i | near-close near-front unrounded vowel | ɪ | **i**t, l**i**ft |
+	  | u, oo | close back rounded vowle | uː | sm**oo**ther, bl**oo**m, r**u**ne |
+	  | u, oo | near-close near-back vowel | ʊ | c**oo**ked, p**u**lley, r**oo**k |
+	  | e | close-mid front unrounded vowel | ɛ | **e**dge, f**e**nder |
+	  | a, e, i, o | mid-centra vowel | ə | **a**djust, b**a**nan**a** |
+	  | er, or, ur, ir | open-mid central unrounded vowel | ɜː | h**e**r, t**ur**n, l**ear**n |
 	  | or, a, ou, au, aw | open-mid back rounded vowel | ɔː | t**au**ght, sp**aw**ned, br**ou**ght |
 	  | a | near-open front unrounded vowel | æ | **a**pple, c**a**p |
+	  | o, u, ou | open mid-back unrounded vowel | ʌ | **u**pper, c**ou**ntry, w**a**nt |
 	  | a | open back unrounded vowel | ɑː | st**a**rt, l**a**rge, p**a**rt |
 	  | a, o, au | open back rounded vowel | ɒ | n**o**t, wh**a**t, bec**au**se |
 	- {{embed ((660a3a2c-e526-46e0-bf6f-4f4368647063))}}

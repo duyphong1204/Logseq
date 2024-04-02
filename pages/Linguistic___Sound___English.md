@@ -41,7 +41,7 @@
 			- i = iː = ē
 			- u = uː = o͞o
 			- ʊ = o͝o
-			- e = eɪ = ā
+			- e = ɛ = ā =
 			- (ɔ) = ɔː = ô
 			- o = əʊ, oʊ
 			- a = ɑː = ä
@@ -64,6 +64,7 @@
 			- spread
 		- https://corpus.eduhk.hk/english_pronunciation/index.php/2-1-english-vowels/
 		- https://www.youtube.com/@EngLanguageClub
+		  collapsed:: true
 - ## Footnotes
   collapsed:: true
 	- [^1]: [How to Pronounce the Glottal Stop/Glottal T and When is it Used - Pronunciation with Emma](https://www.youtube.com/watch?v=chcjHwWwVxQ)
