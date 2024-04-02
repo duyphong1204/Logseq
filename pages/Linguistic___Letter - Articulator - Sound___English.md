@@ -10,6 +10,7 @@ public:: true
 - Cái này phục vụ tra theo letter xem articulator hay sound nó là gì là chính, hoặc tra xem articulator này có những từ gì, nhưng thế thì tra ở bảng khác cũng được. Chứ mấy ai tra examples với sound. Sound thì thường dễ liệt kê hơn (dù có thể miss vài chữ - ánh xạ ha?), examples thì phải tra bằng từ điển rồi
 - Consonants
   id:: 65baca2d-68da-4707-a6cb-637b27060f9b
+  collapsed:: true
 	- | Letter | Articulator | Sound | Examples |
 	  | p | voiceless bilabial stop | /p/ | **p**ot, ha**pp**en, ca**p** |
 	  | b | voiced bilabial stop | /b/ | **b**ut |
@@ -38,6 +39,7 @@ public:: true
 	  | t | voiceless glottal stop | /ʔ/ (/t/ replacement) | can'**t**, la**t**e, wha**t** |
 	  | h | voiceless gottal fricative | /h/ | **h**iccup, w**h**o |
 - Vowels
+  collapsed:: true
 	- | Letter | Articulator | Sound | Examples |
 	  | e, ea, y, ey | close front unrounded vowel | iː | **ea**ger, ver**y**,paisl**ey** |
 	  | i | near-close near-front unrounded vowel | ɪ | **i**t, l**i**ft |
@@ -46,9 +48,10 @@ public:: true
 	  | e | close-mid front unrounded vowel | ɛ | **e**dge, f**e**nder |
 	  | a, e, i, o | mid-centra vowel | ə | **a**djust, b**a**nan**a** |
 	  | er, or, ur, ir | open-mid central unrounded vowel | ɜː | h**e**r, t**ur**n, l**ear**n |
-	  | or, a, ou, au, aw | open-mid back rounded vowel | ɔː | t**au**ght, sp**aw**ned, br**ou**ght |
 	  | a | near-open front unrounded vowel | æ | **a**pple, c**a**p |
 	  | o, u, ou | open mid-back unrounded vowel | ʌ | **u**pper, c**ou**ntry, w**a**nt |
 	  | a | open back unrounded vowel | ɑː | st**a**rt, l**a**rge, p**a**rt |
+	  | or, a, ou, au, aw | open-mid back rounded vowel | ɔː | t**au**ght, sp**aw**ned, br**ou**ght |
 	  | a, o, au | open back rounded vowel | ɒ | n**o**t, wh**a**t, bec**au**se |
 	- {{embed ((660a3a2c-e526-46e0-bf6f-4f4368647063))}}
+- Diphthongs
