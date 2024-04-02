@@ -39,7 +39,6 @@ public:: true
 	  | t | voiceless glottal stop | /ʔ/ (/t/ replacement) | can'**t**, la**t**e, wha**t** |
 	  | h | voiceless gottal fricative | /h/ | **h**iccup, w**h**o |
 - Vowels
-  collapsed:: true
 	- | Letter | Articulator | Sound | Examples |
 	  | e, ea, y, ey | close front unrounded vowel | iː | **ea**ger, ver**y**,paisl**ey** |
 	  | i | near-close near-front unrounded vowel | ɪ | **i**t, l**i**ft |
