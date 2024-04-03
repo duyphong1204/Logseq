@@ -54,11 +54,12 @@ public:: true
 	  | a, o, au | open back rounded vowel | ɒ | n**o**t, wh**a**t, bec**au**se |
 	- {{embed ((660a3a2c-e526-46e0-bf6f-4f4368647063))}}
 - Diphthongs
-	- | | | ɪə | y**ea**r, h**ea**r, r**ea**lly |
-	  | | | ʊə | |
-	  | | | eə | |
-	  | | | eɪ | |
-	  | | | ɔɪ | |
-	  | | | aɪ | |
-	  | | | eʊ | |
-	  | | | aʊ | |
+	- | Letter | Articulator | Sound | Examples |
+	  | | | ɪə | y**ea**r, h**ea**r, r**ea**lly |
+	  | | | ʊə | **o**ur, p**o**wer, d**u**ring |
+	  | | | eə | th**ere**, wh**ere**, p**a**rent |
+	  | | | eɪ | th**ey**, s**ay**, m**a**ke |
+	  | | | ɔɪ | p**oi**nt, b**oy**, **oi**l |
+	  | | | aɪ | **I**, b**y**, t**i**me |
+	  | | | eʊ | g**o**, n**o**, **o**nly |
+	  | | | aʊ | **ou**t, h**ow**, d**ow**n |
