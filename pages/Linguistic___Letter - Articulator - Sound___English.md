@@ -10,7 +10,6 @@ public:: true
 - Cái này phục vụ tra theo letter xem articulator hay sound nó là gì là chính, hoặc tra xem articulator này có những từ gì, nhưng thế thì tra ở bảng khác cũng được. Chứ mấy ai tra examples với sound. Sound thì thường dễ liệt kê hơn (dù có thể miss vài chữ - ánh xạ ha?), examples thì phải tra bằng từ điển rồi
 - Consonants
   id:: 65baca2d-68da-4707-a6cb-637b27060f9b
-  collapsed:: true
 	- | Letter | Articulator | Sound | Examples |
 	  | p | voiceless bilabial stop | /p/ | **p**ot, ha**pp**en, ca**p** |
 	  | b | voiced bilabial stop | /b/ | **b**ut |
@@ -26,10 +25,10 @@ public:: true
 	  | t | voiced alveolar tap | /ɾ/ | ca**t**aract, pre**tt**y |
 	  | s, x | voiceless alveolar fricative | /s/ | **s**amba, collap**s**e, enormou**s** |
 	  | s, x | voiced alveolar fricative | /z/ | **x**erox, pai**s**ley, u**s**e |
-	  | r | voiced alveolar approximant | /ɹ/ | **r**odent, u**r**anium, ta**r** |
+	  | r | voiced alveolar approximant | /r/ | **r**odent, u**r**anium, ta**r** |
 	  | l | voiced alveolar lateral approximant | /l/ | **l**imb, f**l**ute, braw**l** |
 	  | ch | voiceless postalveolar affricate | /tʃ/ | **ch**ip, cat**ch**er, bat**ch** |
-	  | g, j | voiced postalveolar affricate | /dʒ/ | *j**eet, ad**j**ust, bud**g**et, |
+	  | g, j | voiced postalveolar affricate | /dʒ/ | **j**eet, ad**j**ust, bud**g**et, |
 	  | sh, t | voiceless postalveolar fricative | /ʃ/ |  **sh**ip, ca**sh**, cau**t**ion |
 	  | s | voiced postalveolar fricative | /ʒ/ | mea**s**ure, bei**g**e |
 	  | u, y | voiced palatal approximant | /j/ | **y**es, c**u**be |
