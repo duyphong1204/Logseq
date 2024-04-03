@@ -56,7 +56,7 @@ public:: true
 - Diphthongs
 	- | Letter | Articulator | Sound | Examples |
 	  | | | ɪə | y**ea**r, h**ea**r, r**ea**lly |
-	  | | | ʊə | **o**ur, p**o**wer, d**u**ring |
+	  | | | ʊə | p**oo**r, ens**u**re |
 	  | | | eə | th**ere**, wh**ere**, p**a**rent |
 	  | | | eɪ | th**ey**, s**ay**, m**a**ke |
 	  | | | ɔɪ | p**oi**nt, b**oy**, **oi**l |
