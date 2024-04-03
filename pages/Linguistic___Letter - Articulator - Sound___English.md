@@ -11,7 +11,6 @@ public:: true
 - Cái này phục vụ tra theo letter xem articulator hay sound nó là gì là chính, hoặc tra xem articulator này có những từ gì, nhưng thế thì tra ở bảng khác cũng được. Chứ mấy ai tra examples với sound. Sound thì thường dễ liệt kê hơn (dù có thể miss vài chữ - ánh xạ ha?), examples thì phải tra bằng từ điển rồi
 - Consonants
   id:: 65baca2d-68da-4707-a6cb-637b27060f9b
-  collapsed:: true
 	- | Letter | Articulator | Sound | Examples |
 	  | p | voiceless bilabial stop | /p/ | **p**ot, ha**pp**en, ca**p** |
 	  | b | voiced bilabial stop | /b/ | **b**ut |

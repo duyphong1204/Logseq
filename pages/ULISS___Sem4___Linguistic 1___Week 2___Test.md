@@ -2,10 +2,10 @@
   collapsed:: true
 	- Write a word which contain the sound described as "voiceless glottal fricative". #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T16:20:02.408Z
-	  card-last-reviewed:: 2024-01-29T16:20:02.408Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-07T14:00:01.980Z
+	  card-last-reviewed:: 2024-04-03T14:00:01.981Z
 	  card-last-score:: 5
 	  collapsed:: true
 		- how
@@ -24,10 +24,10 @@
 		- linen
 	- Choose the description for the initial consonant of the word "generosity". #card 
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T16:20:10.436Z
-	  card-last-reviewed:: 2024-01-29T16:20:10.436Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-07T14:01:34.927Z
+	  card-last-reviewed:: 2024-04-03T14:01:34.928Z
 	  card-last-score:: 5
 	  collapsed:: true
 	  A. voiced alveolo-palatal fricative
@@ -37,10 +37,10 @@
 		- voiced alveolo-palatal affricate
 	- Which word below contain the sound described as "voiced dental fricative"? #card 
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T16:20:09.657Z
-	  card-last-reviewed:: 2024-01-29T16:20:09.657Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-07T14:00:48.783Z
+	  card-last-reviewed:: 2024-04-03T14:00:48.783Z
 	  card-last-score:: 5
 	  collapsed:: true
 	  A. ethnic
@@ -63,10 +63,10 @@
 		- Billy
 	- Choose the description for the final consonant of the word "comb". #card 
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T16:20:11.986Z
-	  card-last-reviewed:: 2024-01-29T16:20:11.986Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-07T14:02:08.104Z
+	  card-last-reviewed:: 2024-04-03T14:02:08.105Z
 	  card-last-score:: 5
 	  collapsed:: true
 	  A. voiced bilabial stop
@@ -85,10 +85,10 @@
 		- voiceless labio-dental fricative
 	- Which word contains the sound described as "voiceless velar stop" in the sentence "I scream, you scream, we all scream for ice cream"? #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T16:20:11.302Z
-	  card-last-reviewed:: 2024-01-29T16:20:11.303Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-07T14:01:44.688Z
+	  card-last-reviewed:: 2024-04-03T14:01:44.688Z
 	  card-last-score:: 5
 	  collapsed:: true
 		- scream, cream
@@ -103,10 +103,10 @@
 		- chicken, kitchen
 	- How can you describle the initial sound of the word "shepherd"? #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T16:20:03.711Z
-	  card-last-reviewed:: 2024-01-29T16:20:03.711Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-07T14:00:22.500Z
+	  card-last-reviewed:: 2024-04-03T14:00:22.501Z
 	  card-last-score:: 5
 	  collapsed:: true
 		- voiceless alveolo-palatal fricative
@@ -125,10 +125,10 @@
 		- /j/
 	- Point out the voiceless sound of the word "Dental" #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T16:20:12.601Z
-	  card-last-reviewed:: 2024-01-29T16:20:12.601Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-07T14:02:27.585Z
+	  card-last-reviewed:: 2024-04-03T14:02:27.586Z
 	  card-last-score:: 5
 	  collapsed:: true
 		- /t/
