@@ -2,8 +2,10 @@
   id:: 660ac4cd-ee89-4f0c-a1d6-d769802a5102
 - By completing this survey, you understand that the information provided will be shared with Google and Coursera. Please note that all data will be analyzed in aggregate and decoupled from data identifying you as an individual. Google and Coursera will use this data in aggregate to improve the performance of the program.
 - Responses will not affect your course experience or grades.
-	- Are you 18 years of age or older? Yes No
+	- Are you 18 years of age or older? 
 	  logseq.order-list-type:: number
+		- Yes
+		- No
 	- We'd like to learn a little bit more about you and what motivated you to take this certificate program. 
 	  logseq.order-list-type:: number
 	  

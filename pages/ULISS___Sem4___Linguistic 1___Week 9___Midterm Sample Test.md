@@ -1,5 +1,4 @@
-- collapsed:: true
-  1. Given below are the definitions of some linguistic terms. Write the term (NO MORE THAN TWO WORDS) next to each definition.
+- 1. Given below are the definitions of some linguistic terms. Write the term (NO MORE THAN TWO WORDS) next to each definition.
 	- a. The smallest unit of sound in a language which can distinguish two words:
 		- phoneme
 	- b. The central organ involved in the production of an oral or nasal sound:
@@ -10,8 +9,7 @@
 		- blending
 	- e. The concrete realization of a morpheme:
 		- morph
-- collapsed:: true
-  2. Decide whether the following statements are true or false.
+- 2. Decide whether the following statements are true or false.
 	- a. Morphemes are minimal linguistic signs in the sense that they can't be divided into further signs.
 		- **T**
 	- b. Bound morphs are called affixes.
