@@ -5,11 +5,13 @@ public:: true
 - Oral Stop = Stop
   Nasal Stop = Nasal
 - Khi nào t, d, ed
+  collapsed:: true
   Khi nào z, s
   Thứ tự letter sẽ xếp theo độ phổ biến của chữ cái này được phát âm bằng sound này (hay đúng hơn là sound này được thể hiện bằng chữ cái này) - chứ không theo alphabet (như examples, hay với example ta nên để đầu, giữa, đuôi nhỉ - đuôi ở đây là âm cuối cùng chứ không phải chữ cuối cùng của từ vì có chữ không phát âm, ừ nên để đầu giữa đuôi như cambridge chứ? vì nó minh họa mà) với trường hợp sh, t
 - Cái này phục vụ tra theo letter xem articulator hay sound nó là gì là chính, hoặc tra xem articulator này có những từ gì, nhưng thế thì tra ở bảng khác cũng được. Chứ mấy ai tra examples với sound. Sound thì thường dễ liệt kê hơn (dù có thể miss vài chữ - ánh xạ ha?), examples thì phải tra bằng từ điển rồi
 - Consonants
   id:: 65baca2d-68da-4707-a6cb-637b27060f9b
+  collapsed:: true
 	- | Letter | Articulator | Sound | Examples |
 	  | p | voiceless bilabial stop | /p/ | **p**ot, ha**pp**en, ca**p** |
 	  | b | voiced bilabial stop | /b/ | **b**ut |
@@ -38,6 +40,7 @@ public:: true
 	  | t | voiceless glottal stop | /ʔ/ (/t/ replacement) | can'**t**, la**t**e, wha**t** |
 	  | h | voiceless gottal fricative | /h/ | **h**iccup, w**h**o |
 - Vowels
+  collapsed:: true
 	- | Letter | Articulator | Sound | Examples |
 	  | e, ea, y, ey | close front unrounded vowel | iː | **ea**ger, ver**y**,paisl**ey** |
 	  | i | near-close near-front unrounded vowel | ɪ | **i**t, l**i**ft |
@@ -53,6 +56,7 @@ public:: true
 	  | a, o, au | open back rounded vowel | ɒ | n**o**t, wh**a**t, bec**au**se |
 	- {{embed ((660a3a2c-e526-46e0-bf6f-4f4368647063))}}
 - Diphthongs
+  collapsed:: true
 	- | Letter | Articulator | Sound | Examples |
 	  | | | ɪə | y**ea**r, h**ea**r, r**ea**lly |
 	  | | | ʊə | **o**ur, p**o**wer, d**u**ring |

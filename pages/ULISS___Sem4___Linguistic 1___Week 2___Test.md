@@ -11,10 +11,10 @@
 		- how
 	- Which word below contain the sound described as "voiced alveolar lateral"? #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T16:19:58.368Z
-	  card-last-reviewed:: 2024-01-29T16:19:58.368Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-07T13:24:35.659Z
+	  card-last-reviewed:: 2024-04-03T13:24:35.659Z
 	  card-last-score:: 5
 	  collapsed:: true
 	  A. linen
@@ -49,12 +49,12 @@
 	  D. anthem
 		- either
 	- Choose the word which does NOT contain the sound described as "voiceless bilabial stop". #card 
-	  card-last-interval:: 4
+	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T16:20:01.345Z
-	  card-last-reviewed:: 2024-01-29T16:20:01.345Z
-	  card-last-score:: 5
+	  card-next-schedule:: 2024-04-03T17:00:00.000Z
+	  card-last-reviewed:: 2024-04-03T13:25:55.084Z
+	  card-last-score:: 1
 	  collapsed:: true
 	  A. pepper
 	  B. pinpoint
@@ -76,10 +76,10 @@
 		- voiced bilabial nasal
 	- How can you describe the final consonant of the word "tough"? #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T16:19:56.400Z
-	  card-last-reviewed:: 2024-01-29T16:19:56.400Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-07T13:24:26.554Z
+	  card-last-reviewed:: 2024-04-03T13:24:26.555Z
 	  card-last-score:: 5
 	  collapsed:: true
 		- voiceless labio-dental fricative
@@ -94,10 +94,10 @@
 		- scream, cream
 	- Which word contains the sound described as "voiceless alveolo-palatal affricate" in the sentence "I saw a kitten eating chicken in the kitchen"? #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T16:19:50.486Z
-	  card-last-reviewed:: 2024-01-29T16:19:50.487Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-07T13:23:20.264Z
+	  card-last-reviewed:: 2024-04-03T13:23:20.264Z
 	  card-last-score:: 5
 	  collapsed:: true
 		- chicken, kitchen
@@ -112,10 +112,10 @@
 		- voiceless alveolo-palatal fricative
 	- Which sound is described as the following: voiced palatal glide? #card 
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T16:19:59.290Z
-	  card-last-reviewed:: 2024-01-29T16:19:59.291Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-07T13:24:52.859Z
+	  card-last-reviewed:: 2024-04-03T13:24:52.860Z
 	  card-last-score:: 5
 	  collapsed:: true
 	  A. /w/
@@ -134,11 +134,11 @@
 		- /t/
 	- Choose the description for the initial consonant of the word "psychometric". #card 
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2024-02-02T05:17:13.374Z
-	  card-last-reviewed:: 2024-01-29T05:17:13.376Z
-	  card-last-score:: 3
+	  card-repeats:: 2
+	  card-ease-factor:: 2.46
+	  card-next-schedule:: 2024-04-07T13:21:40.803Z
+	  card-last-reviewed:: 2024-04-03T13:21:40.804Z
+	  card-last-score:: 5
 	  collapsed:: true
 	  A. voiceless alveolar fricative
 	  B. voicless alveolar stop
@@ -147,19 +147,19 @@
 		- voiceless alveolar fricative
 	- How can you describe the medial consonant of the word "manner"? #card
 	  card-last-score:: 5
-	  card-repeats:: 1
-	  card-next-schedule:: 2024-02-02T05:17:15.837Z
+	  card-repeats:: 2
+	  card-next-schedule:: 2024-04-07T13:22:51.811Z
 	  card-last-interval:: 4
-	  card-ease-factor:: 2.6
-	  card-last-reviewed:: 2024-01-29T05:17:15.837Z
+	  card-ease-factor:: 2.7
+	  card-last-reviewed:: 2024-04-03T13:22:51.811Z
 	  collapsed:: true
 		- voiced alveolar nasal
 	- Write TWO words which contain the sound described as "voiced alveolar retroflex". #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-02-02T16:20:00.405Z
-	  card-last-reviewed:: 2024-01-29T16:20:00.405Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-07T13:24:56.877Z
+	  card-last-reviewed:: 2024-04-03T13:24:56.877Z
 	  card-last-score:: 5
 	  collapsed:: true
 		- red, right
