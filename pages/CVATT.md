@@ -2,7 +2,8 @@
 	- [[Mar 27th, 2024]] mình nhận ra cái tên CVATT nghe chỉ như tên phim hoặc một cái cảm giác, nhưng đổi thành CVA thì quá lười và có lẽ sẽ hỏng link, hoặc không, nhưng để thế này cho dễ phân biệt, nó sẽ giống Nhật ký ở Chu, cái tên chỉ là tên, thực chất nó là một thứ như dự án về một cộng đồng Chu Văn An. Và nó đương nhiên không chỉ dành cho Alumni, một khi bạn được nhận vào Chu, thì bạn đã là người của cộng đồng.
 	- [[Apr 4th, 2024]] Việc trừu tượng hóa một không gian, cứ tưởng chỉ ở Chu mới có, và chưa có đề tài nghiên cứu nhiều, mình cũng cố hình dung và tiếp cận, có thể qua diễn ngôn, qua cách tương tác của họ (cách họ sống và chiết xuất ra một phần trong đó gọi là cuộc sống cấp 3 ở Chu. Chữ ở Chu nó là một cái gì đó? mà khi họ nói muốn về Chu, khác muốn về cấp 3 bình thường)
 		- Cái sách về Parallel Society mà RMIT đưa cho Lã cũng cố khái niệm hóa một thứ như vậy. Rất rất thú vị, có thể là cấu trúc tốt để mình thử nghiên cứu và cũng như đối sánh.
-		- Mình mới đầu nghĩ chỉ là từ đây
+		- Mình mới đầu nghĩ chỉ là từ đây định build một society riêng tại nó sẽ là society của cựu nhiều hơn là của chung, thực ra làm nghiên cứu rồi build cái này cũng được
+		- Cái này trong khóa Data Analytics gọi là
 - Roadmap
 	- Từ việc phát triển các mối quan hệ bản thân, ta tạo tiền đề, bệ vững đủ mạnh về quan hệ, hiểu biết về xây dựng cộng đồng, tầm nhìn đủ tốt để kết nối cộng đồng Chu
 - What to do
