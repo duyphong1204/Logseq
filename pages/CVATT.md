@@ -3,7 +3,7 @@
 	- [[Apr 4th, 2024]] Việc trừu tượng hóa một không gian, cứ tưởng chỉ ở Chu mới có, và chưa có đề tài nghiên cứu nhiều, mình cũng cố hình dung và tiếp cận, có thể qua diễn ngôn, qua cách tương tác của họ (cách họ sống và chiết xuất ra một phần trong đó gọi là cuộc sống cấp 3 ở Chu. Chữ ở Chu nó là một cái gì đó? mà khi họ nói muốn về Chu, khác muốn về cấp 3 bình thường)
 		- Cái sách về Parallel Society mà RMIT đưa cho Lã cũng cố khái niệm hóa một thứ như vậy. Rất rất thú vị, có thể là cấu trúc tốt để mình thử nghiên cứu và cũng như đối sánh.
 		- Mình mới đầu nghĩ chỉ là từ đây định build một society riêng tại nó sẽ là society của cựu nhiều hơn là của chung, thực ra làm nghiên cứu rồi build cái này cũng được
-		- Cái này trong khóa Data Analytics gọi là
+		- Cái này trong khóa Data Analytics gọi là ecosystem cũng hay, kiểu các data ở đó tương tác với nhau như nào, như cuộc sống của CVA được số hóa và lưu lại? và nhìn ra cuộc sống trong đó như ta xem một bộ phim
 - Roadmap
 	- Từ việc phát triển các mối quan hệ bản thân, ta tạo tiền đề, bệ vững đủ mạnh về quan hệ, hiểu biết về xây dựng cộng đồng, tầm nhìn đủ tốt để kết nối cộng đồng Chu
 - What to do
