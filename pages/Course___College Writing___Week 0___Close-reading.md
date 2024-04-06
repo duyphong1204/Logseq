@@ -16,6 +16,7 @@
 					- Greek
 					- Roman
 - Methodology/Skills of Close-reading
+  collapsed:: true
 	- A look at the larger Structure/Form
 		- repetition/anaphora
 		- contrast/juxtaposition
@@ -27,6 +28,7 @@
 			- sudden break (caesura)
 			- enjambment
 - Details of the text
+  collapsed:: true
 	- Word Choice
 	- Sensory perceptions
 		- sight
@@ -40,7 +42,17 @@
 		- touch (haptic/tactile)
 		- movement
 		- stillness
-	- Paradigmatic/Syntatic Grap
+	- Paradigmatic/Syntatic Graph
+		- Complex - Compound structure in [[Course/Academic Writing]]
+	- Word Symbol/Association
+		- positive
+		- negative
+		- cuturally determined
+		- cuturally universal
+- Form/Structure vs Content/Sense
+	- In Close-reading (focus on short texts)
+		- do not forget the context
+		- form/content need to both fit into larger context
 - ---
 - Question
 	- What exactly should I pull out from those references context, and where should I look for each now?
@@ -49,3 +61,5 @@
 	- And I did not get to learn this in highschool, i have to dive into it, learn it on my own when i was in tuyển, and in a hard way later
 - Sources
 	- ugurgallen
+	- Rowan Atkinson Live - fatal beatings
+-
