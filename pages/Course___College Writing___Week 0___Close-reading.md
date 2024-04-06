@@ -1,0 +1,51 @@
+- Context
+  collapsed:: true
+	- Do some research
+		- Author
+			- Poet
+			- Writer
+		- Setting
+			- Time
+			- Place
+			- Atmosphere
+		- Use of word
+			- Etymology, especially in poems
+			- Culture references
+				- Christian Bible (Judeo-Christian)
+				- Greco-Roman
+					- Greek
+					- Roman
+- Methodology/Skills of Close-reading
+	- A look at the larger Structure/Form
+		- repetition/anaphora
+		- contrast/juxtaposition
+			- student idea 1, 2?
+			- contrast emphasize both sides
+		- any weird places (everything is motivated)
+			- wrong grammar?
+			- usualy word choice (diction)
+			- sudden break (caesura)
+			- enjambment
+- Details of the text
+	- Word Choice
+	- Sensory perceptions
+		- sight
+		- colour
+		- size
+		- sound
+		- music
+		- silence
+		- smell
+		- taste
+		- touch (haptic/tactile)
+		- movement
+		- stillness
+	- Paradigmatic/Syntatic Grap
+- ---
+- Question
+	- What exactly should I pull out from those references context, and where should I look for each now?
+- Reflection
+	- It's true that I haven't been reading with references for a while, which is go for the ref first, cause I don't have enough time and prefer to have intertextual view point of my own
+	- And I did not get to learn this in highschool, i have to dive into it, learn it on my own when i was in tuyển, and in a hard way later
+- Sources
+	- ugurgallen
