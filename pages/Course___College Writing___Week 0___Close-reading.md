@@ -53,6 +53,17 @@
 	- In Close-reading (focus on short texts)
 		- do not forget the context
 		- form/content need to both fit into larger context
+- Poem Reading
+	- read the whole thing
+	- do quick research into the context, author, poet, materials
+	- do not trust random sources online (filter out the good stuffs)
+	- check all weird/new words
+	- rearrange lines into normal sentences
+	- make those sentences grammartical (fill the grammar words, missing words)
+	- analyze
+		- identify literary devices, find te message, how the techniques help deliver the message
+		- what are the messages?
+			- how does the form defines the content
 - ---
 - Question
 	- What exactly should I pull out from those references context, and where should I look for each now?
@@ -62,4 +73,6 @@
 - Sources
 	- ugurgallen
 	- Rowan Atkinson Live - fatal beatings
--
+- ---
+- Transcript
+	- 15:50 Research is never d
