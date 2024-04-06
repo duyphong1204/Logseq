@@ -75,4 +75,4 @@
 	- Rowan Atkinson Live - fatal beatings
 - ---
 - Transcript
-	- 15:50 Research is never d
+	- 15:50 Research is never done so know where to stop
