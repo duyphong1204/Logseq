@@ -4,8 +4,22 @@
 		- UniKit
 		- DaVinci
 		- Business
+			- xem Business video youtube
 		- La Van
 		- InterPot
+	- Education Manisfesto
+		- reply Khởi
+		- summarize những ý đó vào map (làm map trước đã)
 	- Github
 		- Block download file? from Packaging Project to Github
 		- Facebook data transcode script
+	- tháng 4/2024
+		- đọc College Writing
+		- làm GenGeo
+		- viết tiếng Pháp
+		- đọc và viết Lịch sử Đảng
+		- ôn tập CNXHKH
+	- viết lịch sử bản thân
+	- học
+		- điện ảnh
+- kiên định làm những việc tồn đọng, đừng để đời cuốn đi bởi những sự thay đổi không phải về mùa mà về thời kì kiểu kì thi, kì học, kì hè
