@@ -1,0 +1,14 @@
+- Lead-in
+- Fill in the blanks with appropriate information.
+- 1. There are states in the United States.
+- 2. states in the US have a common border with one another.
+- 3. is the capital city of the United States.
+- 4. The longest river is the
+- 5. The highest mountain is in
+- 6. Hawaii is in the Ocean.
+- 7. The countries to the north and the south of the United States are and
+- 8. The Great Lakes are Canada. big lakes between the United States and
+- 9. The Statue of Liberty is in City.
+- 10.
+- and
+- are the two newest states in the United States.
