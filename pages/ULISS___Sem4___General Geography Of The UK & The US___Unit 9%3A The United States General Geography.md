@@ -269,6 +269,7 @@ collapsed:: true
 					- which promotes commercial and sport fishing
 			- The comprehensive network of rivers also provides transportation routes for bulk cargo and the potential for the development of hydroelectric
 - ## Exercise 1
+  collapsed:: true
 	- Where is the USA located?
 	  logseq.order-list-type:: number
 		- North America
@@ -294,21 +295,22 @@ collapsed:: true
 	- Describe the geographic diversity of the USA.
 	  logseq.order-list-type:: number
 		-
-- EXERCISE 2
-- Complete the following table.
-- WEATHER FEATURES
-- CAUSES
-- Climate not generally temperate
-- Spectacular weather in Great Plains and Midwest
-- Southwest part of Great Plains very arid
-- Follow up
-- Label the landforms and the bodies of water, using the words in the box.
-- archipelago
-- isthmus
-- bay
-- gulf
-- island
-- lake
-- peninsula
-- river
-- strait
+- ## Exercise 2
+	- Complete the following table.
+	- | Weather Features | Causes |
+	  | Climate not generally temperate | tremendous sizes of the North America landmass heightens the extreme variations in temperature and precipitation |
+	  | Spectacular weather in Great Plains and Midwest | lack of natural barriers either to north or the south allow cold, dry and humid, warm air flows in |
+	  | Southwest part of Great Plains very arid | precipitation mostly in the form of summer showers |
+- ## Follow up
+  id:: 6613f470-aea7-48af-ad38-863dfd11429e
+	- Label the landforms and the bodies of water, using the words in the box.
+	- archipelago
+	- isthmus
+	- bay
+	- gulf
+	- island
+	- lake
+	- peninsula
+	- river
+	- strait
+-
