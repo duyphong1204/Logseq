@@ -35,6 +35,7 @@ collapsed:: true
 			- (31 times the size of Italy)
 			- making the United States the third largest country in the world.
 	- ## Topography
+	  collapsed:: true
 		- The country naturally presents a tremendous variety in physical features (and climate).
 		  collapsed:: true
 			- moist rainforest
@@ -135,3 +136,44 @@ collapsed:: true
 						- Colorado (2.320km)
 						- Columbia (2.240km)
 						- the San Joaquim-Sacramento
+	- ## Weather and climate
+	  collapsed:: true
+		- Virtually every type of climate can be found somewhere in the United States
+			- from arctic in Alaska
+			- to subtropical in Florida
+		- The climate is not generally temperate
+			- despite the latitude
+			- as the tremendous size of the North America landmass heightens the extreme variations in temperature and precipitation
+				- especially in the central regions
+					- in Dakota temperatures have reached a maximum of 49°C and a minimum of -60°C
+		- Most of the country has a humid continental climate
+			- with hot summers and cold winters
+			- while the lack of natural barriers either to north or the south allows cold, dry air to flow south from Canada
+			- warm, humid air north from the Gulf of Mexico giving rise to spectacular weather of every possible type in the Great Plains and Midwest.
+		- Summers are hot and very humid in this region and rainfall decreases to the west as a result of the rain shadow created by the West Pacific range and Sierra Nevada.
+		- The southwest portion of the Great Plains is the hottest and most arid region of the United States
+			- with precipitation, mostly in the form of summer showers, averaging less than 250mm a year.
+		- The Pacific coast is almost rainless in the summer
+			- although there is often fog.
+			- In the winter there is frequent drizzle, but the climate remains generally warm and dry. especially in California.
+			- The eastern part of the country
+				- is moderately rainy
+				- with precipitation fairly well distributed throughout the year.
+				- Summers tend to be extremely humid, especially along the coast of Texas and Florida.
+		- The USA is subject to a range of climate-related calamities
+			- such as hurricanes in the Southeast
+			- tornadoes on the Plains
+			- flooding around the main rivers
+			- severe snowstorms in the mountains and northern plains
+			- forest fires in the West and California.
+	- ## Geographic diversity
+	- Durring the settlement of the nation
+		- immigrants moved westward across the United States and found a rich and varied natural environment
+		- From the original coastal colonies, setllers made their way over the Appalachian Mountains beginning in the 1700s.
+		- Beyond Berfers made the the strolling teritory drained by the Mississippi River and the Great Lakes. There settlers encountered the rich farmlands of the Ohio Valley, the Mississippi Delta, and the Great Plains. For decades, the rugged peaks of the Rocky Mountains and he and landscape of the Southwest discouraged movement further west. In the mid. 1800s, however, spurred by the discovery of gold in California, determined settlers followed trails through the mountain passes to reach the West Coast. In the valleys of California and Oregon, they found productive agricultural land, and they began harvesting the timber reserves from the untouched forests of the Pacific Northwest. The purchase of Alaska in 1967 added a mountainous northern territory rich in natural resources. The annexation of Hawaii in 1898 gave the United States what would be its only tropical state. The United States has been blessed with many natural advantages, such as climates favorable for agriculture, extensive internal waterways, and abundant natural resources.
+		  
+		  JOHN BERKET SMITHSONIAN NATIONAL POSTAL MUSEUM
+		  
+		  Another major natural advantage-one that is taken for granted by most Americans-is that the major river systems (the Mississippi, Missouri, Ohio, Colorado, and Rio Grande systems) flow south. If these rivers flowed north, as rivers do in Russian Siberia, ice and frozen soil would block the melt water, causing floods that would saturate the land and render it unusable for agriculture. Instead, when spring thaws arrive in the interior mountains of the United States, melt water flows unimpeded through the river systems to the warm waters of the Gulf of Mexico or the Gulf of California. This almost uninterrupted flow of water provides ample supplies for drinking water and for crop irrigation and industrial production.
+		  
+		  The United States has many other natural advantages. A wide array of valuable mineral resources, such as oil, natural gas, iron ore, coal, lead, zinc, phosphate, silver, and copper, benefits mining and industry. The shallow waters along the coastline, known as the continental shelf, serve as a rich breeding ground for marine life, which promotes commercial and sport fishing. The comprehensive network of rivers also provides transportation routes for bulk cargo and the potential for the development of
