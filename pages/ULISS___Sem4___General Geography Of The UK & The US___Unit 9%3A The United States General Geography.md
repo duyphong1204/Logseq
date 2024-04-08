@@ -303,6 +303,7 @@ collapsed:: true
 	  | Southwest part of Great Plains very arid | precipitation mostly in the form of summer showers |
 - ## Follow up
   id:: 6613f470-aea7-48af-ad38-863dfd11429e
+  collapsed:: true
 	- Label the landforms and the bodies of water, using the words in the box.
 	- archipelago
 	- isthmus
@@ -313,4 +314,26 @@ collapsed:: true
 	- peninsula
 	- river
 	- strait
--
+- ## Human Geography Of The US
+- ### Lead-in
+  collapsed:: true
+	- Work in groups to match the information in column A with column B.
+	- | Column A | Column B |
+	  | Total population | 325,618,483 |
+	  | Population ranking in the world | 3rd |
+	  | World population growth rate | 1.14% |
+	  | USA population growth rate | 0.7% |
+	  | Percentage of world population | 4.3% |
+- According to the 2022 census, the United States was a nation of 333.5 million people living and working within an area of 9.6 million sq km. This population count makes the United States the third most populous country in the world, after China and India. Around 4.3% of the Earth's inhabitants live in the United States. Historically, this nation has attracted vast numbers of immigrants from around the globe. Yet the United States remains less densely populated than other large countries or other industrialized nations.
+  
+  The population of the United States has grown continuously, from 4 million at the first national census in 1790, to 63 million in 1890, to 250 million in 1990 and 333.5 million in 2022. Its growth rate in 2022 was a moderate 0.4 percent compared with a 1% growth rate for the world.
+  
+  Follow-up
+  
+  Find the answers to the following questions.
+  
+  1. Which is the most densely populated area of the United States?
+  
+  2. Which is the largest city in the United States?
+  
+  3. What important demographic changes are occurring?
