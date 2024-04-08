@@ -76,32 +76,31 @@ collapsed:: true
 					  logseq.order-list-type:: number
 					- the western portion the Great Plains
 					  logseq.order-list-type:: number
-						- To the west of the Great Plains
-							- is the Cordileras
-								- which include
-									- the Rocky Mountains
-									- the ranges of Great Basin
+						- is the Cordileras
+							- which include
+								- the Rocky Mountains
+								- the ranges of Great Basin
+								- the Sierra Nevada
+								- the Coast Ranges.
+							- The western edge of the Cordillera
+								- is characterized by a coastal chain of high mountains
+									- among which there are broad fertile valleys.
+								- The most important ranges
 									- the Sierra Nevada
-									- the Coast Ranges.
-								- The western edge of the Cordillera
-									- is characterized by a coastal chain of high mountains
-										- among which there are broad fertile valleys.
-									- The most important ranges
-										- the Sierra Nevada
-										- the Cascades in the eastern part
-										- the Coastal Ranges along the western coast.
-									- There is no Pacific coastal plain
-									- between these two sets of mountains
-										- there is a large plateau region
-										- with
-											- steep cliffs
-											- canyons
-											- basins
-												- many basins are rich in resources
-													- such as
-														- oil
-														- natural gas.
-											- isolated ranges
+									- the Cascades in the eastern part
+									- the Coastal Ranges along the western coast.
+								- There is no Pacific coastal plain
+								- between these two sets of mountains
+									- there is a large plateau region
+									- with
+										- steep cliffs
+										- canyons
+										- basins
+											- many basins are rich in resources
+												- such as
+													- oil
+													- natural gas.
+										- isolated ranges
 						- On its eastern edge
 							- the Rocky Mountains
 								- a high, discontinuous chain of mountains
@@ -113,5 +112,26 @@ collapsed:: true
 										- uranium
 										- gold
 					- both of which have good soil.
-- Hawaii is a chain of twenty islands, only seven of which are inhabited. The mountainous islands were formed by volcanic activity and there are still a number of active volcanoes.
-  The United States has several immense long rivers. There are a large number of rivers in the eastern part of the nation, the longest of which is the Missouri (3,942km), a tributary of the Mississippi (3,760km); the Mississippi-Missouri-Red Rock system extends for 6,176 km before entering the Gulf of Mexico near New Orleans. Two other tributaries of the Mississippi - the Ohio and Tennessee In the West the Rio Grande, which forms part of the United States-Mexico border. are more than 1,250km long. lows for 3,016km and only the Colorado (2.320km), Columbia (2.240km) and the San Joaquim-Sacramento river systems reach the Pacific.
+		- Hawaii is a chain of twenty islands
+			- only seven of which are inhabited.
+			- The mountainous islands were formed by volcanic activity and there are still a number of active volcanoes.
+		- The United States has several immense long rivers.
+			- There are a large number of rivers in the eastern part of the nation
+			- the longest river
+				- the Missouri (3,942km)
+					- a tributary of the Mississippi (3,760km)
+			- the Mississippi-Missouri-Red Rock system extends for 6,176 km before entering the Gulf of Mexico near New Orleans.
+			- Two other tributaries of the Mississippi
+				- the Ohio
+				  logseq.order-list-type:: number
+				- the Tennessee
+				  logseq.order-list-type:: number
+				- are more than 1,250km long.
+			- In the West
+				- the Rio Grande
+					- forms part of the United States-Mexico border.
+					- flows for 3,016km
+					- the only river systems reach the Pacific
+						- Colorado (2.320km)
+						- Columbia (2.240km)
+						- the San Joaquim-Sacramento
