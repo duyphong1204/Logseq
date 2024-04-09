@@ -1,5 +1,4 @@
 - Context
-  collapsed:: true
 	- Do some research
 		- Author
 			- Poet
@@ -16,7 +15,6 @@
 					- Greek
 					- Roman
 - Methodology/Skills of Close-reading
-  collapsed:: true
 	- A look at the larger Structure/Form
 		- repetition/anaphora
 		- contrast/juxtaposition
@@ -28,7 +26,6 @@
 			- sudden break (caesura)
 			- enjambment
 - Details of the text
-  collapsed:: true
 	- Word Choice
 	- Sensory perceptions
 		- sight
