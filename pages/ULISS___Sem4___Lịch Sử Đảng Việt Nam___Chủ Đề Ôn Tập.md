@@ -72,11 +72,14 @@
   logseq.order-list-type:: number
 - ---
 - Khái quát những chuyển biến nổi bật của tình hình thế giới và Việt Nam trong khoảng những năm từ 1930 đến 1945. Trước những thay đổi tình hình đã đề cập, anh (chị) hãy bàn luận về chủ trương và hoạt động của Đảng Cộng sản Đông Dương trong giai đoạn 1939 - 1945.
+  collapsed:: true
 	- Bối cảnh
 		- Ngoài nước:
 			- Năm 1929 - 1933, cuộc khủng hoảng kinh tế thế giới  bắt đầu từ các nước tư bản chủ nghĩa mở đầu những biến động trên thế giới, lan sang cả các quốc gia thuộc địa và phụ thuộc, khiến mọi hoạt động sản xuất đình đốn. Để có thể chống chọi lại với những hậu quả nặng nề của cuộc khủng hoảng này, các nước chính quốc tiến hành những chiến dịch khủng bố các nước thuộc địa, tạo nên sự căng thẳng trong mối quan hệ giữa các nước, trong đó có Việt Nam và thực dân Pháp.
 			- Một số quốc gia khác để có thể giải quyết những hậu quả của cuộc khủng hoảng kinh tế như Đức, Ý, Tây Ban Nha, chủ trương dùng bạo lực đàn áp phong trào đấu tranh trong nước, chuẩn bị phát động chiến tranh trên thế giới để giành lấy thị trường. Chủ nghĩa phát xít xuất hiện, chiến thắng ở trên một số nơi trên thế giới.
-			- Quốc tế Cộng Sản họp đại hội VII tại Moskva xác định kẻ thù trước mắt của nhân dân thế giới là chủ nghĩa phát xít. Do đó, nhiệm vụ trước mắt của giai cấp công nhân và nhân dân lao động thế giới là chống chủa nghĩa phát xít, chống chiến tranh bảo vệ dân chủ hòa bình.
+			- Quốc tế Cộng Sản họp đại hội VII tại Moskva xác định kẻ thù trước mắt của nhân dân thế giới là chủ nghĩa phát xít. Do đó, nhiệm vụ trước mắt của giai cấp công nhân và nhân dân lao động thế giới là chống chủa nghĩa phát xít, chống chiến tranh bảo vệ dân chủ hòa bình. Để làm được điều đó, giai cấp công nhân các nước trên thế giới phải thống nhất hàng ngũ, lập mặt trận nhân dân rộng rãi.
+			- Trong thời gian đó, mặt trận nhân dân Pháp được thành lập từ tháng 5-1935 do Đảng Cộng sản Pháp làm nòng cốt, giành được thắng lợi vang dội trong cuộc tổng tuyển cử năm 1936, dẫn đến sự ra đời của Chính phủ Mặt trận nhân dân Pháp. Chính phủ này ban bố nhiều quyền tự do dân chủ, trong đó có những quyền được áp dụng ở thuộc địa, tạo không khí chính trị thuận lợi cho cuộc đấu tranh đòi các quyền tự do, dân chủ, cải thiện đời sống nhân dân trong các nước thuộc địa Pháp. Điều này là cơ hội tốt ảnh hưởng trực tiếp tới Việt Nam.
+			- Chiến tranh thế giới thứ 2 bùng nổ vào tháng 9 - 1939. Chính phủ Daladier thi hành một số loạt biện pháp đàn áp lực lượng dẫn chủ ở trong nước. Mặt trận Nhân dân Pháp tan vỡ. Ở Đông Dương, bộ máy đàn áp được tăng cường, thiết quân luật được ban bố.
 			-
 		- Trong nước:
 - Khái quát quá trình vận động thành lập Đảng Cộng sản Việt Nam và làm rõ một số đặc điểm nổi bật của quá trình này
