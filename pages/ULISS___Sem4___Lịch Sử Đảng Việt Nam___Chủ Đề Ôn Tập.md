@@ -84,6 +84,7 @@
 			- Chiến tranh thế giới thứ 2 bùng nổ vào tháng 9 - 1939. Chính phủ Daladier thi hành một số loạt biện pháp đàn áp lực lượng dẫn chủ ở trong nước. Mặt trận Nhân dân Pháp tan vỡ. Ở Đông Dương, bộ máy đàn áp được tăng cường, thiết quân luật được ban bố. Toàn quyền Đông Dương ra Nghị định cấm tuyên truyền cộng sản, đặt Đảng Cộng sản Đông Dương ra ngoài vòng pháp luật, giải tán các hội, đoàn, đóng cửa các tờ báo và nhá xuất bản,...
 			- Tháng 6-1940, Đức tiến công Pháp. Pháp đầu hàng. Ở Đông Dương, thực dân Pháp thi hành chính sách thời chiến, phát xít hóa bộ máy thống trị, thẳng tay đàn áp phong trào cách mạng; thực hiện chính sách "kinh tế chỉ huy" nhằm tăng cường vơ vét sức người, sức của để phục vụ chiến tranh đế quốc.
 			- Tháng 9-1940, quân phiệt Nhật vào Đông Dương, thực dân Pháp đầu hàng, câu kết với nhật để thống trị và bóc lột nhân dân Đông Dương, làm cho nhân dân Đông Dương phải chịu cảnh "một cổ hai tròng".
+			- Đầu 1945, chiến tranh thế giới thứ 2 bước vào giai đoạn kết thúc, Hồng quân Liên Xô truy kích phát xít Đức trên chiến trường châu Âu. Ngày 9-3-1945, Nhật Đảo chính Pháp. Giữa tháng 8-1945, chiến tranh thế giới thứ 2 kết thúc.
 		- Chủ trương của Đảng:
 			- Trước tình hình trong và ngoài nước như vậy, Đảng chuyển từ đấu tranh đòi tự do, dân chủ, cơm áo, hòa bình sang đấu tranh giải phóng dân tộc. Hội nghị Ban Chấp hành Trung ương Đảng (11 - 1939) chủ trương tạm gác khẩu hiệu "Cách mạng ruộng đất", thay bằng các khẩu hiệu chống địa tô cao, chống vay nặng lãi, tịch thu ruộng đất của đế quốc và địa chủ phản bội quyền lợi dân tộc chia cho dân cày; thành lập Mặt trận dân tộc thống nhất phản đế Đông Dương, thu hút tất cả các dân tộc, các giai cấp, đảng phái và cá nhân yêu nước ở Đông Dương nhằm đánh đổ đế quốc Pháp và tay sai, giành độc lập hoàn toàn cho các dân tộc Đông Dương.
 			- Năm 1941, Nguyễn Ái Quốc về nước, làm việc ở Cao Bằng, chủ trì Hội nghị lần thứ 8, hoàn chỉnh chủ trương chiến lược đề ra từ Hội nghị tháng 11 - 1939, khắc phục những hạn chế của Luận cương chính trị tháng 10 - 1930:
@@ -96,8 +97,21 @@
 			- Ngày 27-9-1940, nhân dân Bắc Sơn nổi dậy khởi nghĩa.
 			- Ở Nam kỳ, cách mạng quần chúng lan rộng nhiều nơi
 			- 13-1-1941, cuộc binh biến nổ ra ở Đô Lương, Nghệ An
-			- Tuy cả ba cuộc khởi
+			- Tuy cả ba cuộc khởi nghĩa đều bị dập tắt nhưng đó là bước đầu đấu tranh bằng võ lực của các dân tộc ở một nước Đông Dương
+			- Ngày 6-6-1941, Nguyễn Ái Quốc gửi thư kêu gọi đồng bào cả nước đoàn kết đánh đổ đế quốc.
+			- Ngày 25-10-2941, Việt Minh công bố Tuyên ngôn, đáp ứng nguyện vọng cứu nước của đồng bào.
+			- Đảng tích cực chăm lo xây dựng, củng cố tổ chức, mở nhiều lớp huấn luyện cán bộ ngắn ngày, đào tạo cán bộ về chính trị, quân sự, binh vận.
+			- Tháng 2, 1943, Ban Thường vụ Trung ương Đảng họp ở Võng La để đề ra những biện pháp cụ thể nhằm phát triển phong trào quần chúng rộng rãi, đều khắp chuẩn bị cho những cuộc khởi nghĩa tương lai.
+			- Đảng và Việt Minh xuất bản nhiều tờ báo, sử dụng báo chí làm vũ khí đấu tranh. Năm 1943, Đảng công bố bản Đề cương về văn hóa Việt Nam, xác định văn hóa là một trận địa cách mạng.
+			- Ngoài việc xây dựng lực lượng chính trị, Đảng cũng chú trọng chuẩn bị lực lượng vũ trang, căn cứ cách mạng. Đội du kích Bắc Sơn từ đây được duy trì và phát triển thành Cứu quốc quân. Cuối năm 1941 một đội vũ trang ở Cao Bằng được thành lập bởi Nguyễn Ái Quốc.
+			- Tháng 10-1944, Hồ Chí Minh gửi thư cho đồng bào toàn quốc thông báo rõ về cơ hội giải phóng dân tộc sắp tới trong một năm, một năm rưỡi nữa.
+			- Ngày 22-12-1944, đội Việt Nam tuyên truyền giải phóng quân do Võ Nguyên Giáp thành lập.
+			- Ngay sau khi Nhật đảo chính Pháp, Ban thường vụ Trung ương Đảng ra chỉ thị Nhật, Pháp bắn nhau và hành động của chúng ta, xác định kẻ thù cụ thể, trước mắt và duy nhất của nhân dân Đông Dương là phát xít Nhật. Chỉ thị phát động một cao trào kháng Nhật cứu nước mạnh mẽ và sẵn sàng chuyển lên tổng khởi nghĩa khi đủ điều kiện.
+			- Từ ngày 14- 18, quần chúng cách mạng nổi dậy giành chính quyền ở cấp xã và huyện. Ở Hà Nội, khí thế và sức mạnh của quần chúng đã giành được chính quyền về tay nhân dân.
+			- Ngày 2-9, lễ độc lập được tổ chức ở QUảng trường Ba Đình, nước Việt Nam Dân chủ Cộng hòa ra đời.
 		- Bàn luận
+			- Là những bài học cho khởi nghĩa sau
+			- Chủ trương phải dựa vào tình hình và căn cứ theo những biến chuyển
 - Khái quát quá trình vận động thành lập Đảng Cộng sản Việt Nam và làm rõ một số đặc điểm nổi bật của quá trình này
 - ---
 - Cấu trúc:
