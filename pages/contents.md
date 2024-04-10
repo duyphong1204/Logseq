@@ -21,7 +21,13 @@
 		- viết tiếng Pháp
 		- đọc và viết Lịch sử Đảng
 		- ôn tập CNXHKH
-	- viết lịch sử bản thân
+	- Viết
+		- lịch sử bản thân
+		  collapsed:: true
+			- nhìn lại todo hơn 1 năm trước xem mình có gì, cái gì vẫn giữ, như tiktok của Dung về lý hóa văn sau 2 năm, mình rất anti, vì nó thể hiện quan điểm của Dung nhiều hơn là thực tại, ai biết thực tại thực sự ra sao nhưng là agree to disagree, mình vẫn tìm cách, và mình biết cách, vì mình tham lam, ích kỉ, vì mình muốn tiếp tục những dang dở của cấp 3 và tiếp tục, vì mình cay,... chỉ là mình không biết mọi người đang có cách gì để đi đâu mà còn gặp, giờ cứ định đuổi theo hoặc bắt gặp họ ở trong cuộc sống mà đề xuất ý tưởng thì không ổn lắm. Và mình vẫn cố như cấp 3: tìm các cơ hội, nối dài những con đường, để hai ta cứ có thêm nhiều khoảng thời gian với nhau đi đã. Tạo kỉ niệm sau, chứ không có thời gian sẽ không bao giờ có nổi kỉ niệm
+		- bài tiếng Pháp về một buổi học để gửi cô Loan
 	- học
 		- điện ảnh
+		- biên kịch
+		- nhiếp ảnh
 - kiên định làm những việc tồn đọng, đừng để đời cuốn đi bởi những sự thay đổi không phải về mùa mà về thời kì kiểu kì thi, kì học, kì hè
