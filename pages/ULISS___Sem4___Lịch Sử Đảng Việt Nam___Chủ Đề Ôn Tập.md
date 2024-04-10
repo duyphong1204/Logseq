@@ -110,9 +110,9 @@
 			- Từ ngày 14- 18, quần chúng cách mạng nổi dậy giành chính quyền ở cấp xã và huyện. Ở Hà Nội, khí thế và sức mạnh của quần chúng đã giành được chính quyền về tay nhân dân.
 			- Ngày 2-9, lễ độc lập được tổ chức ở Quảng trường Ba Đình, nước Việt Nam Dân chủ Cộng hòa ra đời.
 		- Bàn luận
-			- Có thể thấy, những chủ trương của Đảng phải theo sát
-			- Là những bài học cho khởi nghĩa sau
-			- Chủ trương phải dựa vào tình hình và căn cứ theo những biến chuyển
+			- Có thể thấy, những chủ trương của Đảng đã theo sát những chuyển biến từ thế giới và trong nước, và chỉ có bằng cách đó thời cơ giành độc lập mới đến
+			- Là những bài học cho những công cuộc xây dựng đất nước sau này:
+			- Chủ trương và hành động phải dựa vào tình hình và căn cứ theo những biến chuyển
 - Khái quát quá trình vận động thành lập Đảng Cộng sản Việt Nam và làm rõ một số đặc điểm nổi bật của quá trình này
 - ---
 - Cấu trúc:
