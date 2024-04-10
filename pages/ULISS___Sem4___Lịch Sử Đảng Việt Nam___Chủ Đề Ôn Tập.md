@@ -72,4 +72,4 @@
   logseq.order-list-type:: number
 - ---
 - Khái quảt những chuyển biến nổi bật của tình hình thế giới và Việt Nam trong khoảng những năm từ 1930 đến 1945. Trước những thay đổi tình hình đã đề cập, anh (chị) hãy bàn luận về chủ trương và hoạt động của Đảng Cộng sản Đông Dương trong giai đoạn 1939 - 1945.
-- Khái quát quá trình vận động thành lập Đảng Cộng Sản Việt Nam và làm rõ một số đặc điểm nổi bật của quá trình này
+- Khái quát quá trình vận động thành lập Đảng Cộng sản Việt Nam và làm rõ một số đặc điểm nổi bật của quá trình này
