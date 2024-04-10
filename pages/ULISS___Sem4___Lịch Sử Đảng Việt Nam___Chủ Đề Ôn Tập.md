@@ -74,7 +74,10 @@
 - Khái quát những chuyển biến nổi bật của tình hình thế giới và Việt Nam trong khoảng những năm từ 1930 đến 1945. Trước những thay đổi tình hình đã đề cập, anh (chị) hãy bàn luận về chủ trương và hoạt động của Đảng Cộng sản Đông Dương trong giai đoạn 1939 - 1945.
 	- Bối cảnh
 		- Ngoài nước:
-			- Năm 1929 - 1933, cuộc khủng hoảng kinh tế thế giới  bắt đầu từ các nước tư bản chủ nghĩa mở đầu những biến động trên thế giới, lan sang cả các quốc gia thuộc địa và phụ thuộc, khiến mọi hoạt động sản xuất đình đốn. Để có thể chống chọi lại với những hậu quả nặng nề của cuộc khủng hoảng này, các nước chính quốc
+			- Năm 1929 - 1933, cuộc khủng hoảng kinh tế thế giới  bắt đầu từ các nước tư bản chủ nghĩa mở đầu những biến động trên thế giới, lan sang cả các quốc gia thuộc địa và phụ thuộc, khiến mọi hoạt động sản xuất đình đốn. Để có thể chống chọi lại với những hậu quả nặng nề của cuộc khủng hoảng này, các nước chính quốc tiến hành những chiến dịch khủng bố các nước thuộc địa, tạo nên sự căng thẳng trong mối quan hệ giữa các nước, trong đó có Việt Nam và thực dân Pháp.
+			- Một số quốc gia khác để có thể giải quyết những hậu quả của cuộc khủng hoảng kinh tế như Đức, Ý, Tây Ban Nha, chủ trương dùng bạo lực đàn áp phong trào đấu tranh trong nước, chuẩn bị phát động chiến tranh trên thế giới để giành lấy thị trường. Chủ nghĩa phát xít xuất hiện, chiến thắng ở trên một số nơi trên thế giới.
+			- Quốc tế Cộng Sản họp đại hội VII tại Moskva xác định kẻ thù trước mắt của nhân dân thế giới là chủ nghĩa phát xít. Do đó, nhiệm vụ trước mắt của giai cấp công nhân và nhân dân lao động thế giới là chống chủa nghĩa phát xít, chống chiến tranh bảo vệ dân chủ hòa bình.
+			-
 		- Trong nước:
 - Khái quát quá trình vận động thành lập Đảng Cộng sản Việt Nam và làm rõ một số đặc điểm nổi bật của quá trình này
 - ---
