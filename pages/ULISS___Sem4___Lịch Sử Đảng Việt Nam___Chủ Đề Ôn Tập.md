@@ -87,7 +87,9 @@
 		- Chủ trương của Đảng:
 			- Trước tình hình trong và ngoài nước như vậy, Đảng chuyển từ đấu tranh đòi tự do, dân chủ, cơm áo, hòa bình sang đấu tranh giải phóng dân tộc. Hội nghị Ban Chấp hành Trung ương Đảng (11 - 1939) chủ trương tạm gác khẩu hiệu "Cách mạng ruộng đất", thay bằng các khẩu hiệu chống địa tô cao, chống vay nặng lãi, tịch thu ruộng đất của đế quốc và địa chủ phản bội quyền lợi dân tộc chia cho dân cày; thành lập Mặt trận dân tộc thống nhất phản đế Đông Dương, thu hút tất cả các dân tộc, các giai cấp, đảng phái và cá nhân yêu nước ở Đông Dương nhằm đánh đổ đế quốc Pháp và tay sai, giành độc lập hoàn toàn cho các dân tộc Đông Dương.
 			- Năm 1941, Nguyễn Ái Quốc về nước, làm việc ở Cao Bằng, chủ trì Hội nghị lần thứ 8, hoàn chỉnh chủ trương chiến lược đề ra từ Hội nghị tháng 11 - 1939, khắc phục những hạn chế của Luận cương chính trị tháng 10 - 1930:
-				- Mâu thuẫn chủ yếu đòi hỏi phải được giải quyết cấp bách là mâu thuẫn giữa dân tộc Việt Nam với đế quốc phát xít Pháp - Nhật
+				- Mâu thuẫn chủ yếu đòi hỏi phải được giải quyết cấp bách là mâu thuẫn giữa dân tộc Việt Nam với đế quốc phát xít Pháp - Nhật.
+				- Tập trung giải quyết vấn đề giải phóng dân tộc
+				- Thành lập mỗi nước Đông Dương một mặt trận riêng, thực hiện đoàn kết dân tộc, giải quyết vấn đề dân tộc trong khuôn khổ từng nước, thi hành chính sách "dân tộc tự quyết"
 			-
 - Khái quát quá trình vận động thành lập Đảng Cộng sản Việt Nam và làm rõ một số đặc điểm nổi bật của quá trình này
 - ---
