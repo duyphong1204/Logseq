@@ -108,8 +108,9 @@
 			- Ngày 22-12-1944, đội Việt Nam tuyên truyền giải phóng quân do Võ Nguyên Giáp thành lập.
 			- Ngay sau khi Nhật đảo chính Pháp, Ban thường vụ Trung ương Đảng ra chỉ thị Nhật, Pháp bắn nhau và hành động của chúng ta, xác định kẻ thù cụ thể, trước mắt và duy nhất của nhân dân Đông Dương là phát xít Nhật. Chỉ thị phát động một cao trào kháng Nhật cứu nước mạnh mẽ và sẵn sàng chuyển lên tổng khởi nghĩa khi đủ điều kiện.
 			- Từ ngày 14- 18, quần chúng cách mạng nổi dậy giành chính quyền ở cấp xã và huyện. Ở Hà Nội, khí thế và sức mạnh của quần chúng đã giành được chính quyền về tay nhân dân.
-			- Ngày 2-9, lễ độc lập được tổ chức ở QUảng trường Ba Đình, nước Việt Nam Dân chủ Cộng hòa ra đời.
+			- Ngày 2-9, lễ độc lập được tổ chức ở Quảng trường Ba Đình, nước Việt Nam Dân chủ Cộng hòa ra đời.
 		- Bàn luận
+			- Có thể thấy, những chủ trương của Đảng phải theo sát
 			- Là những bài học cho khởi nghĩa sau
 			- Chủ trương phải dựa vào tình hình và căn cứ theo những biến chuyển
 - Khái quát quá trình vận động thành lập Đảng Cộng sản Việt Nam và làm rõ một số đặc điểm nổi bật của quá trình này
