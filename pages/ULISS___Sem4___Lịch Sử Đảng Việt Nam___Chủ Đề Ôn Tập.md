@@ -90,7 +90,14 @@
 				- Mâu thuẫn chủ yếu đòi hỏi phải được giải quyết cấp bách là mâu thuẫn giữa dân tộc Việt Nam với đế quốc phát xít Pháp - Nhật.
 				- Tập trung giải quyết vấn đề giải phóng dân tộc
 				- Thành lập mỗi nước Đông Dương một mặt trận riêng, thực hiện đoàn kết dân tộc, giải quyết vấn đề dân tộc trong khuôn khổ từng nước, thi hành chính sách "dân tộc tự quyết"
-			-
+				- Sau khi cách mạng thành công sẽ thành lập nước Việt Nam dân chủ cộng hòa theo tinh thần dân chủ
+				- Khởi nghĩa vũ trang là nhiệm vụ trung tâm
+		- Diễn biến
+			- Ngày 27-9-1940, nhân dân Bắc Sơn nổi dậy khởi nghĩa.
+			- Ở Nam kỳ, cách mạng quần chúng lan rộng nhiều nơi
+			- 13-1-1941, cuộc binh biến nổ ra ở Đô Lương, Nghệ An
+			- Tuy cả ba cuộc khởi
+		- Bàn luận
 - Khái quát quá trình vận động thành lập Đảng Cộng sản Việt Nam và làm rõ một số đặc điểm nổi bật của quá trình này
 - ---
 - Cấu trúc:
