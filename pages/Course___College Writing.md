@@ -1,4 +1,4 @@
-- [[Course/College Writing/Week 1]]
+- [[Course/College Writing/Week 1/Note]]
 - Timeline Map
 - Suggestion
 	- Tại sao mấy cái công nghệ giáo dục hot tại nó thực sự tiện... Mình còn lỡ nhờ Thư mà nó khá ảnh hưởng đến em nó huhu chỉ vì quên đọc từng file nhỏ, hóa ra nó là Compendium... Nói chung cái này như course guide.
