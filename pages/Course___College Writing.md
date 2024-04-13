@@ -1,3 +1,8 @@
 - [[Course/College Writing/Week 1]]
 - Timeline Map
-	-
+- Suggestion
+	- Tại sao mấy cái công nghệ giáo dục hot tại nó thực sự tiện... Mình còn lỡ nhờ Thư mà nó khá ảnh hưởng đến em nó huhu chỉ vì quên đọc từng file nhỏ, hóa ra nó là Compendium... Nói chung cái này như course guide.
+	- Thầy sẽ nhắc mỗi khi đến next class nhưng oke cũng vẫn tốn time không cần. Onboarding week can be just offline study as it's deeply related student's understanding (mà mỗi người học và làm quen dưới góc độ khác nhau, thế cái gì nên làm trên lớp? cái gì đó mà không liên quan đến background knowledge cụ thể? or khi tất cả đã chung background alrd )
+	- Đằng nào thầy cũng gửi mọi thứ trên mail dù nó không
+-
+- Do it ahead of time, even the optional -> teacher's pet. They say A is optional it's actually opposite

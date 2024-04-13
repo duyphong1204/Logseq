@@ -1,3 +1,5 @@
 - Week 1 in the course
 	- Start in Saturday -> Tuesday
 - Assigment: After Tuesday -> Sunday
+- Lecture: Saturday
+- Seminar: Tuesday
