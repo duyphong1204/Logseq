@@ -3,3 +3,8 @@
 - Assigment: After Tuesday -> Sunday
 - Lecture: Saturday
 - Seminar: Tuesday
+- 15:23 Căng quá tập trung vào môn căng đi vì chỉ có thế mới sống được, môn dễ thì ta học dễ vậy, biết sao, chứ chưa chắc các thầy dạy căng vì môn quan trọng
+	- Chỉ học căng thế này có lẽ sẽ learn by heard được tốt dù chưa chắc đã nhớ lâu hay có thời gian hệ thống hóa, liên kết liên ngành hay học sâu, tổng hợp lại thông tin từ việc xem lại record cũng thế, phải plan thật cẩn thận cái gì nghe cái gì không, chưa nghe bây giờ thì để con cháu nghe?
+	- Và đồng thời chưa chắc đã có thời gian tìm hiểu bản thân. Chỉ như vừa ra khỏi địa ngục thôi.
+	- Nhưng vấn đề là tại sao phải gấp thế? Học gấp có giá trị gì hay sao? Học căng và nhiều thì được gì? Tiết kiệm thời gian? So với cái gì? Vì sau này ta có thể mất thời gian vào cái gì như thể bù lại cho sự học vội trong quá khứ không? I dont know.
+	- Mà thường căng là ở nhà chứu 3 tiếng trên lớp hoàn toàn có thể học rất chill
