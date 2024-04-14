@@ -1,9 +1,0 @@
-:root {
-  --favicons: none;
-}
-a.external-link {
-    border-bottom: none ;
-}
-.page.relative>.relative .pre-block[data-refs-self*=":table-center"] ~ .ls-block[level="1"] {
-    text-align: center;
-}

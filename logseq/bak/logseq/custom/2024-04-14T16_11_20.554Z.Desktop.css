@@ -10,6 +10,5 @@ a.external-link {
 }
 .external-link {
     text-decoration: none; /* Remove underline */
-    color: bluegray;
+    color: green;
 }
- var(--external-link-color)
