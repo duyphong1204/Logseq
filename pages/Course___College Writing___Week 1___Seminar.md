@@ -15,9 +15,19 @@
 		- plato beauty is stable
 - Sonnet 126
 	- definition essay
-	- disclaimer (to pro)
+	- disclaimer (to protect yourself)
 	- remover to remove has lost its meaning
-- ---
+	- compare
+	- bark = ship (metonomy hoán dụ)
+	- worth's unknow, altougth his height be taken: don't know but it's not cheap
+	- twisted logic
+	- wandering (lost)
+- Sonnet 130 - dark lady, earthly vs (ideal))  lust, body, sensual, bodily vs (mind)
+	- skepticism
+- Soliloquy (like bubble talk in comic)
+	- give birth to psychology (interesting because they don't think the way you do) - mở ra kỉ nguyên khám phá tâm trí người.
+	- people like Ngoc Po one's because she analyze the inner mind (although it's might not true)
+	- ---
 -
 - Shall I compare you to a summer day?
 - You are more lovely and moderate
