@@ -1,4 +1,24 @@
 - Understand and find as much as renaissance keyword as possible
+- Should do some close reading for sonnet as well:
+- 4 lines, rhyme in last syllable (first quartet) -> (octave) - 1 arguments -> trouve? -> setet
+- Sonnet 1 -> 126 the speak of poem = lover, target = beloved (young male/fair youth) (after this is a human)
+- 1-1 is the best? 1 tutor or more for one student (is still arguably the best) - no write, just talk?
+- logical devision: defition, logic, time, cause - effect, classification, descriptive logic, listing
+- Sonnet 18
+	- compare and contrast
+	- the beloved and nature
+		- nature is extreme
+		- "changing course untrimm" meaning is lost
+	- renaissance
+		- focus on human
+		- art keep nature better than nature
+		- plato beauty is stable
+- Sonnet 126
+	- definition essay
+	- disclaimer (to pro)
+	- remover to remove has lost its meaning
+- ---
+-
 - Shall I compare you to a summer day?
 - You are more lovely and moderate
 - Harsh wind disturb the delicate buds of May
