@@ -18,3 +18,4 @@
 	- D is passing course but not the degree
 -
 - Do it ahead of time, even the optional -> teacher's pet. They say A is optional it's actually opposite
+- [[Course/College Writing/Week 1/Seminar]]

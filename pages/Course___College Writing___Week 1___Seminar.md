@@ -1,0 +1,13 @@
+- Understand and find as much as renaissance keyword as possible
+- Shall I compare you to a summer day?
+- You are more lovely and moderate
+- Harsh wind disturb the delicate buds of May
+- and summer doesn not last long enough
+- Sometimes the sun is too hot
+- and its golden face is dimmed by the cloud
+- All beautiful things become less beautiful,
+- either by the experience of life or the passing of time
+- but your eternal beauty wont fade, nor lose any of its quality
+- And you will never die, as you will live on in my enduring poetry
+- As long as people are still alive to read poem, this sonnet will live
+- and you will live in it
