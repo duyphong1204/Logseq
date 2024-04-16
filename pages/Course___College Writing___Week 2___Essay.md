@@ -1,0 +1,3 @@
+- Present Tense: In The Great Gatsby, Gatsby tries to protect Daisy by lying to everyone that he was driving the car the night before. He has been loving Daisy even since he was a small boy
+- Always use present tense then move back and forth
+- Have a good thesis statement, not just declaration/announcement

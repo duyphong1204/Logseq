@@ -22,3 +22,5 @@
 -
 - Học xong 1 tuần mới hiểu vai trò và sự liên kết của thứ cần đọc, không phải chỉ lấy ra làm ví dụ, bàn nhắc lại trên lớp mà cũng nhiều phần đòi hỏi intertext. Thế thì PKM của mày có giá trị rồi nè, cho text vào, highlight and extract? Và sẽ cần dùng nhiều trong viết yeah, chứ không chỉ tập trung vào text một các rất logic là oke.
 - Sometimes có cái gì thầy nói mà không có trong sách thì cho vào note. Sẽ kiểu theory/tên -> week/theory? (cái này sẽ là cái thầy cho vào slide hơn)
+- [[Course/College Writing/Week 2/Essay]]
+-
