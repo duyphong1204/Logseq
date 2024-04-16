@@ -27,17 +27,32 @@
 - Soliloquy (like bubble talk in comic)
 	- give birth to psychology (interesting because they don't think the way you do) - mở ra kỉ nguyên khám phá tâm trí người.
 	- people like Ngoc Po one's because she analyze the inner mind (although it's might not true)
-	- ---
+	- Hamlet is a boring play as normally plays is about action.
+	- Same goes for movies, that's why some blockbuster is fun
+	- While some just talk, no sex, talk about sex, it's boring?
+	- But chitchat can be the opposite? cause you can participate? and they aim to talk to you? And althought you don't do anything, you actually can? show some emotions and the story might change.
+	- extreme vs healthy skepticism
+- Tragic Hero
+  id:: 661e7d34-5225-44b4-9b1a-9b8f966b9a3a
+	- Admirable Good
+	  logseq.order-list-type:: number
+	- Tragic Flaw
+	  logseq.order-list-type:: number
+	- Downfall caused by flaw
+	  logseq.order-list-type:: number
+- ---
+- Sonnet 18 Translation
+	- Shall I compare you to a summer day?
+	- You are more lovely and moderate
+	- Harsh wind disturb the delicate buds of May
+	- and summer doesn not last long enough
+	- Sometimes the sun is too hot
+	- and its golden face is dimmed by the cloud
+	- All beautiful things become less beautiful,
+	- either by the experience of life or the passing of time
+	- but your eternal beauty wont fade, nor lose any of its quality
+	- And you will never die, as you will live on in my enduring poetry
+	- As long as people are still alive to read poem, this sonnet will live
+	- and you will live in it
+- ---
 -
-- Shall I compare you to a summer day?
-- You are more lovely and moderate
-- Harsh wind disturb the delicate buds of May
-- and summer doesn not last long enough
-- Sometimes the sun is too hot
-- and its golden face is dimmed by the cloud
-- All beautiful things become less beautiful,
-- either by the experience of life or the passing of time
-- but your eternal beauty wont fade, nor lose any of its quality
-- And you will never die, as you will live on in my enduring poetry
-- As long as people are still alive to read poem, this sonnet will live
-- and you will live in it
