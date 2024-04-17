@@ -30,6 +30,13 @@
 		- điện ảnh
 		- biên kịch
 		- nhiếp ảnh
+	- Course
+		- Coursera
+		- EdX
+	- School
+		- ICC
+		- Silk Road
+		- Research
 - kiên định làm những việc tồn đọng, đừng để đời cuốn đi bởi những sự thay đổi không phải về mùa mà về thời kì kiểu kì thi, kì học, kì hè
 - Project
 	- Quả Cầu
