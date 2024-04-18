@@ -38,7 +38,9 @@
 		- Silk Road
 		- Research
 	- Google Play Nige or Turkey
-		- 120k nằm trong turkey card, cảm giác trước đây mình cũng có gì đó kh
+		- 120k nằm trong turkey card, cảm giác trước đây mình cũng có gì đó không xong, treo tiền, treo lợi ích ở đâu đó?
+			- Collins api?
+			- Screaming Frog?
 - kiên định làm những việc tồn đọng, đừng để đời cuốn đi bởi những sự thay đổi không phải về mùa mà về thời kì kiểu kì thi, kì học, kì hè
 - Project
 	- Quả Cầu
