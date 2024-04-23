@@ -1,0 +1,10 @@
+- Informational
+- Argumentative = aim to persuade/agree with
+- Rhetorical = persuade to act
+-
+- Aristotle's Appeals
+	- Ethos: = Establish ethics/characters -> credibility (no ulterior motive, no personal interest, have you don't a lot of research, two-sdied) + authority (first-hands exp, done a lot of research)
+	- Logos
+	- Pathos
+-
+-
