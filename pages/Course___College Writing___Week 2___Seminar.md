@@ -10,4 +10,11 @@
 			- => influence and manipulate
 		- Rhetorical Questions, Personal Pronouns (I, you, we), diction/word choice
 -
--
+- Modest Proposal
+	- Evidence
+		- Testimony
+			- p14
+		- Example
+		- Statistic
+			- p1
+			- p131
