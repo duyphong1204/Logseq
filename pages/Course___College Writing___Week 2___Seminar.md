@@ -8,7 +8,7 @@
 	- Pathos: you try to make people feel what you feel
 		- "people act on feelings"
 			- => influence and manipulate
-		- Rhetorical Questions, Personal Pronouns (I, you, we), diction/word choice
+		- Rhetorical Questions? Personal Pronouns (I, you, we), diction/word choice
 -
 - Modest Proposal
 	- Evidence
@@ -17,4 +17,4 @@
 		- Example
 		- Statistic
 			- p1
-			- p131
+			- p13

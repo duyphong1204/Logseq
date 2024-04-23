@@ -1,0 +1,2 @@
+- Môn [[ULISS/Sem4/General Geography Of The UK & The US]] tổng hợp cho mình một cái view khá rõ và khá có cấu trúc dù chưa đầy đủ lắm vì điểm mình khi đi thi và làm bài vẫn khó max, nhưng để thi naming random things that of each aspects thì I'm plentiful
+-
