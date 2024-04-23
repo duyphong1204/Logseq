@@ -4,7 +4,10 @@
 -
 - Aristotle's Appeals
 	- Ethos: = Establish ethics/characters -> credibility (no ulterior motive, no personal interest, have you don't a lot of research, two-sdied) + authority (first-hands exp, done a lot of research)
-	- Logos
-	- Pathos
+	- Logos: logic, evidence, example, statistics, quotations, testimonies
+	- Pathos: you try to make people feel what you feel
+		- "people act on feelings"
+			- => influence and manipulate
+		- Rhetorical Questions, Personal Pronouns (I, you, we), diction/word choice
 -
 -
