@@ -1,0 +1,152 @@
+title:: ULISS/Sem1/Nhập Môn Việt Ngữ Học
+public:: true
+meta:: [[ULISS]] 
+phục vụ việc học ghi nhớ chứ không phải xác lập lịch sử kiến thức
+[Figma](https://www.figma.com/file/b3Vd38MRD6ZZmNDHdO8Axe/Untitled?t=v9tbuXkKZq4hcdLK-0)
+
+- # Thông tin chung
+  collapsed:: true
+	- ## Thông tin chung về môn học
+		- Tên môn học: Nhập môn Việt ngữ học
+		- Mã môn học: VLF1052
+		- Số tín chỉ: 3
+		- Môn học: bắt buộc ở học kì II năm thứ nhất
+		- Giờ tín chỉ đối với các hoạt động:
+			- Nghe giảng lý thuyết: 34
+			- Thảo luận và bài tập trên lớp: 11
+		- Địa chỉ khoa /Bộ môn phụ trách môn học:
+			- P510 - 511, Nhà A1, Trường ĐHNN - ĐHQGHN.
+	- ## Mục tiêu chung và chuẩn đầu ra
+		- ### Mục tiêu chung
+			- Phân môn *Nhập môn Việt ngữ học* giúp người học nắm được hệ thống kiến thức cơ bản tiếng Việt về ngữ âm, từ vựng, ngữ pháp, ngữ dụng. Những kiến thức đó giúp người học sử dụng thành thạo tiếng mẹ đẻ và là công cụ hỗ trợ để học tập, nghiên cứu ngoại ngữ một cách hiệu quả hơn, khoa học hơn.
+		- ### Chuẩn đầu ra của môn học
+			- *Sau khi kết thúc môn học, người học có thể:*
+			- #### Kiến thức
+				- Hiểu một cách có hệ thống kiến thức cơ bản về tiếng Việt được thể hiện qua từng chủ đề : khái quát về lịch sử và loại hình, ngữ âm, từ vựng – ngữ nghĩa, ngữ pháp và ngữ dụng.
+				- Vận dụng kiến thức trong các chủ đề đã được học để áp dụng, thực hiện, phân loại… những vấn đề cơ bản của ngữ âm, từ vựng – ngữ nghĩa, ngữ pháp và ngữ dụng tiếng Việt.
+				- Phân tích những kiến thức đã được học về ngữ âm, từ vựng – ngữ nghĩa, ngữ pháp và ngữ dụng tiếng Việt để có thể so sánh, đối chiếu, phân biệt các đơn vị và các đặc điểm, mối quan hệ, hiện tượng của ngôn ngữ dễ bị nhầm lẫn trong tiếng Việt. Đó cũng chính là nền tảng kiến thức để học tập và nghiên cứu ngoại ngữ.
+			- #### Kĩ năng
+				- Kĩ năng đọc tài liệu chuyên ngành tiếng Việt nói riêng và ngôn ngữ nói chung.
+				- Thực hành thành thạo kỹ năng làm việc theo nhóm, kỹ năng quản lý và lãnh đạo nhóm. Phát triển khả năng giao tiếp và trình bày văn bản bằng các hình thức như viết (qua các bài viết), thuyết trình (thông qua trao đổi, thảo luận)
+				- Phát triển kỹ năng nghiên cứu và khám phá kiến thức, tư duy logic, có hệ thống khi tiếp cận và xử lý các vấn đề liên quan đến các chủ điểm trong môn học để phân tích, lý giải được các hiện tượng ngôn ngữ trong tiếng Việt; sử dụng tiếng Việt như ngôn ngữ nguồn để thực hiện các kĩ năng đối chiếu, so sánh với các ngôn ngữ đích, đặc biệt với ngoại ngữ đang học.
+				- Kĩ năng quản lý tốt thời gian và nguồn lực cá nhân; có thể tự đánh giá kết quả công việc và hoàn thành công việc đúng hạn
+			- #### Phẩm chất, thái độ
+				- Biết bảo vệ và trau dồi tình cảm yêu quý tiếng Việt.
+				- Có ý thức thường xuyên rèn luyện để sử dụng tiếng Việt theo chuẩn ngữ âm, ngữ pháp, ngữ nghĩa và ngữ dụng.
+				  Xác định rõ tiếng Việt là công cụ thiết yếu để học tập và nghiên cứu các môn học khác, đặc biệt là đối với trường chuyên về ngoại ngữ như ĐHNN - ĐHQGHN.
+				- Phát huy tối đa tinh thần tự học, sự nhiệt tình và khả năng sáng tạo khi thực hiện các hoạt động trên lớp cũng như ở nhà
+				- Luôn có ý thức học hỏi, sẵn sàng chia sẻ thắc mắc và thông tin cũng như sẵn sàng hợp tác với bạn học và giảng viên
+				-
+- # Nội dung
+	- ## Tóm tắt
+	  collapsed:: true
+		- *Phân môn Nhập môn Việt ngữ học gồm có các nội dung cơ bản sau:*
+		- **Phần ngữ âm** cung cấp các kiến thức về đặc điểm của âm tiết tiếng Việt, hệ thống âm vị tiếng Việt, một số vấn đề về chữ viết và chính tả tiếng Việt.
+		- **Phần từ vựng - ngữ nghĩa** cung cấp các kiến thức về đơn vị từ vựng; nghĩa của từ; hiện tượng đa nghĩa, đồng âm, đồng nghĩa và trái nghĩa; hiện tượng biến đổi trong từ vựng; các lớp từ vựng.
+		- **Phần ngữ pháp** cung cấp kiến thức về từ loại tiếng Việt, cấu tạo cụm từ tiếng Việt (cụm danh từ, cụm động từ, cụm tính từ), câu tiếng Việt (thành phần câu tiếng Việt, cấu tạo câu tiếng Việt, nghĩa miêu tả của câu).
+		- **Phần ngữ dụng** cung cấp các vấn đề về lý thuyết hoạt động giao tiếp, chiếu vật và chỉ xuất, hành động ngôn ngữ, lý thuyết hội thoại, lý thuyết lập luận.
+		- Dựa vào những kiến thức cơ bản về tiếng Việt nói trên, sinh viên ngoại ngữ có thể đối chiếu với ngoại ngữ mình đang học. Từ đó nâng cao kiến thức ngôn ngữ học nói chung và tiếng Việt nói riêng, phục vụ tốt cho công tác giảng dạy cũng như biên dịch, phiên dịch các tài liệu khoa học giáo dục và các tài liệu khoa học khác.
+	- ## Chi tiết
+		- ### Mở đầu
+			- #### [[Khái quát về lịch sử tiếng Việt]]
+				- [[Vấn đề nguồn gốc của tiếng Việt]]
+				- [[Quá trình phát triển của tiếng Việt]]
+			- #### [[Khái quát về loại hình tiếng Việt]]
+				- [[Giản yếu về các loại hình ngôn ngữ]]
+				- [[Những đặc trưng chủ yếu của tiếng Việt]]
+		- ### Phần 1: Ngữ âm tiếng Việt
+			- #### [[Khái quát về ngữ âm]]
+				- [[Ngữ âm và ngữ âm học]]
+				- [[Các phân môn của ngữ âm]]
+				- [[Đặc trưng cấu âm - âm học]]
+			- #### [[Âm tiết tiếng Việt]]
+				- [[Khái niệm âm tiết]]
+				- [[Phân loại âm tiết]]
+				- [[Đặc điểm âm tiết tiếng Việt]]
+			- #### [[Âm vị tiếng Việt]]
+				- [[Khái niệm âm vị]]
+				- [[Hệ thống âm vị tiếng Việt]]
+					- [[Âm đầu]]
+					- [[Âm đệm]]
+					- [[Âm chính]]
+					- [[Âm cuối]]
+					- [[Thanh điệu]]
+			- #### [[Chữ viết và chính tả]]
+		- ### Phần 2: Từ vựng - Ngữ nghĩa tiếng Việt
+			- #### Khái quát về từ vựng
+				- Từ vựng và từ vựng học
+				- Các phân môn của từ vựng
+			- #### Đơn vị từ vựng
+				- Từ tiếng Việt
+					- Định nghĩa từ
+					- Cấu tạo từ
+				- Ngữ cố định
+					- Khái niệm
+					- Phân loại ngữ cố định
+			- #### Nghĩa của từ
+				- Nghĩa của từ
+				- Các thành phần nghĩa trong từ
+				- Tính nhiều nghĩa của từ (từ đa nghĩa)
+					- Khái niệm
+					- Phân loại nghĩa của từ đa nghĩa
+					- Các phương thức chuyển nghĩa
+			- #### Quan hệ đồng âm, đồng nghĩa, trái nghĩa
+				- Từ đồng âm
+				- Từ đồng nghĩa
+				- Từ trái nghĩa
+			- #### Hiện tượng biến đổi trong từ vựng
+			- #### Các lớp từ vựng
+		- ### Phần 3: Ngữ pháp tiếng Việt
+			- #### Khái quát về ngữ pháp
+				- Ngữ pháp và ngữ pháp học
+				- Các phân môn của ngữ pháp học
+			- #### Từ loại
+				- Khái niệm
+				- Tiêu chí phân định từ loại
+				- Kết quả phân định từ loại
+			- #### Đoản ngữ (cụm từ tự do)
+				- Khái niệm
+				- Các loại cụm từ
+				- Cụm danh từ
+				- Cụm động từ
+				- Cụm tính từ
+			- #### Câu Tiếng Việt
+				- Khái niệm câu
+				- Các thành phần câu
+				- Các kiểu câu phân loại theo cấu tạo ngữ pháp
+				- Nghĩa của câu
+					- Nghĩa miêu tả
+					- Nghĩa tình thái
+		- ### Phần 4: Ngữ dụng học
+			- #### Khái quát về ngữ dụng học
+				- Giao tiếp và nhân tố của giao tiếp
+				- Định nghĩa về ngữ dụng học
+			- #### Chiếu vật và chỉ xuất
+				- Định nghĩa chiếu vật
+				- Các phương thức chiếu vật
+			- #### Hành động ngôn từ
+				- Khái niệm hành động ngôn ngữ
+				- Biểu thức ngữ vi, phát ngôn ngữ vi, động từ ngữ vi
+				- Điều kiện sử dụng hành động ngôn ngữ
+				- Hành động ngôn ngữ gián tiếp
+				- Phân loại hành động ngôn ngữ
+			- #### Lập luận
+				- Khái niệm lập luận
+				- Đặc tính của quan hệ lập luận
+				- Tác tử lập luận và kết tử lập luận
+				- Lẽ thường - cơ sở của lập luận
+			- #### Lý thuyết hội thoại
+				- Các vận động hội thoại
+				- Các yếu tố kèm lời và phi lời
+				- Các quy tắc hội thoại
+				- Cấu trúc hội thoại
+	- ## Học liệu
+		- **Học liệu bắt buộc (HLBB) **
+		  collapsed:: true
+			- Mai Ngọc Chừ, Vũ Đức Nghiệu, Hoàng Trọng Phiến, *Cơ sở ngôn ngữ học và tiếng Việt*, NXBĐHQGHN, 2001.
+			- Đỗ Hữu Châu, *Ngôn ngữ học đại cương, Tập 2, Ngữ dụng học*, NXBGD, 2001.
+			- Hữu Đạt, Trần Trí Dõi, Đào Thanh Lan, *Cơ sở tiếng Việt*, NXBGD, 1998.
+		- **Học liệu tham khảo (HLTK)**
+		  collapsed:: true
+			- Diệp Quang ban, *Ngữ pháp tiếng Việt*, NXBGD, 2000.
+			- Đỗ Hữu Châu, *Từ vựng ngữ nghĩa tiếng Việt*, NXB ĐHQGHN, 1999.**

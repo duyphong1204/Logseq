@@ -1,0 +1,340 @@
+## 1. Transposer les phrases suivantes du discours direct au discours indirect:
+collapsed:: true
+	- Il dit: "Il pleut" 
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Il dit qu"il pleut
+	- On annonce: "Le train va partir"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- On annonce que le train va partir
+	- Je vous préviens: "Il y a une grève à Roissy-Charles de Gaulle"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Je vous préviens qu'il y a une grève à Roissy-Charles de Gaulle
+	- Elles disent: "Nous sommes fatiguées"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Elles disent qu'elles sont fatiguées
+	- Si on t'interroge, tu répondras: "Je ne sais pas!"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Si on t'interroge, tu répondras que tu ne sais pas
+	- Je dis à Pierre: "Tu as oublié de me rapporter le journal"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Je dis à Pierre qu'il a oublié de moi rapporter le journal
+	- L'enfant crie: "Je veux faire un autre tour de manège"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- L'enfant crie qu'il veut faire un autre tour de manège
+	- Elle annonce: "Mes amis viendront dîner ce soir"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Elle annonce que ses amis viendront dîner ce soir
+	- Vous direz à Céline: "Tu as laissé tes lunettes chez ta sœur"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Vous direz à Céline qu'elle a lassé ses lunettes chez sa sœur
+	- Il me répète souvent: "Je t'emmènerai à Venise pour ton anniversaire"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Il me répète souvent qu'il m'emmènera à Venise pour mon anniversaire
+- ## 2. Transposer les phrases suivantes du discours indirect au discours direct:
+  collapsed:: true
+	- Il affirme qu'il ne connâit pas cet homme
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Il affirme: "Je ne connais pas cet homme"
+	- Le présentateur annonce que le film va commencer
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Le présentateur annonce: "Le film va commencer"
+	- Christian dit qu'il a envie d'un bon café
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Christian dit: "J'ai envie d'un bon café"
+	- Martine dit que sa voiture est en panne
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Martine dit: "Ma voiture est en panne"
+	- Le vendeur répond au client que sa commandre sera livrée lundi prochain 
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Le vendeur répond au client: "Votre commandre sera livrée lundi prochain"
+- ## 3. Transposer les phrases suivantes du discours direct au discours indirect:
+  collapsed:: true
+	- Le professeur dit aux étudiants: "L'examen aura lieu de 25 mai"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Le professeur dit aux étudiants que l'examen aura lieu de 25 mai"
+	- L'employé répond au voyageur: "Je peux vous réserver une place dans le train de 16h30"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- L'employé répond au voyageur qu'il peut lui réserver une place dans le train de 16h30"
+	- Les deux touristes expliquent à l'argent de police: "Nous nous sommes trompés de direction et nous ne savons pas comment rentrer à notre hôtel"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Les deux touristes expliquent à l'argent de police qu'ils se sont trompés de direction et que ils ne savent pas comment rentrer à leur hôtel
+	- Nathalie dit à ses parents: "Je vais à la patinoire avec mes amis etje rentrerai vers 7 heures". Et elle ajoute: "Il y aura une compétition et j'éspere bien obtenir un bon classement"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Nathalie dit à ses parents qu'elle va à la patinoire avec ses amis et qu'elle rentrera vers 7 heures. Et elle ajoute qu'il y aura une compétition et qu'elle espère bien obtenir un bon classement
+	- L'enfant dit à son père: "J'aimerais bien avoir une bicyclette neuve"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- L'enfant dit à son père qu'il aimerait bien avoir une bicyclette neuve
+	- Le directeur du théâtre annonce: "L'acteur qui devait jouer le rôle de Ruy Blas est malade et il sera rememplacé par M.X"
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Le directeur du théâtre annonce que l'acteur qui devait jouer le rôle de Ruy Blas est malade et qu'il sera rememplacé par M.X
+- ## 4. Même exercice:
+  collapsed:: true
+	- Les journaux ont annoncé: "Le président de la République va se rendre prochainement en Italie"
+	  logseq.order-list-type:: number
+		- Les journaux ont annoncé que le président de la République allais se rendre prochainement en Italie"*
+	- L'enfant répétait: "Je ne veux pas aller à l'école"
+	  logseq.order-list-type:: number
+		- L'enfant répétait qu'il ne voulait pas aller à l'école
+		  id:: 64dea20a-e7a7-4301-a981-18941268e208
+	- Je me suis trompé de numéro. Une voix enregistrée disait: "Il n'y a pas d'abonné au numéro que vous demendez"
+	  logseq.order-list-type:: number
+		- Je me suis trompé de numéro. Une voix enregistrée disait: "Il n'y a pas d'abonné au numéro que vous demendez
+	- Les Dumas nous ont répondu: "Nous vous remercions de votre invitation et nous acceptons avec plaisir de venir dîner samedi soir"
+	  logseq.order-list-type:: number
+		- Les Dumas nous ont répondu qu'ils nous remercaient de notre invitation et qu'ils acceptaient avec plaisir de venir dîner samedi soir
+	- Le professeur a dit aux élèves: "Il faut que vous sachiez ce poème par cœur"
+	  logseq.order-list-type:: number
+		- Le professeur a dit aux élèves qu'il fallais que leur sachiez ce poème par cœur
+	- Les enfants ont dit à leur mère: "Nous avons trouvé un petit chien abandonné dans la rue et nous voudrions le garder"
+	  logseq.order-list-type:: number
+		- Les enfants ont dit à leur mère qu'ils Nous avais trouvé un petit chien abandonné dans la rue et qu"ils voudriez le garder
+	- Mon frère m'a dit au téléphone: "Je viendrai te chercher à l'aéroport"
+	  logseq.order-list-type:: number
+		- Mon frère m'a dit au téléphone qu'il viendrait me chercher à l'aéroport
+	- Le pianiste annonça au public: "Je vais jouer en bis nocturne de Chopin"
+	  logseq.order-list-type:: number
+		- Le pianiste annonça au public qu'il allais jouer en bis nocturne de Chopin
+	- Amélie m'a écrit: "Je viens de changer de travail et je suis très contente de mon nouveau poste parce que je ferai de nombreux déplacements à l'étranger"
+	  logseq.order-list-type:: number
+		- Amélie m'a écrit qu'elle venais de changer de travail et qu'elle a été très contente de son nouveau poste parce que elle ferais de nombreux déplacements à l'étranger
+	- L'expert déclara: "Ce tableau est un faux"
+	  logseq.order-list-type:: number
+		- L'expert déclara que ce tableau a été un faux
+- ## 5. Même exercice:
+  collapsed:: true
+	- **A/** Mercredi dernier, notre fils Olivier nous a téléponé d'Algérie: "Je suis bien arrivé". Cette semaine, nous avons reçu une lettre de lui nous disant: "Je me suis installé aujourd'hui dans la maison que François et moi allons habiter pendant la durée de notre stage à la reffinerie". Il écrivait également: "Hier, le directeur nous a fait visiter l'usine et nous a présentés à quelques cadres de l'entreprise". Enfin il aujoutait: "Nous irons à la plage demain et nous commencerons notre travail lundi prochain".
+		- Mercredi précédente, notre fils Olivier nous a téléphoné d'Algérie qu'il était bien arrivé. Cette semaine, nous avons reçu une lettre de lui nous disant qu'il s'était installé ce jour-là dans la maison que François et il allaient habiter pendant la durée de leur stage à la reffinerie. Il écrivait également que avant-hier, le directeur leur avais fait visiter l'usine et ils avais présentés à quelaues cadres de l'entreprise. Enfin il aujoutait qu'ils iraient à la plage lendemain et ils commenceraient leur travail lundi suivant.
+	- **B/** Charlotte qui suit un cours d'anglais à Oxford a téléphoné la semaine dernière à sa mère. Elle lui a dit: "J'ai trois heures de cours par jour le matin et l'àpres-midi, je suis libre pour travailler ou faire du sport". Elle lui a reconté également: "Le week-end dernier, je suis allé à Londres avec des camarades de classe. Nous y retournerons le week-end prochain".
+		- Charlotte qui suit un cours d'anglais à Oxford a téléphoné la semaine dernière à sa mère. Elle lui a dit qu'elle avait trois heures de cours par jour le matin et l'àpres-midi, elle était libre pour travailler ou faire du sport. Elle lui a reconté également que le week-end dernier, elle était allé à Londres avec des camarades de classe et qu'elles y retourneraient le week-end suivant.
+- ## 6. Même exercice:
+	- Example:
+		- Elle dit aux élèves: "Sortez!"
+		- => Elle dit aux élèves de sortir
+	- Le profeseur conseille aux étudiants: "Écrivez la correction de l'exercice sur vos cahiers"
+	  logseq.order-list-type:: number
+		- Le profeseur conseille aux étudiants d'écriver la correction de l'exercice sur ses cahiers
+	- Le gardien du parc a dit aux enfants: "ne jouez pas au ballon sur la pelouse"
+	  logseq.order-list-type:: number
+		- Le gardien du parc a dit aux enfants de ne pas jouer au ballon sur la pelouse
+	- Mon amis m'a dit: "Assieds-toi à côté de moi"
+	  logseq.order-list-type:: number
+		- Mon amis m'a dit d'asseoir-moi à côté de il
+	- La bibliothécaire a démandé à l'étudiant: "N'oubliez pas de rapporter ces livres mercredi prochain"
+	  logseq.order-list-type:: number
+		- La bibliothécaire a démandé à l'étudiant de ne pas oublier de rapporter ces livres mercredi prochain
+	- La mère demande à son petit garçon: "Va chercher du pain et prends le courrier chez la concierge en retrant"
+	  logseq.order-list-type:: number
+		- La mère demande à son petit garçon d'aller chercher du pain et de prendre le courrier chez la concierge en retrant
+	- L'argent de police a ordonné à l'auto-mobiliste: "Ne garez pas votre voiture ici!"
+	  logseq.order-list-type:: number
+		- L'argent de police a ordonné à l'auto-mobiliste de ne pas garer son voiture ici
+	- Mon père m'a bien recommendé: "Ne conduis pas trop vite et téléphone-moi dès ton arrivée!"
+	  logseq.order-list-type:: number
+		- Mon père m'a bien recommendé de ne pas conduire trop vite et de téléphoner-il dès mon arrivée
+- ## 7. Transposer les phrases suivantes du discours indirect au discours direct:
+	- Agnès affirme qu'elle n'a jamais le mal de mer en bateau
+	  logseq.order-list-type:: number
+		- Agnès affirme: "Je n'ai jamais le mal de mer en bateau"
+	- J'ai promis aux enfants que je les emmènerais au zoo
+	  logseq.order-list-type:: number
+		- J'ai promis aux enfants: "Je les emmènerai au zoo"
+	- La météo a annoncé qu'il y aurait des orages en fin de journée
+	  logseq.order-list-type:: number
+		- La météo a annoncé: "Il y a des orages en fin de journée"
+	- A la préfecture de police, on lui a dit de revenir le lundi suivant 
+	  logseq.order-list-type:: number
+		- A la préfecture de police, on lui a dit: "revenez le lundi suivant"
+	- Marie-Noelle m'a dit que sa mère était malade et qu'elle devait s'occuper de ses frères et sœur plus jeunes
+	  logseq.order-list-type:: number
+		- Marie-Noelle m'a dit: "Ma mère est malade et je dois m'occuper de mes frères et sœur plus jeunes"
+	- L'homme politique déclara qu'il se présenterait aux élections législatives
+	  logseq.order-list-type:: number
+		- L'homme politique déclara: "'Je me présenterait aux élections législatives"
+	- L'infirmière a demandé aux visiteurs de ne pas faire de bruit
+	  logseq.order-list-type:: number
+		- L'infirmière a demandé aux visiteurs: "Ne faites pas de bruit"
+	- David m'a dit qu'il avait justement vu ce film la veille
+	  logseq.order-list-type:: number
+		- David m'a dit: "J'ai justement vu ce film hier"
+	- Les tourtistes ont dit qu'ils voulaient absolument visiter les Catacombes
+	  logseq.order-list-type:: number
+		- Les tourtistes ont dit: "Nous voulons absolument visiter les Catacombes"
+	- La vendeuse m'a répondu que la collection d'hiver allait arriver la semaine suivante
+	  logseq.order-list-type:: number
+		- La vendeuse m'a répondu: "La collection d'hiver va arriver la semaine prochain"
+- ## 8. Transposer les phrases suivantes du discours direct au discours indirect:
+	- A/
+		- Je le demande: "Où ai-je mis mon porte-monaie?"
+		  logseq.order-list-type:: number
+		- "Combien de temps ces étudiants ont-ils étudié le français?" voulait savoir le professeur
+		  logseq.order-list-type:: number
+		- L'étudiant a demandé: "Pourquoi y a-t-il un accent circonflexe sur les mots "tête" et "hôpital"?"
+		  logseq.order-list-type:: number
+		- Le douanier demande à chaque automobiliste: " Avez-vous quelque chose à déclarer?"
+		  logseq.order-list-type:: number
+		- "Reviendras-tu nous voir à Fontainebleau?" m'ont demandé mes amis
+		  logseq.order-list-type:: number
+		- "N'y a-t-il vrament pas d'autre solution?" demanda-t-il anxieusement 
+		  logseq.order-list-type:: number
+		- Est-ce que tu pourras me prêter ce roman quand tu l'auras fini?" a demandé Monique à sa sœur 
+		  logseq.order-list-type:: number
+		- "Comment vont vos parents?" m'a demandé ma belle-mère
+		  logseq.order-list-type:: number
+	- B/
+		- Je veux savoir: "Qui est-ce qui a téléphoné tout à l'heure?"
+		  logseq.order-list-type:: number
+		- "Qui est-ce qui veut faire une partie de poker avec moi?" demandait le jeune homme 
+		  logseq.order-list-type:: number
+		- Il nous a demandé: "Qui préférez vous? Balzac ou Zola?"
+		  logseq.order-list-type:: number
+		- "Avec qui sors-tu?" demanda la père à sa fille
+		  logseq.order-list-type:: number
+		- Tous les gens demandent: "Quest-ce qui a causé l'accident?"
+		  logseq.order-list-type:: number
+		- Quest-ce qui est écrit sur le paneau?" cherchait à lire le visiteur
+		  logseq.order-list-type:: number
+		- Dis-moi: "Quest-ce que tu veux faire quand tu seras grand?"
+		  logseq.order-list-type:: number
+		- "Qu'est-ce que vous prendrez comme entrée?" demanda le serveur à la dame
+		  logseq.order-list-type:: number
+		- En voyant un paquet sur la table l'enfant a demandé: "Qu'est-ce que c'est?"
+		  logseq.order-list-type:: number
+		- "A quoi sert ce bouton roughe?" voulait-il savoir
+		  logseq.order-list-type:: number
+	- C/
+		- L'homme demanda au passant "Quelle heure est-il?"
+		  logseq.order-list-type:: number
+		- Quel vin nous conseillez-vous avec ce poisson?" demandèrent-ils au maître d'hôtel
+		  logseq.order-list-type:: number
+		- "Laquelle de ces deux voitures consomme le moins d'essence?" a demandé me client au garagiste
+		  logseq.order-list-type:: number
+		- "Pour lequel de ces candidats vas-tu voter?" m'a demandé mon ami
+		  logseq.order-list-type:: number
+- ## 9. Compléter les phrases suivantes par un mot interrogatif:
+	- Pouvez-vous m'expliquer ... on va à la gare de Lyon?
+	  logseq.order-list-type:: number
+	- Dites-nous ... cette information est bien exacte!
+	  logseq.order-list-type:: number
+	- Traduis-mois ... est écrit sur ce prospectus! 
+	  logseq.order-list-type:: number
+	- Dites-moi, s'il vous plaît, ... se trouve la station de métro la plus proche!
+	  logseq.order-list-type:: number
+	- J'aimerais savoir ... vous avez des chaussures de sport
+	  logseq.order-list-type:: number
+	- Je voudrais savoir ... tu n'as pas répondu à ma lettre
+	  logseq.order-list-type:: number
+	- Je ne comprends pas ... peut faire ce bruit
+	  logseq.order-list-type:: number
+	- Grand-mère, raconte-nous ... vivaient les gens quand tu étais petite!
+	  logseq.order-list-type:: number
+	- Expliquez-nous ... il faut faire pour obtenir une carte de travail
+	  logseq.order-list-type:: number
+	- Personne ne savait ... il reviendrait 
+	  logseq.order-list-type:: number
+	- Pouvez-vous me dire ... a peint Les Nymphéas?
+	  logseq.order-list-type:: number
+	- Excusez-moi, je n'ai pas compris ... vous venez de dire!
+	  logseq.order-list-type:: number
+- ## 10. Transposer les phrases suivantes du discours indirect au discours direct en imitant l'example donné:
+	- La jeune fille a demandé si la poste était ouverte juqu'à 7 heures
+		- => "La poste est-elle ouverte jusqu'à 7 heurses?" a demandé la jeune fille
+	- Le vieil homme demande aux enfants qui a lancé cette pierre 
+	  logseq.order-list-type:: number
+	- Phillipe se demande ce qu'il offrira à sa femme pour Noel 
+	  logseq.order-list-type:: number
+	- L'hôtesse de l'aur demandait aux passagers s'ils voulaient des boissons fraîches
+	  logseq.order-list-type:: number
+	- Le vigneron se demadait si le mauvais temps ne retarderait pas les vendages 
+	  logseq.order-list-type:: number
+	- La police cherchait à savoir ce qui s'était passé avant le crime 
+	  logseq.order-list-type:: number
+	- Le voyageur a demandé au contrôleur à quel quai s'arrêterait le train en provenance de Lille 
+	  logseq.order-list-type:: number
+	- En raison des vagues énormes, on se demandait s'il fallait continuer on rentrer au port
+	  logseq.order-list-type:: number
+	- Le guide demande aux touristers s'ils aimeraient visiter une cave de champagne 
+	  logseq.order-list-type:: number
+	- Catherine a demandé à sa fille pour quoi elle pleurait
+	  logseq.order-list-type:: number
+	- Mes parents m'ont demandé comment mes vacances s'étaient passées
+	  logseq.order-list-type:: number
+- ## 11. Mettre le verbe entre parenthèses au passé compos, puis au passé simple
+	- *Exemple:*
+		- "Est-ce que tu sais jouer au Monopoly?"Marc! il (demander)
+			- => "Est-ce que tu sais jouer au Monopoly?" a demandé Marc
+			- "Est-ce que tu sais jouer au Monopoly?" a-t-il demandé
+			- => "Est-ce que tu sais jouer au Monopoly?" demanda Marc
+			- "Est-ce que tu sais jouer au Monopoly?" demanda-t-il
+		- "Vous n'avez pas le droit d'entrer ici", elle (dire)
+		  logseq.order-list-type:: number
+		- "Pouvez-vous répéter votre question plus lentement?", l'étranger (démander)
+		  logseq.order-list-type:: number
+		- "Si, c'est du cuir véritable!", le vendeur (répondre)
+		  logseq.order-list-type:: number
+		- "J'ai peur!" elle (s'écrier)
+		  logseq.order-list-type:: number
+		- "Est-ce que tu peux me donner de l'argent pour acheter une glace?" 
+		  logseq.order-list-type:: number
+		- "Je ne suis pas venue hier parce que mon fils était malade", elle (expliquer) à son patron
+		  logseq.order-list-type:: number
+		- "Où se trouve l'office du Tourisme?" il (interroger)
+		  logseq.order-list-type:: number
+- ## 12. Texte à transposer au discours indirect:
+	- Une jeune fille entra dans la libraire. Un vendeur s'approcha d'elle et lui demanda:
+	- "Que cherchez-vous, mademoiselle?
+	- J'ai besoin d'un guide touristique sur Paris", répondit la jeune fille
+	- Le libraire lui présenta un livre tout récent en expliquant:
+	- "Ce guide est très clair et les photos sont magnifiques"
+	- La jeune fille le feuilleta et le rendit au vendeur en s'exclamant:
+	- "Vous avez raison, mais c'est trop cher pour moi!"
+- ## 13. Texte à transposer au discours direct:
+	- Tante Lucie m'a dit l'autre jour que son mari et elle voudraient m'offrir un cadeau pour mon mariage et elle m'a demandé ce que je désirais. J'ai répondu que Nicolas et moi, nous allions déposer une liste de mariage dans un grand magasin, mais qu'elle pouvait aussi nous faire un cadeau plus personnel
+- ## 14. Texte à transposer au discours indirect:
+	- Un peintre célèbre, retiré dans un village de Provence, reçut un jour la visite d'une journaliste. Celle-ci lui demanda tout d'abord:
+	- "Pourquoi avez-vous quitté Paris? Qu'est-ce qui vous a attiré dans cette région?"
+	- Le peintre répondit:
+	- "Paris, bien sûr permet des rencontres lorqu'on cherche à se faire connaître, mais à mon âge, on aime surtout la tranquillité propice au travail. Ce qui m'a plu dans ce pays, ajouta-t-il, ce sont les couleurs et la qualité de la lumière
+	- Serait-il possible que je visite votre atelier? demanda ensuite la journaliste
+	- Je vous le ferai visiter bien volontiers, réplique le peintre, parce que je suis toujours heureux que l'on s'intéresse à mes œuvres"
+- ## 15. Transposer les phrases suivantes du discours direct au discours indirect:
+	- Example:
+	- "Pourquoi as-tu refusé ce travail? Je ne le comprends pas"
+	  logseq.order-list-type:: number
+		- => Je ne comprends pas pourquoi tu as refusé ce travail"
+	- "Y aura-t-il un test lundi prochain? Le professeur ne nous l'a pas dit"
+	  logseq.order-list-type:: number
+	- "Peut-on changer de l'argent dans cette banque? Le savez-vous"
+	  logseq.order-list-type:: number
+	- "Il n'y a pas de liaison directe entre Nantes et Marseille. La Compagnie Air Inter me l'a confirmé"
+	  logseq.order-list-type:: number
+	- "Qu'est-ce que nous devons préparer pour le prochain cours d'anglais? Je l'ai complètement oublié"
+	  logseq.order-list-type:: number
+	- "Le musée Marmottant n'est pas un musée national et il est ouvert le mardi. Le saviez-vous?"
+	  logseq.order-list-type:: number
+	- "Où auront lieu les prochains Jeux Olympiques? Le sais-tu?"
+	  logseq.order-list-type:: number
+	- "On a découvert des vestiges du Moyen Age sous la Cour Carrée du Louvre. Je l'ignorais"
+	  logseq.order-list-type:: number
+	- "L'homme pourra-t-il vivre un jour dans l'espace? On l'ignore encore"
+	  logseq.order-list-type:: number
