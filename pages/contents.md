@@ -4,7 +4,7 @@
 		- UniKit
 		- DaVinci
 		- Business
-			- xem Business video youtube
+			- xem Business video youtube và dùng nó cho mô hình chị Aki
 		- La Van VPN
 		- InterPot
 	- Education Manisfesto
@@ -35,7 +35,7 @@
 		- EdX
 	- School
 		- ICC
-		- Silk Road
+		- DONE Silk Road
 		- Research
 	- Google Play Nige or Turkey
 		- 120k nằm trong turkey card, cảm giác trước đây mình cũng có gì đó không xong, treo tiền, treo lợi ích ở đâu đó?
@@ -45,4 +45,7 @@
 - Project
 	- Quả Cầu
 	- Aki's
-- Crack Adobe Pdf bản mới nhất? hoặc mua? nhìn khá đẹp qua máy thầy
+- DONE Crack Adobe Pdf bản mới nhất? hoặc mua? nhìn khá đẹp qua máy thầy: monkus russian
+  :LOGBOOK:
+  CLOCK: [2024-04-24 Wed 09:05:54]--[2024-04-24 Wed 09:05:55] =>  00:00:01
+  :END:
