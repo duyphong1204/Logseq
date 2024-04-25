@@ -21,12 +21,32 @@
 		- viết tiếng Pháp
 		- đọc và viết Lịch sử Đảng
 		- ôn tập CNXHKH
+	- Archive
+		- XBK
+		- cva.org
+		- Zalo files được down về điện thoại nhưng không tìm được nổi, text thì extract kiểu gì? nếu sau này có ai xóa cả group? Mình chủ động kick người ta trước à
+	- LATER Courses (4/2024)
+	  :LOGBOOK:
+	  CLOCK: [2024-04-25 Thu 11:22:35]--[2024-04-25 Thu 11:22:36] =>  00:00:01
+	  CLOCK: [2024-04-25 Thu 11:22:42]--[2024-04-25 Thu 11:22:42] =>  00:00:00
+	  CLOCK: [2024-04-25 Thu 11:22:43]--[2024-04-25 Thu 11:22:43] =>  00:00:00
+	  CLOCK: [2024-04-25 Thu 11:22:49]--[2024-04-25 Thu 11:23:01] =>  00:00:12
+	  CLOCK: [2024-04-25 Thu 11:23:06]--[2024-04-25 Thu 11:23:07] =>  00:00:01
+	  CLOCK: [2024-04-25 Thu 11:23:07]--[2024-04-25 Thu 11:23:08] =>  00:00:01
+	  CLOCK: [2024-04-25 Thu 11:23:08]--[2024-04-25 Thu 11:23:09] =>  00:00:01
+	  CLOCK: [2024-04-25 Thu 11:23:17]--[2024-04-25 Thu 11:23:17] =>  00:00:00
+	  CLOCK: [2024-04-25 Thu 11:23:23]--[2024-04-25 Thu 11:23:23] =>  00:00:00
+	  CLOCK: [2024-04-25 Thu 11:23:23]--[2024-04-25 Thu 11:23:24] =>  00:00:01
+	  CLOCK: [2024-04-25 Thu 11:23:24]--[2024-04-25 Thu 11:23:24] =>  00:00:00
+	  :END:
+		- Coursera
+		- EdX
 	- Viết
 		- lịch sử bản thân
 		  collapsed:: true
 			- nhìn lại todo hơn 1 năm trước xem mình có gì, cái gì vẫn giữ, như tiktok của Dung về lý hóa văn sau 2 năm, mình rất anti, vì nó thể hiện quan điểm của Dung nhiều hơn là thực tại, ai biết thực tại thực sự ra sao nhưng là agree to disagree, mình vẫn tìm cách, và mình biết cách, vì mình tham lam, ích kỉ, vì mình muốn tiếp tục những dang dở của cấp 3 và tiếp tục, vì mình cay,... chỉ là mình không biết mọi người đang có cách gì để đi đâu mà còn gặp, giờ cứ định đuổi theo hoặc bắt gặp họ ở trong cuộc sống mà đề xuất ý tưởng thì không ổn lắm. Và mình vẫn cố như cấp 3: tìm các cơ hội, nối dài những con đường, để hai ta cứ có thêm nhiều khoảng thời gian với nhau đi đã. Tạo kỉ niệm sau, chứ không có thời gian sẽ không bao giờ có nổi kỉ niệm
 		- bài tiếng Pháp về một buổi học để gửi cô Loan
-	- học
+	- Study
 		- điện ảnh
 		- biên kịch
 		- nhiếp ảnh
