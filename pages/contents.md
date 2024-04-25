@@ -22,6 +22,7 @@
 		- đọc và viết Lịch sử Đảng
 		- ôn tập CNXHKH
 	- Archive
+		- Discord HCH 3, WOTN 5, BP
 		- XBK
 		- cva.org
 		- Zalo files được down về điện thoại nhưng không tìm được nổi, text thì extract kiểu gì? nếu sau này có ai xóa cả group? Mình chủ động kick người ta trước à
