@@ -3,7 +3,6 @@
 		- Block download file? from Packaging Project to Github
 		- Facebook data transcode script
 		- Change lower, upper case plugin to lower to normal first before doing anything elses
-		- Dictionary French
 	- tháng 4/2024
 		- đọc College Writing
 		- làm GenGeo
