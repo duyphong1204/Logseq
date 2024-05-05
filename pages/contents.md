@@ -1,12 +1,4 @@
-- Todo:
-	- Packaging Project
-		- Business
-			- xem Business video youtube và dùng nó cho mô hình chị Aki
-		- La Van VPN
-		- InterPot
-	- Education Manisfesto
-		- reply Khởi
-		- summarize những ý đó vào map (làm map trước đã)
+-
 	- Github
 		- Block download file? from Packaging Project to Github
 		- Facebook data transcode script
