@@ -1,8 +1,5 @@
 - Todo:
 	- Packaging Project
-		- Cinebox
-		- UniKit
-		- DaVinci
 		- Business
 			- xem Business video youtube và dùng nó cho mô hình chị Aki
 		- La Van VPN
