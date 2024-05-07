@@ -1,0 +1,1 @@
+- Đường hướng và những vấn đề cơ bản của cách mạng Việt Nam trong hai văn kiện Hội nghị thành lập Đảng Cộng sản Việt Nam: "Chánh cương vắn tắt của Đảng" và "Sách lược vắn tắt của Đảng"
