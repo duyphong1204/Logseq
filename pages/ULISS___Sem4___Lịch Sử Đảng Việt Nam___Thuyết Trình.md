@@ -53,4 +53,10 @@
 -
 - Mở đầu
 - Bàn luận
+	- Từ ngày 6-1 đến ngày 7-2-1930, Hội nghị hợp nhất các tổ chức cộng sản của Việt Nam thành một đảng cộng sản duy nhất mang tên Đảng Cộng sản Việt Nam (trong bài này, gọi tắt là Hội nghị) đã được tổ chức tại Hương Cảng (Hồng Kông), Trung Quốc. “Với tư cách là phái viên của Quốc tế Cộng sản có đầy đủ quyền quyết định mọi vấn đề liên quan đến phong trào cách mạng ở Đông Dương”(1), Nguyễn Ái Quốc đứng ra triệu tập và chủ trì Hội nghị. Dự Hội nghị có “đại biểu của Quốc tế Cộng sản”(2) là Nguyễn Ái Quốc; 2 đại biểu của Đông Dương Cộng sản Đảng là Trịnh Đình Cửu, Nguyễn Đức Cảnh; 2 đại biểu của An Nam Cộng sản Đảng là Châu Văn Liêm, Nguyễn Thiệu; 2 người giúp việc (không phải là đại biểu Hội nghị) là Lê Hồng Sơn, Hồ Tùng Mậu.
+	- Hội nghị đã thông qua 7 văn bản, văn kiện do Nguyễn Ái Quốc soạn thảo: 1) Năm điểm lớn, 2) Chánh cương vắn tắt của Đảng, 3) Sách lược vắn tắt của Đảng, 4) Chương trình tóm tắt của Đảng, 5) Điều lệ vắn tắt của Đảng, 6) Báo cáo tóm tắt Hội nghị, 7) Lời kêu gọi; trong đó Chánh cương vắn tắt của Đảng, Sách lược vắn tắt của Đảng hợp thành nội dung Cương lĩnh chính trị của Đảng (từ đây gọi tắt là Cương lĩnh).
 - Kết luận
+- ---
+- Reference
+	- [Các tác phẩm “Chánh cương vắn tắt của Đảng”, “Sách lược vắn tắt của Đảng”, “Chương trình tóm tắt của Đảng” và “Điều lệ vắn tắt của Đảng Cộng sản Việt Nam” của Nguyễn Ái Quốc (Hồ Chí Minh) | Tư liệu - Văn kiện](https://tulieuvankien.dangcongsan.vn/print/2493/cac-tac-pham-chanh-cuong-vantat-cua-dang-sach-luoc-van-tat-cau-dang-chuong-trinh-tom-tat-cua-dang-va-dieule-van-tat-cua-dang-cong-san-viet-nam-cua-nguyen-ai-quoc-ho-chi-minh)
+	- [Cương lĩnh chính trị đầu tiên của Đảng và khát vọng độc lập, tự do, hạnh phúc](http://lyluanchinhtri.vn/home/index.php/anh-chinh/item/4689-cuong-linh-chinh-tri-dau-tien-cua-dang-va-khat-vong-doc-lap-tu-do-hanh-phuc.html)
