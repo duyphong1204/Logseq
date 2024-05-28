@@ -31,10 +31,10 @@
 {:block/uuid #uuid "65f166a7-0257-4ed5-aca0-60bcc5510678"
 :block/properties 
 {}
-:block/updated-at 1712760145450
+:block/updated-at 1716931467861
 :block/left 
 {:block/uuid #uuid "65f165f9-e610-4143-9b1a-f65c8b9ec6c9"}
-:block/created-at 1712760145450
+:block/created-at 1716931467861
 :block/format :markdown
 :block/content "|   | [Bilabial](Bilabial/IPA) | [Labiodental](Labiodental/IPA) | [Dental](Dental/IPA) | [Alveolar](Alveolar/IPA) | [Postalveolar](Postalveolar/IPA) | [Palatal](Palatal/IPA) | [Velar](Velar/IPA) | [Glotal](Glotal/IPA) |\r\n| [(Oral) Stop]((Oral) Stop/IPA) | [p](https://www.cambridge.org/features/IPAchart/symbols/p.html)   [b](https://www.cambridge.org/features/IPAchart/symbols/b.html) | | | [t](https://www.cambridge.org/features/IPAchart/symbols/t.html)    [d](https://www.cambridge.org/features/IPAchart/symbols/d.html) | | | [k](https://www.cambridge.org/features/IPAchart/symbols/k.html)   [g](https://www.cambridge.org/features/IPAchart/symbols/g.html) | [ʔ](https://www.cambridge.org/features/IPAchart/symbols/0294.html) |\r\n| [(Nasal) Stop]((Nasal) Stop/IPA) |      [m](https://www.cambridge.org/features/IPAchart/symbols/m.html) | | |      [n](https://www.cambridge.org/features/IPAchart/symbols/n.html) | | |      [ŋ](https://www.cambridge.org/features/IPAchart/symbols/014B.html) | |\r\n| [Tap or Flap]([[Tap or Flap/IPA]]) | | | |       [ɾ](https://www.cambridge.org/features/IPAchart/symbols/027E.html) | | | | |\r\n| [Affricate](Affricate/IPA) | | | | | [tʃ](https://www.cambridge.org/features/IPAchart/symbols/02A7.html)     [dʒ](https://www.cambridge.org/features/IPAchart/symbols/02A4.html) | | | |\r\n| [Fricative](Fricative/IPA) | | [f](https://www.cambridge.org/features/IPAchart/symbols/f.html)     [v](https://www.cambridge.org/features/IPAchart/symbols/v.html) | [θ](https://www.cambridge.org/features/IPAchart/symbols/03B8.html)     [ð](https://www.cambridge.org/features/IPAchart/symbols/00F0.html) | [s](https://www.cambridge.org/features/IPAchart/symbols/s.html)    [z](https://www.cambridge.org/features/IPAchart/symbols/z.html) | [ʃ](https://www.cambridge.org/features/IPAchart/symbols/0283.html)      [ʒ](https://www.cambridge.org/features/IPAchart/symbols/0292.html) |   |   |  [h](https://www.cambridge.org/features/IPAchart/symbols/h.html) |\r\n| [Approximant](Approximant/IPA) | [w](https://www.cambridge.org/features/IPAchart/symbols/w.html) |   |   |       [ɹ](https://www.cambridge.org/features/IPAchart/symbols/0279.html) |   | [j](https://www.cambridge.org/features/IPAchart/symbols/j.html) |      [w](https://www.cambridge.org/features/IPAchart/symbols/w.html) | |\r\n| [Lateral approximant](Lateral approximant/IPA) | | | |       [l](https://www.cambridge.org/features/IPAchart/symbols/l.html) | | | | |"
 :block/parent 
@@ -1375,7 +1375,7 @@
 :block/journal? false
 :block/namespace 
 {:db/id 28570}
-:block/updated-at 1712760145450
+:block/updated-at 1716931467861
 :block/created-at 1706500164836
 :block/type "whiteboard"
 :block/name "linguistic/english linguistic map"

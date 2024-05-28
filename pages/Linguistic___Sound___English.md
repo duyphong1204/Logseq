@@ -38,7 +38,6 @@
 		- many American English speakers lack [ɔ], because it has merged with [a]
 		- symbol
 		  id:: 660a3a2c-e526-46e0-bf6f-4f4368647063
-		  collapsed:: true
 			- i = iː = ē
 			- u = uː = o͞o
 			- ʊ = o͝o
